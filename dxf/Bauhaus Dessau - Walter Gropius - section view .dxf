@@ -1,0 +1,20178 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    13
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+0.0
+ 20
+-2112.225732464452
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+70454.99999999998
+ 20
+18430.0
+ 30
+0.0
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+ceco.net 389 Bauhaus
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+10.0
+  9
+$CHAMFERB
+ 40
+10.0
+  9
+$CHAMFERC
+ 40
+20.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2457858.695660799
+  9
+$TDUCREATE
+ 40
+2457858.820660799
+  9
+$TDUPDATE
+ 40
+2457881.830774595
+  9
+$TDUUPDATE
+ 40
+2457881.955774595
+  9
+$TDINDWG
+ 40
+0.0036161343
+  9
+$TDUSRTIMER
+ 40
+0.0036161227
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+528
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PEXTMAX
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{FDEAD578-A652-11D2-9A35-0060089B3A3F}
+  9
+$VERSIONGUID
+  2
+{BDD3EEA6-24A6-4F2A-97D2-7D6A0EED2629}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+VPORT
+  5
+527
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+35227.5
+ 22
+8158.887133767775
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+32313.76929246548
+ 41
+2.187425860023724
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+76
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net 389 Bauhaus
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+78
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+79
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+77
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+51
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+56
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+52
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+53
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+57
+330
+55
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+58
+330
+55
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+2D2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2730.0
+ 20
+12040.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+12040.0
+ 31
+0.0
+  0
+LINE
+  5
+2D3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2660.206999999994
+ 20
+12039.23199999999
+ 30
+0.0
+ 11
+3800.0
+ 21
+12040.0
+ 31
+0.0
+  0
+LINE
+  5
+2D4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2730.0
+ 20
+11630.0
+ 30
+0.0
+ 11
+2445.0
+ 21
+11630.0
+ 31
+0.0
+  0
+LINE
+  5
+2D5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2445.858999999982
+ 20
+11832.40499999999
+ 30
+0.0
+ 11
+2445.0
+ 21
+11630.0
+ 31
+0.0
+  0
+LINE
+  5
+2D6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2730.0
+ 20
+9175.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+9175.0
+ 31
+0.0
+  0
+LINE
+  5
+2D7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2660.206999999994
+ 20
+9174.232000000001
+ 30
+0.0
+ 11
+3800.0
+ 21
+9175.0
+ 31
+0.0
+  0
+LINE
+  5
+2D8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2730.0
+ 20
+8765.0
+ 30
+0.0
+ 11
+2445.0
+ 21
+8765.0
+ 31
+0.0
+  0
+LINE
+  5
+2D9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2445.858999999982
+ 20
+8967.404999999999
+ 30
+0.0
+ 11
+2445.0
+ 21
+8765.0
+ 31
+0.0
+  0
+LINE
+  5
+2DA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2730.0
+ 20
+6315.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+6315.0
+ 31
+0.0
+  0
+LINE
+  5
+2DB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2660.206999999994
+ 20
+6314.232
+ 30
+0.0
+ 11
+3800.0
+ 21
+6315.0
+ 31
+0.0
+  0
+LINE
+  5
+2DC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2730.0
+ 20
+5905.0
+ 30
+0.0
+ 11
+2445.0
+ 21
+5905.0
+ 31
+0.0
+  0
+LINE
+  5
+2DD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2445.858999999982
+ 20
+6107.404999999999
+ 30
+0.0
+ 11
+2445.0
+ 21
+5905.0
+ 31
+0.0
+  0
+LINE
+  5
+2DE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8520.0
+ 20
+-520.0
+ 30
+0.0
+ 11
+8020.0
+ 21
+-520.0
+ 31
+0.0
+  0
+LINE
+  5
+2DF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+7030.0
+ 30
+0.0
+ 11
+26557.5
+ 21
+7030.0
+ 31
+0.0
+  0
+LINE
+  5
+2E0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+24758.833
+ 20
+1295.0
+ 30
+0.0
+ 11
+26328.96099999999
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+2E1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+27036.04199999998
+ 20
+1295.0
+ 30
+0.0
+ 11
+28606.16999999999
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+2E2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+29313.251
+ 20
+1295.0
+ 30
+0.0
+ 11
+30883.379
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+2E3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+31590.46
+ 20
+1295.0
+ 30
+0.0
+ 11
+33160.588
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+2E4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33867.669
+ 20
+1295.0
+ 30
+0.0
+ 11
+35437.797
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+2E5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+15770.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+15770.0
+ 31
+0.0
+  0
+LINE
+  5
+2E6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+15480.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+15480.0
+ 31
+0.0
+  0
+LINE
+  5
+2E7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+15190.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+15190.0
+ 31
+0.0
+  0
+LINE
+  5
+2E8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2730.0
+ 20
+14900.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+14900.0
+ 31
+0.0
+  0
+LINE
+  5
+2E9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2660.206999999994
+ 20
+14899.232
+ 30
+0.0
+ 11
+3800.0
+ 21
+14900.0
+ 31
+0.0
+  0
+LINE
+  5
+2EA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2730.0
+ 20
+14490.0
+ 30
+0.0
+ 11
+2445.0
+ 21
+14490.0
+ 31
+0.0
+  0
+LINE
+  5
+2EB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2445.858999999982
+ 20
+14692.40499999999
+ 30
+0.0
+ 11
+2445.0
+ 21
+14490.0
+ 31
+0.0
+  0
+LINE
+  5
+2EC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+15480.0
+ 30
+0.0
+ 11
+16555.0
+ 21
+15480.0
+ 31
+0.0
+  0
+LINE
+  5
+2ED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+15190.0
+ 30
+0.0
+ 11
+16555.0
+ 21
+15190.0
+ 31
+0.0
+  0
+LINE
+  5
+2EE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+14900.0
+ 30
+0.0
+ 11
+16577.5
+ 21
+14900.0
+ 31
+0.0
+  0
+LINE
+  5
+2EF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+12910.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+12910.0
+ 31
+0.0
+  0
+LINE
+  5
+2F0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+12620.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+12620.0
+ 31
+0.0
+  0
+LINE
+  5
+2F1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+12330.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+12330.0
+ 31
+0.0
+  0
+LINE
+  5
+2F2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+12620.0
+ 30
+0.0
+ 11
+16555.0
+ 21
+12620.0
+ 31
+0.0
+  0
+LINE
+  5
+2F3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+12330.0
+ 30
+0.0
+ 11
+16555.0
+ 21
+12330.0
+ 31
+0.0
+  0
+LINE
+  5
+2F4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+12040.0
+ 30
+0.0
+ 11
+16577.5
+ 21
+12040.0
+ 31
+0.0
+  0
+LINE
+  5
+2F5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4290.0
+ 20
+17123.16
+ 30
+0.0
+ 11
+8020.0
+ 21
+17123.16
+ 31
+0.0
+  0
+LINE
+  5
+2F6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+10045.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+10045.0
+ 31
+0.0
+  0
+LINE
+  5
+2F7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+9755.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+9755.0
+ 31
+0.0
+  0
+LINE
+  5
+2F8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+9465.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+9465.0
+ 31
+0.0
+  0
+LINE
+  5
+2F9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+9755.0
+ 30
+0.0
+ 11
+16555.0
+ 21
+9755.0
+ 31
+0.0
+  0
+LINE
+  5
+2FA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+9465.0
+ 30
+0.0
+ 11
+16555.0
+ 21
+9465.0
+ 31
+0.0
+  0
+LINE
+  5
+2FB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+9175.0
+ 30
+0.0
+ 11
+16577.5
+ 21
+9175.0
+ 31
+0.0
+  0
+LINE
+  5
+2FC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+7185.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+7185.0
+ 31
+0.0
+  0
+LINE
+  5
+2FD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+6895.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+6895.0
+ 31
+0.0
+  0
+LINE
+  5
+2FE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+2645.0
+ 20
+6605.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+6605.0
+ 31
+0.0
+  0
+LINE
+  5
+2FF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8020.0
+ 20
+14649.899
+ 30
+0.0
+ 11
+8020.0
+ 21
+17123.16
+ 31
+0.0
+  0
+LINE
+  5
+300
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8020.0
+ 20
+11930.0
+ 30
+0.0
+ 11
+8020.0
+ 21
+14383.059
+ 31
+0.0
+  0
+LINE
+  5
+301
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8020.0
+ 20
+9050.0
+ 30
+0.0
+ 11
+8020.0
+ 21
+11523.059
+ 31
+0.0
+  0
+LINE
+  5
+302
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8520.0
+ 20
+14383.059
+ 30
+0.0
+ 11
+14890.0
+ 21
+14383.059
+ 31
+0.0
+  0
+LINE
+  5
+303
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4290.0
+ 20
+14383.059
+ 30
+0.0
+ 11
+8020.0
+ 21
+14383.059
+ 31
+0.0
+  0
+LINE
+  5
+304
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8020.0
+ 20
+11523.059
+ 30
+0.0
+ 11
+4290.0
+ 21
+11523.059
+ 31
+0.0
+  0
+LINE
+  5
+305
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+14890.0
+ 20
+11523.059
+ 30
+0.0
+ 11
+8520.0
+ 21
+11523.059
+ 31
+0.0
+  0
+LINE
+  5
+306
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8520.0
+ 20
+8658.058999999997
+ 30
+0.0
+ 11
+14890.0
+ 21
+8658.058999999997
+ 31
+0.0
+  0
+LINE
+  5
+307
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4290.0
+ 20
+8658.058999999997
+ 30
+0.0
+ 11
+8020.0
+ 21
+8658.058999999997
+ 31
+0.0
+  0
+LINE
+  5
+308
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8020.0
+ 20
+5798.058999999998
+ 30
+0.0
+ 11
+4290.0
+ 21
+5798.058999999998
+ 31
+0.0
+  0
+LINE
+  5
+309
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+14890.0
+ 20
+5798.058999999998
+ 30
+0.0
+ 11
+8520.0
+ 21
+5798.058999999998
+ 31
+0.0
+  0
+LINE
+  5
+30A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8020.0
+ 20
+6064.898999999997
+ 30
+0.0
+ 11
+8020.0
+ 21
+8658.058999999997
+ 31
+0.0
+  0
+LINE
+  5
+30B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8020.0
+ 20
+2269.898999999997
+ 30
+0.0
+ 11
+8020.0
+ 21
+5798.058999999998
+ 31
+0.0
+  0
+LINE
+  5
+30C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8520.0
+ 20
+5798.058999999998
+ 30
+0.0
+ 11
+8520.0
+ 21
+2269.898999999997
+ 31
+0.0
+  0
+LINE
+  5
+30D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4290.0
+ 20
+2519.898999999997
+ 30
+0.0
+ 11
+4290.0
+ 21
+5798.058999999998
+ 31
+0.0
+  0
+LINE
+  5
+30E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4290.0
+ 20
+6314.898999999997
+ 30
+0.0
+ 11
+4290.0
+ 21
+8658.058999999997
+ 31
+0.0
+  0
+LINE
+  5
+30F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4290.0
+ 20
+9174.898999999998
+ 30
+0.0
+ 11
+4290.0
+ 21
+11523.059
+ 31
+0.0
+  0
+LINE
+  5
+310
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4290.0
+ 20
+12039.899
+ 30
+0.0
+ 11
+4290.0
+ 21
+14383.059
+ 31
+0.0
+  0
+LINE
+  5
+311
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4290.0
+ 20
+14899.899
+ 30
+0.0
+ 11
+4290.0
+ 21
+17123.16
+ 31
+0.0
+  0
+LINE
+  5
+312
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+14890.0
+ 20
+2519.898999999997
+ 30
+0.0
+ 11
+14890.0
+ 21
+5798.058999999998
+ 31
+0.0
+  0
+LINE
+  5
+313
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+14890.0
+ 20
+6314.898999999997
+ 30
+0.0
+ 11
+14890.0
+ 21
+8658.058999999997
+ 31
+0.0
+  0
+LINE
+  5
+314
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+14890.0
+ 20
+9174.898999999998
+ 30
+0.0
+ 11
+14890.0
+ 21
+11523.059
+ 31
+0.0
+  0
+LINE
+  5
+315
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+14890.0
+ 20
+12039.899
+ 30
+0.0
+ 11
+14890.0
+ 21
+14383.059
+ 31
+0.0
+  0
+LINE
+  5
+316
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+14890.0
+ 20
+14899.899
+ 30
+0.0
+ 11
+14890.0
+ 21
+17123.16
+ 31
+0.0
+  0
+LINE
+  5
+317
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+11790.0
+ 20
+3350.0
+ 30
+0.0
+ 11
+12590.0
+ 21
+3350.0
+ 31
+0.0
+  0
+LINE
+  5
+318
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33639.126
+ 20
+7030.0
+ 30
+0.0
+ 11
+37860.615
+ 21
+7030.0
+ 31
+0.0
+  0
+LINE
+  5
+319
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+18712.27199999999
+ 20
+2519.898999999997
+ 30
+0.0
+ 11
+18712.27199999999
+ 21
+4474.187999999998
+ 31
+0.0
+  0
+LINE
+  5
+31A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+20989.47899999999
+ 20
+2514.086999999999
+ 30
+0.0
+ 11
+20989.47899999999
+ 21
+4474.187999999998
+ 31
+0.0
+  0
+LINE
+  5
+31B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+23266.68799999999
+ 20
+2514.086999999999
+ 30
+0.0
+ 11
+23266.68799999999
+ 21
+4474.187999999998
+ 31
+0.0
+  0
+LINE
+  5
+31C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+22481.62399999998
+ 20
+1295.0
+ 30
+0.0
+ 11
+24051.75199999999
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+31D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+20204.41499999999
+ 20
+1295.0
+ 30
+0.0
+ 11
+21774.54299999999
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+31E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15649.99699999998
+ 20
+1295.0
+ 30
+0.0
+ 11
+17220.125
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+31F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+17927.20599999999
+ 20
+1295.0
+ 30
+0.0
+ 11
+19497.33399999998
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+320
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+16695.99699999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+16695.99699999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+321
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+16172.99699999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+16172.99699999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+322
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15649.99699999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+15649.99699999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+323
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+18973.20599999999
+ 20
+1890.0
+ 30
+0.0
+ 11
+18973.20599999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+324
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+18450.20599999999
+ 20
+1890.0
+ 30
+0.0
+ 11
+18450.20599999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+325
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+17927.20599999999
+ 20
+1890.0
+ 30
+0.0
+ 11
+17927.20599999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+326
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+21250.41499999999
+ 20
+1890.0
+ 30
+0.0
+ 11
+21250.41499999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+327
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+20727.41499999999
+ 20
+1890.0
+ 30
+0.0
+ 11
+20727.41499999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+328
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+20204.41499999999
+ 20
+1890.0
+ 30
+0.0
+ 11
+20204.41499999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+329
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+23527.62399999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+23527.62399999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+32A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+23004.62399999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+23004.62399999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+32B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+22481.62399999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+22481.62399999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+32C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+25804.833
+ 20
+1890.0
+ 30
+0.0
+ 11
+25804.833
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+32D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+25281.83299999999
+ 20
+1890.0
+ 30
+0.0
+ 11
+25281.83299999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+32E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+24758.833
+ 20
+1890.0
+ 30
+0.0
+ 11
+24758.833
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+32F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+28082.042
+ 20
+1890.0
+ 30
+0.0
+ 11
+28082.042
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+330
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+27559.04199999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+27559.04199999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+331
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+27036.04199999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+27036.04199999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+332
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+30359.251
+ 20
+1890.0
+ 30
+0.0
+ 11
+30359.251
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+333
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+29836.251
+ 20
+1890.0
+ 30
+0.0
+ 11
+29836.251
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+334
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+29313.251
+ 20
+1890.0
+ 30
+0.0
+ 11
+29313.251
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+335
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+32636.46
+ 20
+1890.0
+ 30
+0.0
+ 11
+32636.46
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+336
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+32113.46
+ 20
+1890.0
+ 30
+0.0
+ 11
+32113.46
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+337
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+31590.46
+ 20
+1890.0
+ 30
+0.0
+ 11
+31590.46
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+338
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+34913.669
+ 20
+1765.049999999996
+ 30
+0.0
+ 11
+34913.669
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+339
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+34390.66900000001
+ 20
+1765.049999999996
+ 30
+0.0
+ 11
+34390.66900000001
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+33A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+53411.452
+ 20
+2534.949000000001
+ 30
+0.0
+ 11
+53411.452
+ 21
+13089.899
+ 31
+0.0
+  0
+LINE
+  5
+33B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+47351.77399999999
+ 20
+-749.7739999999994
+ 30
+0.0
+ 11
+47351.77399999999
+ 21
+13089.899
+ 31
+0.0
+  0
+LINE
+  5
+33C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+38230.615
+ 20
+9025.0
+ 30
+0.0
+ 11
+38230.615
+ 21
+6314.898999999997
+ 31
+0.0
+  0
+LINE
+  5
+33D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+37860.615
+ 20
+14290.0
+ 30
+0.0
+ 11
+54789.99999999999
+ 21
+14290.0
+ 31
+0.0
+  0
+LINE
+  5
+33E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+45984.99999999998
+ 20
+12650.0
+ 30
+0.0
+ 11
+38230.615
+ 21
+12650.0
+ 31
+0.0
+  0
+LINE
+  5
+33F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+45984.99999999998
+ 20
+9025.0
+ 30
+0.0
+ 11
+38230.615
+ 21
+9025.0
+ 31
+0.0
+  0
+LINE
+  5
+340
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+38230.615
+ 20
+12650.0
+ 30
+0.0
+ 11
+38230.615
+ 21
+9714.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+341
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+64989.99999999998
+ 20
+12650.0
+ 30
+0.0
+ 11
+61759.99999999999
+ 21
+12650.0
+ 31
+0.0
+  0
+LINE
+  5
+342
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+59749.99999999998
+ 20
+12220.0
+ 30
+0.0
+ 11
+58389.99999999998
+ 21
+12650.0
+ 31
+0.0
+  0
+LINE
+  5
+343
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+60399.99999999999
+ 20
+12220.0
+ 30
+0.0
+ 11
+61759.99999999999
+ 21
+12650.0
+ 31
+0.0
+  0
+LINE
+  5
+344
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+59749.99999999998
+ 20
+12220.0
+ 30
+0.0
+ 11
+59749.99999999998
+ 21
+9714.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+345
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+60399.99999999999
+ 20
+12220.0
+ 30
+0.0
+ 11
+60399.99999999999
+ 21
+9714.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+346
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+67847.57599999998
+ 20
+12650.0
+ 30
+0.0
+ 11
+67248.26099999998
+ 21
+12650.0
+ 31
+0.0
+  0
+LINE
+  5
+347
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66349.99999999998
+ 20
+12220.0
+ 30
+0.0
+ 11
+64989.99999999998
+ 21
+12650.0
+ 31
+0.0
+  0
+LINE
+  5
+348
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66999.99999999999
+ 20
+12220.0
+ 30
+0.0
+ 11
+67248.26099999998
+ 21
+12650.0
+ 31
+0.0
+  0
+LINE
+  5
+349
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66349.99999999998
+ 20
+12220.0
+ 30
+0.0
+ 11
+66349.99999999998
+ 21
+9714.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+34A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66999.99999999999
+ 20
+12220.0
+ 30
+0.0
+ 11
+66999.99999999999
+ 21
+9714.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+34B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66349.99999999998
+ 20
+8595.0
+ 30
+0.0
+ 11
+64989.99999999998
+ 21
+9025.0
+ 31
+0.0
+  0
+LINE
+  5
+34C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66999.99999999999
+ 20
+8595.0
+ 30
+0.0
+ 11
+67248.26099999998
+ 21
+9025.0
+ 31
+0.0
+  0
+LINE
+  5
+34D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66349.99999999998
+ 20
+8595.0
+ 30
+0.0
+ 11
+66349.99999999998
+ 21
+6089.898999999998
+ 31
+0.0
+  0
+LINE
+  5
+34E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66999.99999999999
+ 20
+8595.0
+ 30
+0.0
+ 11
+66999.99999999999
+ 21
+6089.898999999998
+ 31
+0.0
+  0
+LINE
+  5
+34F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66349.99999999998
+ 20
+5195.0
+ 30
+0.0
+ 11
+64989.99999999998
+ 21
+5625.0
+ 31
+0.0
+  0
+LINE
+  5
+350
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66999.99999999999
+ 20
+5195.0
+ 30
+0.0
+ 11
+67248.26099999998
+ 21
+5625.0
+ 31
+0.0
+  0
+LINE
+  5
+351
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66349.99999999998
+ 20
+5195.0
+ 30
+0.0
+ 11
+66349.99999999998
+ 21
+2534.949000000001
+ 31
+0.0
+  0
+LINE
+  5
+352
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+59749.99999999998
+ 20
+8595.0
+ 30
+0.0
+ 11
+58389.99999999998
+ 21
+9025.0
+ 31
+0.0
+  0
+LINE
+  5
+353
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+60399.99999999999
+ 20
+8595.0
+ 30
+0.0
+ 11
+61759.99999999999
+ 21
+9025.0
+ 31
+0.0
+  0
+LINE
+  5
+354
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+59749.99999999998
+ 20
+8595.0
+ 30
+0.0
+ 11
+59749.99999999998
+ 21
+6089.898999999998
+ 31
+0.0
+  0
+LINE
+  5
+355
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+60399.99999999999
+ 20
+8595.0
+ 30
+0.0
+ 11
+60399.99999999999
+ 21
+6089.898999999998
+ 31
+0.0
+  0
+LINE
+  5
+356
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+59749.99999999998
+ 20
+5195.0
+ 30
+0.0
+ 11
+58389.99999999998
+ 21
+5625.0
+ 31
+0.0
+  0
+LINE
+  5
+357
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+60399.99999999999
+ 20
+5195.0
+ 30
+0.0
+ 11
+61759.99999999999
+ 21
+5625.0
+ 31
+0.0
+  0
+LINE
+  5
+358
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+59749.99999999998
+ 20
+5195.0
+ 30
+0.0
+ 11
+59749.99999999998
+ 21
+2534.949000000001
+ 31
+0.0
+  0
+LINE
+  5
+359
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+60399.99999999999
+ 20
+5195.0
+ 30
+0.0
+ 11
+60399.99999999999
+ 21
+2534.949000000001
+ 31
+0.0
+  0
+LINE
+  5
+35A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+59749.99999999998
+ 20
+1854.949
+ 30
+0.0
+ 11
+59501.73899999999
+ 21
+2284.949
+ 31
+0.0
+  0
+LINE
+  5
+35B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+59749.99999999998
+ 20
+1854.949
+ 30
+0.0
+ 11
+59749.99999999998
+ 21
+-650.152
+ 31
+0.0
+  0
+LINE
+  5
+35C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+60399.99999999999
+ 20
+1854.949
+ 30
+0.0
+ 11
+60399.99999999999
+ 21
+-650.152
+ 31
+0.0
+  0
+LINE
+  5
+35D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+64989.99999999998
+ 20
+9025.0
+ 30
+0.0
+ 11
+61759.99999999999
+ 21
+9025.0
+ 31
+0.0
+  0
+LINE
+  5
+35E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+67847.57599999998
+ 20
+9025.0
+ 30
+0.0
+ 11
+67248.26099999998
+ 21
+9025.0
+ 31
+0.0
+  0
+LINE
+  5
+35F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+64989.99999999998
+ 20
+5625.0
+ 30
+0.0
+ 11
+61759.99999999999
+ 21
+5625.0
+ 31
+0.0
+  0
+LINE
+  5
+360
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+67847.57599999998
+ 20
+5625.0
+ 30
+0.0
+ 11
+67248.26099999998
+ 21
+5625.0
+ 31
+0.0
+  0
+LINE
+  5
+361
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48115.43399999999
+ 20
+1592.5
+ 30
+0.0
+ 11
+49209.99999999998
+ 21
+1592.5
+ 31
+0.0
+  0
+LINE
+  5
+362
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48115.43399999999
+ 20
+1295.0
+ 30
+0.0
+ 11
+49209.99999999998
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+363
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48115.43399999999
+ 20
+997.4999999999999
+ 30
+0.0
+ 11
+49209.99999999998
+ 21
+997.4999999999999
+ 31
+0.0
+  0
+LINE
+  5
+364
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51463.22600000001
+ 20
+1592.5
+ 30
+0.0
+ 11
+52557.792
+ 21
+1592.5
+ 31
+0.0
+  0
+LINE
+  5
+365
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51463.22600000001
+ 20
+1295.0
+ 30
+0.0
+ 11
+52557.792
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+366
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51463.22600000001
+ 20
+997.4999999999999
+ 30
+0.0
+ 11
+52557.792
+ 21
+997.4999999999999
+ 31
+0.0
+  0
+LINE
+  5
+367
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+54789.99999999999
+ 20
+13339.899
+ 30
+0.0
+ 11
+54789.99999999999
+ 21
+15030.0
+ 31
+0.0
+  0
+LINE
+  5
+368
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+54789.99999999999
+ 20
+15030.0
+ 30
+0.0
+ 11
+60839.99999999998
+ 21
+15030.0
+ 31
+0.0
+  0
+LINE
+  5
+369
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+60839.99999999998
+ 20
+15030.0
+ 30
+0.0
+ 11
+60839.99999999998
+ 21
+13339.899
+ 31
+0.0
+  0
+LINE
+  5
+36A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+58389.99999999998
+ 20
+5625.0
+ 30
+0.0
+ 11
+55128.22600000001
+ 21
+5625.0
+ 31
+0.0
+  0
+LINE
+  5
+36B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+58389.99999999998
+ 20
+9025.0
+ 30
+0.0
+ 11
+55128.22600000001
+ 21
+9025.0
+ 31
+0.0
+  0
+LINE
+  5
+36C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+58389.99999999998
+ 20
+12650.0
+ 30
+0.0
+ 11
+55128.22600000001
+ 21
+12650.0
+ 31
+0.0
+  0
+LINE
+  5
+36D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+60399.99999999999
+ 20
+1854.949
+ 30
+0.0
+ 11
+60648.26099999998
+ 21
+2284.949
+ 31
+0.0
+  0
+LINE
+  5
+36E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+3910.0
+ 20
+0.0
+ 30
+0.0
+ 11
+0.0
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+36F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15000.0
+ 20
+2003.058999999997
+ 30
+0.0
+ 11
+8793.058999999979
+ 21
+2003.058999999997
+ 31
+0.0
+  0
+LINE
+  5
+370
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8020.0
+ 20
+1730.0
+ 30
+0.0
+ 11
+8020.0
+ 21
+-520.0
+ 31
+0.0
+  0
+LINE
+  5
+371
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8520.0
+ 20
+1730.0
+ 30
+0.0
+ 11
+8520.0
+ 21
+-499.7739999999994
+ 31
+0.0
+  0
+LINE
+  5
+372
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8020.0
+ 20
+1730.0
+ 30
+0.0
+ 11
+7746.940999999991
+ 21
+2003.058999999997
+ 31
+0.0
+  0
+LINE
+  5
+373
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+8520.0
+ 20
+1730.0
+ 30
+0.0
+ 11
+8793.058999999979
+ 21
+2003.058999999997
+ 31
+0.0
+  0
+LINE
+  5
+374
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33160.588
+ 20
+-499.7739999999994
+ 30
+0.0
+ 11
+33160.588
+ 21
+1890.0
+ 31
+0.0
+  0
+LINE
+  5
+375
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33867.669
+ 20
+-1170.0
+ 30
+0.0
+ 11
+33867.669
+ 21
+1765.049999999996
+ 31
+0.0
+  0
+LINE
+  5
+376
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+45634.99999999998
+ 20
+-2112.225732464452
+ 30
+0.0
+ 11
+45634.99999999998
+ 21
+2284.949
+ 31
+0.0
+  0
+LINE
+  5
+377
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+45984.99999999998
+ 20
+-2112.225732464452
+ 30
+0.0
+ 11
+45984.99999999998
+ 21
+13089.899
+ 31
+0.0
+  0
+LINE
+  5
+378
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+44689.99999999998
+ 20
+5130.0
+ 30
+0.0
+ 11
+45984.99999999998
+ 21
+5130.0
+ 31
+0.0
+  0
+LINE
+  5
+379
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+44689.99999999998
+ 20
+-1170.0
+ 30
+0.0
+ 11
+44689.99999999998
+ 21
+6170.0
+ 31
+0.0
+  0
+LINE
+  5
+37A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+36144.873
+ 20
+1295.0
+ 30
+0.0
+ 11
+37714.99999999998
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+37B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+37190.87199999998
+ 20
+1765.049999999996
+ 30
+0.0
+ 11
+37190.87199999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+37C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+36667.87300000001
+ 20
+1765.049999999996
+ 30
+0.0
+ 11
+36667.87300000001
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+37D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+36144.873
+ 20
+700.0
+ 30
+0.0
+ 11
+36144.873
+ 21
+1765.049999999996
+ 31
+0.0
+  0
+LINE
+  5
+37E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+38422.08099999999
+ 20
+1769.306483181266
+ 30
+0.0
+ 11
+38422.08099999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+37F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+38945.457
+ 20
+1812.963941884052
+ 30
+0.0
+ 11
+38945.457
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+380
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+39468.83200000001
+ 20
+1856.621317171742
+ 30
+0.0
+ 11
+39468.83200000001
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+381
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+39992.208
+ 20
+1890.0
+ 30
+0.0
+ 11
+39992.208
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+382
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+38422.08099999999
+ 20
+1295.0
+ 30
+0.0
+ 11
+39992.208
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+383
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+40699.289
+ 20
+1890.0
+ 30
+0.0
+ 11
+40699.289
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+384
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+41222.66499999999
+ 20
+1890.0
+ 30
+0.0
+ 11
+41222.66499999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+385
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+41746.04099999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+41746.04099999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+386
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+42269.41599999998
+ 20
+1890.0
+ 30
+0.0
+ 11
+42269.41599999998
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+387
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+40699.289
+ 20
+1295.0
+ 30
+0.0
+ 11
+42269.41599999998
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+388
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+42976.49699999999
+ 20
+1890.0
+ 30
+0.0
+ 11
+42976.49699999999
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+389
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+43499.87300000001
+ 20
+1890.0
+ 30
+0.0
+ 11
+43499.87300000001
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+38A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+44023.248
+ 20
+1890.0
+ 30
+0.0
+ 11
+44023.248
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+38B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+44546.624
+ 20
+1890.0
+ 30
+0.0
+ 11
+44546.624
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+38C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+42976.49699999999
+ 20
+1295.0
+ 30
+0.0
+ 11
+44546.624
+ 21
+1295.0
+ 31
+0.0
+  0
+LINE
+  5
+38D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66349.99999999998
+ 20
+1850.124
+ 30
+0.0
+ 11
+66098.95299999999
+ 21
+2284.949
+ 31
+0.0
+  0
+LINE
+  5
+38E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66349.99999999998
+ 20
+1850.124
+ 30
+0.0
+ 11
+66349.99999999998
+ 21
+-749.7739999999994
+ 31
+0.0
+  0
+LINE
+  5
+38F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+70454.99999999998
+ 20
+0.0
+ 30
+0.0
+ 11
+66524.99999999998
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+390
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+66999.99999999999
+ 20
+2050.0
+ 30
+0.0
+ 11
+66524.99999999998
+ 21
+2050.0
+ 31
+0.0
+  0
+LINE
+  5
+391
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+55128.22600000001
+ 20
+1438.610999999998
+ 30
+0.0
+ 11
+54778.22600000001
+ 21
+1438.610999999998
+ 31
+0.0
+  0
+LINE
+  5
+392
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4150.0
+ 20
+2269.898999999997
+ 30
+0.0
+ 11
+4150.0
+ 21
+18010.0
+ 31
+0.0
+  0
+LINE
+  5
+393
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51158.22600000001
+ 20
+5644.898999999998
+ 30
+0.0
+ 11
+51158.22600000001
+ 21
+6064.898999999997
+ 31
+0.0
+  0
+LINE
+  5
+394
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+49254.99999999998
+ 20
+5644.898999999998
+ 30
+0.0
+ 11
+49254.99999999998
+ 21
+6064.898999999997
+ 31
+0.0
+  0
+LINE
+  5
+395
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51158.22600000001
+ 20
+12669.899
+ 30
+0.0
+ 11
+51158.22600000001
+ 21
+13089.899
+ 31
+0.0
+  0
+LINE
+  5
+396
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+49254.99999999998
+ 20
+12669.899
+ 30
+0.0
+ 11
+49254.99999999998
+ 21
+13089.899
+ 31
+0.0
+  0
+LINE
+  5
+397
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51158.22600000001
+ 20
+9044.898999999999
+ 30
+0.0
+ 11
+51158.22600000001
+ 21
+9464.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+398
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+49254.99999999998
+ 20
+9044.898999999999
+ 30
+0.0
+ 11
+49254.99999999998
+ 21
+9464.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+399
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33639.126
+ 20
+-749.7739999999994
+ 30
+0.0
+ 11
+3910.0
+ 21
+-749.7739999999994
+ 31
+0.0
+  0
+LINE
+  5
+39A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+68117.57599999999
+ 20
+13089.899
+ 30
+0.0
+ 11
+37880.615
+ 21
+13089.899
+ 31
+0.0
+  0
+LINE
+  5
+39B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+67847.57599999998
+ 20
+6064.898999999997
+ 30
+0.0
+ 11
+37860.615
+ 21
+6064.898999999997
+ 31
+0.0
+  0
+LINE
+  5
+39C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33389.126
+ 20
+2410.0
+ 30
+0.0
+ 11
+26807.5
+ 21
+2410.0
+ 31
+0.0
+  0
+LINE
+  5
+39D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+26807.5
+ 20
+5718.376000000001
+ 30
+0.0
+ 11
+26557.5
+ 21
+5718.376000000001
+ 31
+0.0
+  0
+LINE
+  5
+39E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+37860.615
+ 20
+6680.0
+ 30
+0.0
+ 11
+33389.126
+ 21
+6680.0
+ 31
+0.0
+  0
+LINE
+  5
+39F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+26807.5
+ 20
+6680.0
+ 30
+0.0
+ 11
+15400.0
+ 21
+6680.0
+ 31
+0.0
+  0
+LINE
+  5
+3A0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+8658.058999999997
+ 30
+0.0
+ 11
+15050.0
+ 21
+8658.058999999997
+ 31
+0.0
+  0
+LINE
+  5
+3A1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+4150.0
+ 20
+17123.16
+ 30
+0.0
+ 11
+3800.0
+ 21
+17123.16
+ 31
+0.0
+  0
+LINE
+  5
+3A2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+17390.0
+ 30
+0.0
+ 11
+3800.0
+ 21
+17390.0
+ 31
+0.0
+  0
+LINE
+  5
+3A3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+11523.059
+ 30
+0.0
+ 11
+15050.0
+ 21
+11523.059
+ 31
+0.0
+  0
+LINE
+  5
+3A4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15400.0
+ 20
+14383.059
+ 30
+0.0
+ 11
+15050.0
+ 21
+14383.059
+ 31
+0.0
+  0
+LINE
+  5
+3A5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+50341.613
+ 20
+3130.0
+ 30
+0.0
+ 11
+50341.613
+ 21
+5644.898999999998
+ 31
+0.0
+  0
+LINE
+  5
+3A6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51769.03300000001
+ 20
+3130.0
+ 30
+0.0
+ 11
+51769.03300000001
+ 21
+5644.898999999998
+ 31
+0.0
+  0
+LINE
+  5
+3A7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48438.387
+ 20
+3444.363999999998
+ 30
+0.0
+ 11
+52244.83899999999
+ 21
+3444.363999999998
+ 31
+0.0
+  0
+LINE
+  5
+3A8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48438.387
+ 20
+4073.088
+ 30
+0.0
+ 11
+52244.83899999999
+ 21
+4073.088
+ 31
+0.0
+  0
+LINE
+  5
+3A9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48438.387
+ 20
+4701.812999999998
+ 30
+0.0
+ 11
+52244.83899999999
+ 21
+4701.812999999998
+ 31
+0.0
+  0
+LINE
+  5
+3AA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48438.387
+ 20
+3130.0
+ 30
+0.0
+ 11
+48438.387
+ 21
+5644.898999999998
+ 31
+0.0
+  0
+LINE
+  5
+3AB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+52244.83899999999
+ 20
+3130.0
+ 30
+0.0
+ 11
+48438.387
+ 21
+3130.0
+ 31
+0.0
+  0
+LINE
+  5
+3AC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+50381.61299999999
+ 20
+6530.0
+ 30
+0.0
+ 11
+50381.61299999999
+ 21
+9044.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+3AD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51809.03300000001
+ 20
+6530.0
+ 30
+0.0
+ 11
+51809.03300000001
+ 21
+9044.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+3AE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48478.387
+ 20
+6844.363999999997
+ 30
+0.0
+ 11
+52284.83899999999
+ 21
+6844.363999999997
+ 31
+0.0
+  0
+LINE
+  5
+3AF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48478.387
+ 20
+7473.088
+ 30
+0.0
+ 11
+52284.83899999999
+ 21
+7473.088
+ 31
+0.0
+  0
+LINE
+  5
+3B0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48478.387
+ 20
+8101.812999999998
+ 30
+0.0
+ 11
+52284.83899999999
+ 21
+8101.812999999998
+ 31
+0.0
+  0
+LINE
+  5
+3B1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48478.387
+ 20
+6530.0
+ 30
+0.0
+ 11
+48478.387
+ 21
+9044.898999999999
+ 31
+0.0
+  0
+LINE
+  5
+3B2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+52284.83899999999
+ 20
+6530.0
+ 30
+0.0
+ 11
+48478.387
+ 21
+6530.0
+ 31
+0.0
+  0
+LINE
+  5
+3B3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+50341.613
+ 20
+10155.0
+ 30
+0.0
+ 11
+50341.613
+ 21
+12669.899
+ 31
+0.0
+  0
+LINE
+  5
+3B4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51769.03300000001
+ 20
+10155.0
+ 30
+0.0
+ 11
+51769.03300000001
+ 21
+12669.899
+ 31
+0.0
+  0
+LINE
+  5
+3B5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48438.387
+ 20
+10469.364
+ 30
+0.0
+ 11
+52244.83899999999
+ 21
+10469.364
+ 31
+0.0
+  0
+LINE
+  5
+3B6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48438.387
+ 20
+11098.08799999999
+ 30
+0.0
+ 11
+52244.83899999999
+ 21
+11098.08799999999
+ 31
+0.0
+  0
+LINE
+  5
+3B7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48438.387
+ 20
+11726.81299999999
+ 30
+0.0
+ 11
+52244.83899999999
+ 21
+11726.81299999999
+ 31
+0.0
+  0
+LINE
+  5
+3B8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+48438.387
+ 20
+10155.0
+ 30
+0.0
+ 11
+48438.387
+ 21
+12669.899
+ 31
+0.0
+  0
+LINE
+  5
+3B9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+52244.83899999999
+ 20
+10155.0
+ 30
+0.0
+ 11
+48438.387
+ 21
+10155.0
+ 31
+0.0
+  0
+LINE
+  5
+3BA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+44546.624
+ 20
+4462.563999999998
+ 30
+0.0
+ 11
+42976.49699999999
+ 21
+4462.563999999998
+ 31
+0.0
+  0
+LINE
+  5
+3BB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+42269.41599999998
+ 20
+4462.563999999998
+ 30
+0.0
+ 11
+40699.289
+ 21
+4462.563999999998
+ 31
+0.0
+  0
+LINE
+  5
+3BC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+39992.208
+ 20
+4462.563999999998
+ 30
+0.0
+ 11
+38422.08099999999
+ 21
+4462.563999999998
+ 31
+0.0
+  0
+LINE
+  5
+3BD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+37714.99999999998
+ 20
+4462.563999999998
+ 30
+0.0
+ 11
+36144.873
+ 21
+4462.563999999998
+ 31
+0.0
+  0
+LINE
+  5
+3BE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33867.669
+ 20
+-715.0
+ 30
+0.0
+ 11
+33639.126
+ 21
+-715.0
+ 31
+0.0
+  0
+LINE
+  5
+3BF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33514.126
+ 20
+7160.0
+ 30
+0.0
+ 11
+33514.126
+ 21
+7770.0
+ 31
+0.0
+  0
+LINE
+  5
+3C0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33639.126
+ 20
+7160.0
+ 30
+0.0
+ 11
+33389.126
+ 21
+7160.0
+ 31
+0.0
+  0
+LINE
+  5
+3C1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+26602.5
+ 20
+7160.0
+ 30
+0.0
+ 11
+26602.5
+ 21
+7770.0
+ 31
+0.0
+  0
+LINE
+  5
+3C2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+26807.5
+ 20
+7160.0
+ 30
+0.0
+ 11
+26557.5
+ 21
+7160.0
+ 31
+0.0
+  0
+LINE
+  5
+3C3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15000.0
+ 20
+-499.7739999999994
+ 30
+0.0
+ 11
+15000.0
+ 21
+2269.898999999997
+ 31
+0.0
+  0
+LINE
+  5
+3C4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+57449.99999999999
+ 20
+-499.7739999999994
+ 30
+0.0
+ 11
+57449.99999999999
+ 21
+1600.225999999999
+ 31
+0.0
+  0
+LINE
+  5
+3C5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+49209.99999999998
+ 20
+695.1129999999993
+ 30
+0.0
+ 11
+49209.99999999998
+ 21
+2310.0
+ 31
+0.0
+  0
+LINE
+  5
+3C6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+51463.22600000001
+ 20
+695.1129999999993
+ 30
+0.0
+ 11
+51463.22600000001
+ 21
+2310.0
+ 31
+0.0
+  0
+LINE
+  5
+3C7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+57449.99999999999
+ 20
+2534.949000000001
+ 30
+0.0
+ 11
+57449.99999999999
+ 21
+4634.949
+ 31
+0.0
+  0
+LINE
+  5
+3C8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+57449.99999999999
+ 20
+6314.898999999997
+ 30
+0.0
+ 11
+57449.99999999999
+ 21
+8414.898999999998
+ 31
+0.0
+  0
+LINE
+  5
+3C9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+57449.99999999999
+ 20
+9714.898999999999
+ 30
+0.0
+ 11
+57449.99999999999
+ 21
+11814.899
+ 31
+0.0
+  0
+LINE
+  5
+3CA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+31590.457
+ 20
+2534.949000000001
+ 30
+0.0
+ 11
+31590.457
+ 21
+5712.563999999998
+ 31
+0.0
+  0
+LINE
+  5
+3CB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+29313.248
+ 20
+2534.949000000001
+ 30
+0.0
+ 11
+29313.248
+ 21
+5718.376000000001
+ 31
+0.0
+  0
+LINE
+  5
+3CC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+27036.04099999999
+ 20
+2534.949000000001
+ 30
+0.0
+ 11
+27036.04099999999
+ 21
+5718.376000000001
+ 31
+0.0
+  0
+LINE
+  5
+3CD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33389.126
+ 20
+-1170.0
+ 30
+0.0
+ 11
+46449.99999999998
+ 21
+-1170.0
+ 31
+0.0
+  0
+LINE
+  5
+3CE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+26557.5
+ 20
+-499.7739999999994
+ 30
+0.0
+ 11
+26557.5
+ 21
+8130.0
+ 31
+0.0
+  0
+LINE
+  5
+3CF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+15050.0
+ 20
+2519.898999999997
+ 30
+0.0
+ 11
+15050.0
+ 21
+18010.0
+ 31
+0.0
+  0
+LINE
+  5
+3D0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+16470.0
+ 20
+10045.0
+ 30
+0.0
+ 11
+16470.0
+ 21
+9175.0
+ 31
+0.0
+  0
+LINE
+  5
+3D1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+10440.0
+ 20
+6064.898999999997
+ 30
+0.0
+ 11
+10440.0
+ 21
+17390.0
+ 31
+0.0
+  0
+LINE
+  5
+3D2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+16470.0
+ 20
+12910.0
+ 30
+0.0
+ 11
+16470.0
+ 21
+12040.0
+ 31
+0.0
+  0
+LINE
+  5
+3D3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+16470.0
+ 20
+15770.0
+ 30
+0.0
+ 11
+16470.0
+ 21
+14900.0
+ 31
+0.0
+  0
+LINE
+  5
+3D4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33160.588
+ 20
+700.0
+ 30
+0.0
+ 11
+31590.46
+ 21
+700.0
+ 31
+0.0
+  0
+LINE
+  5
+3D5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+50336.613
+ 20
+-499.7739999999994
+ 30
+0.0
+ 11
+50336.613
+ 21
+1890.0
+ 31
+0.0
+  0
+LINE
+  5
+3D6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+35437.792
+ 20
+4462.563999999998
+ 30
+0.0
+ 11
+33867.66499999999
+ 21
+4462.563999999998
+ 31
+0.0
+  0
+LINE
+  5
+3D7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33160.585
+ 20
+4462.563999999998
+ 30
+0.0
+ 11
+31590.457
+ 21
+4462.563999999998
+ 31
+0.0
+  0
+LINE
+  5
+3D8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+33160.585
+ 20
+3212.563999999998
+ 30
+0.0
+ 11
+31590.457
+ 21
+3212.563999999998
+ 31
+0.0
+  0
+LINE
+  5
+3D9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+30883.376
+ 20
+4468.376
+ 30
+0.0
+ 11
+29313.248
+ 21
+4468.376
+ 31
+0.0
+  0
+LINE
+  5
+3DA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+30883.376
+ 20
+3218.376
+ 30
+0.0
+ 11
+29313.248
+ 21
+3218.376
+ 31
+0.0
+  0
+LINE
+  5
+3DB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+28606.167
+ 20
+4468.376
+ 30
+0.0
+ 11
+27036.04099999999
+ 21
+4468.376
+ 31
+0.0
+  0
+LINE
+  5
+3DC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+27036.04099999999
+ 20
+3218.376
+ 30
+0.0
+ 11
+28606.16799999999
+ 21
+3218.376
+ 31
+0.0
+  0
+LINE
+  5
+3DD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+26328.95899999998
+ 20
+4468.376
+ 30
+0.0
+ 11
+24758.833
+ 21
+4468.376
+ 31
+0.0
+  0
+LINE
+  5
+3DE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+24758.833
+ 20
+3218.376
+ 30
+0.0
+ 11
+26328.96
+ 21
+3218.376
+ 31
+0.0
+  0
+LINE
+  5
+3DF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+24051.75199999999
+ 20
+4474.187999999998
+ 30
+0.0
+ 11
+22481.62399999998
+ 21
+4474.187999999998
+ 31
+0.0
+  0
+LINE
+  5
+3E0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+24051.75199999999
+ 20
+3224.187999999998
+ 30
+0.0
+ 11
+22481.62399999998
+ 21
+3224.187999999998
+ 31
+0.0
+  0
+LINE
+  5
+3E1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+21774.54299999999
+ 20
+4474.187999999998
+ 30
+0.0
+ 11
+20204.41499999999
+ 21
+4474.187999999998
+ 31
+0.0
+  0
+LINE
+  5
+3E2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+21774.54299999999
+ 20
+3224.187999999998
+ 30
+0.0
+ 11
+20204.41499999999
+ 21
+3224.187999999998
+ 31
+0.0
+  0
+LINE
+  5
+3E3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+19497.335
+ 20
+4474.187999999998
+ 30
+0.0
+ 11
+17927.20799999999
+ 21
+4474.187999999998
+ 31
+0.0
+  0
+LINE
+  5
+3E4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+17220.12699999999
+ 20
+4480.0
+ 30
+0.0
+ 11
+15650.0
+ 21
+4480.0
+ 31
+0.0
+  0
+LINE
+  5
+3E5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     0
+100
+AcDbLine
+ 10
+45634.99999999998
+ 20
+-2112.225732464452
+ 30
+0.0
+ 11
+45984.99999999998
+ 21
+-2112.225732464452
+ 31
+0.0
+  0
+LINE
+  5
+3E6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbLine
+ 10
+36144.873
+ 20
+2015.049999999996
+ 30
+0.0
+ 11
+36144.873
+ 21
+5712.563999999998
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+3E7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15050.0
+ 20
+17123.16
+ 10
+15400.0
+ 20
+17123.16
+  0
+LWPOLYLINE
+  5
+3E8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15300.0
+ 20
+17123.16
+ 10
+15300.0
+ 20
+7250.0
+  0
+LWPOLYLINE
+  5
+3E9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15050.0
+ 20
+7250.0
+ 10
+15400.0
+ 20
+7250.0
+  0
+LWPOLYLINE
+  5
+3EA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+3900.0
+ 20
+2519.898999999997
+ 10
+3900.0
+ 20
+17123.16
+  0
+LWPOLYLINE
+  5
+3EB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15650.0
+ 20
+3855.0
+ 10
+17220.12699999999
+ 20
+3855.0
+  0
+LWPOLYLINE
+  5
+3EC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15650.0
+ 20
+5730.0
+ 10
+17220.12699999999
+ 20
+5730.0
+  0
+LWPOLYLINE
+  5
+3ED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15650.0
+ 20
+5105.0
+ 10
+17220.12699999999
+ 20
+5105.0
+  0
+LWPOLYLINE
+  5
+3EE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+17927.20799999999
+ 20
+3849.187999999998
+ 10
+19497.335
+ 20
+3849.187999999998
+  0
+LWPOLYLINE
+  5
+3EF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+17927.20799999999
+ 20
+5724.187999999998
+ 10
+19497.335
+ 20
+5724.187999999998
+  0
+LWPOLYLINE
+  5
+3F0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+17927.20799999999
+ 20
+5099.187999999998
+ 10
+19497.335
+ 20
+5099.187999999998
+  0
+LWPOLYLINE
+  5
+3F1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+21774.54299999999
+ 20
+5724.187999999998
+ 10
+21774.54299999999
+ 20
+3224.187999999998
+  0
+LWPOLYLINE
+  5
+3F2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+20204.41499999999
+ 20
+3849.187999999998
+ 10
+21774.54299999999
+ 20
+3849.187999999998
+  0
+LWPOLYLINE
+  5
+3F3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+20204.41499999999
+ 20
+5724.187999999998
+ 10
+21774.54299999999
+ 20
+5724.187999999998
+  0
+LWPOLYLINE
+  5
+3F4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+20204.41499999999
+ 20
+5099.187999999998
+ 10
+21774.54299999999
+ 20
+5099.187999999998
+  0
+LWPOLYLINE
+  5
+3F5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+24051.75199999999
+ 20
+5724.187999999998
+ 10
+24051.75199999999
+ 20
+3224.187999999998
+  0
+LWPOLYLINE
+  5
+3F6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+22481.62399999998
+ 20
+3849.187999999998
+ 10
+24051.75199999999
+ 20
+3849.187999999998
+  0
+LWPOLYLINE
+  5
+3F7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+22481.62399999998
+ 20
+5724.187999999998
+ 10
+24051.75199999999
+ 20
+5724.187999999998
+  0
+LWPOLYLINE
+  5
+3F8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+22481.62399999998
+ 20
+5099.187999999998
+ 10
+24051.75199999999
+ 20
+5099.187999999998
+  0
+LWPOLYLINE
+  5
+3F9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+26328.95899999998
+ 20
+5718.376000000001
+ 10
+26328.95899999998
+ 20
+3218.376
+  0
+LWPOLYLINE
+  5
+3FA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+24758.833
+ 20
+3843.376
+ 10
+26328.95899999998
+ 20
+3843.376
+  0
+LWPOLYLINE
+  5
+3FB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+24758.833
+ 20
+5718.376000000001
+ 10
+26328.95899999998
+ 20
+5718.376000000001
+  0
+LWPOLYLINE
+  5
+3FC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+24758.833
+ 20
+5093.376000000001
+ 10
+26328.95899999998
+ 20
+5093.376000000001
+  0
+LWPOLYLINE
+  5
+3FD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+28606.167
+ 20
+5718.376000000001
+ 10
+28606.167
+ 20
+3218.376
+  0
+LWPOLYLINE
+  5
+3FE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+27036.04099999999
+ 20
+3843.376
+ 10
+28606.167
+ 20
+3843.376
+  0
+LWPOLYLINE
+  5
+3FF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+27036.04099999999
+ 20
+5718.376000000001
+ 10
+28606.167
+ 20
+5718.376000000001
+  0
+LWPOLYLINE
+  5
+400
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+27036.04099999999
+ 20
+5093.376000000001
+ 10
+28606.167
+ 20
+5093.376000000001
+  0
+LWPOLYLINE
+  5
+401
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+30883.376
+ 20
+5718.376000000001
+ 10
+30883.376
+ 20
+3218.376
+  0
+LWPOLYLINE
+  5
+402
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+29313.248
+ 20
+3843.376
+ 10
+30883.376
+ 20
+3843.376
+  0
+LWPOLYLINE
+  5
+403
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+29313.248
+ 20
+5718.376000000001
+ 10
+30883.376
+ 20
+5718.376000000001
+  0
+LWPOLYLINE
+  5
+404
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+29313.248
+ 20
+5093.376000000001
+ 10
+30883.376
+ 20
+5093.376000000001
+  0
+LWPOLYLINE
+  5
+405
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33160.585
+ 20
+5712.563999999998
+ 10
+33160.585
+ 20
+3212.563999999998
+  0
+LWPOLYLINE
+  5
+406
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+31590.457
+ 20
+3837.563999999998
+ 10
+33160.585
+ 20
+3837.563999999998
+  0
+LWPOLYLINE
+  5
+407
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+31590.457
+ 20
+5712.563999999998
+ 10
+33160.585
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+408
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+31590.457
+ 20
+5087.563999999998
+ 10
+33160.585
+ 20
+5087.563999999998
+  0
+LWPOLYLINE
+  5
+409
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33867.66499999999
+ 20
+3837.563999999998
+ 10
+35437.792
+ 20
+3837.563999999998
+  0
+LWPOLYLINE
+  5
+40A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33867.66499999999
+ 20
+5712.563999999998
+ 10
+35437.792
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+40B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33867.66499999999
+ 20
+5087.563999999998
+ 10
+35437.792
+ 20
+5087.563999999998
+  0
+LWPOLYLINE
+  5
+40C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+37714.99999999998
+ 20
+12750.0
+ 10
+37860.615
+ 20
+12750.0
+ 10
+37860.615
+ 20
+10570.0
+ 10
+37714.99999999998
+ 20
+10570.0
+  0
+LWPOLYLINE
+  5
+40D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+37714.99999999998
+ 20
+7030.0
+ 10
+37714.99999999998
+ 20
+9210.0
+ 10
+37860.615
+ 20
+9210.0
+  0
+LWPOLYLINE
+  5
+40E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+68255.615
+ 20
+12810.0
+ 10
+68255.615
+ 20
+3724.949
+ 10
+68109.99999999999
+ 20
+3724.949
+ 10
+68109.99999999999
+ 20
+12810.0
+  0
+LWPOLYLINE
+  5
+40F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49559.99999999998
+ 20
+-499.7739999999994
+ 10
+49559.99999999998
+ 20
+2310.0
+  0
+LWPOLYLINE
+  5
+410
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+51113.22600000001
+ 20
+1591.278999999998
+ 10
+49559.99999999998
+ 20
+1591.278999999998
+  0
+LWPOLYLINE
+  5
+411
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49559.99999999998
+ 20
+1292.556999999999
+ 10
+51113.22600000001
+ 20
+1292.556999999999
+  0
+LWPOLYLINE
+  5
+412
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49559.99999999998
+ 20
+993.834999999999
+ 10
+51113.22600000001
+ 20
+993.834999999999
+  0
+LWPOLYLINE
+  5
+413
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+51113.22600000001
+ 20
+-499.7739999999994
+ 10
+51113.22600000001
+ 20
+2310.0
+  0
+LWPOLYLINE
+  5
+414
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+24758.833
+ 20
+1592.5
+ 10
+26328.96099999999
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+415
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+26328.96099999999
+ 20
+997.4999999999999
+ 10
+24758.833
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+416
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+27036.04199999998
+ 20
+1592.5
+ 10
+28606.16999999999
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+417
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+28606.16999999999
+ 20
+997.4999999999999
+ 10
+27036.04199999998
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+418
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+29313.251
+ 20
+1592.5
+ 10
+30883.379
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+419
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+30883.379
+ 20
+997.4999999999999
+ 10
+29313.251
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+41A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+31590.46
+ 20
+1592.5
+ 10
+33160.588
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+41B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33160.588
+ 20
+997.4999999999999
+ 10
+31590.46
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+41C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33867.669
+ 20
+1592.5
+ 10
+35437.797
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+41D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+35437.797
+ 20
+997.4999999999999
+ 10
+33867.669
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+41E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+24758.833
+ 20
+1890.0
+ 10
+26328.96099999999
+ 20
+1890.0
+ 10
+26328.96099999999
+ 20
+700.0
+ 10
+24758.833
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+41F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+27036.04199999998
+ 20
+1890.0
+ 10
+28606.16999999999
+ 20
+1890.0
+ 10
+28606.16999999999
+ 20
+700.0
+ 10
+27036.04199999998
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+420
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+29313.251
+ 20
+1890.0
+ 10
+30883.379
+ 20
+1890.0
+ 10
+30883.379
+ 20
+700.0
+ 10
+29313.251
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+421
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+31590.46
+ 20
+1890.0
+ 10
+33160.588
+ 20
+1890.0
+  0
+LWPOLYLINE
+  5
+422
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+35437.797
+ 20
+1765.049999999996
+ 10
+35437.797
+ 20
+700.0
+ 10
+33867.669
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+423
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+14649.899
+ 10
+15400.0
+ 20
+14649.899
+  0
+LWPOLYLINE
+  5
+424
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15400.0
+ 20
+15770.0
+ 10
+16555.0
+ 20
+15770.0
+  0
+LWPOLYLINE
+  5
+425
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+16577.5
+ 20
+14900.0
+ 10
+16577.5
+ 20
+14610.0
+ 10
+15400.0
+ 20
+14610.0
+  0
+LWPOLYLINE
+  5
+426
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+11789.899
+ 10
+15400.0
+ 20
+11789.899
+  0
+LWPOLYLINE
+  5
+427
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15400.0
+ 20
+12910.0
+ 10
+16555.0
+ 20
+12910.0
+  0
+LWPOLYLINE
+  5
+428
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+16577.5
+ 20
+12040.0
+ 10
+16577.5
+ 20
+11750.0
+ 10
+15400.0
+ 20
+11750.0
+  0
+LWPOLYLINE
+  5
+429
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+3800.0
+ 20
+17670.0
+ 10
+15400.0
+ 20
+17670.0
+  0
+LWPOLYLINE
+  5
+42A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+10590.0
+ 20
+6064.898999999997
+ 10
+10590.0
+ 20
+17390.0
+  0
+LWPOLYLINE
+  5
+42B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+8924.898999999998
+ 10
+15400.0
+ 20
+8924.898999999998
+  0
+LWPOLYLINE
+  5
+42C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15400.0
+ 20
+10045.0
+ 10
+16555.0
+ 20
+10045.0
+  0
+LWPOLYLINE
+  5
+42D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+16577.5
+ 20
+9175.0
+ 10
+16577.5
+ 20
+8885.0
+ 10
+15400.0
+ 20
+8885.0
+  0
+LWPOLYLINE
+  5
+42E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+6064.898999999997
+ 10
+15050.0
+ 20
+6064.898999999997
+  0
+LWPOLYLINE
+  5
+42F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+8520.0
+ 20
+17123.16
+ 10
+14890.0
+ 20
+17123.16
+  0
+LWPOLYLINE
+  5
+430
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+8520.0
+ 20
+17390.0
+ 10
+8520.0
+ 20
+6190.0
+ 10
+8670.0
+ 20
+6190.0
+ 10
+8670.0
+ 20
+17390.0
+  0
+LWPOLYLINE
+  5
+431
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+12440.0
+ 20
+6025.0
+ 10
+12590.0
+ 20
+6025.0
+  0
+LWPOLYLINE
+  5
+432
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+12590.0
+ 20
+2519.898999999997
+ 10
+12590.0
+ 20
+6064.898999999997
+  0
+LWPOLYLINE
+  5
+433
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+12440.0
+ 20
+2519.898999999997
+ 10
+12440.0
+ 20
+6064.898999999997
+  0
+LWPOLYLINE
+  5
+434
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15400.0
+ 20
+2519.898999999997
+ 10
+15400.0
+ 20
+18430.0
+  0
+LWPOLYLINE
+  5
+435
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+26430.0
+ 20
+8230.0
+ 10
+33729.99999999998
+ 20
+8230.0
+ 10
+33729.99999999998
+ 20
+8130.0
+ 10
+26430.0
+ 20
+8130.0
+  0
+LWPOLYLINE
+  5
+436
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33639.126
+ 20
+2150.0
+ 10
+33389.126
+ 20
+2150.0
+  0
+LWPOLYLINE
+  5
+437
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+26807.5
+ 20
+2150.0
+ 10
+26557.5
+ 20
+2150.0
+  0
+LWPOLYLINE
+  5
+438
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+26807.5
+ 20
+-499.7739999999994
+ 10
+26807.5
+ 20
+7890.0
+  0
+LWPOLYLINE
+  5
+439
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33639.126
+ 20
+-1170.0
+ 10
+33639.126
+ 20
+8130.0
+  0
+LWPOLYLINE
+  5
+43A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15650.0
+ 20
+3230.0
+ 10
+17220.12699999999
+ 20
+3230.0
+  0
+LWPOLYLINE
+  5
+43B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+17220.12699999999
+ 20
+2519.898999999997
+ 10
+17220.12699999999
+ 20
+5730.0
+  0
+LWPOLYLINE
+  5
+43C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15650.0
+ 20
+2519.898999999997
+ 10
+15650.0
+ 20
+5730.0
+  0
+LWPOLYLINE
+  5
+43D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+17927.20799999999
+ 20
+3230.0
+ 10
+19497.335
+ 20
+3230.0
+  0
+LWPOLYLINE
+  5
+43E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+19497.335
+ 20
+2519.898999999997
+ 10
+19497.335
+ 20
+5724.187999999998
+  0
+LWPOLYLINE
+  5
+43F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+17927.20799999999
+ 20
+2519.898999999997
+ 10
+17927.20799999999
+ 20
+5724.187999999998
+  0
+LWPOLYLINE
+  5
+440
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+21774.54199999998
+ 20
+3224.187999999998
+ 10
+21774.54199999998
+ 20
+2514.086999999999
+ 10
+20204.41499999999
+ 20
+2514.086999999999
+ 10
+20204.41499999999
+ 20
+5724.187999999998
+  0
+LWPOLYLINE
+  5
+441
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+24051.751
+ 20
+3224.187999999998
+ 10
+24051.751
+ 20
+2514.086999999999
+ 10
+22481.62399999998
+ 20
+2514.086999999999
+ 10
+22481.62399999998
+ 20
+5724.187999999998
+  0
+LWPOLYLINE
+  5
+442
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+26328.96
+ 20
+3218.376
+ 10
+26328.96
+ 20
+2508.274999999998
+ 10
+24758.833
+ 20
+2508.274999999998
+ 10
+24758.833
+ 20
+5718.376000000001
+  0
+LWPOLYLINE
+  5
+443
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+28606.16799999999
+ 20
+3218.376
+ 10
+28606.16799999999
+ 20
+2534.949000000001
+  0
+LWPOLYLINE
+  5
+444
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+30883.37499999998
+ 20
+3218.376
+ 10
+30883.37499999998
+ 20
+2534.949000000001
+  0
+LWPOLYLINE
+  5
+445
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33160.58399999998
+ 20
+3212.563999999998
+ 10
+33160.58399999998
+ 20
+2534.949000000001
+  0
+LWPOLYLINE
+  5
+446
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33867.66499999999
+ 20
+3212.563999999998
+ 10
+35437.792
+ 20
+3212.563999999998
+  0
+LWPOLYLINE
+  5
+447
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+35437.792
+ 20
+2015.049999999996
+ 10
+35437.792
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+448
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33867.66499999999
+ 20
+5712.563999999998
+ 10
+33867.66499999999
+ 20
+2015.049999999996
+  0
+LWPOLYLINE
+  5
+449
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+22481.62399999998
+ 20
+1592.5
+ 10
+24051.75199999999
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+44A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+24051.75199999999
+ 20
+997.4999999999999
+ 10
+22481.62399999998
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+44B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+22481.62399999998
+ 20
+1890.0
+ 10
+24051.75199999999
+ 20
+1890.0
+ 10
+24051.75199999999
+ 20
+700.0
+ 10
+22481.62399999998
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+44C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+20204.41499999999
+ 20
+1592.5
+ 10
+21774.54299999999
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+44D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+21774.54299999999
+ 20
+997.4999999999999
+ 10
+20204.41499999999
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+44E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+20204.41499999999
+ 20
+1890.0
+ 10
+21774.54299999999
+ 20
+1890.0
+ 10
+21774.54299999999
+ 20
+700.0
+ 10
+20204.41499999999
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+44F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15649.99699999998
+ 20
+1592.5
+ 10
+17220.125
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+450
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+17220.125
+ 20
+997.4999999999999
+ 10
+15649.99699999998
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+451
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+17927.20599999999
+ 20
+1592.5
+ 10
+19497.33399999998
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+452
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+19497.33399999998
+ 20
+997.4999999999999
+ 10
+17927.20599999999
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+453
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+15649.99699999998
+ 20
+1890.0
+ 10
+17220.125
+ 20
+1890.0
+ 10
+17220.125
+ 20
+700.0
+ 10
+15649.99699999998
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+454
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+17927.20599999999
+ 20
+1890.0
+ 10
+19497.33399999998
+ 20
+1890.0
+ 10
+19497.33399999998
+ 20
+700.0
+ 10
+17927.20599999999
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+455
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33389.126
+ 20
+2230.0
+ 10
+26807.5
+ 20
+2230.0
+  0
+LWPOLYLINE
+  5
+456
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+67847.57599999998
+ 20
+3980.0
+ 10
+68117.57599999999
+ 20
+3980.0
+ 10
+68117.57599999999
+ 20
+13339.899
+  0
+LWPOLYLINE
+  5
+457
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+68097.57599999999
+ 20
+3510.0
+ 10
+68497.57599999999
+ 20
+3510.0
+ 10
+68497.57599999999
+ 20
+3110.0
+ 10
+68097.57599999999
+ 20
+3110.0
+  0
+LWPOLYLINE
+  5
+458
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+56449.99999999998
+ 20
+9714.898999999999
+ 10
+56449.99999999998
+ 20
+11814.899
+ 10
+58449.99999999998
+ 20
+11814.899
+  0
+LWPOLYLINE
+  5
+459
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+58449.99999999998
+ 20
+11814.899
+ 10
+58449.99999999998
+ 20
+9714.898999999999
+  0
+LWPOLYLINE
+  5
+45A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+56449.99999999998
+ 20
+6314.898999999997
+ 10
+56449.99999999998
+ 20
+8414.898999999998
+ 10
+58449.99999999998
+ 20
+8414.898999999998
+  0
+LWPOLYLINE
+  5
+45B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+58449.99999999998
+ 20
+8414.898999999998
+ 10
+58449.99999999998
+ 20
+6314.898999999997
+  0
+LWPOLYLINE
+  5
+45C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+56449.99999999998
+ 20
+2534.949000000001
+ 10
+56449.99999999998
+ 20
+4634.949
+ 10
+58449.99999999998
+ 20
+4634.949
+  0
+LWPOLYLINE
+  5
+45D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+58449.99999999998
+ 20
+4634.949
+ 10
+58449.99999999998
+ 20
+2534.949000000001
+  0
+LWPOLYLINE
+  5
+45E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+52557.792
+ 20
+1890.0
+ 10
+52557.792
+ 20
+695.1129999999993
+  0
+LWPOLYLINE
+  5
+45F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+52557.792
+ 20
+695.1129999999993
+ 10
+48115.43399999999
+ 20
+695.1129999999993
+ 10
+48115.43399999999
+ 20
+1890.0
+ 10
+52557.792
+ 20
+1890.0
+  0
+LWPOLYLINE
+  5
+460
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+46209.99999999998
+ 20
+6314.898999999997
+ 10
+46209.99999999998
+ 20
+8414.898999999998
+ 10
+47209.99999999999
+ 20
+8414.898999999998
+ 10
+47209.99999999999
+ 20
+6314.898999999997
+  0
+LWPOLYLINE
+  5
+461
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+46209.99999999998
+ 20
+2534.949000000001
+ 10
+46209.99999999998
+ 20
+4634.949
+ 10
+47209.99999999999
+ 20
+4634.949
+ 10
+47209.99999999999
+ 20
+2534.949000000001
+  0
+LWPOLYLINE
+  5
+462
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+46209.99999999998
+ 20
+9714.898999999999
+ 10
+46209.99999999998
+ 20
+11814.899
+ 10
+47209.99999999999
+ 20
+11814.899
+ 10
+47209.99999999999
+ 20
+9714.898999999999
+  0
+LWPOLYLINE
+  5
+463
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+53553.226
+ 20
+9714.898999999999
+ 10
+53553.226
+ 20
+11814.899
+ 10
+54553.22600000001
+ 20
+11814.899
+ 10
+54553.22600000001
+ 20
+9714.898999999999
+  0
+LWPOLYLINE
+  5
+464
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+53553.226
+ 20
+6314.898999999997
+ 10
+53553.226
+ 20
+8414.898999999998
+ 10
+54553.22600000001
+ 20
+8414.898999999998
+ 10
+54553.22600000001
+ 20
+6314.898999999997
+  0
+LWPOLYLINE
+  5
+465
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+53553.226
+ 20
+2534.949000000001
+ 10
+53553.226
+ 20
+4634.949
+ 10
+54553.22600000001
+ 20
+4634.949
+ 10
+54553.22600000001
+ 20
+2534.949000000001
+  0
+LWPOLYLINE
+  5
+466
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+54778.22600000001
+ 20
+12622.45
+ 10
+55128.22600000001
+ 20
+12622.45
+  0
+LWPOLYLINE
+  5
+467
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+55128.22600000001
+ 20
+-499.7739999999994
+ 10
+55128.22600000001
+ 20
+13089.899
+  0
+LWPOLYLINE
+  5
+468
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+54778.22600000001
+ 20
+-499.7739999999994
+ 10
+54778.22600000001
+ 20
+13089.899
+  0
+LWPOLYLINE
+  5
+469
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+56449.99999999998
+ 20
+-499.7739999999994
+ 10
+56449.99999999998
+ 20
+1600.225999999999
+ 10
+58449.99999999998
+ 20
+1600.225999999999
+  0
+LWPOLYLINE
+  5
+46A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+58449.99999999998
+ 20
+1600.225999999999
+ 10
+58449.99999999998
+ 20
+-499.7739999999994
+  0
+LWPOLYLINE
+  5
+46B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15350.0
+ 20
+2269.898999999997
+ 10
+15350.0
+ 20
+-499.7739999999994
+  0
+LWPOLYLINE
+  5
+46C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+4035.0
+ 20
+250.0
+ 10
+4035.0
+ 20
+2003.058999999997
+  0
+LWPOLYLINE
+  5
+46D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+6850.0
+ 20
+2519.898999999997
+ 10
+6850.0
+ 20
+4619.898999999997
+ 10
+7850.0
+ 20
+4619.898999999997
+ 10
+7850.0
+ 20
+2519.898999999997
+  0
+LWPOLYLINE
+  5
+46E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+13250.0
+ 20
+2519.898999999997
+ 10
+13250.0
+ 20
+4619.898999999997
+ 10
+14250.0
+ 20
+4619.898999999997
+ 10
+14250.0
+ 20
+2519.898999999997
+  0
+LWPOLYLINE
+  5
+46F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+6869.672999999996
+ 20
+-499.7739999999994
+ 10
+6869.672999999996
+ 20
+1600.225999999999
+ 10
+7869.672999999996
+ 20
+1600.225999999999
+ 10
+7869.672999999996
+ 20
+-499.7739999999994
+  0
+LWPOLYLINE
+  5
+470
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+8650.0
+ 20
+-499.7739999999994
+ 10
+8650.0
+ 20
+1600.225999999999
+ 10
+9650.0
+ 20
+1600.225999999999
+ 10
+9650.0
+ 20
+-499.7739999999994
+  0
+LWPOLYLINE
+  5
+471
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+26557.5
+ 20
+7770.0
+ 10
+26807.5
+ 20
+7770.0
+  0
+LWPOLYLINE
+  5
+472
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+26682.5
+ 20
+7770.0
+ 10
+26682.5
+ 20
+7160.0
+  0
+LWPOLYLINE
+  5
+473
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33389.126
+ 20
+7770.0
+ 10
+33639.126
+ 20
+7770.0
+  0
+LWPOLYLINE
+  5
+474
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33594.126
+ 20
+7770.0
+ 10
+33594.126
+ 20
+7160.0
+  0
+LWPOLYLINE
+  5
+475
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+34104.99999999998
+ 20
+-1170.0
+ 10
+34104.99999999998
+ 20
+-925.0
+ 10
+33867.669
+ 20
+-925.0
+  0
+LWPOLYLINE
+  5
+476
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        5
+ 70
+     0
+ 43
+0.0
+ 10
+45169.126
+ 20
+-1170.0
+ 10
+45169.126
+ 20
+-925.0
+ 10
+45406.45700000001
+ 20
+-925.0
+ 10
+45406.45700000001
+ 20
+-715.0
+ 10
+45634.99999999998
+ 20
+-715.0
+  0
+LWPOLYLINE
+  5
+477
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+46209.99999999998
+ 20
+-499.7739999999994
+ 10
+46209.99999999998
+ 20
+1600.225999999999
+ 10
+47209.99999999999
+ 20
+1600.225999999999
+ 10
+47209.99999999999
+ 20
+-499.7739999999994
+  0
+LWPOLYLINE
+  5
+478
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+36144.873
+ 20
+3837.563999999998
+ 10
+37714.99999999998
+ 20
+3837.563999999998
+  0
+LWPOLYLINE
+  5
+479
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+36144.873
+ 20
+5712.563999999998
+ 10
+37714.99999999998
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+47A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+36144.873
+ 20
+5087.563999999998
+ 10
+37714.99999999998
+ 20
+5087.563999999998
+  0
+LWPOLYLINE
+  5
+47B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+36144.873
+ 20
+3212.563999999998
+ 10
+37714.99999999998
+ 20
+3212.563999999998
+  0
+LWPOLYLINE
+  5
+47C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+38422.08099999999
+ 20
+3837.563999999998
+ 10
+39992.208
+ 20
+3837.563999999998
+  0
+LWPOLYLINE
+  5
+47D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+38422.08099999999
+ 20
+5712.563999999998
+ 10
+39992.208
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+47E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+38422.08099999999
+ 20
+5087.563999999998
+ 10
+39992.208
+ 20
+5087.563999999998
+  0
+LWPOLYLINE
+  5
+47F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+38422.08099999999
+ 20
+3212.563999999998
+ 10
+39992.208
+ 20
+3212.563999999998
+  0
+LWPOLYLINE
+  5
+480
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+38422.08099999999
+ 20
+5712.563999999998
+ 10
+38422.08099999999
+ 20
+2020.175015683251
+  0
+LWPOLYLINE
+  5
+481
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+39992.208
+ 20
+2151.147308376516
+ 10
+39992.208
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+482
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+40699.289
+ 20
+3837.563999999998
+ 10
+42269.41599999998
+ 20
+3837.563999999998
+  0
+LWPOLYLINE
+  5
+483
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+40699.289
+ 20
+5712.563999999998
+ 10
+42269.41599999998
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+484
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+40699.289
+ 20
+5087.563999999998
+ 10
+42269.41599999998
+ 20
+5087.563999999998
+  0
+LWPOLYLINE
+  5
+485
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+40699.289
+ 20
+3212.563999999998
+ 10
+42269.41599999998
+ 20
+3212.563999999998
+  0
+LWPOLYLINE
+  5
+486
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+40699.289
+ 20
+5712.563999999998
+ 10
+40699.289
+ 20
+2210.128537085942
+  0
+LWPOLYLINE
+  5
+487
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42269.41599999998
+ 20
+2341.100829779205
+ 10
+42269.41599999998
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+488
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42976.49699999999
+ 20
+3837.563999999998
+ 10
+44546.624
+ 20
+3837.563999999998
+  0
+LWPOLYLINE
+  5
+489
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42976.49699999999
+ 20
+5712.563999999998
+ 10
+44546.624
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+48A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42976.49699999999
+ 20
+5087.563999999998
+ 10
+44546.624
+ 20
+5087.563999999998
+  0
+LWPOLYLINE
+  5
+48B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42976.49699999999
+ 20
+3212.563999999998
+ 10
+44546.624
+ 20
+3212.563999999998
+  0
+LWPOLYLINE
+  5
+48C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42976.49699999999
+ 20
+5712.563999999998
+ 10
+42976.49699999999
+ 20
+2400.082058488631
+  0
+LWPOLYLINE
+  5
+48D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+44546.624
+ 20
+2531.054351181896
+ 10
+44546.624
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+48E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+36144.873
+ 20
+1592.5
+ 10
+37714.99999999998
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+48F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+37714.99999999998
+ 20
+997.4999999999999
+ 10
+36144.873
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+490
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+36144.873
+ 20
+700.0
+ 10
+37714.99999999998
+ 20
+700.0
+ 10
+37714.99999999998
+ 20
+1765.049999999996
+  0
+LWPOLYLINE
+  5
+491
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+37714.99999999998
+ 20
+2015.049999999996
+ 10
+37714.99999999998
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+492
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+39992.208
+ 20
+700.0
+ 10
+38422.08099999999
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+493
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+39868.98358973986
+ 20
+1890.0
+ 10
+39992.208
+ 20
+1890.0
+  0
+LWPOLYLINE
+  5
+494
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+38422.08099999999
+ 20
+1592.5
+ 10
+39992.208
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+495
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+39992.208
+ 20
+997.4999999999999
+ 10
+38422.08099999999
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+496
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42269.41599999998
+ 20
+700.0
+ 10
+40699.289
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+497
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+40699.289
+ 20
+1890.0
+ 10
+42269.41599999998
+ 20
+1890.0
+  0
+LWPOLYLINE
+  5
+498
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+40699.289
+ 20
+1592.5
+ 10
+42269.41599999998
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+499
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42269.41599999998
+ 20
+997.4999999999999
+ 10
+40699.289
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+49A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+44546.624
+ 20
+700.0
+ 10
+42976.49699999999
+ 20
+700.0
+  0
+LWPOLYLINE
+  5
+49B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42976.49699999999
+ 20
+1890.0
+ 10
+44546.624
+ 20
+1890.0
+  0
+LWPOLYLINE
+  5
+49C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+42976.49699999999
+ 20
+1592.5
+ 10
+44546.624
+ 20
+1592.5
+  0
+LWPOLYLINE
+  5
+49D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+44546.624
+ 20
+997.4999999999999
+ 10
+42976.49699999999
+ 20
+997.4999999999999
+  0
+LWPOLYLINE
+  5
+49E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+66899.99999999998
+ 20
+530.0
+ 10
+66899.99999999998
+ 20
+2050.0
+  0
+LWPOLYLINE
+  5
+49F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+12669.899
+ 10
+52244.83899999999
+ 20
+12669.899
+  0
+LWPOLYLINE
+  5
+4A0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49389.99999999999
+ 20
+10155.0
+ 10
+49389.99999999999
+ 20
+12669.899
+  0
+LWPOLYLINE
+  5
+4A1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49865.80699999998
+ 20
+10155.0
+ 10
+49865.80699999998
+ 20
+12669.899
+  0
+LWPOLYLINE
+  5
+4A2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48914.194
+ 20
+12669.899
+ 10
+48914.194
+ 20
+10155.0
+  0
+LWPOLYLINE
+  5
+4A3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+12355.537
+ 10
+52244.83899999999
+ 20
+12355.537
+  0
+LWPOLYLINE
+  5
+4A4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+12041.17499999999
+ 10
+52244.83899999999
+ 20
+12041.17499999999
+  0
+LWPOLYLINE
+  5
+4A5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+11412.45
+ 10
+52244.83899999999
+ 20
+11412.45
+  0
+LWPOLYLINE
+  5
+4A6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+10155.001
+ 10
+52244.83899999999
+ 20
+10155.001
+  0
+LWPOLYLINE
+  5
+4A7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+10783.726
+ 10
+52244.83899999999
+ 20
+10783.726
+  0
+LWPOLYLINE
+  5
+4A8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+51293.226
+ 20
+10155.0
+ 10
+51293.226
+ 20
+12669.899
+  0
+LWPOLYLINE
+  5
+4A9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+52244.83899999999
+ 20
+12669.899
+ 10
+52244.83899999999
+ 20
+10155.0
+  0
+LWPOLYLINE
+  5
+4AA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+50817.42
+ 20
+12669.899
+ 10
+50817.42
+ 20
+10155.0
+  0
+LWPOLYLINE
+  5
+4AB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48478.387
+ 20
+9044.898999999999
+ 10
+52284.83899999999
+ 20
+9044.898999999999
+  0
+LWPOLYLINE
+  5
+4AC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49429.99999999998
+ 20
+6530.0
+ 10
+49429.99999999998
+ 20
+9044.898999999999
+  0
+LWPOLYLINE
+  5
+4AD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49905.80699999998
+ 20
+6530.0
+ 10
+49905.80699999998
+ 20
+9044.898999999999
+  0
+LWPOLYLINE
+  5
+4AE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48954.194
+ 20
+9044.898999999999
+ 10
+48954.194
+ 20
+6530.0
+  0
+LWPOLYLINE
+  5
+4AF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48478.387
+ 20
+8730.537000000001
+ 10
+52284.83899999999
+ 20
+8730.537000000001
+  0
+LWPOLYLINE
+  5
+4B0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48478.387
+ 20
+8416.175
+ 10
+52284.83899999999
+ 20
+8416.175
+  0
+LWPOLYLINE
+  5
+4B1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48478.387
+ 20
+7787.450000000001
+ 10
+52284.83899999999
+ 20
+7787.450000000001
+  0
+LWPOLYLINE
+  5
+4B2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48478.387
+ 20
+6530.001
+ 10
+52284.83899999999
+ 20
+6530.001
+  0
+LWPOLYLINE
+  5
+4B3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48478.387
+ 20
+7158.725999999998
+ 10
+52284.83899999999
+ 20
+7158.725999999998
+  0
+LWPOLYLINE
+  5
+4B4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+51333.22600000001
+ 20
+6530.0
+ 10
+51333.22600000001
+ 20
+9044.898999999999
+  0
+LWPOLYLINE
+  5
+4B5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+52284.83899999999
+ 20
+9044.898999999999
+ 10
+52284.83899999999
+ 20
+6530.0
+  0
+LWPOLYLINE
+  5
+4B6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+50857.41999999999
+ 20
+9044.898999999999
+ 10
+50857.41999999999
+ 20
+6530.0
+  0
+LWPOLYLINE
+  5
+4B7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+5644.898999999998
+ 10
+52244.83899999999
+ 20
+5644.898999999998
+  0
+LWPOLYLINE
+  5
+4B8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49389.99999999999
+ 20
+3130.0
+ 10
+49389.99999999999
+ 20
+5644.898999999998
+  0
+LWPOLYLINE
+  5
+4B9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49865.80699999998
+ 20
+3130.0
+ 10
+49865.80699999998
+ 20
+5644.898999999998
+  0
+LWPOLYLINE
+  5
+4BA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48914.194
+ 20
+5644.898999999998
+ 10
+48914.194
+ 20
+3130.0
+  0
+LWPOLYLINE
+  5
+4BB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+5330.537
+ 10
+52244.83899999999
+ 20
+5330.537
+  0
+LWPOLYLINE
+  5
+4BC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+5016.174999999999
+ 10
+52244.83899999999
+ 20
+5016.174999999999
+  0
+LWPOLYLINE
+  5
+4BD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+4387.45
+ 10
+52244.83899999999
+ 20
+4387.45
+  0
+LWPOLYLINE
+  5
+4BE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+3130.001
+ 10
+52244.83899999999
+ 20
+3130.001
+  0
+LWPOLYLINE
+  5
+4BF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+48438.387
+ 20
+3758.725999999998
+ 10
+52244.83899999999
+ 20
+3758.725999999998
+  0
+LWPOLYLINE
+  5
+4C0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+51293.226
+ 20
+3130.0
+ 10
+51293.226
+ 20
+5644.898999999998
+  0
+LWPOLYLINE
+  5
+4C1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+52244.83899999999
+ 20
+5644.898999999998
+ 10
+52244.83899999999
+ 20
+3130.0
+  0
+LWPOLYLINE
+  5
+4C2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+50817.42
+ 20
+5644.898999999998
+ 10
+50817.42
+ 20
+3130.0
+  0
+LWPOLYLINE
+  5
+4C3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+66999.99999999999
+ 20
+176.6669999999994
+ 10
+68749.99999999999
+ 20
+176.6669999999994
+ 10
+68749.99999999999
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+4C4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+66999.99999999999
+ 20
+353.3330000000005
+ 10
+68430.91199999999
+ 20
+353.3330000000005
+ 10
+68430.91199999999
+ 20
+176.6669999999994
+  0
+LWPOLYLINE
+  5
+4C5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+68131.76599999999
+ 20
+530.0
+ 10
+68131.76599999999
+ 20
+353.3330000000005
+  0
+LWPOLYLINE
+  5
+4C6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+       10
+ 70
+     1
+ 43
+0.0
+ 10
+2445.862999999983
+ 20
+14692.243
+ 10
+2449.269
+ 20
+14733.783
+ 10
+2461.106
+ 20
+14773.803
+ 10
+2480.873999999981
+ 20
+14810.555
+ 10
+2507.740999999994
+ 20
+14842.49
+ 10
+2540.565999999991
+ 20
+14868.258
+ 10
+2577.966
+ 20
+14886.77
+ 10
+2618.360999999989
+ 20
+14897.244
+ 10
+2660.04399999998
+ 20
+14899.241
+ 10
+2648.865999999994
+ 20
+14696.501
+  0
+LWPOLYLINE
+  5
+4C7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+14899.899
+ 10
+15400.0
+ 20
+14899.899
+  0
+LWPOLYLINE
+  5
+4C8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+14490.0
+ 10
+2730.0
+ 20
+15770.0
+  0
+LWPOLYLINE
+  5
+4C9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+14899.899
+ 10
+2660.206999999994
+ 20
+14899.232
+ 10
+2445.858999999982
+ 20
+14692.40499999999
+  0
+LWPOLYLINE
+  5
+4CA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+       10
+ 70
+     1
+ 43
+0.0
+ 10
+2445.862999999983
+ 20
+11832.243
+ 10
+2449.269
+ 20
+11873.78299999999
+ 10
+2461.106
+ 20
+11913.803
+ 10
+2480.873999999981
+ 20
+11950.555
+ 10
+2507.740999999994
+ 20
+11982.49
+ 10
+2540.565999999991
+ 20
+12008.258
+ 10
+2577.966
+ 20
+12026.76999999999
+ 10
+2618.360999999989
+ 20
+12037.244
+ 10
+2660.04399999998
+ 20
+12039.241
+ 10
+2648.865999999994
+ 20
+11836.501
+  0
+LWPOLYLINE
+  5
+4CB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+12039.899
+ 10
+15400.0
+ 20
+12039.899
+  0
+LWPOLYLINE
+  5
+4CC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+11630.0
+ 10
+2730.0
+ 20
+12910.0
+  0
+LWPOLYLINE
+  5
+4CD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+12039.899
+ 10
+2660.206999999994
+ 20
+12039.23199999999
+ 10
+2445.858999999982
+ 20
+11832.40499999999
+  0
+LWPOLYLINE
+  5
+4CE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+4150.0
+ 20
+14383.059
+ 10
+3800.0
+ 20
+14383.059
+  0
+LWPOLYLINE
+  5
+4CF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15050.0
+ 20
+15850.0
+ 10
+15400.0
+ 20
+15850.0
+  0
+LWPOLYLINE
+  5
+4D0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15050.0
+ 20
+12990.0
+ 10
+15400.0
+ 20
+12990.0
+  0
+LWPOLYLINE
+  5
+4D1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+4150.0
+ 20
+11523.059
+ 10
+3800.0
+ 20
+11523.059
+  0
+LWPOLYLINE
+  5
+4D2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+3800.0
+ 20
+17590.0
+ 10
+15400.0
+ 20
+17590.0
+  0
+LWPOLYLINE
+  5
+4D3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+3800.0
+ 20
+18010.0
+ 10
+15400.0
+ 20
+18010.0
+  0
+LWPOLYLINE
+  5
+4D4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+3800.0
+ 20
+18430.0
+ 10
+3975.0
+ 20
+18430.0
+ 10
+3975.0
+ 20
+18010.0
+  0
+LWPOLYLINE
+  5
+4D5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+15225.0
+ 20
+18010.0
+ 10
+15225.0
+ 20
+18430.0
+ 10
+15400.0
+ 20
+18430.0
+  0
+LWPOLYLINE
+  5
+4D6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+3910.0
+ 20
+2003.058999999997
+ 10
+7746.940999999991
+ 20
+2003.058999999997
+  0
+LWPOLYLINE
+  5
+4D7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15350.0
+ 20
+1966.790000000001
+ 10
+15000.0
+ 20
+1966.790000000001
+  0
+LWPOLYLINE
+  5
+4D8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+       10
+ 70
+     1
+ 43
+0.0
+ 10
+2445.862999999983
+ 20
+8967.242999999999
+ 10
+2449.269
+ 20
+9008.782999999999
+ 10
+2461.106
+ 20
+9048.802999999999
+ 10
+2480.873999999981
+ 20
+9085.555000000001
+ 10
+2507.740999999994
+ 20
+9117.489999999998
+ 10
+2540.565999999991
+ 20
+9143.257999999999
+ 10
+2577.966
+ 20
+9161.77
+ 10
+2618.360999999989
+ 20
+9172.243999999999
+ 10
+2660.04399999998
+ 20
+9174.241000000002
+ 10
+2648.865999999994
+ 20
+8971.501000000001
+  0
+LWPOLYLINE
+  5
+4D9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+9174.898999999998
+ 10
+15400.0
+ 20
+9174.898999999998
+  0
+LWPOLYLINE
+  5
+4DA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+8765.0
+ 10
+2730.0
+ 20
+10045.0
+  0
+LWPOLYLINE
+  5
+4DB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+9174.898999999998
+ 10
+2660.206999999994
+ 20
+9174.232000000001
+ 10
+2445.858999999982
+ 20
+8967.404999999999
+  0
+LWPOLYLINE
+  5
+4DC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15050.0
+ 20
+10110.0
+ 10
+15400.0
+ 20
+10110.0
+  0
+LWPOLYLINE
+  5
+4DD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+4150.0
+ 20
+8658.058999999997
+ 10
+3800.0
+ 20
+8658.058999999997
+  0
+LWPOLYLINE
+  5
+4DE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+       10
+ 70
+     1
+ 43
+0.0
+ 10
+2445.862999999983
+ 20
+6107.242999999999
+ 10
+2449.269
+ 20
+6148.782999999999
+ 10
+2461.106
+ 20
+6188.803
+ 10
+2480.873999999981
+ 20
+6225.555
+ 10
+2507.740999999994
+ 20
+6257.489999999997
+ 10
+2540.565999999991
+ 20
+6283.257999999998
+ 10
+2577.966
+ 20
+6301.770000000001
+ 10
+2618.360999999989
+ 20
+6312.243999999999
+ 10
+2660.04399999998
+ 20
+6314.241000000002
+ 10
+2648.865999999994
+ 20
+6111.501
+  0
+LWPOLYLINE
+  5
+4DF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+6314.898999999997
+ 10
+15050.0
+ 20
+6314.898999999997
+  0
+LWPOLYLINE
+  5
+4E0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+5905.0
+ 10
+2730.0
+ 20
+7185.0
+  0
+LWPOLYLINE
+  5
+4E1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+2730.0
+ 20
+6314.898999999997
+ 10
+2660.206999999994
+ 20
+6314.232
+ 10
+2445.858999999982
+ 20
+6107.404999999999
+  0
+LWPOLYLINE
+  5
+4E2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15400.0
+ 20
+5625.0
+ 10
+15050.0
+ 20
+5625.0
+  0
+LWPOLYLINE
+  5
+4E3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+4150.0
+ 20
+5625.0
+ 10
+3800.0
+ 20
+5625.0
+  0
+LWPOLYLINE
+  5
+4E4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+8670.0
+ 20
+16630.0
+ 10
+8520.0
+ 20
+16630.0
+  0
+LWPOLYLINE
+  5
+4E5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+8670.0
+ 20
+13850.0
+ 10
+8520.0
+ 20
+13850.0
+  0
+LWPOLYLINE
+  5
+4E6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+8670.0
+ 20
+10970.0
+ 10
+8520.0
+ 20
+10970.0
+  0
+LWPOLYLINE
+  5
+4E7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+8670.0
+ 20
+8085.919999999999
+ 10
+8520.0
+ 20
+8085.919999999999
+  0
+LWPOLYLINE
+  5
+4E8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+10590.0
+ 20
+16630.0
+ 10
+10440.0
+ 20
+16630.0
+  0
+LWPOLYLINE
+  5
+4E9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+10590.0
+ 20
+13850.0
+ 10
+10440.0
+ 20
+13850.0
+  0
+LWPOLYLINE
+  5
+4EA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+10590.0
+ 20
+10970.0
+ 10
+10440.0
+ 20
+10970.0
+  0
+LWPOLYLINE
+  5
+4EB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+10590.0
+ 20
+8085.919999999999
+ 10
+10440.0
+ 20
+8085.919999999999
+  0
+LWPOLYLINE
+  5
+4EC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+12590.0
+ 20
+5625.0
+ 10
+12440.0
+ 20
+5625.0
+  0
+LWPOLYLINE
+  5
+4ED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+12590.0
+ 20
+2530.0
+ 10
+12440.0
+ 20
+2530.0
+  0
+LWPOLYLINE
+  5
+4EE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+15400.0
+ 20
+6930.0
+ 10
+26807.5
+ 20
+6930.0
+  0
+LWPOLYLINE
+  5
+4EF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33389.126
+ 20
+6930.0
+ 10
+37860.615
+ 20
+6930.0
+  0
+LWPOLYLINE
+  5
+4F0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+26557.5
+ 20
+7890.0
+ 10
+26807.5
+ 20
+7890.0
+  0
+LWPOLYLINE
+  5
+4F1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33639.126
+ 20
+5712.563999999998
+ 10
+33389.126
+ 20
+5712.563999999998
+  0
+LWPOLYLINE
+  5
+4F2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33639.126
+ 20
+7880.0
+ 10
+26557.5
+ 20
+7880.0
+  0
+LWPOLYLINE
+  5
+4F3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+26807.5
+ 20
+1750.0
+ 10
+26557.5
+ 20
+1750.0
+  0
+LWPOLYLINE
+  5
+4F4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+33389.126
+ 20
+1765.049999999996
+ 10
+38332.32739947818
+ 20
+1765.049999999996
+  0
+LWPOLYLINE
+  5
+4F5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+3800.0
+ 20
+2519.898999999997
+ 10
+26807.5
+ 20
+2519.898999999997
+  0
+LWPOLYLINE
+  5
+4F6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+26807.5
+ 20
+2269.898999999997
+ 10
+3800.0
+ 20
+2269.898999999997
+ 10
+3800.0
+ 20
+18430.0
+  0
+LWPOLYLINE
+  5
+4F7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+26807.5
+ 20
+2534.949000000001
+ 10
+33639.126
+ 20
+2534.949000000001
+  0
+LWPOLYLINE
+  5
+4F8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        5
+ 70
+     0
+ 43
+0.0
+ 10
+68097.57599999999
+ 20
+3980.0
+ 10
+68097.57599999999
+ 20
+2284.949
+ 10
+44593.29199999999
+ 20
+2284.949
+ 10
+44593.29199999999
+ 20
+2534.949000000001
+ 10
+68097.57599999999
+ 20
+2534.949000000001
+  0
+LWPOLYLINE
+  5
+4F9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+33639.126
+ 20
+2015.049999999996
+ 10
+38360.615
+ 20
+2015.049999999996
+ 10
+38360.615
+ 20
+2015.047823460787
+  0
+LWPOLYLINE
+  5
+4FA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        5
+ 70
+     0
+ 43
+0.0
+ 10
+44603.72615071285
+ 20
+2284.949
+ 10
+38332.59499999998
+ 20
+1761.842
+ 10
+38311.81300000001
+ 20
+2010.976999999999
+ 10
+44593.28999999999
+ 20
+2534.947
+ 10
+44593.29199999999
+ 20
+2534.923023962952
+  0
+LWPOLYLINE
+  5
+4FB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+37860.615
+ 20
+6314.898999999997
+ 10
+67847.57599999998
+ 20
+6314.898999999997
+  0
+LWPOLYLINE
+  5
+4FC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        5
+ 70
+     0
+ 43
+0.0
+ 10
+37860.615
+ 20
+7250.0
+ 10
+38110.615
+ 20
+7250.0
+ 10
+38110.615
+ 20
+5810.0
+ 10
+37860.615
+ 20
+5810.0
+ 10
+37860.615
+ 20
+9210.0
+  0
+LWPOLYLINE
+  5
+4FD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+67847.57599999998
+ 20
+2284.949
+ 10
+67847.57599999998
+ 20
+13339.899
+  0
+LWPOLYLINE
+  5
+4FE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+37880.615
+ 20
+13339.899
+ 10
+68372.42299999999
+ 20
+13339.899
+  0
+LWPOLYLINE
+  5
+4FF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+38130.615
+ 20
+14290.0
+ 10
+38130.615
+ 20
+12750.0
+ 10
+37880.615
+ 20
+12750.0
+ 10
+37880.615
+ 20
+14290.0
+  0
+LWPOLYLINE
+  5
+500
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+68372.42299999999
+ 20
+13339.899
+ 10
+68372.42299999999
+ 20
+12810.0
+ 10
+67847.57599999998
+ 20
+12810.0
+  0
+LWPOLYLINE
+  5
+501
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+67352.42299999999
+ 20
+9464.898999999999
+ 10
+37860.615
+ 20
+9464.898999999999
+ 10
+37860.615
+ 20
+9714.898999999999
+ 10
+67847.57599999998
+ 20
+9714.898999999999
+  0
+LWPOLYLINE
+  5
+502
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+37880.615
+ 20
+10650.0
+ 10
+38130.615
+ 20
+10650.0
+ 10
+38130.615
+ 20
+9210.0
+ 10
+37880.615
+ 20
+9210.0
+  0
+LWPOLYLINE
+  5
+503
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+67847.57599999998
+ 20
+9452.347999999998
+ 10
+67352.42299999999
+ 20
+9452.347999999998
+ 10
+67352.42299999999
+ 20
+9977.449000000001
+ 10
+67847.57599999998
+ 20
+9977.449000000001
+  0
+LWPOLYLINE
+  5
+504
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+67352.42299999999
+ 20
+6064.898999999997
+ 10
+67352.42299999999
+ 20
+6590.0
+ 10
+67847.57599999998
+ 20
+6590.0
+  0
+LWPOLYLINE
+  5
+505
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49209.99999999998
+ 20
+2310.0
+ 10
+49559.99999999998
+ 20
+2310.0
+  0
+LWPOLYLINE
+  5
+506
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+51113.22600000001
+ 20
+2310.0
+ 10
+51463.22600000001
+ 20
+2310.0
+  0
+LWPOLYLINE
+  5
+507
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+45634.99999999998
+ 20
+-499.7739999999994
+ 10
+66999.99999999999
+ 20
+-499.7739999999994
+  0
+LWPOLYLINE
+  5
+508
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+45634.99999999998
+ 20
+-749.7739999999994
+ 10
+66999.99999999999
+ 20
+-749.7739999999994
+ 10
+66999.99999999999
+ 20
+5195.0
+  0
+LWPOLYLINE
+  5
+509
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+46449.99999999998
+ 20
+-1170.0
+ 10
+46449.99999999998
+ 20
+-1420.0
+ 10
+33389.126
+ 20
+-1420.0
+ 10
+33389.126
+ 20
+7880.0
+  0
+LWPOLYLINE
+  5
+50A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+3910.0
+ 20
+-499.7739999999994
+ 10
+33639.126
+ 20
+-499.7739999999994
+  0
+LWPOLYLINE
+  5
+50B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49604.99999999998
+ 20
+9464.898999999999
+ 10
+49604.99999999998
+ 20
+9044.898999999999
+  0
+LWPOLYLINE
+  5
+50C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+51508.22600000001
+ 20
+9464.898999999999
+ 10
+51508.22600000001
+ 20
+9044.898999999999
+  0
+LWPOLYLINE
+  5
+50D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49604.99999999998
+ 20
+13089.899
+ 10
+49604.99999999998
+ 20
+12669.899
+  0
+LWPOLYLINE
+  5
+50E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+51508.22600000001
+ 20
+13089.899
+ 10
+51508.22600000001
+ 20
+12669.899
+  0
+LWPOLYLINE
+  5
+50F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+47701.77399999999
+ 20
+6064.898999999997
+ 10
+47701.77399999999
+ 20
+5644.898999999998
+ 10
+47351.77399999999
+ 20
+5644.898999999998
+  0
+LWPOLYLINE
+  5
+510
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+49604.99999999998
+ 20
+6064.898999999997
+ 10
+49604.99999999998
+ 20
+5644.898999999998
+  0
+LWPOLYLINE
+  5
+511
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+51508.22600000001
+ 20
+6064.898999999997
+ 10
+51508.22600000001
+ 20
+5644.898999999998
+  0
+LWPOLYLINE
+  5
+512
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+53411.452
+ 20
+5644.898999999998
+ 10
+53061.452
+ 20
+5644.898999999998
+ 10
+53061.452
+ 20
+6064.898999999997
+  0
+LWPOLYLINE
+  5
+513
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+47701.77399999999
+ 20
+9464.898999999999
+ 10
+47701.77399999999
+ 20
+9044.898999999999
+ 10
+47351.77399999999
+ 20
+9044.898999999999
+  0
+LWPOLYLINE
+  5
+514
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+53411.452
+ 20
+9044.898999999999
+ 10
+53061.452
+ 20
+9044.898999999999
+ 10
+53061.452
+ 20
+9464.898999999999
+  0
+LWPOLYLINE
+  5
+515
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+47701.77399999999
+ 20
+13089.899
+ 10
+47701.77399999999
+ 20
+12669.899
+ 10
+47351.77399999999
+ 20
+12669.899
+  0
+LWPOLYLINE
+  5
+516
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+53411.452
+ 20
+12669.899
+ 10
+53061.452
+ 20
+12669.899
+ 10
+53061.452
+ 20
+13089.899
+  0
+LWPOLYLINE
+  5
+517
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+45984.99999999998
+ 20
+8530.0
+ 10
+45634.99999999998
+ 20
+8530.0
+ 10
+45634.99999999998
+ 20
+9464.898999999999
+  0
+LWPOLYLINE
+  5
+518
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+45984.99999999998
+ 20
+12669.899
+ 10
+45634.99999999998
+ 20
+12669.899
+  0
+LWPOLYLINE
+  5
+519
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+45984.99999999998
+ 20
+1438.610999999998
+ 10
+45634.99999999998
+ 20
+1438.610999999998
+  0
+LWPOLYLINE
+  5
+51A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+45634.99999999998
+ 20
+5130.0
+ 10
+45634.99999999998
+ 20
+6064.898999999997
+  0
+LWPOLYLINE
+  5
+51B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+45984.99999999998
+ 20
+12155.0
+ 10
+45634.99999999998
+ 20
+12155.0
+ 10
+45634.99999999998
+ 20
+13089.899
+  0
+LWPOLYLINE
+  5
+51C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+55128.22600000001
+ 20
+12155.0
+ 10
+54778.22600000001
+ 20
+12155.0
+  0
+LWPOLYLINE
+  5
+51D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+55128.22600000001
+ 20
+8530.0
+ 10
+54778.22600000001
+ 20
+8530.0
+  0
+LWPOLYLINE
+  5
+51E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+55128.22600000001
+ 20
+5130.0
+ 10
+54778.22600000001
+ 20
+5130.0
+  0
+LWPOLYLINE
+  5
+51F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+3910.0
+ 20
+250.0
+ 10
+4260.0
+ 20
+250.0
+  0
+LWPOLYLINE
+  5
+520
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+3910.0
+ 20
+2519.898999999997
+ 10
+3910.0
+ 20
+-1750.0
+ 10
+4260.0
+ 20
+-1750.0
+ 10
+4260.0
+ 20
+2519.898999999997
+  0
+LWPOLYLINE
+  5
+521
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+3800.0
+ 20
+3750.0
+ 10
+4150.0
+ 20
+3750.0
+  0
+LWPOLYLINE
+  5
+522
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+54778.22600000001
+ 20
+2373.509999999998
+ 10
+55128.22600000001
+ 20
+2373.509999999998
+  0
+LWPOLYLINE
+  5
+523
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+66524.99999999998
+ 20
+2470.0
+ 10
+66999.99999999999
+ 20
+2470.0
+  0
+LWPOLYLINE
+  5
+524
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+66524.99999999998
+ 20
+530.0
+ 10
+68131.76599999999
+ 20
+530.0
+  0
+LWPOLYLINE
+  5
+525
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 389 Bauhaus
+  6
+Continuous
+370
+     5
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+66999.99999999999
+ 20
+-619.7739999999994
+ 10
+66524.99999999998
+ 20
+-619.7739999999994
+ 10
+66524.99999999998
+ 20
+2470.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+AcDbVariableDictionary
+350
+5E
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+51
+  3
+Layout2
+350
+56
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+5E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+5F
+  3
+HIDETEXT
+350
+63
+  0
+LAYOUT
+  5
+51
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+50
+  0
+LAYOUT
+  5
+56
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+55
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+19.04999923706054
+ 42
+6.350006103515625
+ 43
+19.04998779296875
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+78.436453180766
+ 70
+ 11952
+ 72
+     0
+ 73
+     1
+ 74
+     0
+  7
+
+ 75
+     0
+147
+0.0127491741332998
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARYVAR
+  5
+5F
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+63
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF

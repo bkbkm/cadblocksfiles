@@ -1,0 +1,6512 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    13
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-6.036986333826689
+ 20
+-0.0090630292066862
+ 30
+-0.0015258207003583
+  9
+$EXTMAX
+ 10
+27.51251272800436
+ 20
+9.462524770831805
+ 30
+0.0000000349246037
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     1
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+ceco.net 275 Villa Savoye section view
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     2
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+10.0
+  9
+$CHAMFERB
+ 40
+10.0
+  9
+$CHAMFERC
+ 40
+20.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2455079.811409143
+  9
+$TDUCREATE
+ 40
+2455079.936409144
+  9
+$TDUPDATE
+ 40
+2457457.824233101
+  9
+$TDUUPDATE
+ 40
+2457457.949233101
+  9
+$TDINDWG
+ 40
+0.0487683681
+  9
+$TDUSRTIMER
+ 40
+0.0487683681
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+A35
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     6
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{81085373-3A21-4932-80AA-8F6C3258C50C}
+  9
+$VERSIONGUID
+  2
+{A16A347D-A1C3-4F5F-837D-3F78A5128FB6}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+VPORT
+  5
+A34
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+10.73776319708883
+ 22
+4.726730870812559
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+14.65272841857255
+ 41
+2.298642533936651
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+8F6
+102
+{ACAD_XDICTIONARY
+360
+8F7
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net 275 Villa Savoye section view
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    15
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+     7
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+2C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+11B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+     0
+  0
+APPID
+  5
+11C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+8F9
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+DCO15
+ 70
+     0
+  0
+APPID
+  5
+8FA
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+APPID
+  5
+8FB
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+2B
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+1B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+  0
+BLOCK_RECORD
+  5
+23
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+26
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+24
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+25
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+999
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+1.348837707145636
+ 20
+-0.0000000000000116
+ 10
+1.348837707145636
+ 20
+2.948787582645932
+ 10
+1.149625508242241
+ 20
+2.948787582645932
+ 10
+1.149625508242241
+ 20
+-0.0000000000000116
+ 10
+1.348837707145636
+ 20
+-0.0000000000000116
+  0
+LWPOLYLINE
+  5
+99A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+1.348837707145636
+ 20
+3.249715925693457
+ 10
+1.348837707145636
+ 20
+6.196419213582214
+ 10
+1.149625508242241
+ 20
+6.196419213582214
+ 10
+1.149625508242241
+ 20
+3.249715925693457
+ 10
+1.348837707145636
+ 20
+3.249715925693457
+  0
+LINE
+  5
+99B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+4.876606533427314
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+4.876606533427314
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+99C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+0.9130513033188643
+ 30
+0.0
+ 11
+8.389888896148109
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+99D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+0.9130513033188643
+ 30
+0.0
+ 11
+12.5567731148046
+ 21
+1.633143392005628
+ 31
+0.0
+  0
+LINE
+  5
+99E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.75806950846545
+ 20
+1.666336808511202
+ 30
+0.0
+ 11
+14.28329557192537
+ 21
+1.929903145538781
+ 31
+0.0
+  0
+LINE
+  5
+99F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+14.28329557192537
+ 20
+1.929903145538781
+ 30
+0.0
+ 11
+12.75806950846545
+ 21
+2.193417882696149
+ 31
+0.0
+  0
+LINE
+  5
+9A0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.5567731148046
+ 20
+2.228695493959167
+ 30
+0.0
+ 11
+8.427147141333662
+ 21
+2.942348870603888
+ 31
+0.0
+  0
+LINE
+  5
+9A1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+16.92708962174934
+ 20
+2.386428797198218
+ 30
+0.0
+ 11
+16.92708962174934
+ 21
+1.473377493879349
+ 31
+0.0
+  0
+LINE
+  5
+9A2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+16.92708962174934
+ 20
+2.386428797198218
+ 30
+0.0
+ 11
+10.74932546124236
+ 21
+3.455129208998706
+ 31
+0.0
+  0
+LINE
+  5
+9A3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+16.92708962174934
+ 20
+5.636144822891435
+ 30
+0.0
+ 11
+16.92708962174934
+ 21
+4.72512601446004
+ 31
+0.0
+  0
+LINE
+  5
+9A4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.5567731148046
+ 20
+2.228695493959167
+ 30
+0.0
+ 11
+12.5567731148046
+ 21
+1.633143392005628
+ 31
+0.0
+  0
+LINE
+  5
+9A5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.75806950846545
+ 20
+1.666336808511202
+ 30
+0.0
+ 11
+12.75806950846545
+ 21
+2.193417882696149
+ 31
+0.0
+  0
+LINE
+  5
+9A6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+18.20745610112688
+ 20
+6.497295956759529
+ 30
+0.0
+ 11
+11.93839717026196
+ 21
+6.497295956759529
+ 31
+0.0
+  0
+LINE
+  5
+9A7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+9.439882455003655
+ 20
+1.509415526361764
+ 30
+0.0
+ 11
+9.439882455003655
+ 21
+1.093608349147274
+ 31
+0.0
+  0
+LINE
+  5
+9A8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+9.340302205486933
+ 20
+2.784853095005279
+ 30
+0.0
+ 11
+9.340302205486933
+ 21
+2.456992040499
+ 31
+0.0
+  0
+LINE
+  5
+9A9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+10.74724126648492
+ 20
+2.542077905679831
+ 30
+0.0
+ 11
+10.74724126648492
+ 21
+1.319812780154659
+ 31
+0.0
+  0
+LINE
+  5
+9AA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+4.361979527915516
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+4.361979527915516
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9AB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+10.29900099398452
+ 20
+2.618834412607199
+ 30
+0.0
+ 11
+10.29900099398452
+ 21
+2.006552245802927
+ 31
+0.0
+  0
+LINE
+  5
+9AC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+9.863214690157512
+ 20
+2.693558324647334
+ 30
+0.0
+ 11
+9.863214690157512
+ 21
+2.258734692221219
+ 31
+0.0
+  0
+LINE
+  5
+9AD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+9.431596975844872
+ 20
+2.768282236687475
+ 30
+0.0
+ 11
+9.431596975844872
+ 21
+2.422065673779375
+ 31
+0.0
+  0
+LINE
+  5
+9AE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+9.004096151176641
+ 20
+1.675711207956976
+ 30
+0.0
+ 11
+9.004096151176641
+ 21
+1.018884437107139
+ 31
+0.0
+  0
+LINE
+  5
+9AF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.58701680029433
+ 20
+1.84575867025524
+ 30
+0.0
+ 11
+8.58701680029433
+ 21
+0.9462964196943906
+ 31
+0.0
+  0
+LINE
+  5
+9B0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+7.77979843076424
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+7.77979843076424
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9B1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+7.395860796517552
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+7.395860796517552
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9B2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+7.026513025571638
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+7.026513025571638
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9B3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+6.673736112943553
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+6.673736112943553
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9B4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+6.33961435339046
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+6.33961435339046
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9B5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+5.731608182763777
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+5.731608182763777
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9B6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+5.45975636657741
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+5.45975636657741
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9B7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+5.212812587737595
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+5.212812587737595
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9B8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+4.988692451487396
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+4.988692451487396
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9B9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.188592502487264
+ 20
+0.9130513033188643
+ 30
+0.0
+ 11
+4.876606533427314
+ 21
+0.9130513033188643
+ 31
+0.0
+  0
+LINE
+  5
+9BA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+11.4715018446863
+ 20
+6.57827265307147
+ 30
+0.0
+ 11
+11.4715018446863
+ 21
+9.446135239275431
+ 31
+0.0
+  0
+LINE
+  5
+9BB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+11.87201043725055
+ 20
+9.446135239275431
+ 30
+0.0
+ 11
+11.87201043725055
+ 21
+6.507717330545697
+ 31
+0.0
+  0
+LINE
+  5
+9BC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+11.87201043725055
+ 20
+1.514856289543951
+ 30
+0.0
+ 11
+11.87201043725055
+ 21
+2.346982596420844
+ 31
+0.0
+  0
+LINE
+  5
+9BD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+11.4715018446863
+ 20
+3.330641022135181
+ 30
+0.0
+ 11
+11.4715018446863
+ 21
+3.579669095732183
+ 31
+0.0
+  0
+LINE
+  5
+9BE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+11.87201043725055
+ 20
+3.260085599609672
+ 30
+0.0
+ 11
+11.87201043725055
+ 21
+3.648140223500524
+ 31
+0.0
+  0
+LINE
+  5
+9BF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+11.4715018446863
+ 20
+1.444300967018178
+ 30
+0.0
+ 11
+11.4715018446863
+ 21
+2.415505424059131
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+9C0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+20.34694121948504
+ 20
+3.249715925693457
+ 10
+20.34694121948504
+ 20
+6.196419213582214
+ 10
+20.14772902058163
+ 20
+6.196419213582214
+ 10
+20.14772902058163
+ 20
+3.249715925693457
+ 10
+20.34694121948504
+ 20
+3.249715925693457
+  0
+LWPOLYLINE
+  5
+9C1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+7.705074518724106
+ 20
+3.249715925693457
+ 10
+7.705074518724106
+ 20
+5.347670448517311
+ 10
+6.904057433595359
+ 20
+5.347670448517311
+ 10
+6.904057433595359
+ 20
+3.249715925693457
+ 10
+7.705074518724106
+ 20
+3.249715925693457
+  0
+LWPOLYLINE
+  5
+9C2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+5.038508426180738
+ 20
+3.249715925693457
+ 10
+5.038508426180738
+ 20
+5.347670448517311
+ 10
+4.239575535809419
+ 20
+5.347670448517311
+ 10
+4.239575535809419
+ 20
+3.249715925693457
+ 10
+5.038508426180738
+ 20
+3.249715925693457
+  0
+LINE
+  5
+9C3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.269517598928993
+ 20
+9.446135239275431
+ 30
+0.0
+ 11
+8.269517598928993
+ 21
+7.109470616900831
+ 31
+0.0
+  0
+LINE
+  5
+9C4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.269517598928993
+ 20
+9.446135239275431
+ 30
+0.0
+ 11
+8.269517598928993
+ 21
+7.109470616900831
+ 31
+0.0
+  0
+LINE
+  5
+9C5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+10.46710397113978
+ 20
+9.446135239275431
+ 30
+0.0
+ 11
+10.46710397113978
+ 21
+6.750492619870898
+ 31
+0.0
+  0
+LINE
+  5
+9C6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+7.109470616900831
+ 30
+0.0
+ 11
+16.92708962174934
+ 21
+5.636144822891435
+ 31
+0.0
+  0
+LINE
+  5
+9C7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+6.098871658952492
+ 20
+6.497295956759529
+ 30
+0.0
+ 11
+6.098871658952492
+ 21
+7.109470616900831
+ 31
+0.0
+  0
+LINE
+  5
+9C8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+7.109470616900831
+ 30
+0.0
+ 11
+6.098871658952492
+ 21
+7.109470616900831
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+9C9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+5.079987221845347
+ 20
+3.249715925693457
+ 10
+5.079987221845347
+ 20
+5.387116649294686
+ 10
+4.200129335032045
+ 20
+5.387116649294686
+ 10
+4.200129335032045
+ 20
+3.249715925693457
+ 10
+5.079987221845347
+ 20
+3.249715925693457
+  0
+LWPOLYLINE
+  5
+9CA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+7.744520819501228
+ 20
+3.249715925693457
+ 10
+7.744520819501228
+ 20
+5.387116649294686
+ 10
+6.864611132818226
+ 20
+5.387116649294686
+ 10
+6.864611132818226
+ 20
+3.249715925693457
+ 10
+7.744520819501228
+ 20
+3.249715925693457
+  0
+LINE
+  5
+9CB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+6.098871658952492
+ 20
+-0.0000000000000117
+ 30
+0.0
+ 11
+6.098871658952492
+ 21
+2.948787582645932
+ 31
+0.0
+  0
+LINE
+  5
+9CC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+6.098871658952492
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+5.899659560048832
+ 21
+2.948787582645932
+ 31
+0.0
+  0
+LINE
+  5
+9CD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+5.899659560048832
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+5.899659560048821
+ 21
+-0.0000000000000117
+ 31
+0.0
+  0
+LINE
+  5
+9CE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+-0.0000000000000117
+ 30
+0.0
+ 11
+8.389888896148109
+ 21
+2.948787582645932
+ 31
+0.0
+  0
+LINE
+  5
+9CF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+8.188592502487264
+ 21
+2.948787582645932
+ 31
+0.0
+  0
+LINE
+  5
+9D0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.188592502487264
+ 20
+2.948787582645932
+ 30
+0.0
+ 11
+8.188592502487264
+ 21
+-0.0000000000000117
+ 31
+0.0
+  0
+LINE
+  5
+9D1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+9.564692793128381
+ 20
+-0.0000000000000116
+ 30
+0.0
+ 11
+16.9436605800669
+ 21
+1.27416529497594
+ 31
+0.0
+  0
+LINE
+  5
+9D2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148098
+ 20
+-0.0000000000000119
+ 30
+0.0
+ 11
+16.92708972174908
+ 21
+1.473377493879346
+ 31
+0.0
+  0
+LINE
+  5
+9D3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+18.20745620112664
+ 20
+3.17499201365332
+ 30
+0.0
+ 11
+18.20745620112664
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9D4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+18.3070363506436
+ 20
+2.948787682645678
+ 30
+0.0
+ 11
+18.30703635064362
+ 21
+-0.0000000000000116
+ 31
+0.0
+  0
+LINE
+  5
+9D5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+18.20745610112688
+ 20
+2.948787682645678
+ 30
+0.0
+ 11
+21.29735452882386
+ 21
+2.948787582645939
+ 31
+0.0
+  0
+LINE
+  5
+9D6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+18.40666830003029
+ 20
+3.249715925693453
+ 30
+0.0
+ 11
+21.29735452882387
+ 21
+3.249715925693453
+ 31
+0.0
+  0
+LINE
+  5
+9D7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+21.49656662772752
+ 20
+2.948787682645678
+ 30
+0.0
+ 11
+21.49656662772752
+ 21
+3.249715925693453
+ 31
+0.0
+  0
+LINE
+  5
+9D8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+21.49656662772752
+ 20
+3.098235506725947
+ 30
+0.0
+ 11
+21.49656662772752
+ 21
+6.347899732549461
+ 31
+0.0
+  0
+LINE
+  5
+9D9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+21.29735452882387
+ 20
+3.249715925693453
+ 30
+0.0
+ 11
+21.29735452882386
+ 21
+6.196419313581968
+ 31
+0.0
+  0
+LINE
+  5
+9DA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+21.49656662772752
+ 20
+-0.000000000000007
+ 30
+0.0
+ 11
+21.49656662772752
+ 21
+2.948787582645939
+ 31
+0.0
+  0
+LINE
+  5
+9DB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+21.29735452882386
+ 20
+-0.000000000000007
+ 30
+0.0
+ 11
+21.29735452882386
+ 21
+2.948787582645939
+ 31
+0.0
+  0
+LINE
+  5
+9DC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+18.40666830003029
+ 20
+6.196419313581968
+ 30
+0.0
+ 11
+21.29735452882386
+ 21
+6.196419313581968
+ 31
+0.0
+  0
+LINE
+  5
+9DD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+18.20745610112688
+ 20
+6.497295956759534
+ 30
+0.0
+ 11
+21.49656662772752
+ 21
+6.497295956759534
+ 31
+0.0
+  0
+LINE
+  5
+9DE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+21.49656662772752
+ 20
+6.196419313581968
+ 30
+0.0
+ 11
+21.49656662772752
+ 21
+6.497295956759534
+ 31
+0.0
+  0
+LINE
+  5
+9DF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+2.349066991177801
+ 20
+6.497295956759529
+ 30
+0.0
+ 11
+2.349066991177801
+ 21
+9.446135239275431
+ 31
+0.0
+  0
+LINE
+  5
+9E0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+1.587496006826681
+ 20
+9.446135239275431
+ 30
+0.0
+ 11
+1.587496006826681
+ 21
+6.497295956759529
+ 31
+0.0
+  0
+LINE
+  5
+9E1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+1.587496006826681
+ 20
+6.497295956759529
+ 30
+0.0
+ 11
+2.349066991177801
+ 21
+6.497295956759529
+ 31
+0.0
+  0
+LINE
+  5
+9E2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+5.899659560048832
+ 20
+6.497295956759529
+ 30
+0.0
+ 11
+5.899659560048832
+ 21
+9.446135239275431
+ 31
+0.0
+  0
+LINE
+  5
+9E3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+2.448698840564728
+ 20
+9.446135239275431
+ 30
+0.0
+ 11
+2.448698840564728
+ 21
+6.497295956759529
+ 31
+0.0
+  0
+LINE
+  5
+9E4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+2.448698840564728
+ 20
+6.497295956759529
+ 30
+0.0
+ 11
+5.899659560048832
+ 21
+6.497295956759529
+ 31
+0.0
+  0
+LINE
+  5
+9E5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+2.349066891178043
+ 20
+9.446135239275422
+ 30
+0.0
+ 11
+2.349066891178043
+ 21
+6.497295856759773
+ 31
+0.0
+  0
+LINE
+  5
+9E6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+2.448698840564728
+ 20
+9.446135239275422
+ 30
+0.0
+ 11
+2.448698840564728
+ 21
+6.497295856759773
+ 31
+0.0
+  0
+LINE
+  5
+9E7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+1.587496006826681
+ 20
+9.446135239275431
+ 30
+0.0
+ 11
+11.87201043725055
+ 21
+9.446135239275431
+ 31
+0.0
+  0
+LINE
+  5
+9E8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+21.3969863782108
+ 20
+1.998374273307114
+ 30
+0.0
+ 11
+21.3969863782108
+ 21
+0.9483291145813666
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+9E9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+21.49656662772752
+ 20
+0.9483291145813666
+ 10
+21.49656662772752
+ 20
+1.998374273307114
+ 10
+21.29735452882386
+ 20
+1.998374273307114
+ 10
+21.29735452882386
+ 20
+0.9483291145813666
+ 10
+21.49656662772752
+ 20
+0.9483291145813666
+  0
+LINE
+  5
+9EA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+21.3969863782108
+ 20
+5.248090199000581
+ 30
+0.0
+ 11
+21.3969863782108
+ 21
+4.200129235032266
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+9EB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+21.49656662772752
+ 20
+4.200129235032266
+ 10
+21.49656662772752
+ 20
+5.248090199000581
+ 10
+21.29735452882386
+ 20
+5.248090199000581
+ 10
+21.29735452882386
+ 20
+4.200129235032266
+ 10
+21.49656662772752
+ 20
+4.200129235032266
+  0
+LINE
+  5
+9EC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+18.20745620112663
+ 20
+6.497295856759769
+ 30
+0.0
+ 11
+18.20745620112663
+ 21
+2.948787582645916
+ 31
+0.0
+  0
+LINE
+  5
+9ED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+18.40666830003029
+ 20
+6.196419213582201
+ 30
+0.0
+ 11
+18.40666830003029
+ 21
+3.249715925693438
+ 31
+0.0
+  0
+LINE
+  5
+9EE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+16.94366048006715
+ 20
+1.274165394975684
+ 30
+0.0
+ 11
+18.20745620112664
+ 21
+1.274165394975684
+ 31
+0.0
+  0
+LINE
+  5
+9EF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+16.92708962174934
+ 20
+1.473377493879342
+ 30
+0.0
+ 11
+18.20745620112664
+ 21
+1.473377493879342
+ 31
+0.0
+  0
+SPLINE
+  5
+9F0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+    22
+ 73
+    19
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+2.0
+ 40
+3.0
+ 40
+4.0
+ 40
+5.0
+ 40
+6.0
+ 40
+7.0
+ 40
+8.0
+ 40
+9.0
+ 40
+10.0
+ 40
+11.0
+ 40
+12.0
+ 40
+13.0
+ 40
+14.0
+ 40
+15.0
+ 40
+16.0
+ 40
+17.0
+ 40
+17.0
+ 40
+17.0
+ 10
+8.389888895431962
+ 20
+3.011057569024717
+ 30
+0.0
+ 10
+8.395801956323282
+ 20
+2.999540213148366
+ 30
+0.0
+ 10
+8.511115442781722
+ 20
+2.788966928606851
+ 30
+0.0
+ 10
+8.688509724169479
+ 20
+2.707832820578506
+ 30
+0.0
+ 10
+8.87179110075308
+ 20
+2.636056118479825
+ 30
+0.0
+ 10
+9.128535056024585
+ 20
+2.537945779580396
+ 30
+0.0
+ 10
+9.38869341094227
+ 20
+2.438503855633425
+ 30
+0.0
+ 10
+9.649714937047129
+ 20
+2.338555683674957
+ 30
+0.0
+ 10
+9.904746529400583
+ 20
+2.243677925384906
+ 30
+0.0
+ 10
+10.08960547002373
+ 20
+2.168632412306605
+ 30
+0.0
+ 10
+10.23075610688626
+ 20
+2.105738596217756
+ 30
+0.0
+ 10
+10.3368641624561
+ 20
+1.951595518497918
+ 30
+0.0
+ 10
+10.36139935823623
+ 20
+1.911881905501087
+ 30
+0.0
+ 10
+10.39043040234035
+ 20
+1.857599501852716
+ 30
+0.0
+ 10
+10.3854494626318
+ 20
+1.866912889922355
+ 30
+0.0
+ 10
+10.38630405677905
+ 20
+1.865314965152892
+ 30
+0.0
+ 10
+10.38603426060793
+ 20
+1.86581943149629
+ 30
+0.0
+ 10
+10.38617890436377
+ 20
+1.865548975817468
+ 30
+0.0
+ 10
+10.38617890436377
+ 20
+1.865548975817468
+ 30
+0.0
+  0
+SPLINE
+  5
+9F1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+    11
+ 73
+     8
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+2.0
+ 40
+3.0
+ 40
+4.0
+ 40
+5.0
+ 40
+5.514496547440026
+ 40
+5.514496547440026
+ 40
+5.514496547440026
+ 10
+8.389888895431962
+ 20
+2.102123087772301
+ 30
+0.0
+ 10
+8.395801956323282
+ 20
+2.09060573189595
+ 30
+0.0
+ 10
+8.5111244605602
+ 20
+1.880061234493108
+ 30
+0.0
+ 10
+8.68850227928943
+ 20
+1.798903609028403
+ 30
+0.0
+ 10
+8.872820983733685
+ 20
+1.726277718985296
+ 30
+0.0
+ 10
+9.130637507399161
+ 20
+1.626968068297555
+ 30
+0.0
+ 10
+9.349480167709328
+ 20
+1.543294431842211
+ 30
+0.0
+ 10
+9.439882455003655
+ 20
+1.509415526361767
+ 30
+0.0
+  0
+LINE
+  5
+9F2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+3.011057526012673
+ 30
+0.0
+ 11
+8.389888896148109
+ 21
+2.102123112338211
+ 31
+0.0
+  0
+LINE
+  5
+9F3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+10.38617887469805
+ 20
+1.86554900741461
+ 30
+0.0
+ 11
+10.38617887469805
+ 21
+1.257542836787923
+ 31
+0.0
+  0
+LINE
+  5
+9F4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+9.439882455003655
+ 20
+1.509415526361764
+ 30
+0.0
+ 11
+10.166480764254
+ 21
+1.220069612903856
+ 31
+0.0
+  0
+LINE
+  5
+9F5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+0.0
+ 20
+2.948787682645678
+ 30
+0.0
+ 11
+8.389888896148109
+ 21
+2.948787682645678
+ 31
+0.0
+  0
+LINE
+  5
+9F6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+0.1992121989034069
+ 20
+3.249715925693453
+ 30
+0.0
+ 11
+8.389888896148109
+ 21
+3.249715925693453
+ 31
+0.0
+  0
+LINE
+  5
+9F7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+2.948787682645678
+ 30
+0.0
+ 11
+8.389888896148109
+ 21
+3.249715925693453
+ 31
+0.0
+  0
+LINE
+  5
+9F8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+0.0000000999997589
+ 20
+6.497295856759769
+ 30
+0.0
+ 11
+0.0000000999997589
+ 21
+2.948787582645916
+ 31
+0.0
+  0
+LINE
+  5
+9F9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+0.1992121989034184
+ 20
+6.196419213582201
+ 30
+0.0
+ 11
+0.1992121989034184
+ 21
+3.249715925693438
+ 31
+0.0
+  0
+LINE
+  5
+9FA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+0.1992121989034069
+ 20
+6.196419313581968
+ 30
+0.0
+ 11
+6.098871658952492
+ 21
+6.196419313581968
+ 31
+0.0
+  0
+LINE
+  5
+9FB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+0.0
+ 20
+6.497295956759534
+ 30
+0.0
+ 11
+6.098871658952492
+ 21
+6.497295956759534
+ 31
+0.0
+  0
+LINE
+  5
+9FC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+6.098871658952492
+ 20
+6.196419313581968
+ 30
+0.0
+ 11
+6.098871658952492
+ 21
+6.497295956759534
+ 31
+0.0
+  0
+LINE
+  5
+9FD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+5.99929140943577
+ 20
+6.196419313581959
+ 30
+0.0
+ 11
+5.99929140943577
+ 21
+3.249715925693448
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+9FE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+6.098871658952492
+ 20
+3.249715925693448
+ 10
+6.098871658952492
+ 20
+6.196419313581959
+ 10
+5.899659560048832
+ 20
+6.196419313581959
+ 10
+5.899659560048832
+ 20
+3.249715925693448
+ 10
+6.098871658952492
+ 20
+3.249715925693448
+  0
+LINE
+  5
+9FF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+0.0996319493866971
+ 20
+5.248090199000581
+ 30
+0.0
+ 11
+0.0996319493866971
+ 21
+4.200129235032266
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+A00
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbPolyline
+ 90
+        5
+ 70
+   128
+ 43
+0.0
+ 10
+0.1992121989034184
+ 20
+4.200129235032266
+ 10
+0.1992121989034184
+ 20
+5.248090199000581
+ 10
+0.0000000999997589
+ 20
+5.248090199000581
+ 10
+0.0000000999997589
+ 20
+4.200129235032266
+ 10
+0.1992121989034184
+ 20
+4.200129235032266
+  0
+LINE
+  5
+A01
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+3.045587261833617
+ 30
+0.0
+ 11
+16.9436605800669
+ 21
+4.523829620799193
+ 31
+0.0
+  0
+LINE
+  5
+A02
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148109
+ 20
+3.248463028080626
+ 30
+0.0
+ 11
+16.92708972174908
+ 21
+4.725126014460034
+ 31
+0.0
+  0
+LINE
+  5
+A03
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+16.94366048006715
+ 20
+4.523829620799207
+ 30
+0.0
+ 11
+18.20745620112664
+ 21
+4.523829620799207
+ 31
+0.0
+  0
+LINE
+  5
+A04
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+16.92708962174934
+ 20
+4.725126114459798
+ 30
+0.0
+ 11
+18.20745620112664
+ 21
+4.725126114459798
+ 31
+0.0
+  0
+LINE
+  5
+A05
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+6.07396362160592
+ 30
+0.0
+ 11
+8.813221031302209
+ 21
+6.07396362160592
+ 31
+0.0
+  0
+LINE
+  5
+A06
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+5.922483202638417
+ 30
+0.0
+ 11
+9.680625049441863
+ 21
+5.922483202638417
+ 31
+0.0
+  0
+LINE
+  5
+A07
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+5.773086978428351
+ 30
+0.0
+ 11
+10.54802896758175
+ 21
+5.773086978428351
+ 31
+0.0
+  0
+LINE
+  5
+A08
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+5.623690754218285
+ 30
+0.0
+ 11
+11.41543298572141
+ 21
+5.623690754218285
+ 31
+0.0
+  0
+LINE
+  5
+A09
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+5.472210335250783
+ 30
+0.0
+ 11
+12.28492119861849
+ 21
+5.472210335250783
+ 31
+0.0
+  0
+LINE
+  5
+A0A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+5.322762511170509
+ 30
+0.0
+ 11
+13.15237681662835
+ 21
+5.322762511170509
+ 31
+0.0
+  0
+LINE
+  5
+A0B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+5.322762511170509
+ 30
+0.0
+ 11
+12.50700873998146
+ 21
+5.322762511170509
+ 31
+0.0
+  0
+LINE
+  5
+A0C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+5.175450581717625
+ 30
+0.0
+ 11
+14.02186502952544
+ 21
+5.175450581717625
+ 31
+0.0
+  0
+LINE
+  5
+A0D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+5.175450581717625
+ 30
+0.0
+ 11
+12.50700873998146
+ 21
+5.175450581717625
+ 31
+0.0
+  0
+LINE
+  5
+A0E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+5.02605435750756
+ 30
+0.0
+ 11
+14.88926904766508
+ 21
+5.02605435750756
+ 31
+0.0
+  0
+LINE
+  5
+A0F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+5.02605435750756
+ 30
+0.0
+ 11
+12.50700873998146
+ 21
+5.02605435750756
+ 31
+0.0
+  0
+LINE
+  5
+A10
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+4.874522238670103
+ 30
+0.0
+ 11
+15.75875726056217
+ 21
+4.874522238670103
+ 31
+0.0
+  0
+LINE
+  5
+A11
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+4.874522238670103
+ 30
+0.0
+ 11
+12.50700873998146
+ 21
+4.874522238670103
+ 31
+0.0
+  0
+LINE
+  5
+A12
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+4.725126014460036
+ 30
+0.0
+ 11
+15.75875726056217
+ 21
+4.725126014460036
+ 31
+0.0
+  0
+LINE
+  5
+A13
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+4.725126014460036
+ 30
+0.0
+ 11
+12.50700873998146
+ 21
+4.725126014460036
+ 31
+0.0
+  0
+LINE
+  5
+A14
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+4.575729890249718
+ 30
+0.0
+ 11
+14.88926904766508
+ 21
+4.575729890249718
+ 31
+0.0
+  0
+LINE
+  5
+A15
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+4.575729890249718
+ 30
+0.0
+ 11
+12.50700873998146
+ 21
+4.575729890249718
+ 31
+0.0
+  0
+LINE
+  5
+A16
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+4.424249371282467
+ 30
+0.0
+ 11
+14.02186502952544
+ 21
+4.424249371282467
+ 31
+0.0
+  0
+LINE
+  5
+A17
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+4.424249371282467
+ 30
+0.0
+ 11
+12.50700873998146
+ 21
+4.424249371282467
+ 31
+0.0
+  0
+LINE
+  5
+A18
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+4.274801547202194
+ 30
+0.0
+ 11
+13.15237681662835
+ 21
+4.274801547202194
+ 31
+0.0
+  0
+LINE
+  5
+A19
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+4.274801547202194
+ 30
+0.0
+ 11
+12.50700873998146
+ 21
+4.274801547202194
+ 31
+0.0
+  0
+LINE
+  5
+A1A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+4.125405322992127
+ 30
+0.0
+ 11
+12.28492119861849
+ 21
+4.125405322992127
+ 31
+0.0
+  0
+LINE
+  5
+A1B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+3.976009098782061
+ 30
+0.0
+ 11
+11.41543298572141
+ 21
+3.976009098782061
+ 31
+0.0
+  0
+LINE
+  5
+A1C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+3.824528679814559
+ 30
+0.0
+ 11
+10.54802896758175
+ 21
+3.824528679814559
+ 31
+0.0
+  0
+LINE
+  5
+A1D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+3.675080755734538
+ 30
+0.0
+ 11
+9.680625049441863
+ 21
+3.675080755734538
+ 31
+0.0
+  0
+LINE
+  5
+A1E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653070971729
+ 20
+3.52568463152422
+ 30
+0.0
+ 11
+8.813221031302209
+ 21
+3.52568463152422
+ 31
+0.0
+  0
+LINE
+  5
+A1F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653170971476
+ 20
+6.138317859729843
+ 30
+0.0
+ 11
+10.44636452330759
+ 21
+5.789709536616117
+ 31
+0.0
+  0
+LINE
+  5
+A20
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+10.49821309288817
+ 20
+5.781372357587382
+ 30
+0.0
+ 11
+12.50700873998147
+ 21
+5.434848329230839
+ 31
+0.0
+  0
+LINE
+  5
+A21
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148098
+ 20
+6.196419213582214
+ 30
+0.0
+ 11
+12.55677301480486
+ 21
+5.476327124895446
+ 31
+0.0
+  0
+LINE
+  5
+A22
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.50700873998147
+ 20
+4.162767329012072
+ 30
+0.0
+ 11
+10.49821309288817
+ 21
+3.816191600785574
+ 31
+0.0
+  0
+LINE
+  5
+A23
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+10.44636452330759
+ 20
+3.807906121626794
+ 30
+0.0
+ 11
+8.439653170971476
+ 21
+3.461382093270253
+ 31
+0.0
+  0
+LINE
+  5
+A24
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.55677301480486
+ 20
+4.121288533347465
+ 30
+0.0
+ 11
+8.389888896148098
+ 21
+3.401196444660698
+ 31
+0.0
+  0
+LINE
+  5
+A25
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.50700873998146
+ 20
+5.43484832923084
+ 30
+0.0
+ 11
+12.50700873998146
+ 21
+4.16276732901207
+ 31
+0.0
+  0
+LINE
+  5
+A26
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.55677301480486
+ 20
+5.476327224895196
+ 30
+0.0
+ 11
+12.55677301480486
+ 21
+4.121288433347714
+ 31
+0.0
+  0
+LINE
+  5
+A27
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+10.4463645233076
+ 20
+5.789709536616117
+ 30
+0.0
+ 11
+10.4463645233076
+ 21
+3.807906121626794
+ 31
+0.0
+  0
+LINE
+  5
+A28
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+10.49821299288842
+ 20
+5.781372457587132
+ 30
+0.0
+ 11
+10.49821299288842
+ 21
+3.816191600785573
+ 31
+0.0
+  0
+LINE
+  5
+A29
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.439653170971489
+ 20
+3.461382093270251
+ 30
+0.0
+ 11
+8.439653170971489
+ 21
+6.138317859729843
+ 31
+0.0
+  0
+LINE
+  5
+A2A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+8.389888896148098
+ 20
+3.401196444660696
+ 30
+0.0
+ 11
+8.389888896148098
+ 21
+6.196419213582214
+ 31
+0.0
+  0
+LINE
+  5
+A2B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+16.192459269632
+ 20
+4.799849926500173
+ 30
+0.0
+ 11
+12.80788538315903
+ 21
+4.214667498462846
+ 31
+0.0
+  0
+LINE
+  5
+A2C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+16.48713482840772
+ 20
+4.799849926500173
+ 30
+0.0
+ 11
+12.75806940846569
+ 21
+4.156566144610475
+ 31
+0.0
+  0
+LINE
+  5
+A2D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+5.382948159780066
+ 30
+0.0
+ 11
+16.192459269632
+ 21
+4.799850026499922
+ 31
+0.0
+  0
+LINE
+  5
+A2E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.75806940846569
+ 20
+5.443133808389621
+ 30
+0.0
+ 11
+16.48713482840772
+ 21
+4.799850026499922
+ 31
+0.0
+  0
+LINE
+  5
+A2F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.80788538315903
+ 20
+4.214667498462846
+ 30
+0.0
+ 11
+12.80788538315903
+ 21
+5.382948059780317
+ 31
+0.0
+  0
+LINE
+  5
+A30
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+100
+AcDbLine
+ 10
+12.75806950846545
+ 20
+4.156566044610726
+ 30
+0.0
+ 11
+12.75806950846545
+ 21
+5.443133808389619
+ 31
+0.0
+  0
+LINE
+  5
+A31
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 275 Villa Savoye section view
+  6
+Continuous
+100
+AcDbLine
+ 10
+-6.015725286114612
+ 20
+0.0
+ 30
+0.0
+ 11
+27.51227471388538
+ 21
+0.0
+ 31
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+AcDbVariableDictionary
+350
+115
+  3
+DWGPROPS
+350
+8E3
+  0
+DICTIONARY
+  5
+8F7
+330
+8F6
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+8F8
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+1E
+  3
+Layout2
+350
+26
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+115
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+117
+  3
+HIDETEXT
+350
+116
+  0
+XRECORD
+  5
+8E3
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbXrecord
+280
+     1
+  1
+DWGPROPS COOKIE
+  2
+Ceco.NET-Trees-and-Plants - T - xx . 67 . dwg
+  3
+
+  4
+ceco.net
+  6
+
+  7
+
+  8
+peacosta
+  9
+
+300
+=
+301
+=
+302
+=
+303
+=
+304
+=
+305
+=
+306
+=
+307
+=
+308
+=
+309
+=
+ 40
+0.0450312037037037
+ 41
+2455079.811409143
+ 42
+2455838.656599502
+  1
+
+ 90
+        0
+  0
+XRECORD
+  5
+8F8
+102
+{ACAD_REACTORS
+330
+8F7
+102
+}
+330
+8F7
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+LAYOUT
+  5
+1E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+Microsoft Office Document Image Writer
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1.000000000000000E+20
+ 24
+1.000000000000000E+20
+ 34
+1.000000000000000E+20
+ 15
+-1.000000000000000E+20
+ 25
+-1.000000000000000E+20
+ 35
+-1.000000000000000E+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1B
+  0
+LAYOUT
+  5
+26
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+Microsoft Office Document Image Writer
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+23
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+Microsoft Office Document Image Writer
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+  1712
+ 72
+     0
+ 73
+     0
+ 74
+     0
+  7
+
+ 75
+     0
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARYVAR
+  5
+117
+102
+{ACAD_REACTORS
+330
+115
+102
+}
+330
+115
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+116
+102
+{ACAD_REACTORS
+330
+115
+102
+}
+330
+115
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF
