@@ -1,0 +1,15244 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    13
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-3864.892950884583
+ 20
+-813.2389278264891
+ 30
+-0.0015258207003583
+  9
+$EXTMAX
+ 10
+20876.10382353607
+ 20
+12919.27128885048
+ 30
+0.0000000349246037
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+ceco.net 448 Smith House section B-B
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+10.0
+  9
+$CHAMFERB
+ 40
+10.0
+  9
+$CHAMFERC
+ 40
+20.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2457858.695660799
+  9
+$TDUCREATE
+ 40
+2457858.820660799
+  9
+$TDUPDATE
+ 40
+2458385.959684467
+  9
+$TDUUPDATE
+ 40
+2458386.084684467
+  9
+$TDINDWG
+ 40
+0.0038952546
+  9
+$TDUSRTIMER
+ 40
+0.0038952431
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+3C7
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+26.66999878883362
+ 20
+20.31999878883362
+ 30
+0.0
+  9
+$PEXTMAX
+ 10
+240.0299890995025
+ 20
+182.8799890995025
+ 30
+0.0
+  9
+$PLIMMIN
+ 10
+-6.350006103515625
+ 20
+-6.349999904632568
+  9
+$PLIMMAX
+ 10
+273.0499877929687
+ 20
+209.5499939918517
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{FDEAD578-A652-11D2-9A35-0060089B3A3F}
+  9
+$VERSIONGUID
+  2
+{772147F7-F220-4219-95FF-B58DF5C0B98D}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     4
+  0
+VPORT
+  5
+3C6
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+8505.605378724638
+ 22
+6053.016148540451
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+13832.39341318473
+ 41
+2.25703794369645
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+B8
+102
+}
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+8E
+102
+{ACAD_XDICTIONARY
+360
+8F
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net Smith House text
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    15
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+LAYER
+  5
+91
+102
+{ACAD_XDICTIONARY
+360
+92
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net 448 Smith House section B-B
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+STYLE
+  5
+94
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+ceco.net
+ 70
+     0
+ 40
+300.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+300.0
+  3
+arial.ttf
+  4
+
+1001
+ACAD
+1000
+Arial
+1071
+       34
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    35
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+96
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+APPID
+  5
+97
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+98
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+RAK
+ 70
+     0
+  0
+APPID
+  5
+99
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+     0
+  0
+APPID
+  5
+9A
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMARC_LENGTH_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+9B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMEXT_ENABLED
+ 70
+     0
+  0
+APPID
+  5
+9C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMEXT_LENGTH
+ 70
+     0
+  0
+APPID
+  5
+9D
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+9E
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_EXT1_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+9F
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_EXT2_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+A0
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockGUID
+ 70
+     0
+  0
+APPID
+  5
+A1
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepETag
+ 70
+     0
+  0
+APPID
+  5
+A2
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AME_SOL
+ 70
+     0
+  0
+APPID
+  5
+A3
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AVE_INVOKE
+ 70
+     0
+  0
+APPID
+  5
+A4
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_PSEXT
+ 70
+     0
+  0
+APPID
+  5
+A5
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAUTHENVIRON
+ 70
+     0
+  0
+APPID
+  5
+A6
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+DCO15
+ 70
+     0
+  0
+APPID
+  5
+A7
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepBTag
+ 70
+     0
+  0
+APPID
+  5
+A8
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockTrueName
+ 70
+     0
+  0
+APPID
+  5
+A9
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+     0
+  0
+APPID
+  5
+AA
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+AB
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcCmTransparency
+ 70
+     0
+  0
+APPID
+  5
+AC
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoMonitorAlertIconDisabled
+ 70
+     0
+  0
+APPID
+  5
+AD
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ODA
+ 70
+     0
+  0
+APPID
+  5
+AE
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG
+ 70
+     0
+  0
+APPID
+  5
+AF
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTALN
+ 70
+     0
+  0
+APPID
+  5
+B0
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTEXT_FILL
+ 70
+     0
+  0
+APPID
+  5
+B1
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMBREAK
+ 70
+     0
+  0
+APPID
+  5
+B2
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+REVIT
+ 70
+     0
+  0
+APPID
+  5
+B3
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoPO
+ 70
+     0
+  0
+APPID
+  5
+B4
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+     0
+  0
+APPID
+  5
+B5
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ADE
+ 70
+     0
+  0
+APPID
+  5
+B6
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor1ACI
+ 70
+     0
+  0
+APPID
+  5
+B7
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor2ACI
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+95
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 41
+0.25
+ 73
+     0
+ 74
+     0
+140
+6.0
+179
+     1
+271
+     0
+272
+     0
+275
+     1
+277
+     4
+340
+11
+342
+88
+1001
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+1070
+   384
+1040
+0.7853981633974483
+1001
+ACAD_DSTYLE_DIMEXT_LENGTH
+1070
+   378
+1040
+0.18
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+56
+  0
+BLOCK_RECORD
+  5
+88
+102
+{ACAD_XDICTIONARY
+360
+8B
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_Dot
+340
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+57
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+58
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+8C
+330
+88
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_Dot
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_Dot
+  1
+
+  0
+LWPOLYLINE
+  5
+89
+330
+88
+100
+AcDbEntity
+  8
+0
+  6
+ByBlock
+ 62
+     0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.5
+ 10
+-0.25
+ 20
+0.0
+ 42
+1.0
+ 10
+0.25
+ 20
+0.0
+ 42
+1.0
+  0
+LINE
+  5
+8A
+330
+88
+100
+AcDbEntity
+  8
+0
+  6
+ByBlock
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-0.5
+ 20
+0.0
+ 30
+0.0
+ 11
+-1.0
+ 21
+0.0
+ 31
+0.0
+  0
+ENDBLK
+  5
+8D
+330
+88
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+SPLINE
+  5
+242
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1904.273276945098
+ 40
+1904.273276945098
+ 40
+1904.273276945098
+ 40
+1904.273276945098
+ 10
+20875.34877671301
+ 20
+667.2172347139567
+ 30
+0.0
+ 10
+19780.32038938999
+ 20
+1045.366033731028
+ 30
+0.0
+ 10
+18961.6411305964
+ 20
+1288.616246117278
+ 30
+0.0
+ 10
+18271.46198073029
+ 20
+1406.23871319741
+ 30
+0.0
+  0
+LINE
+  5
+243
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+2098.452199498191
+ 30
+0.0
+ 11
+14105.86198072135
+ 21
+2098.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+244
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3260.061980739236
+ 20
+4181.252199498937
+ 30
+0.0
+ 11
+2625.061980724334
+ 21
+4181.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+245
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+3470.052199497819
+ 30
+0.0
+ 11
+14105.86198072135
+ 21
+3470.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+246
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9660.861872702838
+ 20
+3470.052199497819
+ 30
+0.0
+ 11
+9508.461980357767
+ 21
+3470.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+247
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14105.86198072135
+ 20
+3419.252199498936
+ 30
+0.0
+ 11
+14105.86198072135
+ 21
+2149.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+248
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9660.861872702838
+ 20
+3419.252199498936
+ 30
+0.0
+ 11
+9660.861872702838
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+249
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9508.461980357767
+ 20
+3419.252199498936
+ 30
+0.0
+ 11
+9508.461980342865
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+24A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2523.461980357766
+ 20
+1254.23871319741
+ 30
+0.0
+ 11
+2523.461980357766
+ 21
+385.275573214516
+ 31
+0.0
+  0
+LINE
+  5
+24B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+3012.852199498563
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+2250.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+24C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+3622.452199498191
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+2860.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+24D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+3470.052199497819
+ 30
+0.0
+ 11
+14105.86198072135
+ 21
+3470.052199497819
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+24E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+14105.86198072135
+ 20
+3622.452199498191
+ 10
+14359.86198072135
+ 20
+3622.452199498191
+ 10
+14359.86198072135
+ 20
+3470.052199497819
+ 10
+14105.86198072135
+ 20
+3470.052199497819
+  0
+LINE
+  5
+24F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14220.16198073327
+ 20
+3419.252199498936
+ 30
+0.0
+ 11
+14220.16198073327
+ 21
+2149.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+250
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14245.56198072433
+ 20
+3419.252199498936
+ 30
+0.0
+ 11
+14245.56198072433
+ 21
+2149.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+251
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9508.461980357767
+ 20
+3622.452199498191
+ 30
+0.0
+ 11
+9660.861872702838
+ 21
+3622.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+252
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9660.861872702838
+ 20
+3622.452199498191
+ 30
+0.0
+ 11
+9660.861872702838
+ 21
+3470.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+253
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9660.861872702838
+ 20
+3470.052199497819
+ 30
+0.0
+ 11
+9508.461980357767
+ 21
+3470.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+254
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9508.461980357767
+ 20
+3470.052199497819
+ 30
+0.0
+ 11
+9508.461980357767
+ 21
+3622.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+255
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9559.261926531792
+ 20
+3419.252199498936
+ 30
+0.0
+ 11
+9559.261926531792
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+256
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9610.061926528812
+ 20
+3419.252199498936
+ 30
+0.0
+ 11
+9610.061926528812
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+257
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+7679.661980748176
+ 20
+4232.052199497819
+ 30
+0.0
+ 11
+7527.261980742216
+ 21
+4232.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+258
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3463.261980727315
+ 20
+4232.052199497819
+ 30
+0.0
+ 11
+3463.261980742216
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+259
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3310.861980736255
+ 20
+4232.052199497819
+ 30
+0.0
+ 11
+3310.861980751156
+ 21
+1488.852199500426
+ 31
+0.0
+  0
+LINE
+  5
+25A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3260.061980724334
+ 20
+4181.252199498937
+ 30
+0.0
+ 11
+3260.061980739236
+ 21
+1539.652199499309
+ 31
+0.0
+  0
+LINE
+  5
+25B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2574.261980727315
+ 20
+4232.052199497819
+ 30
+0.0
+ 11
+2574.261980727315
+ 21
+1488.852199500426
+ 31
+0.0
+  0
+LINE
+  5
+25C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2625.061980724334
+ 20
+4181.252199498937
+ 30
+0.0
+ 11
+2625.061980754137
+ 21
+1539.652199499309
+ 31
+0.0
+  0
+LINE
+  5
+25D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3310.861980736255
+ 20
+1488.852199498563
+ 30
+0.0
+ 11
+2574.261980742216
+ 21
+1488.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+25E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3260.061980754137
+ 20
+1539.652199499309
+ 30
+0.0
+ 11
+2625.061980754137
+ 21
+1539.652199499309
+ 31
+0.0
+  0
+LINE
+  5
+25F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+2250.852199498563
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+2250.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+260
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+2250.852199498563
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+2250.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+261
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+2403.252199498936
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+2403.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+262
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+3165.252199498937
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+3165.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+263
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+3089.052199497819
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+3089.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+264
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+2555.652199499309
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+2555.652199497446
+ 31
+0.0
+  0
+LINE
+  5
+265
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+2708.052199497819
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+2708.052199495956
+ 31
+0.0
+  0
+LINE
+  5
+266
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+2860.452199498191
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+2860.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+267
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+3012.852199498563
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+3012.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+268
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+3774.852199498564
+ 30
+0.0
+ 11
+1253.461980372667
+ 21
+3774.852199492976
+ 31
+0.0
+  0
+LINE
+  5
+269
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+2403.252199498936
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+2250.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+26A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+2403.252199498936
+ 30
+0.0
+ 11
+2371.061980366707
+ 21
+2250.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+26B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+3012.852199498563
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+3012.852199494838
+ 31
+0.0
+  0
+LINE
+  5
+26C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+3470.052199497819
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+3470.052199495956
+ 31
+0.0
+  0
+LINE
+  5
+26D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+3622.452199498191
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+3622.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+26E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+4384.452199498191
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+26F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+4308.252199498936
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+4308.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+270
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+288.2619807273149
+ 20
+3622.452199496329
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+3470.052199495956
+ 31
+0.0
+  0
+LINE
+  5
+271
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+3622.452199498191
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+3470.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+272
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+3012.852199498563
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+3012.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+273
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+4384.452199498191
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+4308.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+274
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1177.261980369687
+ 20
+4384.452199498191
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+4308.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+275
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+3165.252199498937
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+3089.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+276
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+3089.052199497819
+ 30
+0.0
+ 11
+1482.061980739236
+ 21
+3165.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+277
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+3165.252199498937
+ 30
+0.0
+ 11
+1482.061980739236
+ 21
+3774.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+278
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+3165.252199498937
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+3774.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+279
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1456.661980748176
+ 20
+3089.052199497819
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+2403.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+27A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+3089.052199497819
+ 30
+0.0
+ 11
+1431.261980742216
+ 21
+2403.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+27B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+3698.652199499309
+ 30
+0.0
+ 11
+1228.061980366706
+ 21
+3698.652199499309
+ 31
+0.0
+  0
+LINE
+  5
+27C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+4308.252199498936
+ 30
+0.0
+ 11
+1253.461980342865
+ 21
+3698.652199501172
+ 31
+0.0
+  0
+LINE
+  5
+27D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1177.261980369687
+ 20
+4308.252199498936
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+3698.652199501172
+ 31
+0.0
+  0
+LINE
+  5
+27E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15172.6619810909
+ 20
+7432.452199498192
+ 30
+0.0
+ 11
+2371.061980724334
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+27F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619810909
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+2371.061980739236
+ 21
+7280.05219949782
+ 31
+0.0
+  0
+LINE
+  5
+280
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+9635.461980745198
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+9635.461980745198
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+281
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+8924.261980742215
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+8924.261980727315
+ 21
+5146.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+282
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+8213.061981126667
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+8213.061981111765
+ 21
+5146.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+283
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+6587.461980745196
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+6587.461980745196
+ 21
+5146.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+284
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+5800.061981141567
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+5800.061981126666
+ 21
+5146.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+285
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+4758.661981120705
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+4758.661981120705
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+286
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+4606.261980742216
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+4606.261980742216
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+287
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3387.061980739236
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+3387.061980739236
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+288
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3437.861980736255
+ 20
+6467.252199498936
+ 30
+0.0
+ 11
+3437.861980736255
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+289
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3234.661981120705
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+3234.661981120705
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+28A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2523.461980745196
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+2523.461980745196
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+28B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980739236
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+2371.061980739236
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+28C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+4555.461980760098
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+4555.461980760098
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+28D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+4504.661980748177
+ 20
+6467.252199498936
+ 30
+0.0
+ 11
+4504.661980748177
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+28E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+5146.452199498192
+ 30
+0.0
+ 11
+14105.86198070645
+ 21
+5146.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+28F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+5197.252199498937
+ 30
+0.0
+ 11
+14105.86198070645
+ 21
+5197.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+290
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+14105.86198070645
+ 21
+6518.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+291
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+6467.252199498936
+ 30
+0.0
+ 11
+14105.86198070645
+ 21
+6467.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+292
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+14105.86198072135
+ 21
+6518.052199497819
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+293
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+14105.86198072135
+ 20
+6670.452199498192
+ 10
+14359.86198072135
+ 20
+6670.452199498192
+ 10
+14359.86198072135
+ 20
+6518.052199497819
+ 10
+14105.86198072135
+ 20
+6518.052199497819
+  0
+LINE
+  5
+294
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14220.16198071837
+ 20
+6467.252199498936
+ 30
+0.0
+ 11
+14220.16198071837
+ 21
+5197.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+295
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14245.56198070943
+ 20
+6467.252199498936
+ 30
+0.0
+ 11
+14245.56198070943
+ 21
+5197.252199498937
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+296
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+14359.86198072135
+ 20
+7280.05219949782
+ 10
+14105.86198072135
+ 20
+7280.05219949782
+ 10
+14105.86198072135
+ 20
+6670.452199498192
+ 10
+14359.86198072135
+ 20
+6670.452199498192
+  0
+LINE
+  5
+297
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14105.86198070645
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+14105.86198070645
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+298
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+9475.43482773006
+ 20
+7280.05219949782
+ 10
+9635.461980745198
+ 20
+7280.05219949782
+ 10
+9635.461980745198
+ 20
+4384.452199498191
+ 10
+9475.43482773006
+ 20
+4384.452199498191
+  0
+LINE
+  5
+299
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+8924.261980742215
+ 20
+4384.452199498191
+ 30
+0.0
+ 11
+8213.061981126667
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+29A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+8924.261980742215
+ 20
+5146.452199498192
+ 30
+0.0
+ 11
+8213.061981126667
+ 21
+5146.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+29B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+8924.261980742215
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+8213.061981126667
+ 21
+6518.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+29C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+6587.461980745196
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+5800.061981126666
+ 21
+6518.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+29D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+6587.461980745196
+ 20
+5146.452199498192
+ 30
+0.0
+ 11
+5800.061981126666
+ 21
+5146.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+29E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+4555.461980760098
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+3387.061980724335
+ 21
+6518.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+29F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+4504.661980748177
+ 20
+6467.252199498936
+ 30
+0.0
+ 11
+3437.861980736255
+ 21
+6467.252199498936
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+2A0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+3234.661981120705
+ 20
+7280.05219949782
+ 10
+3387.061980739236
+ 20
+7280.05219949782
+ 10
+3387.061980739236
+ 20
+4384.452199498191
+ 10
+3234.661981120705
+ 20
+4384.452199498191
+  0
+LINE
+  5
+2A1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2574.261980742216
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+2574.261980742216
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+2A2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2625.061980739236
+ 20
+7229.252199495211
+ 30
+0.0
+ 11
+2625.061980739236
+ 21
+4587.652199499308
+ 31
+0.0
+  0
+LINE
+  5
+2A3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2574.261980742216
+ 20
+4536.852199498563
+ 30
+0.0
+ 11
+3234.661981120705
+ 21
+4536.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+2A4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2625.061980739236
+ 20
+4587.652199499308
+ 30
+0.0
+ 11
+3234.661981120705
+ 21
+4587.652199499308
+ 31
+0.0
+  0
+LINE
+  5
+2A5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+3234.661981120705
+ 20
+7229.252199498937
+ 30
+0.0
+ 11
+2625.061980739236
+ 21
+7229.252199495211
+ 31
+0.0
+  0
+HATCH
+  5
+2A6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+AR-CONC
+ 70
+     0
+ 71
+     0
+ 91
+        1
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+2523.461980730295
+ 20
+7280.05219949782
+ 10
+2371.061980739236
+ 20
+7280.05219949782
+ 10
+2371.061980739236
+ 20
+4384.452199498191
+ 10
+2523.461980745196
+ 20
+4384.452199498191
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 52
+0.0
+ 41
+508.0
+ 77
+     0
+ 78
+    13
+ 53
+50.0
+ 43
+70687798.29107168
+ 44
+15403266.66876918
+ 45
+3643.681727611827
+ 46
+-318.7808457115831
+ 79
+     2
+ 49
+381.0
+ 49
+-4191.0
+ 53
+355.0
+ 43
+70687798.29107168
+ 44
+15403266.66876918
+ 45
+-704.8567747540401
+ 46
+3821.13603919606
+ 79
+     2
+ 49
+304.7999999999999
+ 49
+-3352.8
+ 53
+100.4513999999999
+ 43
+70688101.93120609
+ 44
+15403240.10372198
+ 45
+2938.827659107229
+ 46
+3502.352873669644
+ 79
+     2
+ 49
+323.8001651999992
+ 49
+-3561.801928959993
+ 53
+46.1842
+ 43
+70687798.29107168
+ 44
+15404282.66876918
+ 45
+5421.584527018274
+ 46
+-840.8365927914118
+ 79
+     2
+ 49
+571.4999999999999
+ 49
+-6286.500000000001
+ 53
+96.6356
+ 43
+70688250.08973629
+ 44
+15404212.59876962
+ 45
+4748.086544187413
+ 46
+4948.518784174243
+ 79
+     2
+ 49
+485.7002630399999
+ 49
+-5342.70204
+ 53
+351.1842
+ 43
+70687798.29107168
+ 44
+15404282.66876918
+ 45
+4748.082681278826
+ 46
+4948.522492700649
+ 79
+     2
+ 49
+457.2
+ 49
+-5029.200000000001
+ 53
+21.0
+ 43
+70688306.29107168
+ 44
+15404028.66876918
+ 45
+3032.287824761785
+ 46
+-2045.303964579921
+ 79
+     2
+ 49
+381.0
+ 49
+-4191.0
+ 53
+326.0
+ 43
+70688306.29107168
+ 44
+15404028.66876918
+ 45
+1236.041886161635
+ 46
+3683.762228838012
+ 79
+     2
+ 49
+304.7999999999999
+ 49
+-3352.8
+ 53
+71.45140000000001
+ 43
+70688558.98161533
+ 44
+15403858.2266107
+ 45
+4268.330953193968
+ 46
+1638.454923286558
+ 79
+     2
+ 49
+323.8001652
+ 49
+-3561.80192896
+ 53
+37.5
+ 43
+70687798.29107168
+ 44
+15403266.66876918
+ 45
+61.77206501183659
+ 46
+1691.100777463062
+ 79
+     6
+ 49
+0.0
+ 49
+-3312.159999999999
+ 49
+0.0
+ 49
+-3403.6
+ 49
+0.0
+ 49
+-3365.5
+ 53
+7.499999999999999
+ 43
+70687798.29107168
+ 44
+15403266.66876918
+ 45
+1336.393250206114
+ 46
+2003.61149636239
+ 79
+     6
+ 49
+0.0
+ 49
+-1940.559999999999
+ 49
+0.0
+ 49
+-3235.96
+ 49
+0.0
+ 49
+-1282.699999999999
+ 53
+327.4999999999999
+ 43
+70686665.45107169
+ 44
+15403266.66876918
+ 45
+2711.817975755838
+ 46
+-114.5787484106493
+ 79
+     6
+ 49
+0.0
+ 49
+-1270.0
+ 49
+0.0
+ 49
+-3962.399999999999
+ 49
+0.0
+ 49
+-5257.799999999999
+ 53
+317.5
+ 43
+70686157.4510717
+ 44
+15403266.66876918
+ 45
+2962.585740259321
+ 46
+508.5333102481736
+ 79
+     6
+ 49
+0.0
+ 49
+-1651.0
+ 49
+0.0
+ 49
+-2631.44
+ 49
+0.0
+ 49
+-3733.8
+ 47
+0.2196412137726376
+ 98
+        1
+ 10
+2456.561087250709
+ 20
+5827.74758268334
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LWPOLYLINE
+  5
+2A7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+2371.061980739236
+ 20
+7280.05219949782
+ 10
+2523.461980745196
+ 20
+7280.05219949782
+ 10
+2523.461980745196
+ 20
+4384.452199498191
+ 10
+2371.061980739236
+ 20
+4384.452199498191
+  0
+LINE
+  5
+2A8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980739236
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+2523.461980745196
+ 21
+7280.05219949782
+ 31
+0.0
+  0
+LINE
+  5
+2A9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2523.461980745196
+ 20
+7280.05219949782
+ 30
+0.0
+ 11
+2523.461980745196
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+2AA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2523.461980745196
+ 20
+4384.452199498191
+ 30
+0.0
+ 11
+2371.061980739236
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+2AB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+6060.852199498564
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+5298.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2AC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+6670.452199498192
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+5908.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+2AD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+5298.852199498564
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+5298.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2AE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+5298.852199498564
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+5298.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2AF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+5451.252199498936
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+5451.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+2B0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+6213.252199498937
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+6213.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+2B1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+6137.052199497819
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+6137.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+2B2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+5603.652199499309
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+5603.652199499309
+ 31
+0.0
+  0
+LINE
+  5
+2B3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+5756.052199497819
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+5756.052199495957
+ 31
+0.0
+  0
+LINE
+  5
+2B4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+5908.452199498191
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+5908.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+2B5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+6060.852199498564
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+6060.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2B6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+6822.852199498564
+ 30
+0.0
+ 11
+1253.461980372667
+ 21
+6822.852199492976
+ 31
+0.0
+  0
+LINE
+  5
+2B7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+5451.252199498936
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+5298.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2B8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+6060.852199498564
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+6060.852199494838
+ 31
+0.0
+  0
+LINE
+  5
+2B9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+6518.052199495956
+ 31
+0.0
+  0
+LINE
+  5
+2BA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+6670.452199498192
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+6670.452199496328
+ 31
+0.0
+  0
+LINE
+  5
+2BB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+7432.452199498192
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+2BC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+7356.252199498936
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+7356.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+2BD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+6670.452199498192
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+6518.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+2BE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+6060.852199498564
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+6060.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2BF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+7432.452199498192
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+7356.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+2C0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1177.261980369687
+ 20
+7432.452199498192
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+7356.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+2C1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+6213.252199498937
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+6137.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+2C2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+6137.052199497819
+ 30
+0.0
+ 11
+1482.061980739236
+ 21
+6213.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+2C3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+6213.252199498937
+ 30
+0.0
+ 11
+1482.061980739236
+ 21
+6822.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2C4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+6213.252199498937
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+6822.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2C5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1456.661980748176
+ 20
+6137.052199497819
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+5451.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+2C6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+6137.052199497819
+ 30
+0.0
+ 11
+1431.261980742216
+ 21
+5451.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+2C7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+6746.652199499308
+ 30
+0.0
+ 11
+1228.061980366706
+ 21
+6746.652199499308
+ 31
+0.0
+  0
+LINE
+  5
+2C8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+7356.252199498936
+ 30
+0.0
+ 11
+1253.461980342865
+ 21
+6746.652199497447
+ 31
+0.0
+  0
+LINE
+  5
+2C9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1177.261980369687
+ 20
+7356.252199498936
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+6746.652199497447
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+2CA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+14105.86198070645
+ 20
+5146.452199498192
+ 10
+14359.86198072135
+ 20
+5146.452199498192
+ 10
+14359.86198072135
+ 20
+4384.452199498191
+ 10
+14105.86198070645
+ 20
+4384.452199498191
+  0
+LWPOLYLINE
+  5
+2CB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+14105.86198072135
+ 20
+4232.052199497819
+ 10
+14359.86198072135
+ 20
+4232.052199497819
+ 10
+14359.86198072135
+ 20
+3622.452199498191
+ 10
+14105.86198072135
+ 20
+3622.452199498191
+  0
+LWPOLYLINE
+  5
+2CC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+14105.86198072135
+ 20
+385.275573214516
+ 10
+14105.86198072135
+ 20
+1254.23871319741
+  0
+LINE
+  5
+2CD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+3419.252199498936
+ 30
+0.0
+ 11
+14359.86198072135
+ 21
+2149.252199498936
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+2CE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+14105.86198072135
+ 20
+3470.052199497819
+ 10
+14359.86198072135
+ 20
+3470.052199497819
+ 10
+14359.86198072135
+ 20
+3419.252199498936
+ 10
+14105.86198072135
+ 20
+3419.252199498936
+  0
+LWPOLYLINE
+  5
+2CF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+14105.86198072135
+ 20
+2149.252199498936
+ 10
+14359.86198072135
+ 20
+2149.252199498936
+ 10
+14359.86198072135
+ 20
+2098.452199498191
+ 10
+14105.86198072135
+ 20
+2098.452199498191
+  0
+LINE
+  5
+2D0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980724334
+ 20
+7432.452199498192
+ 30
+0.0
+ 11
+2371.061980724334
+ 21
+7280.05219949782
+ 31
+0.0
+  0
+LINE
+  5
+2D1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+10480.45219949819
+ 30
+0.0
+ 11
+2371.061980351805
+ 21
+10480.45219950936
+ 31
+0.0
+  0
+LINE
+  5
+2D2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+10328.05219949781
+ 30
+0.0
+ 11
+2371.061980366707
+ 21
+10328.05219949781
+ 31
+0.0
+  0
+LINE
+  5
+2D3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2523.461980760097
+ 20
+10328.05219949781
+ 30
+0.0
+ 11
+2523.461980745196
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+2D4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+11540.46198076009
+ 20
+10328.05219949781
+ 30
+0.0
+ 11
+11540.46198074519
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+2D5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+11388.0619803518
+ 20
+10328.05219949781
+ 30
+0.0
+ 11
+11388.0619803518
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+2D6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+5800.061980366707
+ 20
+10328.05219949781
+ 30
+0.0
+ 11
+5800.061980366707
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+2D7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+5647.661980360746
+ 20
+10328.05219949781
+ 30
+0.0
+ 11
+5647.661980360746
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+2D8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+10328.05219949781
+ 30
+0.0
+ 11
+15172.6619811207
+ 21
+10328.05219949781
+ 31
+0.0
+  0
+LINE
+  5
+2D9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+9566.05219949782
+ 30
+0.0
+ 11
+15172.6619811207
+ 21
+9566.05219949782
+ 31
+0.0
+  0
+LINE
+  5
+2DA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+10480.45219949819
+ 30
+0.0
+ 11
+15426.6619811058
+ 21
+10328.05219949781
+ 31
+0.0
+  0
+LINE
+  5
+2DB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+8194.452199498192
+ 30
+0.0
+ 11
+15172.6619810909
+ 21
+8194.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+2DC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+9566.05219949782
+ 30
+0.0
+ 11
+15172.6619810909
+ 21
+9566.05219949782
+ 31
+0.0
+  0
+LINE
+  5
+2DD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+9566.05219949782
+ 30
+0.0
+ 11
+15172.6619811058
+ 21
+9566.05219949782
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+2DE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+15172.6619811058
+ 20
+9718.452199498193
+ 10
+15426.6619811058
+ 20
+9718.452199498193
+ 10
+15426.6619811058
+ 20
+9566.05219949782
+ 10
+15172.6619811058
+ 20
+9566.05219949782
+  0
+LINE
+  5
+2DF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15286.96198110282
+ 20
+9515.252199498936
+ 30
+0.0
+ 11
+15286.96198110282
+ 21
+8245.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+2E0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15312.36198109388
+ 20
+9515.252199498936
+ 30
+0.0
+ 11
+15312.36198109388
+ 21
+8245.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+2E1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15172.6619810909
+ 20
+9515.252199498936
+ 30
+0.0
+ 11
+15172.6619810909
+ 21
+8245.252199498937
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+2E2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+11388.0619803518
+ 20
+10328.05219949781
+ 10
+11540.46198074519
+ 20
+10328.05219949781
+ 10
+11540.46198074519
+ 20
+7432.452199498192
+ 10
+11388.0619803518
+ 20
+7432.452199498192
+  0
+LWPOLYLINE
+  5
+2E3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+5647.661980360746
+ 20
+10328.05219949781
+ 10
+5800.061980366707
+ 20
+10328.05219949781
+ 10
+5800.061980366707
+ 20
+7432.452199498192
+ 10
+5647.661980360746
+ 20
+7432.452199498192
+  0
+LINE
+  5
+2E4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+9108.852199498564
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+8346.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+2E5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+9718.452199498193
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+8956.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+2E6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+8346.852199498563
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+8346.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+2E7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+8346.852199498563
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+8346.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+2E8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+8499.252199498936
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+8499.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+2E9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+9261.252199498937
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+9261.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+2EA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+9185.052199497819
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+9185.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+2EB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+8651.652199499309
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+8651.652199499309
+ 31
+0.0
+  0
+LINE
+  5
+2EC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+8804.052199497819
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+8804.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+2ED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+8956.452199498192
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+8956.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+2EE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+9108.852199498564
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+9108.8521994967
+ 31
+0.0
+  0
+LINE
+  5
+2EF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+9870.852199498564
+ 30
+0.0
+ 11
+1253.461980372667
+ 21
+9870.852199492977
+ 31
+0.0
+  0
+LINE
+  5
+2F0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+8499.252199498936
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+8346.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+2F1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+9108.852199498564
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+9108.852199494839
+ 31
+0.0
+  0
+LINE
+  5
+2F2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+9566.05219949782
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+9566.052199495956
+ 31
+0.0
+  0
+LINE
+  5
+2F3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+9718.452199498193
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+9718.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+2F4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+10480.45219949819
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+10480.45219949819
+ 31
+0.0
+  0
+LINE
+  5
+2F5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+10404.25219949893
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+10404.25219949893
+ 31
+0.0
+  0
+LINE
+  5
+2F6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+9718.452199498193
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+9566.05219949782
+ 31
+0.0
+  0
+LINE
+  5
+2F7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+9108.852199498564
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+9108.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2F8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+10480.45219949819
+ 30
+0.0
+ 11
+1253.461980357766
+ 21
+10404.25219949893
+ 31
+0.0
+  0
+LINE
+  5
+2F9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1177.261980369687
+ 20
+10480.45219949819
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+10404.25219949893
+ 31
+0.0
+  0
+LINE
+  5
+2FA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+9261.252199498937
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+9185.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+2FB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+9185.052199497819
+ 30
+0.0
+ 11
+1482.061980739236
+ 21
+9261.252199498937
+ 31
+0.0
+  0
+LINE
+  5
+2FC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1482.061980739236
+ 20
+9261.252199498937
+ 30
+0.0
+ 11
+1482.061980739236
+ 21
+9870.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2FD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+9261.252199498937
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+9870.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+2FE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1456.661980748176
+ 20
+9185.052199497819
+ 30
+0.0
+ 11
+1456.661980748176
+ 21
+8499.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+2FF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+9185.052199497819
+ 30
+0.0
+ 11
+1431.261980742216
+ 21
+8499.252199498936
+ 31
+0.0
+  0
+LINE
+  5
+300
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1405.861980736255
+ 20
+9794.65219949931
+ 30
+0.0
+ 11
+1228.061980366706
+ 21
+9794.652199501172
+ 31
+0.0
+  0
+LINE
+  5
+301
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+10404.25219949893
+ 30
+0.0
+ 11
+1253.461980342865
+ 21
+9794.65219949931
+ 31
+0.0
+  0
+LINE
+  5
+302
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1177.261980369687
+ 20
+10404.25219949893
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+9794.65219949931
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+303
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+15426.6619811058
+ 20
+10328.05219949781
+ 10
+15172.6619811058
+ 20
+10328.05219949781
+ 10
+15172.6619811058
+ 20
+9718.452199498193
+ 10
+15426.6619811058
+ 20
+9718.452199498193
+  0
+LWPOLYLINE
+  5
+304
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+15426.6619811058
+ 20
+8194.452199498192
+ 10
+15172.6619810909
+ 20
+8194.452199498192
+ 10
+15172.6619810909
+ 20
+7432.452199498192
+ 10
+15426.6619811058
+ 20
+7432.452199498192
+  0
+LINE
+  5
+305
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+9515.252199498936
+ 30
+0.0
+ 11
+15426.6619811058
+ 21
+8245.252199498937
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+306
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+15172.661981076
+ 20
+9566.05219949782
+ 10
+15426.6619811058
+ 20
+9566.05219949782
+ 10
+15426.6619811058
+ 20
+9515.252199498936
+ 10
+15172.661981076
+ 20
+9515.252199498936
+  0
+LWPOLYLINE
+  5
+307
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+15426.6619811058
+ 20
+8245.252199498937
+ 10
+15172.6619810909
+ 20
+8245.252199498937
+ 10
+15172.6619810909
+ 20
+8194.452199498192
+ 10
+15426.6619811058
+ 20
+8194.452199498192
+  0
+LINE
+  5
+308
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2523.461980745196
+ 20
+12918.85219950229
+ 30
+0.0
+ 11
+2523.461980730295
+ 21
+10480.45219950936
+ 31
+0.0
+  0
+LINE
+  5
+309
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2523.461980730295
+ 20
+10328.05219949781
+ 30
+0.0
+ 11
+2523.461980745196
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+30A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2523.461980745196
+ 20
+7432.452199498192
+ 30
+0.0
+ 11
+2371.061980366707
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+30B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+135.8619807362556
+ 20
+4384.452199498191
+ 30
+0.0
+ 11
+135.8619807362556
+ 21
+7432.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+30C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+288.2619807124137
+ 20
+1254.23871319741
+ 30
+0.0
+ 11
+288.2619807124137
+ 21
+385.2755732126534
+ 31
+0.0
+  0
+LINE
+  5
+30D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+135.8619807362556
+ 20
+4384.452199498191
+ 30
+0.0
+ 11
+135.8619807213544
+ 21
+385.275573214516
+ 31
+0.0
+  0
+LINE
+  5
+30E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+135.8619807362556
+ 20
+7432.452199498192
+ 30
+0.0
+ 11
+135.8619807362556
+ 21
+12918.85219949856
+ 31
+0.0
+  0
+LINE
+  5
+30F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+7432.452199498192
+ 30
+0.0
+ 11
+15426.6619811058
+ 21
+7280.05219949782
+ 31
+0.0
+  0
+LINE
+  5
+310
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+6518.052199497819
+ 30
+0.0
+ 11
+14359.86198072135
+ 21
+5146.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+311
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980351805
+ 20
+10480.45219950936
+ 30
+0.0
+ 11
+2371.061980351805
+ 21
+10328.05219949781
+ 31
+0.0
+  0
+LINE
+  5
+312
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+288.2619807571172
+ 20
+12918.85219949856
+ 30
+0.0
+ 11
+2371.061980366707
+ 21
+12918.85219949856
+ 31
+0.0
+  0
+LINE
+  5
+313
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980307102
+ 20
+1254.23871319741
+ 30
+0.0
+ 11
+2371.061980307102
+ 21
+385.2755732126534
+ 31
+0.0
+  0
+LINE
+  5
+314
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+15426.6619811058
+ 20
+11464.63871319405
+ 30
+0.0
+ 11
+15426.6619811058
+ 21
+10480.45219949819
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+315
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+9508.461980357767
+ 20
+3470.052199497819
+ 10
+9660.861872702838
+ 20
+3470.052199497819
+ 10
+9660.861872702838
+ 20
+3419.252199498936
+ 10
+9508.461980357767
+ 20
+3419.252199498936
+  0
+LINE
+  5
+316
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+12918.85219949856
+ 30
+0.0
+ 11
+2523.461980745196
+ 21
+12918.85219949856
+ 31
+0.0
+  0
+LINE
+  5
+317
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+288.2619807571172
+ 20
+12918.85219949856
+ 30
+0.0
+ 11
+135.8619807362556
+ 21
+12918.85219949856
+ 31
+0.0
+  0
+LINE
+  5
+318
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2371.061980739236
+ 20
+4384.452199498191
+ 30
+0.0
+ 11
+14359.86198072135
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+319
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+4384.452199498191
+ 30
+0.0
+ 11
+14359.86198072135
+ 21
+4232.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+31A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+4232.052199497819
+ 30
+0.0
+ 11
+2371.061980366707
+ 21
+4232.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+31B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2371.061980366707
+ 20
+4232.052199497819
+ 30
+0.0
+ 11
+2371.061980739236
+ 21
+4384.452199498191
+ 31
+0.0
+  0
+LINE
+  5
+31C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15274.6619810909
+ 20
+4139.864667547866
+ 30
+0.0
+ 11
+15274.6619810909
+ 21
+1101.68665292114
+ 31
+0.0
+  0
+LINE
+  5
+31D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+135.8619807362556
+ 20
+1406.23871319741
+ 30
+0.0
+ 11
+15274.6619810909
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+31E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+3012.852199498563
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+3012.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+31F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+2860.452199498191
+ 30
+0.0
+ 11
+288.2619807422161
+ 21
+2860.452199496329
+ 31
+0.0
+  0
+LINE
+  5
+320
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+2708.052199495956
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+2708.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+321
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+2555.652199497446
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+2555.652199499309
+ 31
+0.0
+  0
+LINE
+  5
+322
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+5603.652199499309
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+5603.652199499309
+ 31
+0.0
+  0
+LINE
+  5
+323
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+5756.052199495957
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+5756.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+324
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+5908.452199496329
+ 30
+0.0
+ 11
+288.2619807422161
+ 21
+5908.45219958201
+ 31
+0.0
+  0
+LINE
+  5
+325
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+6060.852199498564
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+6060.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+326
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+8651.652199499309
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+8651.652199499309
+ 31
+0.0
+  0
+LINE
+  5
+327
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+8804.052199497819
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+8804.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+328
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+8956.452199496329
+ 30
+0.0
+ 11
+288.2619807422161
+ 21
+8956.45219958201
+ 31
+0.0
+  0
+LINE
+  5
+329
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1431.261980742216
+ 20
+9108.8521994967
+ 30
+0.0
+ 11
+1405.861980736255
+ 21
+9108.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+32A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1228.061980366706
+ 20
+4308.252199498936
+ 30
+0.0
+ 11
+1228.061980366706
+ 21
+3622.452199500054
+ 31
+0.0
+  0
+LINE
+  5
+32B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1202.661980360746
+ 20
+4308.252199498936
+ 30
+0.0
+ 11
+1202.661980360746
+ 21
+3622.452199500054
+ 31
+0.0
+  0
+LINE
+  5
+32C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1228.061980366706
+ 20
+7356.252199498936
+ 30
+0.0
+ 11
+1228.061980366706
+ 21
+6670.452199500054
+ 31
+0.0
+  0
+LINE
+  5
+32D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1202.661980360746
+ 20
+7356.252199498936
+ 30
+0.0
+ 11
+1202.661980360746
+ 21
+6670.452199500054
+ 31
+0.0
+  0
+LINE
+  5
+32E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1228.061980366706
+ 20
+10404.25219949893
+ 30
+0.0
+ 11
+1228.061980366706
+ 21
+9718.452199500054
+ 31
+0.0
+  0
+LINE
+  5
+32F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1202.661980360746
+ 20
+10404.25219949893
+ 30
+0.0
+ 11
+1202.661980360746
+ 21
+9718.452199500054
+ 31
+0.0
+  0
+LINE
+  5
+330
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+288.2619807571172
+ 20
+12766.45219949819
+ 30
+0.0
+ 11
+2371.061980366707
+ 21
+12766.45219949819
+ 31
+0.0
+  0
+LINE
+  5
+331
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+3317.652199497446
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+3317.652199495584
+ 31
+0.0
+  0
+LINE
+  5
+332
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+3165.252199497074
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+3165.252199495211
+ 31
+0.0
+  0
+LINE
+  5
+333
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+6365.652199497446
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+6365.652199495584
+ 31
+0.0
+  0
+LINE
+  5
+334
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+6213.252199497073
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+6213.252199495212
+ 31
+0.0
+  0
+LINE
+  5
+335
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+9413.652199497446
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+9413.652199495585
+ 31
+0.0
+  0
+LINE
+  5
+336
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1253.461980357766
+ 20
+9261.252199497073
+ 30
+0.0
+ 11
+288.2619807273149
+ 21
+9261.252199495212
+ 31
+0.0
+  0
+LINE
+  5
+337
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15274.6619810909
+ 20
+4139.864667547866
+ 30
+0.0
+ 11
+18271.46198071539
+ 21
+4139.864667547866
+ 31
+0.0
+  0
+LINE
+  5
+338
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+18271.46198071539
+ 20
+4139.864667547866
+ 30
+0.0
+ 11
+18271.46198070049
+ 21
+1101.68665292114
+ 31
+0.0
+  0
+LINE
+  5
+339
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+9508.461980357767
+ 20
+3622.452199498191
+ 30
+0.0
+ 11
+9508.461980372668
+ 21
+4232.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+33A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+9660.861872702838
+ 20
+3622.452199498191
+ 30
+0.0
+ 11
+9660.861872702838
+ 21
+4232.052199497819
+ 31
+0.0
+  0
+LINE
+  5
+33B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2351.061980366706
+ 20
+12766.45219949819
+ 30
+0.0
+ 11
+2351.061980351806
+ 21
+9108.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+33C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2311.061980366706
+ 20
+12766.45219949819
+ 30
+0.0
+ 11
+2311.061980351805
+ 21
+9108.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+33D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2231.061980366706
+ 20
+12766.45219949819
+ 30
+0.0
+ 11
+2231.061980366706
+ 21
+9108.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+33E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2071.061980366706
+ 20
+12766.45219949819
+ 30
+0.0
+ 11
+2071.061980351805
+ 21
+9108.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+33F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1751.061980366706
+ 20
+12766.45219950005
+ 30
+0.0
+ 11
+1751.061980366706
+ 21
+9108.852199494839
+ 31
+0.0
+  0
+LINE
+  5
+340
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2351.061980351806
+ 20
+8346.852199498563
+ 30
+0.0
+ 11
+2351.061980336904
+ 21
+6060.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+341
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1751.061980351805
+ 20
+8346.852199498563
+ 30
+0.0
+ 11
+1751.061980336904
+ 21
+6060.852199496701
+ 31
+0.0
+  0
+LINE
+  5
+342
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2071.061980351805
+ 20
+8346.852199498563
+ 30
+0.0
+ 11
+2071.061980336904
+ 21
+6060.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+343
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2231.061980351805
+ 20
+8346.852199498563
+ 30
+0.0
+ 11
+2231.061980336904
+ 21
+6060.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+344
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2311.061980351805
+ 20
+8346.852199498563
+ 30
+0.0
+ 11
+2311.061980336904
+ 21
+6060.852199498564
+ 31
+0.0
+  0
+LINE
+  5
+345
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1751.061980336904
+ 20
+5298.852199500426
+ 30
+0.0
+ 11
+1751.061980322003
+ 21
+3012.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+346
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2071.061980322003
+ 20
+5298.852199500426
+ 30
+0.0
+ 11
+2071.061980307102
+ 21
+3012.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+347
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2231.061980336904
+ 20
+5298.852199500426
+ 30
+0.0
+ 11
+2231.061980322003
+ 21
+3012.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+348
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2311.061980336904
+ 20
+5298.852199500426
+ 30
+0.0
+ 11
+2311.061980322003
+ 21
+3012.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+349
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2351.061980336904
+ 20
+5298.852199500426
+ 30
+0.0
+ 11
+2351.061980336904
+ 21
+3012.852199498563
+ 31
+0.0
+  0
+LINE
+  5
+34A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1751.061980307102
+ 20
+2250.852199498563
+ 30
+0.0
+ 11
+1751.061980307102
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+34B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2071.061980307102
+ 20
+2250.852199498563
+ 30
+0.0
+ 11
+2071.061980307102
+ 21
+1406.238713195547
+ 31
+0.0
+  0
+LINE
+  5
+34C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2231.061980307102
+ 20
+2250.852199498563
+ 30
+0.0
+ 11
+2231.061980307102
+ 21
+1406.238713195547
+ 31
+0.0
+  0
+LINE
+  5
+34D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2311.061980307102
+ 20
+2250.852199498563
+ 30
+0.0
+ 11
+2311.061980307102
+ 21
+1406.238713195547
+ 31
+0.0
+  0
+LINE
+  5
+34E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+2351.061980322003
+ 20
+2250.852199498563
+ 30
+0.0
+ 11
+2351.061980307102
+ 21
+1406.238713195547
+ 31
+0.0
+  0
+HATCH
+  5
+34F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+       12
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+288.2619807422161
+ 20
+3622.452199498191
+ 10
+288.2619807422161
+ 20
+3470.052199497819
+ 10
+1253.461980342865
+ 20
+3470.052199495956
+ 10
+1253.461980357766
+ 20
+3622.452199500054
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+2371.061980322003
+ 20
+2250.852199496701
+ 10
+2371.061980322003
+ 20
+2403.252199498936
+ 10
+1405.861980736255
+ 20
+2403.252199500799
+ 10
+1405.861980736255
+ 20
+2250.852199496701
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+1405.861980736255
+ 20
+5451.252199498936
+ 10
+1405.861980736255
+ 20
+5298.852199498564
+ 10
+2371.061980336904
+ 20
+5298.852199500426
+ 10
+2371.061980336904
+ 20
+5451.252199497074
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+1253.461980342865
+ 20
+6518.052199494093
+ 10
+1253.461980372667
+ 20
+6670.452199501916
+ 10
+288.2619807273149
+ 20
+6670.452199496328
+ 10
+288.2619807422161
+ 20
+6518.052199497819
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+2371.061980351805
+ 20
+8346.852199496701
+ 10
+2371.061980351805
+ 20
+8499.252199498936
+ 10
+1405.861980736255
+ 20
+8499.252199497075
+ 10
+1405.861980721354
+ 20
+8346.852199498563
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+1253.461980357766
+ 20
+9566.052199499681
+ 10
+1253.461980357766
+ 20
+9718.452199498193
+ 10
+288.2619807422161
+ 20
+9718.452199498193
+ 10
+288.2619807422161
+ 20
+9566.052199495956
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+1253.461980357766
+ 20
+10480.45219949819
+ 10
+1177.261980369687
+ 20
+10480.45219949819
+ 10
+1177.261980369687
+ 20
+10404.25219950079
+ 10
+1253.461980357766
+ 20
+10404.25219949893
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+1482.061980739236
+ 20
+9185.052199497819
+ 10
+1482.061980739236
+ 20
+9261.252199497073
+ 10
+1405.861980736255
+ 20
+9261.252199497073
+ 10
+1405.861980736255
+ 20
+9185.052199495956
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+1253.461980342865
+ 20
+7356.252199497074
+ 10
+1253.461980357766
+ 20
+7432.452199496329
+ 10
+1177.261980369687
+ 20
+7432.452199500054
+ 10
+1177.261980354786
+ 20
+7356.252199498936
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+1405.861980721354
+ 20
+6213.252199497073
+ 10
+1405.861980736255
+ 20
+6137.052199497819
+ 10
+1482.061980739236
+ 20
+6137.052199497819
+ 10
+1482.061980739236
+ 20
+6213.252199498937
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+1177.261980369687
+ 20
+4308.252199500799
+ 10
+1253.461980357766
+ 20
+4308.252199498936
+ 10
+1253.461980357766
+ 20
+4384.452199498191
+ 10
+1177.261980369687
+ 20
+4384.452199498191
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+1405.861980721354
+ 20
+3165.252199495211
+ 10
+1405.861980736255
+ 20
+3089.052199495956
+ 10
+1482.061980739236
+ 20
+3089.052199497819
+ 10
+1482.061980739236
+ 20
+3165.252199497074
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+4.472399703377545
+ 98
+       12
+ 10
+657.8101287484169
+ 20
+3560.86669828184
+ 10
+1825.270348936319
+ 20
+2301.364215265959
+ 10
+1683.253088697791
+ 20
+5386.918262790889
+ 10
+754.2796009927988
+ 20
+6583.868645746261
+ 10
+1743.490716740489
+ 20
+8397.284467738122
+ 10
+739.5040642470121
+ 20
+9606.214873528109
+ 10
+1223.71354304254
+ 20
+10439.18342753313
+ 10
+1448.688764899969
+ 20
+9217.039178645238
+ 10
+1223.418960690498
+ 20
+7384.511270551012
+ 10
+1446.981972590088
+ 20
+6181.105565849692
+ 10
+1208.302422553301
+ 20
+4349.386998571455
+ 10
+1445.494778037071
+ 20
+3132.893581807613
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+HATCH
+  5
+350
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+       12
+ 10
+135.8619807362556
+ 20
+7432.452199498192
+ 10
+135.8619807362556
+ 20
+4384.452199498191
+ 10
+135.8619807213544
+ 20
+1406.23871319741
+ 10
+288.2619807273149
+ 20
+1406.23871319741
+ 10
+288.2619807422161
+ 20
+12766.45219950005
+ 10
+2371.061980366707
+ 20
+12766.45219949819
+ 10
+2371.061980366707
+ 20
+10480.4521995075
+ 10
+2523.461980730295
+ 20
+10480.45219950936
+ 10
+2523.461980745196
+ 20
+12918.85219949856
+ 10
+2371.061980366707
+ 20
+12918.85219949856
+ 10
+288.2619807571172
+ 20
+12918.85219949856
+ 10
+135.8619807362556
+ 20
+12918.85219949856
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+21.82678395528402
+ 98
+        1
+ 10
+194.7480922788381
+ 20
+10317.0619030036
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+HATCH
+  5
+351
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        3
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+2523.461980372667
+ 20
+4232.052199497819
+ 10
+2371.061980322003
+ 20
+4232.052199497819
+ 10
+2371.061980322003
+ 20
+1406.23871319741
+ 10
+2523.461980372667
+ 20
+1406.23871319741
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+2523.461980745196
+ 20
+7280.052199499682
+ 10
+2371.061980739236
+ 20
+7280.05219949782
+ 10
+2371.061980739236
+ 20
+4384.452199498191
+ 10
+2523.461980745196
+ 20
+4384.452199498191
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+2523.461980730295
+ 20
+10328.05219949595
+ 10
+2371.061980366707
+ 20
+10328.05219949781
+ 10
+2371.061980351805
+ 20
+7432.452199496329
+ 10
+2523.461980745196
+ 20
+7432.452199498192
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+16.71890589125866
+ 98
+        3
+ 10
+2453.37705899775
+ 20
+3658.279476247727
+ 10
+2460.804105013609
+ 20
+4875.601638602093
+ 10
+2452.64863717556
+ 20
+8646.781359571964
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LINE
+  5
+352
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1202.661980360746
+ 20
+3698.652199499309
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+3698.652199501172
+ 31
+0.0
+  0
+LINE
+  5
+353
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1202.661980360746
+ 20
+6746.652199499308
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+6746.652199499308
+ 31
+0.0
+  0
+LINE
+  5
+354
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbLine
+ 10
+1202.661980360746
+ 20
+9794.652199501172
+ 30
+0.0
+ 11
+1177.261980369687
+ 21
+9794.65219949931
+ 31
+0.0
+  0
+HATCH
+  5
+355
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        4
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+14359.86198072135
+ 20
+2098.452199498191
+ 10
+14105.86198072135
+ 20
+2098.452199498191
+ 10
+14105.86198072135
+ 20
+1406.238713199272
+ 10
+14359.86198070645
+ 20
+1406.23871319741
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+14359.86198072135
+ 20
+4232.052199497819
+ 10
+14105.86198072135
+ 20
+4232.052199497819
+ 10
+14105.86198072135
+ 20
+3622.452199496329
+ 10
+14359.86198072135
+ 20
+3622.452199496329
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+14359.86198072135
+ 20
+5146.452199496329
+ 10
+14105.86198072135
+ 20
+5146.452199496329
+ 10
+14105.86198070645
+ 20
+4384.452199496329
+ 10
+14359.86198072135
+ 20
+4384.452199498191
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+14359.86198072135
+ 20
+7280.052199499682
+ 10
+14105.86198072135
+ 20
+7280.05219949782
+ 10
+14105.86198072135
+ 20
+6670.452199500054
+ 10
+14359.86198072135
+ 20
+6670.452199500054
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+8.526085942982932
+ 98
+        4
+ 10
+14222.35668797791
+ 20
+1825.764504671097
+ 10
+14290.60874140262
+ 20
+3880.551469054073
+ 10
+14205.29233561456
+ 20
+4588.216115463525
+ 10
+14213.82451179623
+ 20
+6847.629664111882
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LINE
+  5
+356
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2523.461980745196
+ 20
+11464.63871319592
+ 30
+0.0
+ 11
+4982.40699210763
+ 21
+11464.63871319592
+ 31
+0.0
+  0
+HATCH
+  5
+357
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        6
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+15426.6619811058
+ 20
+10328.05219949781
+ 10
+15172.6619811058
+ 20
+10328.05219949781
+ 10
+15172.6619811058
+ 20
+9718.452199500054
+ 10
+15426.6619811058
+ 20
+9718.452199500054
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+15426.6619811058
+ 20
+8194.45219949633
+ 10
+15172.6619810909
+ 20
+8194.452199498192
+ 10
+15172.6619810909
+ 20
+7432.452199498192
+ 10
+15426.6619811058
+ 20
+7432.452199498192
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+11540.46198073029
+ 20
+10328.05219949781
+ 10
+11388.0619803518
+ 20
+10328.05219949595
+ 10
+11388.0619803518
+ 20
+7432.452199498192
+ 10
+11540.46198074519
+ 20
+7432.452199498192
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+2371.061980366707
+ 20
+10480.45219951122
+ 10
+2371.061980381607
+ 20
+10328.05219949781
+ 10
+15426.6619810909
+ 20
+10328.05219949781
+ 10
+15426.6619811207
+ 20
+10480.45219949632
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        6
+ 10
+2371.061980724334
+ 20
+7432.452199498192
+ 10
+2371.061980724334
+ 20
+7280.05219949782
+ 10
+2523.461980745196
+ 20
+7280.05219949782
+ 10
+15426.6619810909
+ 20
+7280.05219949782
+ 10
+15426.6619811058
+ 20
+7432.452199500054
+ 10
+15172.6619810909
+ 20
+7432.452199498192
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+14359.86198070645
+ 20
+4232.052199497819
+ 10
+14359.86198072135
+ 20
+4384.452199498191
+ 10
+2371.061980724334
+ 20
+4384.452199498191
+ 10
+2371.061980366707
+ 20
+4232.052199495956
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+14.88267498162918
+ 98
+        6
+ 10
+15339.10729807615
+ 20
+10060.43860762938
+ 10
+15339.10729807615
+ 20
+7857.802621478215
+ 10
+11481.97271321713
+ 20
+8840.059384714811
+ 10
+12345.73280911147
+ 20
+10417.6231056787
+ 10
+12107.45496229827
+ 20
+7381.556893588975
+ 10
+10350.14981648326
+ 20
+4300.842720311135
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LINE
+  5
+358
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7527.261980742216
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+7527.261980742216
+ 21
+1254.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+359
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7679.661980360747
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+7679.661980360747
+ 21
+1254.23871319741
+ 31
+0.0
+  0
+HATCH
+  5
+35A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        3
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+7527.261980757117
+ 20
+7432.452199496329
+ 10
+7679.661980375647
+ 20
+7432.452199500054
+ 10
+7679.661980360747
+ 20
+10328.05219949595
+ 10
+7527.261980772019
+ 20
+10328.05219949595
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+7679.661980360747
+ 20
+7280.052199495957
+ 10
+7527.261980757117
+ 20
+7280.052199494093
+ 10
+7527.261980757117
+ 20
+4384.452199498191
+ 10
+7679.661980375647
+ 20
+4384.452199498191
+ 97
+        0
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+7527.261980742216
+ 20
+1406.238713195547
+ 10
+7679.661980360747
+ 20
+1406.23871319741
+ 10
+7679.661980375647
+ 20
+4232.052199499682
+ 10
+7527.261980757117
+ 20
+4232.052199501544
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+21.76782678584835
+ 98
+        3
+ 10
+7577.93347619474
+ 20
+8132.904113642871
+ 10
+7621.497742995619
+ 20
+6282.639432862401
+ 10
+7599.716502264143
+ 20
+3844.64212477766
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+HATCH
+  5
+35B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+9635.461980745198
+ 20
+7280.05219949782
+ 10
+9475.43482774496
+ 20
+7280.05219949782
+ 10
+9475.43482771516
+ 20
+4384.452199496329
+ 10
+9635.461980745198
+ 20
+4384.452199494466
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+8.40446317467849
+ 98
+        1
+ 10
+9546.577358886599
+ 20
+6015.16886838153
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LINE
+  5
+35C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+370
+    13
+100
+AcDbLine
+ 10
+4982.406992092728
+ 20
+12768.85219949484
+ 30
+0.0
+ 11
+2523.461980357766
+ 21
+12768.85219949856
+ 31
+0.0
+  0
+LINE
+  5
+35D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+370
+    13
+100
+AcDbLine
+ 10
+5132.40699210763
+ 20
+10480.4521995075
+ 30
+0.0
+ 11
+5132.40699210763
+ 21
+12918.85219949856
+ 31
+0.0
+  0
+LINE
+  5
+35E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+370
+    13
+100
+AcDbLine
+ 10
+4982.40699210763
+ 20
+10480.4521995075
+ 30
+0.0
+ 11
+4982.40699210763
+ 21
+12918.85219949856
+ 31
+0.0
+  0
+LINE
+  5
+35F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+5132.40699210763
+ 20
+12918.85219949856
+ 30
+0.0
+ 11
+2523.461980745196
+ 21
+12918.85219950229
+ 31
+0.0
+  0
+LINE
+  5
+360
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+5132.40699210763
+ 20
+11464.63871319592
+ 30
+0.0
+ 11
+15426.6619811058
+ 21
+11464.63871319592
+ 31
+0.0
+  0
+SPLINE
+  5
+361
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     9
+ 73
+     5
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+18521.00128086698
+ 40
+18521.00128086698
+ 40
+18521.00128086698
+ 40
+18521.00128086698
+ 40
+20072.79299041112
+ 40
+21559.47570419217
+ 40
+21559.47570419217
+ 40
+21559.47570419217
+ 40
+21559.47570419217
+ 10
+-848.9865736365318
+ 20
+2738.16241934523
+ 30
+0.0
+ 10
+-1364.69109429419
+ 20
+2787.715611411258
+ 30
+0.0
+ 10
+-2373.116093084216
+ 20
+2907.146190587431
+ 30
+0.0
+ 10
+-3374.879658579827
+ 20
+3096.186207426712
+ 30
+0.0
+ 10
+-3864.138019263744
+ 20
+3192.313941221684
+ 30
+0.0
+  0
+LINE
+  5
+362
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+-848.9865736365318
+ 20
+2738.162419347093
+ 30
+0.0
+ 11
+-848.9865736365318
+ 21
+2456.238713191822
+ 31
+0.0
+  0
+LINE
+  5
+363
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+-848.9865736365318
+ 20
+2456.238713189959
+ 30
+0.0
+ 11
+135.8619807362556
+ 21
+2456.238713186234
+ 31
+0.0
+  0
+LINE
+  5
+364
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+288.2619807124137
+ 20
+1254.23871319741
+ 30
+0.0
+ 11
+2371.061980307102
+ 21
+1254.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+365
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+0.0000000149011612
+ 20
+0.0
+ 30
+0.0
+ 11
+424.1239614486694
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+366
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+424.1239614486694
+ 20
+385.2755732126534
+ 30
+0.0
+ 11
+424.1239614486694
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+367
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+0.0
+ 20
+385.2755732126534
+ 30
+0.0
+ 11
+0.0
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+368
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2235.19999961555
+ 20
+0.0
+ 30
+0.0
+ 11
+2659.323961049318
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+369
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2659.323961049318
+ 20
+385.2755732126534
+ 30
+0.0
+ 11
+2659.323961049318
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+36A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2235.199999600649
+ 20
+385.2755732126534
+ 30
+0.0
+ 11
+2235.199999600649
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+36B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7391.399999842048
+ 20
+0.0000000018626451
+ 30
+0.0
+ 11
+7815.523961275816
+ 21
+0.0000000018626451
+ 31
+0.0
+  0
+LINE
+  5
+36C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7815.523961275816
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+7815.523961275816
+ 21
+0.0000000018626451
+ 31
+0.0
+  0
+LINE
+  5
+36D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7391.399999827147
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+7391.399999827147
+ 21
+0.0000000018626451
+ 31
+0.0
+  0
+LINE
+  5
+36E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+14020.80000001192
+ 20
+0.0000000018626451
+ 30
+0.0
+ 11
+14444.92396144569
+ 21
+0.0000000018626451
+ 31
+0.0
+  0
+LINE
+  5
+36F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+14444.92396144569
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+14444.92396144569
+ 21
+0.0000000018626451
+ 31
+0.0
+  0
+LINE
+  5
+370
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+14020.79999999702
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+14020.79999999702
+ 21
+0.0000000018626451
+ 31
+0.0
+  0
+LINE
+  5
+371
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+14020.79999999702
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+14105.86198072135
+ 21
+385.275573214516
+ 31
+0.0
+  0
+LINE
+  5
+372
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+14444.92396144569
+ 21
+385.275573214516
+ 31
+0.0
+  0
+LINE
+  5
+373
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+14359.86198072135
+ 20
+1254.23871319741
+ 30
+0.0
+ 11
+15274.6619810909
+ 21
+1254.23871319741
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+374
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+14359.86198072135
+ 20
+1254.23871319741
+ 10
+14359.86198072135
+ 20
+385.275573214516
+  0
+LWPOLYLINE
+  5
+375
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+14105.86198072135
+ 20
+2098.452199498191
+ 10
+14359.86198072135
+ 20
+2098.452199498191
+  0
+LINE
+  5
+376
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7391.399999827147
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+7527.261980742216
+ 21
+385.2755732126534
+ 31
+0.0
+  0
+LINE
+  5
+377
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7679.661980360747
+ 20
+1254.23871319741
+ 30
+0.0
+ 11
+14105.86198072135
+ 21
+1254.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+378
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7679.661980360747
+ 20
+385.2755732126534
+ 30
+0.0
+ 11
+7815.523961275816
+ 21
+385.275573214516
+ 31
+0.0
+  0
+LINE
+  5
+379
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2235.199999600649
+ 20
+385.2755732126534
+ 30
+0.0
+ 11
+2371.061980292201
+ 21
+385.2755732126534
+ 31
+0.0
+  0
+LINE
+  5
+37A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2523.461980357766
+ 20
+1254.23871319741
+ 30
+0.0
+ 11
+7527.261980742216
+ 21
+1254.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+37B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2523.461980357766
+ 20
+385.275573214516
+ 30
+0.0
+ 11
+2659.323961049318
+ 21
+385.2755732126534
+ 31
+0.0
+  0
+LINE
+  5
+37C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+0.0
+ 20
+385.2755732126534
+ 30
+0.0
+ 11
+135.8619807213544
+ 21
+385.2755732126534
+ 31
+0.0
+  0
+LINE
+  5
+37D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+288.2619807124137
+ 20
+385.2755732126534
+ 30
+0.0
+ 11
+424.1239614486694
+ 21
+385.2755732126534
+ 31
+0.0
+  0
+LINE
+  5
+37E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15426.6619810909
+ 20
+3987.864667546004
+ 30
+0.0
+ 11
+18119.46198071539
+ 21
+3987.864667546004
+ 31
+0.0
+  0
+LINE
+  5
+37F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15426.6619810909
+ 20
+3987.864667547867
+ 30
+0.0
+ 11
+15426.6619810909
+ 21
+1101.68665292114
+ 31
+0.0
+  0
+LINE
+  5
+380
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+18119.46198071539
+ 20
+3987.864667547867
+ 30
+0.0
+ 11
+18119.46198071539
+ 21
+1101.68665292114
+ 31
+0.0
+  0
+LINE
+  5
+381
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15138.80000019073
+ 20
+716.4110797084868
+ 30
+0.0
+ 11
+15562.9239616245
+ 21
+716.4110797084868
+ 31
+0.0
+  0
+LINE
+  5
+382
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15562.9239616245
+ 20
+1101.68665292114
+ 30
+0.0
+ 11
+15562.9239616245
+ 21
+716.4110797084868
+ 31
+0.0
+  0
+LINE
+  5
+383
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15138.80000017583
+ 20
+1101.68665292114
+ 30
+0.0
+ 11
+15138.80000017583
+ 21
+716.4110797084868
+ 31
+0.0
+  0
+LINE
+  5
+384
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15138.80000017583
+ 20
+1101.68665292114
+ 30
+0.0
+ 11
+15274.6619810909
+ 21
+1101.686652919277
+ 31
+0.0
+  0
+LINE
+  5
+385
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15427.06198070943
+ 20
+1101.686652919277
+ 30
+0.0
+ 11
+15562.9239616245
+ 21
+1101.68665292114
+ 31
+0.0
+  0
+LINE
+  5
+386
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+17983.59999981522
+ 20
+716.4110797084868
+ 30
+0.0
+ 11
+18407.72396124899
+ 21
+716.4110797084868
+ 31
+0.0
+  0
+LINE
+  5
+387
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+18407.72396124899
+ 20
+1101.68665292114
+ 30
+0.0
+ 11
+18407.72396124899
+ 21
+716.4110797084868
+ 31
+0.0
+  0
+LINE
+  5
+388
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+17983.59999980032
+ 20
+1101.68665292114
+ 30
+0.0
+ 11
+17983.59999980032
+ 21
+716.4110797084868
+ 31
+0.0
+  0
+LINE
+  5
+389
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+17983.59999980032
+ 20
+1101.68665292114
+ 30
+0.0
+ 11
+18119.46198071539
+ 21
+1101.686652919277
+ 31
+0.0
+  0
+LINE
+  5
+38A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+18271.86198033392
+ 20
+1101.686652919277
+ 30
+0.0
+ 11
+18407.72396124899
+ 21
+1101.68665292114
+ 31
+0.0
+  0
+LINE
+  5
+38B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15426.6619810909
+ 20
+1406.238713199272
+ 30
+0.0
+ 11
+18119.46198071539
+ 21
+1406.238713199272
+ 31
+0.0
+  0
+LINE
+  5
+38C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15426.6619810909
+ 20
+1254.23871319741
+ 30
+0.0
+ 11
+18119.46198071539
+ 21
+1254.238713195547
+ 31
+0.0
+  0
+HATCH
+  5
+38D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+5800.061980366707
+ 20
+10328.05219949595
+ 10
+5647.661980360746
+ 20
+10328.05219949781
+ 10
+5647.661980360746
+ 20
+7432.452199498192
+ 10
+5800.061980366707
+ 20
+7432.452199498192
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+30.57768534236913
+ 98
+        1
+ 10
+5727.579584121704
+ 20
+9266.233516860754
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+HATCH
+  5
+38E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+       34
+ 10
+7679.661980345845
+ 20
+385.2755731958895
+ 10
+7679.661980345845
+ 20
+1254.238713195547
+ 10
+14105.86198072135
+ 20
+1254.23871319741
+ 10
+14105.86198072135
+ 20
+385.275573214516
+ 10
+14020.79999999702
+ 20
+385.2755732163787
+ 10
+14020.79999998211
+ 20
+0.0000000018626451
+ 10
+14444.92396144569
+ 20
+0.0000000037252903
+ 10
+14444.92396144569
+ 20
+385.275573214516
+ 10
+14359.86198072135
+ 20
+385.275573214516
+ 10
+14359.86198072135
+ 20
+1254.238713199272
+ 10
+15274.6619810909
+ 20
+1254.23871319741
+ 10
+15274.6619810909
+ 20
+1406.238713195547
+ 10
+135.8619807213544
+ 20
+1406.238713195547
+ 10
+135.8619807213544
+ 20
+385.2755732126534
+ 10
+0.0
+ 20
+385.2755732126534
+ 10
+0.0
+ 20
+-0.0000000018626451
+ 10
+424.1239614486694
+ 20
+0.0
+ 10
+424.1239614486694
+ 20
+385.2755732126534
+ 10
+288.2619807124137
+ 20
+385.2755732126534
+ 10
+288.2619806975126
+ 20
+1254.238713199272
+ 10
+2371.061980307102
+ 20
+1254.23871319741
+ 10
+2371.061980307102
+ 20
+385.2755732126534
+ 10
+2235.199999600649
+ 20
+385.2755732107907
+ 10
+2235.199999585748
+ 20
+-0.0000000018626451
+ 10
+2659.323961049318
+ 20
+0.0000000018626451
+ 10
+2659.323961049318
+ 20
+385.2755732126534
+ 10
+2523.461980357766
+ 20
+385.275573214516
+ 10
+2523.461980357766
+ 20
+1254.23871319741
+ 10
+7527.261980742216
+ 20
+1254.23871319741
+ 10
+7527.261980742216
+ 20
+385.2755732107907
+ 10
+7391.399999827147
+ 20
+385.275573214516
+ 10
+7391.399999827147
+ 20
+0.0000000018626451
+ 10
+7815.523961275816
+ 20
+0.0
+ 10
+7815.523961275816
+ 20
+385.275573214516
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+30.57768534236913
+ 98
+        1
+ 10
+7624.63638408482
+ 20
+215.2385396007448
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LINE
+  5
+38F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15478.11434940993
+ 20
+3470.052199501544
+ 30
+0.0
+ 11
+16586.90651544928
+ 21
+3470.052199495956
+ 31
+0.0
+  0
+LINE
+  5
+390
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15528.91434940695
+ 20
+3419.252199500799
+ 30
+0.0
+ 11
+16536.10651548206
+ 21
+3419.252199500799
+ 31
+0.0
+  0
+HATCH
+  5
+391
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+18119.46198071539
+ 20
+1406.238713199272
+ 10
+15426.6619810909
+ 20
+1406.238713199272
+ 10
+15426.6619810909
+ 20
+1254.238713195547
+ 10
+18119.46198071539
+ 20
+1254.238713195547
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+6.255324475667483
+ 98
+        1
+ 10
+16296.08753359317
+ 20
+1327.662532113492
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LINE
+  5
+392
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15528.91434940695
+ 20
+1406.238713199272
+ 30
+0.0
+ 11
+15528.91434940695
+ 21
+3419.252199500799
+ 31
+0.0
+  0
+LINE
+  5
+393
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+16536.10651546716
+ 20
+1406.238713201135
+ 30
+0.0
+ 11
+16536.10651546716
+ 21
+3419.252199500799
+ 31
+0.0
+  0
+LINE
+  5
+394
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+16586.90651546418
+ 20
+1406.238713201135
+ 30
+0.0
+ 11
+16586.90651546418
+ 21
+3470.052199499682
+ 31
+0.0
+  0
+LINE
+  5
+395
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+15478.11434940993
+ 20
+1406.238713199272
+ 30
+0.0
+ 11
+15478.11434940993
+ 21
+3470.052199497819
+ 31
+0.0
+  0
+HATCH
+  5
+396
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+       16
+ 10
+15562.9239616096
+ 20
+1101.68665292114
+ 10
+15426.6619810909
+ 20
+1101.68665292114
+ 10
+15426.6619810909
+ 20
+3987.864667546004
+ 10
+18119.46198071539
+ 20
+3987.864667546004
+ 10
+18119.46198073029
+ 20
+1101.68665292114
+ 10
+17983.59999981522
+ 20
+1101.686652919277
+ 10
+17983.59999978542
+ 20
+716.4110797103494
+ 10
+18407.72396126389
+ 20
+716.4110797084868
+ 10
+18407.72396126389
+ 20
+1101.68665292114
+ 10
+18271.46198071539
+ 20
+1101.686652917414
+ 10
+18271.46198071539
+ 20
+4139.864667549729
+ 10
+15274.6619810909
+ 20
+4139.864667549729
+ 10
+15274.6619810909
+ 20
+1101.686652919277
+ 10
+15138.80000019073
+ 20
+1101.68665292114
+ 10
+15138.80000016093
+ 20
+716.4110797084868
+ 10
+15562.9239616245
+ 20
+716.4110797084868
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+19.34575289703824
+ 98
+        1
+ 10
+15371.08822964131
+ 20
+829.1320374459028
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+HATCH
+  5
+397
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+9660.861872702838
+ 20
+4232.052199499682
+ 10
+9508.461980372668
+ 20
+4232.052199499682
+ 10
+9508.461980342865
+ 20
+3622.452199496329
+ 10
+9660.861872702838
+ 20
+3622.452199500054
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+6.162766366065509
+ 98
+        1
+ 10
+9647.041898831725
+ 20
+3958.384539283812
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LINE
+  5
+398
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+3463.261980742216
+ 20
+2206.238713199272
+ 30
+0.0
+ 11
+7527.261980742216
+ 21
+2206.238713195547
+ 31
+0.0
+  0
+LINE
+  5
+399
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+6916.957976579666
+ 20
+2206.238713199272
+ 30
+0.0
+ 11
+6916.957976579666
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+HATCH
+  5
+39A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        7
+ 72
+     0
+ 73
+     1
+ 93
+        4
+ 10
+7527.261980742216
+ 20
+2206.238713199272
+ 10
+6916.957976579666
+ 20
+2206.238713199272
+ 10
+6916.957976579666
+ 20
+2165.718081265687
+ 10
+7527.261980742216
+ 20
+2165.718081265687
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+1.688391216420266
+ 98
+        1
+ 10
+7253.160353943705
+ 20
+2184.447731597349
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LINE
+  5
+39B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+4939.458299681544
+ 20
+1406.23871319741
+ 30
+0.0
+ 11
+4939.458299696446
+ 21
+2206.238713199272
+ 31
+0.0
+  0
+LINE
+  5
+39C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+5439.458299681544
+ 20
+1406.23871319741
+ 30
+0.0
+ 11
+5439.458299696446
+ 21
+2206.238713199272
+ 31
+0.0
+  0
+LINE
+  5
+39D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+5800.061980351806
+ 20
+2499.040366049856
+ 30
+0.0
+ 11
+5800.061980351806
+ 21
+3869.162193339318
+ 31
+0.0
+  0
+LINE
+  5
+39E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7476.461980357766
+ 20
+2499.040366049856
+ 30
+0.0
+ 11
+7476.461980342866
+ 21
+3869.162193339318
+ 31
+0.0
+  0
+LINE
+  5
+39F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7730.461980372668
+ 20
+2499.040366049856
+ 30
+0.0
+ 11
+7730.461980357766
+ 21
+3869.162193339318
+ 31
+0.0
+  0
+LINE
+  5
+3A0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+9457.661980733275
+ 20
+2499.040366051719
+ 30
+0.0
+ 11
+9457.661980733275
+ 21
+3869.162193337455
+ 31
+0.0
+  0
+LINE
+  5
+3A1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+5800.061980351806
+ 20
+3869.162193339318
+ 30
+0.0
+ 11
+7476.461980357766
+ 21
+3869.162193337455
+ 31
+0.0
+  0
+LINE
+  5
+3A2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+5800.061980351806
+ 20
+2499.040366049856
+ 30
+0.0
+ 11
+7476.461980357766
+ 21
+2499.040366051719
+ 31
+0.0
+  0
+LINE
+  5
+3A3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7730.461980357766
+ 20
+2499.040366051719
+ 30
+0.0
+ 11
+9457.661980733275
+ 21
+2499.040366053581
+ 31
+0.0
+  0
+LINE
+  5
+3A4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7730.461980357766
+ 20
+3869.162193337455
+ 30
+0.0
+ 11
+9457.661980733275
+ 21
+3869.162193337455
+ 31
+0.0
+  0
+LINE
+  5
+3A5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+8103.623180910945
+ 20
+2206.238713195547
+ 30
+0.0
+ 11
+8103.623180910945
+ 21
+1499.299092201516
+ 31
+0.0
+  0
+ELLIPSE
+  5
+3A6
+102
+{ACAD_REACTORS
+330
+3AF
+102
+}
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbEllipse
+ 10
+7897.533365979791
+ 20
+2206.23871319741
+ 30
+0.0
+ 11
+-141.8512229025363
+ 21
+0.0000000018626451
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.687963455798878
+ 41
+0.0
+ 42
+3.141592653589793
+  0
+ELLIPSE
+  5
+3A7
+102
+{ACAD_REACTORS
+330
+3AF
+102
+}
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbEllipse
+ 10
+7897.533365979791
+ 20
+2196.224004300311
+ 30
+0.0
+ 11
+-141.8512229025363
+ 21
+0.0000000018626451
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.687963455798878
+ 41
+0.0
+ 42
+3.141592653589793
+  0
+LINE
+  5
+3A8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7527.261980757117
+ 20
+2165.71808126755
+ 30
+0.0
+ 11
+6916.957976579666
+ 21
+2165.718081263825
+ 31
+0.0
+  0
+LINE
+  5
+3A9
+102
+{ACAD_REACTORS
+330
+3AF
+102
+}
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7755.682143077255
+ 20
+2196.224004302174
+ 30
+0.0
+ 11
+7755.682143077255
+ 21
+2206.238713199272
+ 31
+0.0
+  0
+LINE
+  5
+3AA
+102
+{ACAD_REACTORS
+330
+3AF
+102
+}
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+8039.384588882327
+ 20
+2196.224004298448
+ 30
+0.0
+ 11
+8039.384588882327
+ 21
+2206.238713195547
+ 31
+0.0
+  0
+LINE
+  5
+3AB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7679.661980360747
+ 20
+2206.238713195547
+ 30
+0.0
+ 11
+8103.623180910945
+ 21
+2206.238713195547
+ 31
+0.0
+  0
+LINE
+  5
+3AC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7679.661980345845
+ 20
+2165.718081261962
+ 30
+0.0
+ 11
+7679.661980360747
+ 21
+2206.238713195547
+ 31
+0.0
+  0
+HATCH
+  5
+3AD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        5
+ 93
+        5
+ 72
+     3
+ 10
+7897.533365979791
+ 20
+2196.224004300311
+ 11
+-141.8512229025363
+ 21
+0.0000000018626451
+ 40
+0.687963455798878
+ 50
+347.2431954169203
+ 51
+360.0
+ 73
+     0
+ 72
+     1
+ 10
+7755.682143077255
+ 20
+2196.224004438147
+ 11
+7755.682143062353
+ 21
+2206.238713195547
+ 72
+     1
+ 10
+7755.682143062353
+ 20
+2206.238713195547
+ 11
+7679.661980360747
+ 21
+2206.238713195547
+ 72
+     1
+ 10
+7679.661980360747
+ 20
+2206.238713195547
+ 11
+7679.661980330944
+ 21
+2165.718081265687
+ 72
+     1
+ 10
+7679.661980330944
+ 20
+2165.718081265687
+ 11
+7762.790928080677
+ 21
+2165.718081265687
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+0.2417434246511714
+ 98
+        1
+ 10
+7722.358630105853
+ 20
+2184.062870230525
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+HATCH
+  5
+3AE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+        1
+ 92
+        5
+ 93
+        5
+ 72
+     1
+ 10
+8103.623180896043
+ 20
+2206.238713193684
+ 11
+8039.384588882327
+ 21
+2206.23871319741
+ 72
+     1
+ 10
+8039.384588882327
+ 20
+2206.23871319741
+ 11
+8039.384588882327
+ 21
+2196.224005408585
+ 72
+     3
+ 10
+7897.533365979791
+ 20
+2196.224004300311
+ 11
+-141.8512229025363
+ 21
+0.0000000018626451
+ 40
+0.687963455798878
+ 50
+180.0
+ 51
+192.7568045806582
+ 73
+     0
+ 72
+     1
+ 10
+8032.275803893805
+ 20
+2165.71808126755
+ 11
+8103.623180910945
+ 21
+2165.71808126755
+ 72
+     1
+ 10
+8103.623180910945
+ 20
+2165.71808126755
+ 11
+8103.623180896043
+ 21
+2206.238713193684
+ 97
+        0
+ 75
+     0
+ 76
+     1
+ 47
+0.274348430806647
+ 98
+        1
+ 10
+8074.497020155192
+ 20
+2182.891306953504
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+HATCH
+  5
+3AF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     1
+ 91
+        1
+ 92
+        1
+ 93
+        4
+ 72
+     1
+ 10
+8039.384588882327
+ 20
+2196.224004298448
+ 11
+8039.384588882327
+ 21
+2206.238713195547
+ 72
+     3
+ 10
+7897.533365979791
+ 20
+2206.23871319741
+ 11
+-141.8512229025363
+ 21
+0.0000000018626451
+ 40
+0.687963455798878
+ 50
+180.0
+ 51
+360.0
+ 73
+     0
+ 72
+     1
+ 10
+7755.682143077255
+ 20
+2206.238713199272
+ 11
+7755.682143077255
+ 21
+2196.224004302174
+ 72
+     3
+ 10
+7897.533365979791
+ 20
+2196.224004300311
+ 11
+-141.8512229025363
+ 21
+0.0000000018626451
+ 40
+0.687963455798878
+ 50
+0.0
+ 51
+180.0
+ 73
+     1
+ 97
+        4
+330
+3AA
+330
+3A6
+330
+3A9
+330
+3A7
+ 75
+     0
+ 76
+     1
+ 98
+        1
+ 10
+70818217.32657627
+ 20
+15115374.07580531
+1001
+ACAD
+1010
+0.0
+1020
+0.0
+1030
+0.0
+  0
+LINE
+  5
+3B0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7679.661980360747
+ 20
+1499.299092201516
+ 30
+0.0
+ 11
+8103.623180910945
+ 21
+1499.299092201516
+ 31
+0.0
+  0
+LINE
+  5
+3B1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7679.661980360747
+ 20
+1529.299092201516
+ 30
+0.0
+ 11
+8103.623180910945
+ 21
+1529.299092201516
+ 31
+0.0
+  0
+LINE
+  5
+3B2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+8073.623180910946
+ 20
+2206.238713195547
+ 30
+0.0
+ 11
+8073.623180925846
+ 21
+1529.299092199653
+ 31
+0.0
+  0
+LINE
+  5
+3B3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7734.625753492117
+ 20
+1499.299092201516
+ 30
+0.0
+ 11
+7734.625753477216
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+3B4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7753.532584562897
+ 20
+1499.299092199653
+ 30
+0.0
+ 11
+7753.532584562897
+ 21
+1406.238713195547
+ 31
+0.0
+  0
+LINE
+  5
+3B5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+8022.495200619102
+ 20
+1499.299092201516
+ 30
+0.0
+ 11
+8022.4952006042
+ 21
+1406.23871319741
+ 31
+0.0
+  0
+LINE
+  5
+3B6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+8041.402031689882
+ 20
+1499.299092199653
+ 30
+0.0
+ 11
+8041.402031689882
+ 21
+1406.238713195547
+ 31
+0.0
+  0
+LINE
+  5
+3B7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2523.461979955435
+ 20
+9566.05219949782
+ 30
+0.0
+ 11
+4606.261980727315
+ 21
+9566.052199495956
+ 31
+0.0
+  0
+LINE
+  5
+3B8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+2523.461979955435
+ 20
+8194.45219949633
+ 30
+0.0
+ 11
+4606.261980727315
+ 21
+8194.45219949633
+ 31
+0.0
+  0
+LINE
+  5
+3B9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+4606.261980727315
+ 20
+9566.052199495956
+ 30
+0.0
+ 11
+4606.261980727315
+ 21
+8194.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+3BA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7476.461980730295
+ 20
+9566.052199499681
+ 30
+0.0
+ 11
+7476.461980730295
+ 21
+8194.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+3BB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7730.461980745197
+ 20
+9566.052199499681
+ 30
+0.0
+ 11
+7730.461980745197
+ 21
+8194.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+3BC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+9457.661980360747
+ 20
+9566.05219949782
+ 30
+0.0
+ 11
+9457.661980360747
+ 21
+8194.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+3BD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7730.461980730296
+ 20
+9566.05219949782
+ 30
+0.0
+ 11
+9457.661980360747
+ 21
+9566.05219949782
+ 31
+0.0
+  0
+LINE
+  5
+3BE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+7730.461980745197
+ 20
+8194.45219949633
+ 30
+0.0
+ 11
+9457.661980360747
+ 21
+8194.452199498192
+ 31
+0.0
+  0
+LINE
+  5
+3BF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+5800.061980366707
+ 20
+9566.05219949782
+ 30
+0.0
+ 11
+7476.461980730295
+ 21
+9566.05219949782
+ 31
+0.0
+  0
+LINE
+  5
+3C0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 448 Smith House section B-B
+ 48
+30.0
+100
+AcDbLine
+ 10
+5800.061980366707
+ 20
+8194.45219949633
+ 30
+0.0
+ 11
+7476.461980730295
+ 21
+8194.45219949633
+ 31
+0.0
+  0
+MTEXT
+  5
+3C1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net Smith House text
+ 48
+30.0
+100
+AcDbMText
+ 10
+8329.290284022688
+ 20
+-418.8908437583595
+ 30
+0.0
+ 40
+500.0
+ 41
+7376.113407328725
+ 71
+     5
+ 72
+     5
+  1
+section B - B'
+  7
+ceco.net
+ 73
+     1
+ 44
+1.0
+  0
+VIEWPORT
+  5
+7A
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbViewport
+ 10
+141.3004632695199
+ 20
+101.5999970436096
+ 30
+0.0
+ 40
+515.5575580077527
+ 41
+228.4221935424804
+ 68
+     2
+ 69
+     1
+ 12
+141.3004632695199
+ 22
+101.5999970436096
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+228.4221935424804
+ 50
+0.0
+ 51
+0.0
+ 72
+   100
+ 90
+    32800
+  1
+
+281
+     0
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+VIEWPORT
+  5
+7C
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbViewport
+ 10
+133.349993944168
+ 20
+101.599993944168
+ 30
+0.0
+ 40
+213.3599903106689
+ 41
+162.5599903106689
+ 68
+     1
+ 69
+     2
+ 12
+8505.605436325744
+ 22
+6053.016180511997
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+18998.85664610566
+ 50
+0.0
+ 51
+0.0
+ 72
+   100
+ 90
+    32864
+  1
+
+281
+     0
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_IMAGE_DICT
+350
+23D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+AcDbVariableDictionary
+350
+5E
+  0
+DICTIONARY
+  5
+B8
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_LAYERFILTERS
+360
+3C3
+  3
+ACAD_LAYERSTATES
+360
+B9
+  0
+DICTIONARY
+  5
+8F
+330
+8E
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+90
+  0
+DICTIONARY
+  5
+92
+330
+91
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+93
+  0
+DICTIONARY
+  5
+8B
+330
+88
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+23D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+smith house - north-elevation
+350
+23E
+  3
+smith house - south-elevation
+350
+23F
+  3
+smith house -drawings
+350
+240
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Model
+350
+22
+  3
+www.ceco.net
+350
+56
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+5E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+5F
+  3
+HIDETEXT
+350
+63
+  0
+DICTIONARY
+  5
+3C3
+102
+{ACAD_REACTORS
+330
+B8
+102
+}
+330
+B8
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+B9
+102
+{ACAD_REACTORS
+330
+B8
+102
+}
+330
+B8
+100
+AcDbDictionary
+281
+     1
+  0
+XRECORD
+  5
+90
+102
+{ACAD_REACTORS
+330
+8F
+102
+}
+330
+8F
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+XRECORD
+  5
+93
+102
+{ACAD_REACTORS
+330
+92
+102
+}
+330
+92
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+IMAGEDEF
+  5
+23E
+102
+{ACAD_REACTORS
+330
+23D
+102
+}
+330
+23D
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house - north-elevation.jpg
+ 10
+1063.0
+ 20
+713.0
+ 11
+0.0009407337723424
+ 21
+0.0009407337723424
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+23F
+102
+{ACAD_REACTORS
+330
+23D
+102
+}
+330
+23D
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house - south-elevation.jpg
+ 10
+1119.0
+ 20
+712.0
+ 11
+0.000893655049151
+ 21
+0.000893655049151
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+240
+102
+{ACAD_REACTORS
+330
+23D
+102
+}
+330
+23D
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house -drawings.jpg
+ 10
+1400.0
+ 20
+1138.0
+ 11
+0.01
+ 21
+0.01
+280
+     1
+281
+     0
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+19.04999923706054
+ 42
+6.350006103515625
+ 43
+19.04998779296875
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+78.436453180766
+ 70
+ 11952
+ 72
+     0
+ 73
+     1
+ 74
+     0
+  7
+
+ 75
+     0
+147
+0.0127491741332998
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+LAYOUT
+  5
+56
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+Letter_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+6.349999904632568
+ 42
+6.350006103515625
+ 43
+6.350006103515625
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     1
+ 73
+     1
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+www.ceco.net
+ 70
+     1
+ 71
+     1
+ 10
+-6.350006103515625
+ 20
+-6.349999904632568
+ 11
+273.0499877929687
+ 21
+209.5499939918517
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+26.66999878883362
+ 24
+20.31999878883362
+ 34
+0.0
+ 15
+240.0299890995025
+ 25
+182.8799890995025
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+55
+331
+7C
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARYVAR
+  5
+5F
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+63
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF

@@ -1,0 +1,6378 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    13
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-0.6734602754368098
+ 20
+-0.9578123017199686
+ 30
+-0.0015258207003583
+  9
+$EXTMAX
+ 10
+22070.30362193899
+ 20
+31388.94613780583
+ 30
+0.0000000349246037
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+ceco.net 451 Smith House  interior perspective three
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+10.0
+  9
+$CHAMFERB
+ 40
+10.0
+  9
+$CHAMFERC
+ 40
+20.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2457858.695660799
+  9
+$TDUCREATE
+ 40
+2457858.820660799
+  9
+$TDUPDATE
+ 40
+2458386.856184618
+  9
+$TDUUPDATE
+ 40
+2458386.981184618
+  9
+$TDINDWG
+ 40
+0.0037335417
+  9
+$TDUSRTIMER
+ 40
+0.0037335301
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+1C8
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+26.66076962115562
+ 20
+20.31135699206657
+ 30
+-0.0015258207003583
+  9
+$PEXTMAX
+ 10
+240.039213369355
+ 20
+182.8886381005154
+ 30
+0.0000000349246037
+  9
+$PLIMMIN
+ 10
+-6.350006103515625
+ 20
+-6.349999904632568
+  9
+$PLIMMAX
+ 10
+273.0499877929687
+ 20
+209.5499939918517
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{FDEAD578-A652-11D2-9A35-0060089B3A3F}
+  9
+$VERSIONGUID
+  2
+{BAB71212-836E-49AF-9DD6-A16AC612DC27}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+VPORT
+  5
+1C7
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+11034.81508083178
+ 22
+15693.99416275205
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+31620.14774436262
+ 41
+2.25703794369645
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+B8
+102
+}
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+8E
+102
+{ACAD_XDICTIONARY
+360
+8F
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net Smith House text
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    15
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+LAYER
+  5
+91
+102
+{ACAD_XDICTIONARY
+360
+92
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net 451 Smith House  interior perspective three
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    15
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+STYLE
+  5
+94
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+ceco.net
+ 70
+     0
+ 40
+300.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+300.0
+  3
+arial.ttf
+  4
+
+1001
+ACAD
+1000
+Arial
+1071
+       34
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    35
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+96
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+APPID
+  5
+97
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+98
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+RAK
+ 70
+     0
+  0
+APPID
+  5
+99
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+     0
+  0
+APPID
+  5
+9A
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMARC_LENGTH_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+9B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMEXT_ENABLED
+ 70
+     0
+  0
+APPID
+  5
+9C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMEXT_LENGTH
+ 70
+     0
+  0
+APPID
+  5
+9D
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+9E
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_EXT1_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+9F
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_EXT2_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+A0
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockGUID
+ 70
+     0
+  0
+APPID
+  5
+A1
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepETag
+ 70
+     0
+  0
+APPID
+  5
+A2
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AME_SOL
+ 70
+     0
+  0
+APPID
+  5
+A3
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AVE_INVOKE
+ 70
+     0
+  0
+APPID
+  5
+A4
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_PSEXT
+ 70
+     0
+  0
+APPID
+  5
+A5
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAUTHENVIRON
+ 70
+     0
+  0
+APPID
+  5
+A6
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+DCO15
+ 70
+     0
+  0
+APPID
+  5
+A7
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepBTag
+ 70
+     0
+  0
+APPID
+  5
+A8
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockTrueName
+ 70
+     0
+  0
+APPID
+  5
+A9
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+     0
+  0
+APPID
+  5
+AA
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+AB
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcCmTransparency
+ 70
+     0
+  0
+APPID
+  5
+AC
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoMonitorAlertIconDisabled
+ 70
+     0
+  0
+APPID
+  5
+AD
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ODA
+ 70
+     0
+  0
+APPID
+  5
+AE
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG
+ 70
+     0
+  0
+APPID
+  5
+AF
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTALN
+ 70
+     0
+  0
+APPID
+  5
+B0
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTEXT_FILL
+ 70
+     0
+  0
+APPID
+  5
+B1
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMBREAK
+ 70
+     0
+  0
+APPID
+  5
+B2
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+REVIT
+ 70
+     0
+  0
+APPID
+  5
+B3
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoPO
+ 70
+     0
+  0
+APPID
+  5
+B4
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+     0
+  0
+APPID
+  5
+B5
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ADE
+ 70
+     0
+  0
+APPID
+  5
+B6
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor1ACI
+ 70
+     0
+  0
+APPID
+  5
+B7
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor2ACI
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+95
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 41
+0.25
+ 73
+     0
+ 74
+     0
+140
+6.0
+179
+     1
+271
+     0
+272
+     0
+275
+     1
+277
+     4
+340
+11
+342
+88
+1001
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+1070
+   384
+1040
+0.7853981633974483
+1001
+ACAD_DSTYLE_DIMEXT_LENGTH
+1070
+   378
+1040
+0.18
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+56
+  0
+BLOCK_RECORD
+  5
+88
+102
+{ACAD_XDICTIONARY
+360
+8B
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_Dot
+340
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+57
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+58
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+8C
+330
+88
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_Dot
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_Dot
+  1
+
+  0
+LWPOLYLINE
+  5
+89
+330
+88
+100
+AcDbEntity
+  8
+0
+  6
+ByBlock
+ 62
+     0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.5
+ 10
+-0.25
+ 20
+0.0
+ 42
+1.0
+ 10
+0.25
+ 20
+0.0
+ 42
+1.0
+  0
+LINE
+  5
+8A
+330
+88
+100
+AcDbEntity
+  8
+0
+  6
+ByBlock
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-0.5
+ 20
+0.0
+ 30
+0.0
+ 11
+-1.0
+ 21
+0.0
+ 31
+0.0
+  0
+ENDBLK
+  5
+8D
+330
+88
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+143
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+4763.359242758015
+ 20
+0.0
+ 30
+0.0
+ 11
+6688.233236658286
+ 21
+11647.21167619347
+ 31
+0.0
+  0
+LINE
+  5
+144
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+6688.233236658286
+ 20
+11647.21167619347
+ 30
+0.0
+ 11
+7878.754572737162
+ 21
+11674.48278281443
+ 31
+0.0
+  0
+LINE
+  5
+145
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+7878.754572737162
+ 20
+11674.48278281443
+ 30
+0.0
+ 11
+6491.42858711665
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+146
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5139.245157863159
+ 20
+2274.446448563117
+ 30
+0.0
+ 11
+2778.232976505547
+ 21
+2284.667115448086
+ 31
+0.0
+  0
+LINE
+  5
+147
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2228.732029517501
+ 20
+2287.045868995616
+ 30
+0.0
+ 11
+0.0
+ 21
+2296.69390378245
+ 31
+0.0
+  0
+LINE
+  5
+148
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2778.232976452593
+ 20
+2284.667115430436
+ 30
+0.0
+ 11
+3524.268721474029
+ 21
+5366.802657798945
+ 31
+0.0
+  0
+LINE
+  5
+149
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2228.732029517501
+ 20
+2287.045868995616
+ 30
+0.0
+ 11
+3057.591590867261
+ 21
+5369.981238323403
+ 31
+0.0
+  0
+LINE
+  5
+14A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5647.912313435387
+ 20
+5352.338327516999
+ 30
+0.0
+ 11
+3524.268721474029
+ 21
+5366.802657816595
+ 31
+0.0
+  0
+LINE
+  5
+14B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+3057.591590867261
+ 20
+5369.981238323403
+ 30
+0.0
+ 11
+289.920717721965
+ 21
+5388.832097203713
+ 31
+0.0
+  0
+LINE
+  5
+14C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+289.920717721965
+ 20
+5388.832097203713
+ 30
+0.0
+ 11
+0.0
+ 21
+4624.494277352812
+ 31
+0.0
+  0
+LINE
+  5
+14D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+3057.591590867261
+ 20
+5369.981238323403
+ 30
+0.0
+ 11
+3295.13500039035
+ 21
+4420.170823602714
+ 31
+0.0
+  0
+LINE
+  5
+14E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2228.732029517501
+ 20
+2287.045868995616
+ 30
+0.0
+ 11
+2613.308525266242
+ 21
+1381.103223905057
+ 31
+0.0
+  0
+LINE
+  5
+14F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+4994.347568766244
+ 20
+1397.686257040537
+ 30
+0.0
+ 11
+3126.782260540916
+ 21
+1384.679373567774
+ 31
+0.0
+  0
+LINE
+  5
+150
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2613.308525248591
+ 20
+1381.103223905057
+ 30
+0.0
+ 11
+0.0
+ 21
+1362.902521985902
+ 31
+0.0
+  0
+LINE
+  5
+151
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2778.232976452593
+ 20
+2284.667115430436
+ 30
+0.0
+ 11
+3126.782260576219
+ 21
+1384.679373567774
+ 31
+0.0
+  0
+LINE
+  5
+152
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+7878.754572737162
+ 20
+11674.48278281443
+ 30
+0.0
+ 11
+8339.09758832962
+ 21
+8228.127354834683
+ 31
+0.0
+  0
+LINE
+  5
+153
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8339.09758832962
+ 20
+8228.127354834683
+ 30
+0.0
+ 11
+13187.21630820208
+ 21
+8299.299668320022
+ 31
+0.0
+  0
+LINE
+  5
+154
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14390.52871836979
+ 20
+8316.964773709807
+ 30
+0.0
+ 11
+14455.25426433754
+ 21
+8317.91497048457
+ 31
+0.0
+  0
+LINE
+  5
+155
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14455.25426433754
+ 20
+8317.91497048457
+ 30
+0.0
+ 11
+14526.46096718574
+ 21
+7105.683208162377
+ 31
+0.0
+  0
+LINE
+  5
+156
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14526.46096718574
+ 20
+7105.683208162377
+ 30
+0.0
+ 11
+14420.41187739039
+ 21
+6432.974121556167
+ 31
+0.0
+  0
+LINE
+  5
+157
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14420.41187739039
+ 20
+6432.974121556167
+ 30
+0.0
+ 11
+8275.784966144303
+ 21
+6500.456405066612
+ 31
+0.0
+  0
+LINE
+  5
+158
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8339.09758832962
+ 20
+8228.127354834683
+ 30
+0.0
+ 11
+8248.047251017153
+ 21
+7120.456659715912
+ 31
+0.0
+  0
+LINE
+  5
+159
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14526.46096718574
+ 20
+7105.683208162377
+ 30
+0.0
+ 11
+8248.047250946546
+ 21
+7120.456659698262
+ 31
+0.0
+  0
+LINE
+  5
+15A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+12586.54147380079
+ 20
+3552.550123646881
+ 30
+0.0
+ 11
+12953.08238329604
+ 21
+6449.088809447356
+ 31
+0.0
+  0
+LINE
+  5
+15B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+13110.62329350208
+ 20
+7694.033995628856
+ 30
+0.0
+ 11
+15933.31724960332
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+LINE
+  5
+15C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+13405.4371166032
+ 20
+3432.025873618399
+ 30
+0.0
+ 11
+14011.51074678324
+ 21
+6437.464806254837
+ 31
+0.0
+  0
+LINE
+  5
+15D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14215.48468243748
+ 20
+7448.944562392648
+ 30
+0.0
+ 11
+18763.10286903022
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+ARC
+  5
+15E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbCircle
+ 10
+13703.88572786295
+ 20
+7755.558466592248
+ 30
+0.0
+ 40
+596.4441101811464
+100
+AcDbArc
+ 50
+185.9207121970255
+ 51
+329.064700970629
+  0
+LINE
+  5
+15F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8248.04725098185
+ 20
+7120.456659698262
+ 30
+0.0
+ 11
+8275.784966144303
+ 21
+6500.456405066612
+ 31
+0.0
+  0
+LINE
+  5
+160
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8275.784966144303
+ 20
+6500.456405066612
+ 30
+0.0
+ 11
+7690.506236494723
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+161
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17479.18368855076
+ 20
+16889.90237793364
+ 30
+0.0
+ 11
+16120.52487950628
+ 21
+16895.78681315941
+ 31
+0.0
+  0
+LINE
+  5
+162
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14276.06498579737
+ 20
+16903.77528289107
+ 30
+0.0
+ 11
+7937.509179212255
+ 21
+16931.22795961373
+ 31
+0.0
+  0
+LINE
+  5
+163
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+7083.126385273049
+ 20
+16934.92834428741
+ 30
+0.0
+ 11
+0.0
+ 21
+16965.60580218847
+ 31
+0.0
+  0
+LINE
+  5
+164
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17479.18368855076
+ 20
+16889.90237793364
+ 30
+0.0
+ 11
+17333.25357428273
+ 21
+17621.81025514831
+ 31
+0.0
+  0
+LINE
+  5
+165
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17333.25357428273
+ 20
+17621.81025514831
+ 30
+0.0
+ 11
+16266.5260349881
+ 21
+17619.78722364131
+ 31
+0.0
+  0
+LINE
+  5
+166
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14366.21627225443
+ 20
+17616.18331696888
+ 30
+0.0
+ 11
+8018.19303210541
+ 21
+17604.14439374256
+ 31
+0.0
+  0
+LINE
+  5
+167
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+7841.506120726743
+ 20
+18319.95912684698
+ 30
+0.0
+ 11
+8059.081219799104
+ 21
+19874.52951240419
+ 31
+0.0
+  0
+LINE
+  5
+168
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8059.081219799104
+ 20
+19874.52951240419
+ 30
+0.0
+ 11
+8324.472784150232
+ 21
+17608.54007431191
+ 31
+0.0
+  0
+LINE
+  5
+169
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8467.429819917118
+ 20
+16387.93182354667
+ 30
+0.0
+ 11
+9421.241495202892
+ 21
+8244.013658339367
+ 31
+0.0
+  0
+LINE
+  5
+16A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+9133.702410006721
+ 20
+8239.792470059885
+ 30
+0.0
+ 11
+8012.032185914053
+ 21
+16389.7503049825
+ 31
+0.0
+  0
+LINE
+  5
+16B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+7937.509179176952
+ 20
+16931.22795961373
+ 30
+0.0
+ 11
+6138.870232110377
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+LINE
+  5
+16C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+7841.506120762045
+ 20
+18319.95912688228
+ 30
+0.0
+ 11
+6482.799119101954
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+LINE
+  5
+16D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+7083.126385273049
+ 20
+16934.92834426977
+ 30
+0.0
+ 11
+4840.221980930859
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+LINE
+  5
+16E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8059.081219799104
+ 20
+19874.52951240419
+ 30
+0.0
+ 11
+7660.594625430298
+ 21
+19875.15115028561
+ 31
+0.0
+  0
+LINE
+  5
+16F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+6578.082411029638
+ 20
+19876.83986603706
+ 30
+0.0
+ 11
+6431.131853972707
+ 21
+19877.06910845835
+ 31
+0.0
+  0
+LINE
+  5
+170
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+6431.131853972707
+ 20
+19877.06910845835
+ 30
+0.0
+ 11
+4613.753365423938
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+LINE
+  5
+171
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5324.33179621381
+ 20
+21527.53252782972
+ 30
+0.0
+ 11
+3598.904351167773
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+LINE
+  5
+172
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+0.0
+ 20
+17662.26270403161
+ 30
+0.0
+ 11
+5625.835709387043
+ 21
+17647.23750341582
+ 31
+0.0
+  0
+LINE
+  5
+173
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5625.835709387043
+ 20
+17647.23750341582
+ 30
+0.0
+ 11
+5527.197165060512
+ 21
+17945.71436552346
+ 31
+0.0
+  0
+LINE
+  5
+174
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5527.197165060512
+ 20
+17945.71436552346
+ 30
+0.0
+ 11
+0.0
+ 21
+17945.71436552346
+ 31
+0.0
+  0
+LINE
+  5
+175
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5527.197165060512
+ 20
+17945.71436552346
+ 30
+0.0
+ 11
+5575.585057185628
+ 21
+18293.95334082696
+ 31
+0.0
+  0
+LINE
+  5
+176
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5575.585057185628
+ 20
+18293.95334082696
+ 30
+0.0
+ 11
+0.0
+ 21
+18293.95334082696
+ 31
+0.0
+  0
+LINE
+  5
+177
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5575.585057185628
+ 20
+18293.95334082696
+ 30
+0.0
+ 11
+5476.946512876748
+ 21
+18592.4302029346
+ 31
+0.0
+  0
+LINE
+  5
+178
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5476.946512876748
+ 20
+18592.4302029346
+ 30
+0.0
+ 11
+5525.334405001849
+ 21
+18940.66917822046
+ 31
+0.0
+  0
+LINE
+  5
+179
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5525.334405001849
+ 20
+18940.66917822046
+ 30
+0.0
+ 11
+5426.695860675318
+ 21
+19239.14604034574
+ 31
+0.0
+  0
+LINE
+  5
+17A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5426.695860675318
+ 20
+19239.14604034574
+ 30
+0.0
+ 11
+5475.083752800434
+ 21
+19587.3850156316
+ 31
+0.0
+  0
+LINE
+  5
+17B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5475.083752800434
+ 20
+19587.3850156316
+ 30
+0.0
+ 11
+5376.445208473903
+ 21
+19885.86187773923
+ 31
+0.0
+  0
+LINE
+  5
+17C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5376.445208473903
+ 20
+19885.86187773923
+ 30
+0.0
+ 11
+5424.833100599004
+ 21
+20234.10085302509
+ 31
+0.0
+  0
+LINE
+  5
+17D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5424.833100599004
+ 20
+20234.10085302509
+ 30
+0.0
+ 11
+5326.194556272472
+ 21
+20532.57771513272
+ 31
+0.0
+  0
+LINE
+  5
+17E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5326.194556272472
+ 20
+20532.57771513272
+ 30
+0.0
+ 11
+5374.58244841524
+ 21
+20880.81669043623
+ 31
+0.0
+  0
+LINE
+  5
+17F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5476.946512876748
+ 20
+18592.4302029346
+ 30
+0.0
+ 11
+0.0
+ 21
+18592.4302029346
+ 31
+0.0
+  0
+LINE
+  5
+180
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5525.334405001849
+ 20
+18940.66917822046
+ 30
+0.0
+ 11
+19.97067756984324
+ 21
+18940.66917822046
+ 31
+0.0
+  0
+LINE
+  5
+181
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5426.695860675318
+ 20
+19239.14604034574
+ 30
+0.0
+ 11
+0.0
+ 21
+19239.14604034574
+ 31
+0.0
+  0
+LINE
+  5
+182
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5475.083752800434
+ 20
+19587.3850156316
+ 30
+0.0
+ 11
+0.0
+ 21
+19587.3850156316
+ 31
+0.0
+  0
+LINE
+  5
+183
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5376.445208473903
+ 20
+19885.86187773923
+ 30
+0.0
+ 11
+0.0
+ 21
+19885.86187773923
+ 31
+0.0
+  0
+LINE
+  5
+184
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5424.833100599004
+ 20
+20234.10085302509
+ 30
+0.0
+ 11
+0.0
+ 21
+20234.10085302509
+ 31
+0.0
+  0
+LINE
+  5
+185
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5326.194556272472
+ 20
+20532.57771513272
+ 30
+0.0
+ 11
+0.0
+ 21
+20532.57771513272
+ 31
+0.0
+  0
+LINE
+  5
+186
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5374.58244841524
+ 20
+20880.81669043623
+ 30
+0.0
+ 11
+0.0
+ 21
+20880.81669043623
+ 31
+0.0
+  0
+LINE
+  5
+187
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5374.58244841524
+ 20
+20880.81669043623
+ 30
+0.0
+ 11
+5275.943904088708
+ 21
+21179.29355254386
+ 31
+0.0
+  0
+LINE
+  5
+188
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5275.943904088708
+ 20
+21179.29355254386
+ 30
+0.0
+ 11
+5324.33179621381
+ 21
+21527.53252782972
+ 31
+0.0
+  0
+LINE
+  5
+189
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5625.835709387043
+ 20
+17647.23750341582
+ 30
+0.0
+ 11
+6431.131853972707
+ 21
+19877.06910845835
+ 31
+0.0
+  0
+LINE
+  5
+18A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+0.0
+ 20
+13537.8034691424
+ 30
+0.0
+ 11
+1351.711408578107
+ 21
+11093.66674186854
+ 31
+0.0
+  0
+LINE
+  5
+18B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+1560.506995909862
+ 20
+10716.12686151792
+ 30
+0.0
+ 11
+6538.685826823872
+ 21
+10742.31590449793
+ 31
+0.0
+  0
+LINE
+  5
+18C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+1560.506995909862
+ 20
+10716.12686151792
+ 30
+0.0
+ 11
+0.0
+ 21
+10716.12686151792
+ 31
+0.0
+  0
+LINE
+  5
+18D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+1351.711408560455
+ 20
+11093.66674186854
+ 30
+0.0
+ 11
+0.0
+ 21
+11107.30484951503
+ 31
+0.0
+  0
+LINE
+  5
+18E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2243.949158993346
+ 20
+11008.67051162935
+ 30
+0.0
+ 11
+995.5184260840178
+ 21
+13655.64899928801
+ 31
+0.0
+  0
+LINE
+  5
+18F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+995.5184260840178
+ 20
+13655.64899928801
+ 30
+0.0
+ 11
+6911.99641974768
+ 21
+13633.95271843115
+ 31
+0.0
+  0
+LINE
+  5
+190
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+6911.99641974768
+ 20
+13633.95271843115
+ 30
+0.0
+ 11
+7301.527188944106
+ 21
+11661.26031544052
+ 31
+0.0
+  0
+LINE
+  5
+191
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2243.949158993346
+ 20
+11008.67051162935
+ 30
+0.0
+ 11
+6587.595884611961
+ 21
+11038.26556041983
+ 31
+0.0
+  0
+LINE
+  5
+192
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14601.49491657976
+ 20
+5788.029741892702
+ 30
+0.0
+ 11
+13880.28065310813
+ 21
+5786.712137209469
+ 31
+0.0
+  0
+LINE
+  5
+193
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+12869.02849962434
+ 20
+5784.864654946193
+ 30
+0.0
+ 11
+9447.895751184551
+ 21
+5778.614500541187
+ 31
+0.0
+  0
+LINE
+  5
+194
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+15424.39645304916
+ 20
+5714.448385824113
+ 30
+0.0
+ 11
+14847.71368500845
+ 21
+5716.011598777731
+ 31
+0.0
+  0
+LINE
+  5
+195
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+9212.471424649848
+ 20
+5671.716398217159
+ 30
+0.0
+ 11
+8201.414827695465
+ 21
+5674.457067530387
+ 31
+0.0
+  0
+LINE
+  5
+196
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14847.71368502611
+ 20
+5716.011598777731
+ 30
+0.0
+ 11
+15399.0619699155
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+197
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+15424.39645304916
+ 20
+5714.448385824113
+ 30
+0.0
+ 11
+16035.50738884431
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+198
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14807.34930812836
+ 20
+5572.64423172372
+ 30
+0.0
+ 11
+17799.82683075296
+ 21
+16201.41287568376
+ 31
+0.0
+  0
+LINE
+  5
+199
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17909.82011947901
+ 20
+16592.09023574477
+ 30
+0.0
+ 11
+21684.74591022091
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+LINE
+  5
+19A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17479.18368855076
+ 20
+16889.90237793364
+ 30
+0.0
+ 11
+20871.06546380349
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+LINE
+  5
+19B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17339.88562319854
+ 20
+16352.50257456993
+ 30
+0.0
+ 11
+14601.49491657976
+ 21
+5788.029741892702
+ 31
+0.0
+  0
+LINE
+  5
+19C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14601.49491657976
+ 20
+5788.029741892702
+ 30
+0.0
+ 11
+14555.41971521875
+ 21
+6360.618827850829
+ 31
+0.0
+  0
+LINE
+  5
+19D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14555.41971521875
+ 20
+6360.618827850829
+ 30
+0.0
+ 11
+16997.16120861606
+ 21
+16353.87113236046
+ 31
+0.0
+  0
+LINE
+  5
+19E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17333.25357428273
+ 20
+17621.81025514831
+ 30
+0.0
+ 11
+20331.43843915748
+ 21
+29999.98138115521
+ 31
+0.0
+  0
+LINE
+  5
+19F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14555.41971521875
+ 20
+6360.618827850829
+ 30
+0.0
+ 11
+13996.33496135346
+ 21
+6362.210094286507
+ 31
+0.0
+  0
+LINE
+  5
+1A0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+12942.46793564828
+ 20
+6365.209609500847
+ 30
+0.0
+ 11
+9512.195707361563
+ 21
+6374.97284666144
+ 31
+0.0
+  0
+LINE
+  5
+1A1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+9447.895751184551
+ 20
+5778.614500541187
+ 30
+0.0
+ 11
+9512.195707361563
+ 21
+6374.97284666144
+ 31
+0.0
+  0
+LINE
+  5
+1A2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+9447.895751184551
+ 20
+5778.614500541187
+ 30
+0.0
+ 11
+9356.628547040106
+ 21
+6488.586230682196
+ 31
+0.0
+  0
+LINE
+  5
+1A3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+9512.195707361563
+ 20
+6374.97284666144
+ 30
+0.0
+ 11
+9499.751677412088
+ 21
+6487.014406104343
+ 31
+0.0
+  0
+LINE
+  5
+1A4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17339.88562319854
+ 20
+16352.50257456993
+ 30
+0.0
+ 11
+16012.03601849319
+ 21
+16357.80490745608
+ 31
+0.0
+  0
+LINE
+  5
+1A5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14207.88712361558
+ 20
+16365.00918572514
+ 30
+0.0
+ 11
+8012.032185914053
+ 21
+16389.7503049825
+ 31
+0.0
+  0
+LINE
+  5
+1A6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8449.518826375891
+ 20
+6430.431893310452
+ 30
+0.0
+ 11
+8565.593925951587
+ 21
+5961.516648229141
+ 31
+0.0
+  0
+LINE
+  5
+1A7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8565.593925951587
+ 20
+5961.516648229141
+ 30
+0.0
+ 11
+8227.181105076423
+ 21
+5960.632789459182
+ 31
+0.0
+  0
+LINE
+  5
+1A8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8561.036360377359
+ 20
+5979.92810776482
+ 30
+0.0
+ 11
+8228.880410417071
+ 21
+5979.506292811764
+ 31
+0.0
+  0
+LINE
+  5
+1A9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+8449.518826375891
+ 20
+6430.431893310452
+ 30
+0.0
+ 11
+8269.666950967511
+ 21
+6432.506060852611
+ 31
+0.0
+  0
+LINE
+  5
+1AA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14028.71133614702
+ 20
+4807.588978510189
+ 30
+0.0
+ 11
+14351.20998977632
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+1AB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14028.71133614702
+ 20
+4807.588978510189
+ 30
+0.0
+ 11
+13682.94797261541
+ 21
+4808.165486635259
+ 31
+0.0
+  0
+LINE
+  5
+1AC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+12745.63040379832
+ 20
+4809.728321942728
+ 30
+0.0
+ 11
+9178.952180454826
+ 21
+4815.675218493304
+ 31
+0.0
+  0
+LINE
+  5
+1AD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+9178.952180454826
+ 20
+4815.675218493304
+ 30
+0.0
+ 11
+9212.471424649848
+ 21
+5671.716398217159
+ 31
+0.0
+  0
+LINE
+  5
+1AE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+15425.09324802142
+ 20
+5707.932712869172
+ 30
+0.0
+ 11
+18280.25958050017
+ 21
+14378.4508042198
+ 31
+0.0
+  0
+LINE
+  5
+1AF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+18993.93092496685
+ 20
+16545.71518858243
+ 30
+0.0
+ 11
+22069.63005889383
+ 21
+25885.94335021853
+ 31
+0.0
+  0
+LINE
+  5
+1B0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17909.82011946137
+ 20
+16592.09023574477
+ 30
+0.0
+ 11
+18993.93092496685
+ 21
+16545.71518858243
+ 31
+0.0
+  0
+LINE
+  5
+1B1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+18993.93092496685
+ 20
+16545.71518858243
+ 30
+0.0
+ 11
+22069.63005889383
+ 21
+6539.472402372902
+ 31
+0.0
+  0
+LINE
+  5
+1B2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17799.82683071766
+ 20
+16201.41287566611
+ 30
+0.0
+ 11
+22069.63005889383
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+1B3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+17909.82011947901
+ 20
+16592.09023574477
+ 30
+0.0
+ 11
+22069.63005889383
+ 21
+2199.816637346885
+ 31
+0.0
+  0
+LINE
+  5
+1B4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+7937.509179212255
+ 20
+16931.22795961373
+ 30
+0.0
+ 11
+8018.193032140713
+ 21
+17604.14439376021
+ 31
+0.0
+  0
+LINE
+  5
+1B5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2612.254389754802
+ 20
+1383.58643937991
+ 30
+0.0
+ 11
+2808.001969261196
+ 21
+2207.800715629042
+ 31
+0.0
+  0
+ARC
+  5
+1B6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbCircle
+ 10
+12996.96712269846
+ 20
+3498.931795536692
+ 30
+0.0
+ 40
+413.9132015170881
+100
+AcDbArc
+ 50
+172.556987025323
+ 51
+350.6977600011442
+  0
+LINE
+  5
+1B7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5275.943904088708
+ 20
+21179.29355254386
+ 30
+0.0
+ 11
+0.0
+ 21
+21179.29355254386
+ 31
+0.0
+  0
+LINE
+  5
+1B8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+5324.33179621381
+ 20
+21527.53252782972
+ 30
+0.0
+ 11
+0.0
+ 21
+21527.53252782972
+ 31
+0.0
+  0
+LINE
+  5
+1B9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+9212.471424649848
+ 20
+5671.716398199508
+ 30
+0.0
+ 11
+9257.123551161319
+ 21
+5584.516307982582
+ 31
+0.0
+  0
+LINE
+  5
+1BA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+9257.123551161319
+ 20
+5584.516307982582
+ 30
+0.0
+ 11
+9225.45497691186
+ 21
+4815.59768212228
+ 31
+0.0
+  0
+LINE
+  5
+1BB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+9257.123551161319
+ 20
+5584.516307982582
+ 30
+0.0
+ 11
+12842.70497543105
+ 21
+5576.846656711754
+ 31
+0.0
+  0
+LINE
+  5
+1BC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+14807.34930812836
+ 20
+5572.64423172372
+ 30
+0.0
+ 11
+15344.86883312322
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+1BD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+13837.53028119729
+ 20
+5574.718699674249
+ 30
+0.0
+ 11
+14807.34930812836
+ 21
+5572.64423172372
+ 31
+0.0
+  0
+MTEXT
+  5
+1BE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net Smith House text
+ 48
+30.0
+100
+AcDbMText
+ 10
+11034.8150294469
+ 20
+30845.90086692769
+ 30
+0.0
+ 40
+600.0
+ 41
+9872.269676344469
+ 71
+     5
+ 72
+     5
+  1
+interior perspective three
+  7
+ceco.net
+ 73
+     1
+ 44
+1.0
+  0
+LWPOLYLINE
+  5
+1BF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+0.0
+ 20
+29999.98138115521
+ 10
+22069.63005889383
+ 20
+29999.98138115521
+ 10
+22069.63005889383
+ 20
+0.0
+ 10
+0.0
+ 20
+0.0
+  0
+LINE
+  5
+1C0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2243.949159009407
+ 20
+11008.67051162946
+ 30
+0.0
+ 11
+2507.094693276027
+ 21
+12600.93668019984
+ 31
+0.0
+  0
+LINE
+  5
+1C1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+0.0
+ 20
+12583.85481455633
+ 30
+0.0
+ 11
+525.593626388629
+ 21
+12587.43589975951
+ 31
+0.0
+  0
+LINE
+  5
+1C2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2507.094693276027
+ 20
+12600.93668019984
+ 30
+0.0
+ 11
+2011.017654028211
+ 21
+13652.74133102763
+ 31
+0.0
+  0
+LINE
+  5
+1C3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 451 Smith House  interior perspective three
+100
+AcDbLine
+ 10
+2507.094693276028
+ 20
+12600.93668019983
+ 30
+0.0
+ 11
+7109.784903787986
+ 21
+12632.29669862495
+ 31
+0.0
+  0
+VIEWPORT
+  5
+7A
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbViewport
+ 10
+133.3499908447265
+ 20
+101.5999970436096
+ 30
+0.0
+ 40
+499.656613158166
+ 41
+228.4221935424804
+ 68
+     1
+ 69
+     1
+ 12
+133.3499908447265
+ 22
+101.5999970436096
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+228.4221935424804
+ 50
+0.0
+ 51
+0.0
+ 72
+   100
+ 90
+    32800
+  1
+
+281
+     0
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+VIEWPORT
+  5
+7C
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbViewport
+ 10
+133.349993944168
+ 20
+101.599993944168
+ 30
+0.0
+ 40
+213.3599903106689
+ 41
+162.5599903106689
+ 68
+     2
+ 69
+     2
+ 12
+210.0
+ 22
+148.5
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+322.4396396426225
+ 50
+0.0
+ 51
+0.0
+ 72
+   100
+ 90
+    32864
+  1
+
+281
+     0
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_IMAGE_DICT
+350
+13E
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+AcDbVariableDictionary
+350
+5E
+  0
+DICTIONARY
+  5
+B8
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_LAYERFILTERS
+360
+1C5
+  3
+ACAD_LAYERSTATES
+360
+B9
+  0
+DICTIONARY
+  5
+8F
+330
+8E
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+90
+  0
+DICTIONARY
+  5
+92
+330
+91
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+93
+  0
+DICTIONARY
+  5
+8B
+330
+88
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+13E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+smith house - north-elevation
+350
+13F
+  3
+smith house - south-elevation
+350
+140
+  3
+smith house -drawings
+350
+141
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Model
+350
+22
+  3
+www.ceco.net
+350
+56
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+5E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+5F
+  3
+HIDETEXT
+350
+63
+  0
+DICTIONARY
+  5
+1C5
+102
+{ACAD_REACTORS
+330
+B8
+102
+}
+330
+B8
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+B9
+102
+{ACAD_REACTORS
+330
+B8
+102
+}
+330
+B8
+100
+AcDbDictionary
+281
+     1
+  0
+XRECORD
+  5
+90
+102
+{ACAD_REACTORS
+330
+8F
+102
+}
+330
+8F
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+XRECORD
+  5
+93
+102
+{ACAD_REACTORS
+330
+92
+102
+}
+330
+92
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+IMAGEDEF
+  5
+13F
+102
+{ACAD_REACTORS
+330
+13E
+102
+}
+330
+13E
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house - north-elevation.jpg
+ 10
+1063.0
+ 20
+713.0
+ 11
+0.0009407337723424
+ 21
+0.0009407337723424
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+140
+102
+{ACAD_REACTORS
+330
+13E
+102
+}
+330
+13E
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house - south-elevation.jpg
+ 10
+1119.0
+ 20
+712.0
+ 11
+0.000893655049151
+ 21
+0.000893655049151
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+141
+102
+{ACAD_REACTORS
+330
+13E
+102
+}
+330
+13E
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house -drawings.jpg
+ 10
+1400.0
+ 20
+1138.0
+ 11
+0.01
+ 21
+0.01
+280
+     1
+281
+     0
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+19.04999923706054
+ 42
+6.350006103515625
+ 43
+19.04998779296875
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+78.436453180766
+ 70
+ 11952
+ 72
+     0
+ 73
+     1
+ 74
+     0
+  7
+
+ 75
+     0
+147
+0.0127491741332998
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+LAYOUT
+  5
+56
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+Letter_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+6.349999904632568
+ 42
+6.350006103515625
+ 43
+6.350006103515625
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     1
+ 73
+     1
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+www.ceco.net
+ 70
+     1
+ 71
+     1
+ 10
+-6.350006103515625
+ 20
+-6.349999904632568
+ 11
+273.0499877929687
+ 21
+209.5499939918517
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+26.66076962115562
+ 24
+20.31135699206657
+ 34
+-0.0015258207003583
+ 15
+240.039213369355
+ 25
+182.8886381005154
+ 35
+0.0000000349246037
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+55
+331
+7A
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARYVAR
+  5
+5F
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+63
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF

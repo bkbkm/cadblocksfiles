@@ -1,0 +1,5306 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    13
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-85.65250000008381
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+537.4979264337437
+ 20
+912.5
+ 30
+0.0
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+ceco.net 392
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+10.0
+  9
+$CHAMFERB
+ 40
+10.0
+  9
+$CHAMFERC
+ 40
+20.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2457858.695660799
+  9
+$TDUCREATE
+ 40
+2457858.820660799
+  9
+$TDUPDATE
+ 40
+2457882.903700497
+  9
+$TDUUPDATE
+ 40
+2457883.028700497
+  9
+$TDINDWG
+ 40
+0.0017331019
+  9
+$TDUSRTIMER
+ 40
+0.0017330903
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+179
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PEXTMAX
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{FDEAD578-A652-11D2-9A35-0060089B3A3F}
+  9
+$VERSIONGUID
+  2
+{25EE9CD0-386D-416E-BF48-DDB41D6BA217}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+VPORT
+  5
+178
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+225.9227132168299
+ 22
+456.2499999999999
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+918.9869668246444
+ 41
+2.187425860023724
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+8E
+102
+}
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+78
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net 392
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    21
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+7A
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+7B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+RAK
+ 70
+     0
+  0
+APPID
+  5
+7C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+APPID
+  5
+7D
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_PSEXT
+ 70
+     0
+  0
+APPID
+  5
+7E
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepETag
+ 70
+     0
+  0
+APPID
+  5
+7F
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoPO
+ 70
+     0
+  0
+APPID
+  5
+80
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAUTHENVIRON
+ 70
+     0
+  0
+APPID
+  5
+81
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockTrueName
+ 70
+     0
+  0
+APPID
+  5
+82
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockGUID
+ 70
+     0
+  0
+APPID
+  5
+83
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+84
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcLayerTools
+ 70
+     0
+  0
+APPID
+  5
+85
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+     0
+  0
+APPID
+  5
+86
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+     0
+  0
+APPID
+  5
+87
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG
+ 70
+     0
+  0
+APPID
+  5
+88
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTALN
+ 70
+     0
+  0
+APPID
+  5
+89
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMBREAK
+ 70
+     0
+  0
+APPID
+  5
+8A
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoAV
+ 70
+     0
+  0
+APPID
+  5
+8B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcCmTransparency
+ 70
+     0
+  0
+APPID
+  5
+8C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor1ACI
+ 70
+     0
+  0
+APPID
+  5
+8D
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor2ACI
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+79
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+STANDARD
+ 70
+     0
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+51
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+56
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+52
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+53
+330
+50
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+57
+330
+55
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+58
+330
+55
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POINT
+  5
+105
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+ 62
+     1
+100
+AcDbPoint
+ 10
+0.0
+ 20
+350.0
+ 30
+0.0
+  0
+POINT
+  5
+106
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+ 62
+     1
+100
+AcDbPoint
+ 10
+0.0
+ 20
+406.25
+ 30
+0.0
+  0
+LINE
+  5
+107
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 11
+46.875
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+108
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+425.0
+ 20
+0.0
+ 30
+0.0
+ 11
+471.875
+ 21
+0.0
+ 31
+0.0
+  0
+POINT
+  5
+109
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+ 62
+     1
+100
+AcDbPoint
+ 10
+471.875
+ 20
+600.0
+ 30
+0.0
+  0
+LINE
+  5
+10A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+46.875
+ 20
+350.0
+ 30
+0.0
+ 11
+425.0
+ 21
+350.0
+ 31
+0.0
+  0
+POINT
+  5
+10B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+ 62
+     1
+100
+AcDbPoint
+ 10
+401.5625
+ 20
+553.125
+ 30
+0.0
+  0
+ARC
+  5
+10C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+502.344999999972
+ 20
+564.8449999998556
+ 30
+0.0
+ 40
+35.15499999999999
+100
+AcDbArc
+ 50
+217.618000000056
+ 51
+90.0
+  0
+ARC
+  5
+10D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+454.6975000000093
+ 20
+528.125
+ 30
+0.0
+ 40
+25.0
+100
+AcDbArc
+ 50
+37.62170000011076
+ 51
+90.0
+  0
+POINT
+  5
+10E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+ 62
+     1
+100
+AcDbPoint
+ 10
+401.5625
+ 20
+515.625
+ 30
+0.0
+  0
+LINE
+  5
+10F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+401.5625
+ 20
+527.5474999998696
+ 30
+0.0
+ 11
+401.5625
+ 21
+553.125
+ 31
+0.0
+  0
+ARC
+  5
+110
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+501.5625
+ 20
+527.5474999998696
+ 30
+0.0
+ 40
+100.0
+100
+AcDbArc
+ 50
+180.0
+ 51
+193.5963999999069
+  0
+LINE
+  5
+111
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+404.3649999999907
+ 20
+504.0374999998602
+ 30
+0.0
+ 11
+422.1974999997764
+ 21
+430.329999999958
+ 31
+0.0
+  0
+LINE
+  5
+112
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+425.0
+ 20
+0.0
+ 30
+0.0
+ 11
+425.0
+ 21
+406.8199999999487
+ 31
+0.0
+  0
+ARC
+  5
+113
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+325.0024999999441
+ 20
+406.8174999998882
+ 30
+0.0
+ 40
+100.0
+100
+AcDbArc
+ 50
+0.0013999999325982
+ 51
+13.59919999994119
+  0
+LINE
+  5
+114
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+448.4375
+ 20
+527.5474999998696
+ 30
+0.0
+ 11
+448.4375
+ 21
+553.125
+ 31
+0.0
+  0
+ARC
+  5
+115
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+548.4375
+ 20
+527.5474999998696
+ 30
+0.0
+ 40
+100.0
+100
+AcDbArc
+ 50
+180.0
+ 51
+193.5963999999069
+  0
+LINE
+  5
+116
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+451.2399999999907
+ 20
+504.0374999998602
+ 30
+0.0
+ 11
+469.0724999997764
+ 21
+430.329999999958
+ 31
+0.0
+  0
+LINE
+  5
+117
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+471.875
+ 20
+0.0
+ 30
+0.0
+ 11
+471.875
+ 21
+406.8199999999487
+ 31
+0.0
+  0
+ARC
+  5
+118
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+371.8774999999441
+ 20
+406.8174999998882
+ 30
+0.0
+ 40
+100.0
+100
+AcDbArc
+ 50
+0.0013999999325982
+ 51
+13.59919999994119
+  0
+POINT
+  5
+119
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+ 62
+     1
+100
+AcDbPoint
+ 10
+46.875
+ 20
+418.75
+ 30
+0.0
+  0
+LINE
+  5
+11A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+14.91500000003725
+ 20
+600.0
+ 30
+0.0
+ 11
+502.344999999972
+ 21
+600.0
+ 31
+0.0
+  0
+LINE
+  5
+11B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+23.1799999999348
+ 20
+553.125
+ 30
+0.0
+ 11
+454.6975000000093
+ 21
+553.125
+ 31
+0.0
+  0
+LINE
+  5
+11C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+-72.97999999998137
+ 20
+832.6049999999813
+ 30
+0.0
+ 11
+-27.51500000013038
+ 21
+840.6224999999395
+ 31
+0.0
+  0
+LINE
+  5
+11D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+-83.33499999996275
+ 20
+891.3299999998416
+ 30
+0.0
+ 11
+-37.87000000011175
+ 21
+899.3474999999161
+ 31
+0.0
+  0
+LINE
+  5
+11E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+-85.65250000008381
+ 20
+904.4824999999255
+ 30
+0.0
+ 11
+-40.18750000023283
+ 21
+912.5
+ 31
+0.0
+  0
+POINT
+  5
+11F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+ 62
+     1
+100
+AcDbPoint
+ 10
+121.872499999823
+ 20
+396.875
+ 30
+0.0
+  0
+POINT
+  5
+120
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+ 62
+     1
+100
+AcDbPoint
+ 10
+46.87249999982305
+ 20
+409.375
+ 30
+0.0
+  0
+POINT
+  5
+121
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+ 62
+     1
+100
+AcDbPoint
+ 10
+399.9949999998789
+ 20
+434.375
+ 30
+0.0
+  0
+LINE
+  5
+122
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+46.87249999982305
+ 20
+409.375
+ 30
+0.0
+ 11
+51.62250000005588
+ 21
+407.9649999999674
+ 31
+0.0
+  0
+LINE
+  5
+123
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+51.62250000005588
+ 20
+407.9649999999674
+ 30
+0.0
+ 11
+56.32499999995343
+ 21
+406.5825000000186
+ 31
+0.0
+  0
+LINE
+  5
+124
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+56.32499999995343
+ 20
+406.5825000000186
+ 30
+0.0
+ 11
+60.98499999986962
+ 21
+405.2449999999953
+ 31
+0.0
+  0
+LINE
+  5
+125
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+60.98499999986962
+ 20
+405.2449999999953
+ 30
+0.0
+ 11
+65.61499999999068
+ 21
+403.9574999999022
+ 31
+0.0
+  0
+LINE
+  5
+126
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+65.61499999999068
+ 20
+403.9574999999022
+ 30
+0.0
+ 11
+70.21499999985099
+ 21
+402.7399999998742
+ 31
+0.0
+  0
+LINE
+  5
+127
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+70.21499999985099
+ 20
+402.7399999998742
+ 30
+0.0
+ 11
+74.80749999987892
+ 21
+401.594999999972
+ 31
+0.0
+  0
+LINE
+  5
+128
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+74.80749999987892
+ 20
+401.594999999972
+ 30
+0.0
+ 11
+79.38999999989755
+ 21
+400.5400000000372
+ 31
+0.0
+  0
+LINE
+  5
+129
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+79.38999999989755
+ 20
+400.5400000000372
+ 30
+0.0
+ 11
+83.97999999998138
+ 21
+399.579999999958
+ 31
+0.0
+  0
+LINE
+  5
+12A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+83.97999999998138
+ 20
+399.579999999958
+ 30
+0.0
+ 11
+88.57749999989755
+ 21
+398.7399999999906
+ 31
+0.0
+  0
+LINE
+  5
+12B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+88.57749999989755
+ 20
+398.7399999999906
+ 30
+0.0
+ 11
+93.19750000000931
+ 21
+398.015000000014
+ 31
+0.0
+  0
+LINE
+  5
+12C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+93.19750000000931
+ 20
+398.015000000014
+ 30
+0.0
+ 11
+97.84749999991618
+ 21
+397.4249999999301
+ 31
+0.0
+  0
+LINE
+  5
+12D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+97.84749999991618
+ 20
+397.4249999999301
+ 30
+0.0
+ 11
+102.5399999998044
+ 21
+396.9799999998649
+ 31
+0.0
+  0
+LINE
+  5
+12E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+102.5399999998044
+ 20
+396.9799999998649
+ 30
+0.0
+ 11
+107.2749999999068
+ 21
+396.6950000000652
+ 31
+0.0
+  0
+LINE
+  5
+12F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+107.2749999999068
+ 20
+396.6950000000652
+ 30
+0.0
+ 11
+112.0700000000651
+ 21
+396.5699999999488
+ 31
+0.0
+  0
+LINE
+  5
+130
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+112.0700000000651
+ 20
+396.5699999999488
+ 30
+0.0
+ 11
+116.9324999998789
+ 21
+396.6300000000046
+ 31
+0.0
+  0
+LINE
+  5
+131
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+116.9324999998789
+ 20
+396.6300000000046
+ 30
+0.0
+ 11
+121.872499999823
+ 21
+396.875
+ 31
+0.0
+  0
+LINE
+  5
+132
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+121.872499999823
+ 20
+396.875
+ 30
+0.0
+ 11
+140.059999999823
+ 21
+398.3525000000372
+ 31
+0.0
+  0
+LINE
+  5
+133
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+140.059999999823
+ 20
+398.3525000000372
+ 30
+0.0
+ 11
+157.9274999999906
+ 21
+400.1674999999814
+ 31
+0.0
+  0
+LINE
+  5
+134
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+157.9274999999906
+ 20
+400.1674999999814
+ 30
+0.0
+ 11
+175.5174999998416
+ 21
+402.2825000000884
+ 31
+0.0
+  0
+LINE
+  5
+135
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+175.5174999998416
+ 20
+402.2825000000884
+ 30
+0.0
+ 11
+192.8799999998882
+ 21
+404.6400000000139
+ 31
+0.0
+  0
+LINE
+  5
+136
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+192.8799999998882
+ 20
+404.6400000000139
+ 30
+0.0
+ 11
+210.0524999999906
+ 21
+407.1974999998928
+ 31
+0.0
+  0
+LINE
+  5
+137
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+210.0524999999906
+ 20
+407.1974999998928
+ 30
+0.0
+ 11
+227.0924999997951
+ 21
+409.9024999999674
+ 31
+0.0
+  0
+LINE
+  5
+138
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+227.0924999997951
+ 20
+409.9024999999674
+ 30
+0.0
+ 11
+244.0349999999162
+ 21
+412.7099999999627
+ 31
+0.0
+  0
+LINE
+  5
+139
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+244.0349999999162
+ 20
+412.7099999999627
+ 30
+0.0
+ 11
+260.9375
+ 21
+415.5624999999999
+ 31
+0.0
+  0
+LINE
+  5
+13A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+260.9375
+ 20
+415.5624999999999
+ 30
+0.0
+ 11
+277.8349999999627
+ 21
+418.422499999986
+ 31
+0.0
+  0
+LINE
+  5
+13B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+277.8349999999627
+ 20
+418.422499999986
+ 30
+0.0
+ 11
+294.777499999851
+ 21
+421.234999999986
+ 31
+0.0
+  0
+LINE
+  5
+13C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+294.777499999851
+ 20
+421.234999999986
+ 30
+0.0
+ 11
+311.8125
+ 21
+423.9524999998975
+ 31
+0.0
+  0
+LINE
+  5
+13D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+311.8125
+ 20
+423.9524999998975
+ 30
+0.0
+ 11
+328.9899999999907
+ 21
+426.5200000000186
+ 31
+0.0
+  0
+LINE
+  5
+13E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+328.9899999999907
+ 20
+426.5200000000186
+ 30
+0.0
+ 11
+346.3474999999161
+ 21
+428.8974999999627
+ 31
+0.0
+  0
+LINE
+  5
+13F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+346.3474999999161
+ 20
+428.8974999999627
+ 30
+0.0
+ 11
+363.9375
+ 21
+431.0324999998556
+ 31
+0.0
+  0
+LINE
+  5
+140
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+363.9375
+ 20
+431.0324999998556
+ 30
+0.0
+ 11
+381.8024999999906
+ 21
+432.8749999998835
+ 31
+0.0
+  0
+LINE
+  5
+141
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+381.8024999999906
+ 20
+432.8749999998835
+ 30
+0.0
+ 11
+399.9949999998789
+ 21
+434.375
+ 31
+0.0
+  0
+LINE
+  5
+142
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+399.9949999998789
+ 20
+434.375
+ 30
+0.0
+ 11
+404.1274999999441
+ 21
+434.5799999999581
+ 31
+0.0
+  0
+LINE
+  5
+143
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+404.1274999999441
+ 20
+434.5799999999581
+ 30
+0.0
+ 11
+408.1999999999534
+ 21
+434.5999999999767
+ 31
+0.0
+  0
+LINE
+  5
+144
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+408.1999999999534
+ 20
+434.5999999999767
+ 30
+0.0
+ 11
+412.214999999851
+ 21
+434.4499999999534
+ 31
+0.0
+  0
+LINE
+  5
+145
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+412.214999999851
+ 20
+434.4499999999534
+ 30
+0.0
+ 11
+416.1824999998789
+ 21
+434.1349999998929
+ 31
+0.0
+  0
+LINE
+  5
+146
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+416.1824999998789
+ 20
+434.1349999998929
+ 30
+0.0
+ 11
+420.1024999998044
+ 21
+433.672499999986
+ 31
+0.0
+  0
+LINE
+  5
+147
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+420.1024999998044
+ 20
+433.672499999986
+ 30
+0.0
+ 11
+421.4389067814044
+ 21
+433.4655115460191
+ 31
+0.0
+  0
+LINE
+  5
+148
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+-85.64999999990687
+ 20
+904.4824999999255
+ 30
+0.0
+ 11
+-1.517500000074505
+ 21
+427.3649999999906
+ 31
+0.0
+  0
+LINE
+  5
+149
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 11
+0.0
+ 21
+410.0025000000605
+ 31
+0.0
+  0
+ARC
+  5
+14A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+-99.99750000005589
+ 20
+409.9999999998836
+ 30
+0.0
+ 40
+100.0
+100
+AcDbArc
+ 50
+0.0013999999325982
+ 51
+10.00020000015369
+  0
+LINE
+  5
+14B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+-40.18750000023283
+ 20
+912.5
+ 30
+0.0
+ 11
+45.35749999992549
+ 21
+427.3649999999906
+ 31
+0.0
+  0
+LINE
+  5
+14C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+46.875
+ 20
+0.0
+ 30
+0.0
+ 11
+46.875
+ 21
+410.0025000000605
+ 31
+0.0
+  0
+ARC
+  5
+14D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+-53.12250000005588
+ 20
+409.9999999998836
+ 30
+0.0
+ 40
+100.0
+100
+AcDbArc
+ 50
+0.0013999999325982
+ 51
+10.00020000015369
+  0
+LINE
+  5
+14E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+46.875
+ 20
+410.0025000000605
+ 30
+0.0
+ 11
+101.6225000000558
+ 21
+397.5724999998929
+ 31
+0.0
+  0
+LINE
+  5
+14F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+46.875
+ 20
+410.0025000000605
+ 30
+0.0
+ 11
+49.64249999984168
+ 21
+422.1925000000046
+ 31
+0.0
+  0
+ARC
+  5
+150
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+55.73499999986961
+ 20
+420.8100000000558
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+77.21499999998195
+ 51
+167.220099999949
+  0
+LINE
+  5
+151
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+57.11999999987892
+ 20
+426.9049999999115
+ 30
+0.0
+ 11
+99.67499999981374
+ 21
+417.2424999999348
+ 31
+0.0
+  0
+LINE
+  5
+152
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+101.6225000000558
+ 20
+397.5724999998929
+ 30
+0.0
+ 11
+104.3874999999534
+ 21
+409.7674999999581
+ 31
+0.0
+  0
+ARC
+  5
+153
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+98.29249999974855
+ 20
+411.1499999999068
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+347.220099999949
+ 51
+77.22009999994902
+  0
+LINE
+  5
+154
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+110.5349999999161
+ 20
+396.734999999986
+ 30
+0.0
+ 11
+166.5774999998975
+ 21
+401.4200000000418
+ 31
+0.0
+  0
+LINE
+  5
+155
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+109.4899999999906
+ 20
+409.1924999998882
+ 30
+0.0
+ 11
+110.5349999999161
+ 21
+396.734999999986
+ 31
+0.0
+  0
+ARC
+  5
+156
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+115.7174999997951
+ 20
+409.7124999999068
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+94.77319999998739
+ 51
+184.7731999999874
+  0
+LINE
+  5
+157
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+115.1975000000093
+ 20
+415.9399999999441
+ 30
+0.0
+ 11
+158.7874999998603
+ 21
+419.5850000000791
+ 31
+0.0
+  0
+LINE
+  5
+158
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+165.532499999972
+ 20
+413.8799999998882
+ 30
+0.0
+ 11
+166.5774999998975
+ 21
+401.4200000000418
+ 31
+0.0
+  0
+ARC
+  5
+159
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+159.3074999998789
+ 20
+413.3575000000418
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+4.796000000192488
+ 51
+94.77319999998739
+  0
+LINE
+  5
+15A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+172.8049999999348
+ 20
+401.9424999998882
+ 30
+0.0
+ 11
+228.4150000000372
+ 21
+410.3475000000326
+ 31
+0.0
+  0
+LINE
+  5
+15B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+170.934999999823
+ 20
+414.3049999999347
+ 30
+0.0
+ 11
+172.8049999999348
+ 21
+401.9424999998882
+ 31
+0.0
+  0
+ARC
+  5
+15C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+177.1125000000465
+ 20
+415.2375000000465
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+98.58399999987696
+ 51
+188.583999999877
+  0
+LINE
+  5
+15D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+176.1799999999348
+ 20
+421.4150000000372
+ 30
+0.0
+ 11
+219.4350000000558
+ 21
+427.9549999999581
+ 31
+0.0
+  0
+LINE
+  5
+15E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+226.5449999999254
+ 20
+422.7100000000791
+ 30
+0.0
+ 11
+228.4150000000372
+ 21
+410.3475000000326
+ 31
+0.0
+  0
+ARC
+  5
+15F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+220.3674999999348
+ 20
+421.7774999999674
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+8.583999999876986
+ 51
+98.58399999987696
+  0
+LINE
+  5
+160
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+234.5925000000279
+ 20
+411.2824999998556
+ 30
+0.0
+ 11
+290.0249999999068
+ 21
+420.7774999999673
+ 31
+0.0
+  0
+LINE
+  5
+161
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+232.4799999997485
+ 20
+423.6049999999814
+ 30
+0.0
+ 11
+234.5925000000279
+ 21
+411.2824999998556
+ 31
+0.0
+  0
+ARC
+  5
+162
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+238.6399999998975
+ 20
+424.6599999999161
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+99.71850000006817
+ 51
+189.7185000000681
+  0
+LINE
+  5
+163
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+237.5849999999627
+ 20
+430.8199999999487
+ 30
+0.0
+ 11
+280.6975000000093
+ 21
+438.2049999998416
+ 31
+0.0
+  0
+LINE
+  5
+164
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+287.9099999999161
+ 20
+433.0999999998603
+ 30
+0.0
+ 11
+290.0249999999068
+ 21
+420.7774999999673
+ 31
+0.0
+  0
+ARC
+  5
+165
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+281.7499999999999
+ 20
+432.0449999999254
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+9.718500000068154
+ 51
+99.69599999958269
+  0
+LINE
+  5
+166
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+296.1824999998789
+ 20
+421.8349999999627
+ 30
+0.0
+ 11
+351.7949999999255
+ 21
+430.2399999998742
+ 31
+0.0
+  0
+LINE
+  5
+167
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+294.3125
+ 20
+434.1924999998882
+ 30
+0.0
+ 11
+296.1824999998789
+ 21
+421.8349999999627
+ 31
+0.0
+  0
+ARC
+  5
+168
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+300.4899999999906
+ 20
+435.125
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+98.55800000015131
+ 51
+188.583999999877
+  0
+LINE
+  5
+169
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+299.5600000000558
+ 20
+441.3049999999348
+ 30
+0.0
+ 11
+342.8124999997671
+ 21
+447.8449999998556
+ 31
+0.0
+  0
+LINE
+  5
+16A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+349.9224999998696
+ 20
+442.5999999999767
+ 30
+0.0
+ 11
+351.7949999999255
+ 21
+430.2399999998742
+ 31
+0.0
+  0
+ARC
+  5
+16B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+343.7449999998789
+ 20
+441.6674999998649
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+8.583999999876986
+ 51
+98.58399999987696
+  0
+LINE
+  5
+16C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+357.8549999999813
+ 20
+430.6124999999301
+ 30
+0.0
+ 11
+413.8625000000465
+ 21
+435.6425000000744
+ 31
+0.0
+  0
+LINE
+  5
+16D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+356.7349999998696
+ 20
+443.0599999999394
+ 30
+0.0
+ 11
+357.8549999999813
+ 21
+430.6124999999301
+ 31
+0.0
+  0
+ARC
+  5
+16E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+362.9575000000186
+ 20
+443.6174999999348
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+95.09480000003138
+ 51
+185.1176999998002
+  0
+LINE
+  5
+16F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+362.402499999851
+ 20
+449.8425000000279
+ 30
+0.0
+ 11
+405.9624999999068
+ 21
+453.7574999998323
+ 31
+0.0
+  0
+LINE
+  5
+170
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+412.7424999999347
+ 20
+448.0925000000279
+ 30
+0.0
+ 11
+413.8625000000465
+ 21
+435.6425000000744
+ 31
+0.0
+  0
+ARC
+  5
+171
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+406.5200000000186
+ 20
+447.5349999999162
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+5.117699999800205
+ 51
+95.11769999980019
+  0
+LINE
+  5
+172
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+468.2774503476975
+ 20
+433.6161977978409
+ 30
+0.0
+ 11
+468.4050000000279
+ 21
+434.1174999999347
+ 31
+0.0
+  0
+ARC
+  5
+173
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbCircle
+ 10
+462.3500000000931
+ 20
+435.657499999972
+ 30
+0.0
+ 40
+6.25
+100
+AcDbArc
+ 50
+345.7302000000829
+ 51
+45.92913805460618
+  0
+LINE
+  5
+174
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+416.0275000000837
+ 20
+434.5474999998696
+ 30
+0.0
+ 11
+421.51499950586
+ 21
+433.1509956627196
+ 31
+0.0
+  0
+LINE
+  5
+175
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 392
+100
+AcDbLine
+ 10
+416.0275000000837
+ 20
+434.5474999998696
+ 30
+0.0
+ 11
+418.667426953878
+ 21
+444.9209355969651
+ 31
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+AcDbVariableDictionary
+350
+5E
+  0
+DICTIONARY
+  5
+8E
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_LAYERFILTERS
+360
+176
+  3
+ACAD_LAYERSTATES
+360
+8F
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+51
+  3
+Layout2
+350
+56
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+5E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+5F
+  3
+HIDETEXT
+350
+63
+  0
+DICTIONARY
+  5
+176
+102
+{ACAD_REACTORS
+330
+8E
+102
+}
+330
+8E
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+8F
+102
+{ACAD_REACTORS
+330
+8E
+102
+}
+330
+8E
+100
+AcDbDictionary
+281
+     1
+  0
+LAYOUT
+  5
+51
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+50
+  0
+LAYOUT
+  5
+56
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+55
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+19.04999923706054
+ 42
+6.350006103515625
+ 43
+19.04998779296875
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+78.436453180766
+ 70
+ 11952
+ 72
+     0
+ 73
+     1
+ 74
+     0
+  7
+
+ 75
+     0
+147
+0.0127491741332998
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARYVAR
+  5
+5F
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+63
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF

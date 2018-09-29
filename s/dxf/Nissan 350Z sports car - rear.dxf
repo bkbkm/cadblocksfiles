@@ -1,0 +1,12984 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    13
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-1054.267491321545
+ 20
+-11.8598229613417
+ 30
+-0.0015258207003583
+  9
+$EXTMAX
+ 10
+1053.576443985773
+ 20
+1427.150267316785
+ 30
+0.0000000349246037
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+ceco.net 218 Nissan Z350 - rear
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     2
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+10.0
+  9
+$CHAMFERB
+ 40
+10.0
+  9
+$CHAMFERC
+ 40
+20.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2455079.811409143
+  9
+$TDUCREATE
+ 40
+2455079.936409144
+  9
+$TDUPDATE
+ 40
+2456935.084184004
+  9
+$TDUUPDATE
+ 40
+2456935.209184004
+  9
+$TDINDWG
+ 40
+0.0484230556
+  9
+$TDUSRTIMER
+ 40
+0.0484230556
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+7D59
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{81085373-3A21-4932-80AA-8F6C3258C50C}
+  9
+$VERSIONGUID
+  2
+{E4E7F097-0ACC-4D29-B862-829CF091763F}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+VPORT
+  5
+7D58
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+-0.3455236678856863
+ 22
+707.6452221777216
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+1449.227913404362
+ 41
+2.184834123222748
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+90B
+102
+}
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+7A71
+102
+{ACAD_XDICTIONARY
+360
+7A72
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net 218 Nissan Z350 - rear
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    23
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+2C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+11B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+     0
+  0
+APPID
+  5
+11C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+8F8
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+RAK
+ 70
+     0
+  0
+APPID
+  5
+8F9
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+APPID
+  5
+8FA
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_PSEXT
+ 70
+     0
+  0
+APPID
+  5
+8FB
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepETag
+ 70
+     0
+  0
+APPID
+  5
+8FC
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoPO
+ 70
+     0
+  0
+APPID
+  5
+8FD
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAUTHENVIRON
+ 70
+     0
+  0
+APPID
+  5
+8FE
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockTrueName
+ 70
+     0
+  0
+APPID
+  5
+8FF
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockGUID
+ 70
+     0
+  0
+APPID
+  5
+900
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcLayerTools
+ 70
+     0
+  0
+APPID
+  5
+901
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+     0
+  0
+APPID
+  5
+902
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+     0
+  0
+APPID
+  5
+903
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG
+ 70
+     0
+  0
+APPID
+  5
+904
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTALN
+ 70
+     0
+  0
+APPID
+  5
+905
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMBREAK
+ 70
+     0
+  0
+APPID
+  5
+906
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoAV
+ 70
+     0
+  0
+APPID
+  5
+907
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcCmTransparency
+ 70
+     0
+  0
+APPID
+  5
+908
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor1ACI
+ 70
+     0
+  0
+APPID
+  5
+909
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor2ACI
+ 70
+     0
+  0
+APPID
+  5
+90A
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ADE
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+2B
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+1B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+  0
+BLOCK_RECORD
+  5
+23
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+26
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+24
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+25
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+CIRCLE
+  5
+7BF1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-492.8029537473139
+ 20
+264.5264301587459
+ 30
+0.0
+ 40
+51.32455453124998
+  0
+CIRCLE
+  5
+7BF2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-492.8029537473139
+ 20
+264.5264301587459
+ 30
+0.0
+ 40
+62.73001109374998
+  0
+ARC
+  5
+7BF3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-492.8029537473139
+ 20
+264.5264301587459
+ 30
+0.0
+ 40
+96.94638078124997
+100
+AcDbArc
+ 50
+9.149882817742396
+ 51
+177.6962270957209
+  0
+LINE
+  5
+7BF4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-397.0901442056328
+ 20
+279.9426176322228
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+279.9426176322228
+ 31
+0.0
+  0
+LINE
+  5
+7BF5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-250.492051433439
+ 20
+861.1188972825587
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+861.1188972825516
+ 31
+0.0
+  0
+ARC
+  5
+7BF6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+421.3196686247902
+ 20
+798.3348010322686
+ 30
+0.0
+ 40
+695.8107961702908
+100
+AcDbArc
+ 50
+176.5948828302783
+ 51
+195.940192258912
+  0
+ARC
+  5
+7BF7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+639.5551249324308
+ 20
+813.1402157330214
+ 30
+0.0
+ 40
+867.4024845835869
+100
+AcDbArc
+ 50
+179.7207219814394
+ 51
+192.1320126238285
+  0
+LINE
+  5
+7BF8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-186.1733087009706
+ 20
+612.8258477885353
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+612.8258477885282
+ 31
+0.0
+  0
+LINE
+  5
+7BF9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-225.8026246026347
+ 20
+590.6953722911367
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+590.6953722911367
+ 31
+0.0
+  0
+LINE
+  5
+7BFA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-205.0264132212469
+ 20
+840.0679229490819
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+840.0679229490748
+ 31
+0.0
+  0
+ARC
+  5
+7BFB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-205.0264132212469
+ 20
+817.2570098240754
+ 30
+0.0
+ 40
+22.81091312499999
+100
+AcDbArc
+ 50
+90.0
+ 51
+179.7207219814361
+  0
+ARC
+  5
+7BFC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-186.1733087009997
+ 20
+635.6367609135347
+ 30
+0.0
+ 40
+22.81091312499999
+100
+AcDbArc
+ 50
+192.1320126238257
+ 51
+270.0000000001042
+  0
+ARC
+  5
+7BFD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-225.8026246026056
+ 20
+613.5062854161432
+ 30
+0.0
+ 40
+22.81091312499999
+100
+AcDbArc
+ 50
+195.9401922589073
+ 51
+269.9999999998957
+  0
+ARC
+  5
+7BFE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-250.492051433439
+ 20
+838.3079841575522
+ 30
+0.0
+ 40
+22.81091312499999
+100
+AcDbArc
+ 50
+90.0
+ 51
+176.5948828302698
+  0
+LINE
+  5
+7BFF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-84.69278325267623
+ 20
+827.6164727775139
+ 30
+0.0
+ 11
+-84.69278325264713
+ 21
+804.8055596525287
+ 31
+0.0
+  0
+LINE
+  5
+7C00
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-84.69278325267623
+ 20
+827.6164727775139
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+827.616472777521
+ 31
+0.0
+  0
+LINE
+  5
+7C01
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-84.69278325267623
+ 20
+804.8055596525145
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+804.8055596525287
+ 31
+0.0
+  0
+LINE
+  5
+7C02
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-0.0000000000272848
+ 20
+629.84317200371
+ 30
+0.0
+ 11
+-168.418129315567
+ 21
+629.84317200371
+ 31
+0.0
+  0
+LINE
+  5
+7C03
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-113.4773681758633
+ 20
+816.2110162150213
+ 30
+0.0
+ 11
+-168.4181293155961
+ 21
+816.2110162150213
+ 31
+0.0
+  0
+LINE
+  5
+7C04
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-185.5263141593459
+ 20
+799.1028313712718
+ 30
+0.0
+ 11
+-185.5263141593168
+ 21
+646.9513568474596
+ 31
+0.0
+  0
+ARC
+  5
+7C05
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-168.4181293155961
+ 20
+799.1028313712718
+ 30
+0.0
+ 40
+17.10818484375
+100
+AcDbArc
+ 50
+90.0
+ 51
+180.0
+  0
+ARC
+  5
+7C06
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-168.418129315567
+ 20
+646.9513568474596
+ 30
+0.0
+ 40
+17.10818484375
+100
+AcDbArc
+ 50
+179.9999999999873
+ 51
+270.0
+  0
+LWPOLYLINE
+  5
+7C07
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+-84.69278325267623
+ 20
+819.583425207206
+ 10
+-108.2724933588106
+ 20
+819.583425207206
+ 42
+0.4142135623729785
+ 10
+-113.9752216400884
+ 20
+813.8806969259562
+ 10
+-113.9752216400884
+ 20
+797.7727688327149
+  0
+LWPOLYLINE
+  5
+7C08
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+-84.69278325261985
+ 20
+804.8055596525216
+ 10
+-93.19299381780728
+ 20
+804.8055596525216
+ 10
+-93.19299381780728
+ 20
+797.7727688326653
+  0
+ARC
+  5
+7C09
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-103.5841077289478
+ 20
+797.7727688326937
+ 30
+0.0
+ 40
+10.39111391111952
+100
+AcDbArc
+ 50
+179.999999999866
+ 51
+359.999999999866
+  0
+ARC
+  5
+7C0A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-714.807406677919
+ 20
+-323.0497193335111
+ 30
+0.0
+ 40
+705.1050014605415
+100
+AcDbArc
+ 50
+89.39331639456341
+ 51
+113.6877082277186
+  0
+LINE
+  5
+7C0B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-707.3414527362711
+ 20
+382.0157546590863
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+382.0157546590863
+ 31
+0.0
+  0
+ARC
+  5
+7C0C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-723.8912998995183
+ 20
+8.734632940011977
+ 30
+0.0
+ 40
+658.5241146754797
+100
+AcDbArc
+ 50
+88.57277558191604
+ 51
+101.3962616983375
+  0
+LINE
+  5
+7C0D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-707.4893151367104
+ 20
+667.0544522565506
+ 30
+0.0
+ 11
+-505.7687592224901
+ 21
+667.0544522565506
+ 31
+0.0
+  0
+LINE
+  5
+7C0E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-494.7181485402998
+ 20
+658.47183875551
+ 30
+0.0
+ 11
+-488.8911739329833
+ 21
+635.6609256305106
+ 31
+0.0
+  0
+LINE
+  5
+7C0F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-707.4893151367104
+ 20
+621.4326260065519
+ 30
+0.0
+ 11
+-499.941784615201
+ 21
+621.4326260065519
+ 31
+0.0
+  0
+ARC
+  5
+7C10
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-723.727062540318
+ 20
+7.645448588526448
+ 30
+0.0
+ 40
+614.0019247555613
+100
+AcDbArc
+ 50
+88.48459290340917
+ 51
+101.8713302688411
+  0
+LINE
+  5
+7C11
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-863.1590633107734
+ 20
+643.3989289109973
+ 30
+0.0
+ 11
+-863.7838488789093
+ 21
+619.9808287044277
+ 31
+0.0
+  0
+LINE
+  5
+7C12
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-874.3198962395108
+ 20
+652.7199873692169
+ 30
+0.0
+ 11
+-875.4180102394276
+ 21
+611.5606760811616
+ 31
+0.0
+  0
+ARC
+  5
+7C13
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-723.8912998995183
+ 20
+8.734632940011977
+ 30
+0.0
+ 40
+669.9295712379795
+100
+AcDbArc
+ 50
+88.57277558191604
+ 51
+102.1879582996218
+  0
+LINE
+  5
+7C14
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-707.4893151367104
+ 20
+678.4599088190503
+ 30
+0.0
+ 11
+-485.1388527463022
+ 21
+678.4599088190503
+ 31
+0.0
+  0
+LINE
+  5
+7C15
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-474.0882420641119
+ 20
+669.8772953180025
+ 30
+0.0
+ 11
+-463.8909756292541
+ 21
+629.957959052831
+ 31
+0.0
+  0
+ARC
+  5
+7C16
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-851.7576637908623
+ 20
+643.0947441217256
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+101.3962616983375
+ 51
+178.4717340057397
+  0
+ARC
+  5
+7C17
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-852.3824493589399
+ 20
+619.6766439151559
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+178.4717340057437
+ 51
+281.8713302688436
+  0
+ARC
+  5
+7C18
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-505.7687592224901
+ 20
+655.6489956940581
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+14.32958567101644
+ 51
+90.0
+  0
+ARC
+  5
+7C19
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-499.941784615201
+ 20
+632.8380825690516
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+270.0
+ 51
+14.32958567105115
+  0
+ARC
+  5
+7C1A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-485.1388527463022
+ 20
+667.0544522565506
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+14.32958567101644
+ 51
+90.0
+  0
+ARC
+  5
+7C1B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-862.9184967195996
+ 20
+652.4158025799238
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+102.187958299727
+ 51
+178.4717340056945
+  0
+ARC
+  5
+7C1C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-724.1932660141101
+ 20
+10.87698771082301
+ 30
+0.0
+ 40
+605.0409044809632
+100
+AcDbArc
+ 50
+88.57926596189471
+ 51
+103.1100174529165
+  0
+LINE
+  5
+7C1D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-709.1919146502041
+ 20
+615.7318922560364
+ 30
+0.0
+ 11
+-474.9416950259601
+ 21
+615.7296594294124
+ 31
+0.0
+  0
+ARC
+  5
+7C1E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-864.0166107195163
+ 20
+611.2564912918757
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+178.471734005699
+ 51
+283.1100174529145
+  0
+ARC
+  5
+7C1F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-474.9415863114154
+ 20
+627.1351159913862
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+269.9994538680332
+ 51
+14.32958567097344
+  0
+ARC
+  5
+7C20
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-744.032522610978
+ 20
+-284.0479854441184
+ 30
+0.0
+ 40
+1045.112063434618
+100
+AcDbArc
+ 50
+100.9785724218593
+ 51
+106.0766900219056
+  0
+ARC
+  5
+7C21
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-1047.354094321915
+ 20
+1057.937451377327
+ 30
+0.0
+ 40
+332.7648132833386
+100
+AcDbArc
+ 50
+288.2642616684865
+ 51
+294.2283830157565
+  0
+ARC
+  5
+7C22
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-834.2138264906953
+ 20
+625.2549353761764
+ 30
+0.0
+ 40
+150.2159625441517
+100
+AcDbArc
+ 50
+99.1390834007373
+ 51
+120.6512759245077
+  0
+LINE
+  5
+7C23
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-848.9477613763066
+ 20
+781.5883079618828
+ 30
+0.0
+ 11
+-827.8702977508183
+ 21
+852.8151863586899
+ 31
+0.0
+  0
+ARC
+  5
+7C24
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-859.8844116797572
+ 20
+784.8246824056915
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+279.1390834006341
+ 51
+343.5154565302704
+  0
+LINE
+  5
+7C25
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-752.2461652233105
+ 20
+857.37431797817
+ 30
+0.0
+ 11
+-580.484620834084
+ 21
+857.37431797817
+ 31
+0.0
+  0
+ARC
+  5
+7C26
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-765.4285992306868
+ 20
+499.6079725240959
+ 30
+0.0
+ 40
+358.0091262885943
+100
+AcDbArc
+ 50
+87.88980627556219
+ 51
+99.45586894512054
+  0
+ARC
+  5
+7C27
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-535.0129613162534
+ 20
+909.8305071474186
+ 30
+0.0
+ 40
+304.681948907152
+100
+AcDbArc
+ 50
+150.1683011900779
+ 51
+189.2196295523025
+  0
+ARC
+  5
+7C28
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-907.9866218754068
+ 20
+775.5135645942061
+ 30
+0.0
+ 40
+323.34602955814
+100
+AcDbArc
+ 50
+34.86878870721048
+ 51
+65.454479748961
+  0
+LINE
+  5
+7C29
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-634.7738017448119
+ 20
+950.8889659817612
+ 30
+0.0
+ 11
+-572.6899150637891
+ 21
+873.6387063724748
+ 31
+0.0
+  0
+ARC
+  5
+7C2A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-781.9718106282762
+ 20
+1051.446674233183
+ 30
+0.0
+ 40
+20.0
+100
+AcDbArc
+ 50
+65.45447974895662
+ 51
+150.1683011900815
+  0
+ARC
+  5
+7C2B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-825.8880413678744
+ 20
+862.6167505008197
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+189.2196295522884
+ 51
+279.4558689452248
+  0
+ARC
+  5
+7C2C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-580.484620834084
+ 20
+867.3743179781681
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+38.78787253822452
+  0
+LINE
+  5
+7C2D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-871.5698773784188
+ 20
+1124.647378630051
+ 30
+0.0
+ 11
+-871.5698773785607
+ 21
+1388.299236177921
+ 31
+0.0
+  0
+LINE
+  5
+7C2E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-871.5585460419097
+ 20
+959.6739153488442
+ 30
+0.0
+ 11
+-881.5602628047527
+ 21
+959.6739153488442
+ 31
+0.0
+  0
+ARC
+  5
+7C2F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-870.8897621564792
+ 20
+996.9654211677081
+ 30
+0.0
+ 40
+8.761555882810931
+100
+AcDbArc
+ 50
+195.9873925072704
+ 51
+265.6222612708794
+  0
+LINE
+  5
+7C30
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-863.8046506596019
+ 20
+994.5522623582618
+ 30
+0.0
+ 11
+-863.8046506596293
+ 21
+1115.672985780904
+ 31
+0.0
+  0
+LINE
+  5
+7C31
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-871.5585460419097
+ 20
+959.6739153488442
+ 30
+0.0
+ 11
+-861.5568292790939
+ 21
+959.6739153488442
+ 31
+0.0
+  0
+LINE
+  5
+7C32
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-857.4253797021921
+ 20
+984.1006195871102
+ 30
+0.0
+ 11
+-861.5568292790939
+ 21
+959.6739153488442
+ 31
+0.0
+  0
+LINE
+  5
+7C33
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-863.8046506596019
+ 20
+994.5522623582618
+ 30
+0.0
+ 11
+-857.4253797021921
+ 21
+984.1006195871102
+ 31
+0.0
+  0
+ARC
+  5
+7C34
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-872.2273299273965
+ 20
+996.9654211677081
+ 30
+0.0
+ 40
+8.761555882810931
+100
+AcDbArc
+ 50
+274.3777387291205
+ 51
+344.012607492823
+  0
+ARC
+  5
+7C35
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-122.8270281984569
+ 20
+-6579.481246994106
+ 30
+0.0
+ 40
+7557.752317307266
+100
+AcDbArc
+ 50
+89.06879984183193
+ 51
+93.94425029430861
+  0
+ARC
+  5
+7C36
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-122.8270281984569
+ 20
+-6579.481246994106
+ 30
+0.0
+ 40
+7547.752317307267
+100
+AcDbArc
+ 50
+89.06756598804111
+ 51
+93.88922768096788
+  0
+ARC
+  5
+7C37
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-1002.098548160345
+ 20
+665.4904475432701
+ 30
+0.0
+ 40
+450.5497891646681
+100
+AcDbArc
+ 50
+62.73591143512736
+ 51
+65.10250679466579
+  0
+LINE
+  5
+7C38
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-800.9397173563266
+ 20
+1074.166824425482
+ 30
+0.0
+ 11
+-779.3158319570903
+ 21
+1071.269534200858
+ 31
+0.0
+  0
+ARC
+  5
+7C39
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+949.0106017342732
+ 20
+1252.602442811074
+ 30
+0.0
+ 40
+1524.768008964577
+100
+AcDbArc
+ 50
+175.4182903213297
+ 51
+182.7204801269952
+  0
+ARC
+  5
+7C3A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+3.953647576396178
+ 20
+-9215.738550217981
+ 30
+0.0
+ 40
+10381.82676267808
+100
+AcDbArc
+ 50
+90.0218196017875
+ 51
+93.01715709489643
+  0
+ARC
+  5
+7C3B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-544.0727635553339
+ 20
+1181.655526603463
+ 30
+0.0
+ 40
+30.0
+100
+AcDbArc
+ 50
+182.7204801270005
+ 51
+273.0171570948964
+  0
+ARC
+  5
+7C3C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-907.9866218754068
+ 20
+775.5135645942061
+ 30
+0.0
+ 40
+313.34602955814
+100
+AcDbArc
+ 50
+34.86878870721048
+ 51
+67.23251767271799
+  0
+LINE
+  5
+7C3D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-650.8976653124409
+ 20
+954.6531823598414
+ 30
+0.0
+ 11
+-583.0174322603324
+ 21
+870.5138059326742
+ 31
+0.0
+  0
+ARC
+  5
+7C3E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-765.4285992306868
+ 20
+499.6079725240959
+ 30
+0.0
+ 40
+363.0091262885942
+100
+AcDbArc
+ 50
+87.88980627556219
+ 51
+99.45586894512057
+  0
+LINE
+  5
+7C3F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-751.6839492956806
+ 20
+862.3743179781726
+ 30
+0.0
+ 11
+-586.9089121052857
+ 21
+862.3743179781726
+ 31
+0.0
+  0
+ARC
+  5
+7C40
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-535.0129613162534
+ 20
+909.8305071474186
+ 30
+0.0
+ 40
+299.681948907152
+100
+AcDbArc
+ 50
+149.400372137682
+ 51
+189.2196295523025
+  0
+ARC
+  5
+7C41
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-788.659073623392
+ 20
+1059.834176179847
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+67.23251767260283
+ 51
+149.4003721376434
+  0
+ARC
+  5
+7C42
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-586.9089121052857
+ 20
+867.3743179781752
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+38.89518037363361
+  0
+ARC
+  5
+7C43
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-825.8880413678744
+ 20
+862.6167505008197
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+189.2196295522744
+ 51
+279.4558689450149
+  0
+ARC
+  5
+7C44
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+949.0106017342732
+ 20
+1252.602442811074
+ 30
+0.0
+ 40
+1514.768008964577
+100
+AcDbArc
+ 50
+175.484425621458
+ 51
+182.9121358156666
+  0
+ARC
+  5
+7C45
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-551.0865619216637
+ 20
+1371.072947134621
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+97.79955973574494
+ 51
+175.4844256214677
+  0
+ARC
+  5
+7C46
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-323.7208745840398
+ 20
+-99.1746737762611
+ 30
+0.0
+ 40
+1210.712411097773
+100
+AcDbArc
+ 50
+92.80772316732392
+ 51
+109.4048305454647
+  0
+ARC
+  5
+7C47
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+101.8585521365203
+ 20
+-7217.786656549304
+ 30
+0.0
+ 40
+8341.975129842838
+100
+AcDbArc
+ 50
+90.69961970432736
+ 51
+93.33225134787182
+  0
+ARC
+  5
+7C48
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+3.953647576396178
+ 20
+-9215.738550217981
+ 30
+0.0
+ 40
+10386.82676267808
+100
+AcDbArc
+ 50
+90.0218196017875
+ 51
+93.01725359409328
+  0
+ARC
+  5
+7C49
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-543.8270917661593
+ 20
+1176.661534940315
+ 30
+0.0
+ 40
+20.0
+100
+AcDbArc
+ 50
+182.9121358156683
+ 51
+273.0172535940933
+  0
+ARC
+  5
+7C4A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-229.9734525783187
+ 20
+-724.8477274986981
+ 30
+0.0
+ 40
+2093.455938361187
+100
+AcDbArc
+ 50
+92.1677859718269
+ 51
+99.15684943510909
+  0
+ARC
+  5
+7C4B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-89.17786057136618
+ 20
+-6271.606974731035
+ 30
+0.0
+ 40
+7641.883900311502
+100
+AcDbArc
+ 50
+89.33136500375978
+ 51
+91.64956920692349
+  0
+ARC
+  5
+7C4C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+630.4290280151017
+ 20
+473.5634550741849
+ 30
+0.0
+ 40
+1581.992320588003
+100
+AcDbArc
+ 50
+167.4349157080406
+ 51
+177.6609917324737
+  0
+ARC
+  5
+7C4D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-1146.184551464755
+ 20
+552.8200211889854
+ 30
+0.0
+ 40
+370.7141059549495
+100
+AcDbArc
+ 50
+19.20422163162142
+ 51
+37.28518551343736
+  0
+ARC
+  5
+7C4E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-1074.195198209707
+ 20
+1020.733093897192
+ 30
+0.0
+ 40
+256.6399115303225
+100
+AcDbArc
+ 50
+309.6890776152227
+ 51
+336.0680841077215
+  0
+ARC
+  5
+7C4F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-903.9133155225426
+ 20
+815.5479997762782
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+129.6890776152063
+ 51
+167.4349157080565
+  0
+ARC
+  5
+7C50
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+3.953647576396178
+ 20
+-9215.738550217981
+ 30
+0.0
+ 40
+10396.82676267808
+100
+AcDbArc
+ 50
+90.0218196017875
+ 51
+92.52913986763728
+  0
+ARC
+  5
+7C51
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-229.9734525783187
+ 20
+-724.8477274986981
+ 30
+0.0
+ 40
+2053.455938361187
+100
+AcDbArc
+ 50
+92.1677859718269
+ 51
+97.1336837896248
+  0
+ARC
+  5
+7C52
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-89.17786057136618
+ 20
+-6271.606974731035
+ 30
+0.0
+ 40
+7601.883900311503
+100
+AcDbArc
+ 50
+89.33136500375978
+ 51
+91.64956920692349
+  0
+LINE
+  5
+7C53
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-511.1883774875969
+ 20
+1280.931614672169
+ 30
+0.0
+ 11
+-506.925823082638
+ 21
+1217.556660064531
+ 31
+0.0
+  0
+ARC
+  5
+7C54
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-481.2560053021552
+ 20
+1282.94484475176
+ 30
+0.0
+ 40
+30.0
+100
+AcDbArc
+ 50
+97.13368378962497
+ 51
+183.8478780328695
+  0
+ARC
+  5
+7C55
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-457.0385361068911
+ 20
+1220.912043530518
+ 30
+0.0
+ 40
+50.0
+100
+AcDbArc
+ 50
+183.8478780328715
+ 51
+272.5291398676373
+  0
+ARC
+  5
+7C56
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-747.6274089480048
+ 20
+645.5562781178372
+ 30
+0.0
+ 40
+328.3628514218082
+100
+AcDbArc
+ 50
+116.2090952833699
+ 51
+139.799595607662
+  0
+ARC
+  5
+7C57
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-1008.978749305781
+ 20
+883.5300519751356
+ 30
+0.0
+ 40
+139.811683259811
+100
+AcDbArc
+ 50
+15.16404029177458
+ 51
+21.53866832713418
+  0
+ARC
+  5
+7C58
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-813.3381199378382
+ 20
+899.0881366753171
+ 30
+0.0
+ 40
+55.16535731283782
+100
+AcDbArc
+ 50
+115.6163256373804
+ 51
+158.2217636657125
+  0
+ARC
+  5
+7C59
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-888.2318148191352
+ 20
+931.1876948335893
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+21.53866832712017
+ 51
+116.209095283367
+  0
+ARC
+  5
+7C5A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-869.2092845590178
+ 20
+921.4103942774443
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+195.1640402918299
+ 51
+338.2217636657447
+  0
+ARC
+  5
+7C5B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-833.94178016158
+ 20
+897.6175507248242
+ 30
+0.0
+ 40
+210.0908080585833
+100
+AcDbArc
+ 50
+94.94061846251995
+ 51
+98.17185292994359
+  0
+ARC
+  5
+7C5C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-827.9437327439882
+ 20
+885.9884566157916
+ 30
+0.0
+ 40
+222.2465402067451
+100
+AcDbArc
+ 50
+82.53445375253194
+ 51
+96.16786590747441
+  0
+LINE
+  5
+7C5D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-946.7661711942964
+ 20
+1072.579576234147
+ 30
+0.0
+ 11
+-951.052243130589
+ 21
+1031.524244518266
+ 31
+0.0
+  0
+LINE
+  5
+7C5E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-949.6139337487912
+ 20
+1027.468675419328
+ 30
+0.0
+ 11
+-941.3113243002717
+ 21
+1019.170148870145
+ 31
+0.0
+  0
+LINE
+  5
+7C5F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-937.7766600338455
+ 20
+1017.706552201723
+ 30
+0.0
+ 11
+-879.3124414242738
+ 21
+1017.706552201723
+ 31
+0.0
+  0
+ARC
+  5
+7C60
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-941.7931975460469
+ 20
+1072.060410466796
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+121.7269328925665
+ 51
+174.0400562890633
+  0
+ARC
+  5
+7C61
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-946.0792694823666
+ 20
+1031.005078750922
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+174.0400562891095
+ 51
+225.0140913789164
+  0
+ARC
+  5
+7C62
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-937.7766600338455
+ 20
+1022.706552201725
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+225.0140913787624
+ 51
+270.0
+  0
+LINE
+  5
+7C63
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-863.8046506596019
+ 20
+1017.706552201723
+ 30
+0.0
+ 11
+-850.9458263343095
+ 21
+1017.706552201723
+ 31
+0.0
+  0
+LINE
+  5
+7C64
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-863.8046506596019
+ 20
+1012.70655220172
+ 30
+0.0
+ 11
+-854.4070182944651
+ 21
+1012.70655220172
+ 31
+0.0
+  0
+ARC
+  5
+7C65
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-833.94178016158
+ 20
+897.6175507248242
+ 30
+0.0
+ 40
+210.0908080585833
+100
+AcDbArc
+ 50
+102.4717009578518
+ 51
+121.7269328926752
+  0
+LWPOLYLINE
+  5
+7C66
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        8
+ 70
+     0
+ 43
+0.0
+ 10
+-937.4984691320932
+ 20
+1080.41295493448
+ 10
+-942.332350891489
+ 20
+1037.231364598071
+ 42
+0.1018128844537842
+ 10
+-942.2955421865699
+ 20
+1036.829975469707
+ 10
+-939.8983257744347
+ 20
+1028.923135208465
+ 42
+0.1559379747100291
+ 10
+-939.55260345649
+ 20
+1028.421847493845
+ 10
+-928.8573112143277
+ 20
+1020.161314906822
+ 42
+0.1659110889510623
+ 10
+-928.2460495888335
+ 20
+1019.952743504475
+ 10
+-879.3124414242447
+ 20
+1019.952743504475
+  0
+LWPOLYLINE
+  5
+7C67
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+-863.8046506596019
+ 20
+1019.952743504475
+ 10
+-849.3935615750833
+ 20
+1019.952743504475
+  0
+ARC
+  5
+7C68
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-339.4174358431009
+ 20
+1009.779046784615
+ 30
+0.0
+ 40
+444.5307068653128
+100
+AcDbArc
+ 50
+122.4720571229165
+ 51
+170.6997993424096
+  0
+ARC
+  5
+7C69
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-796.3989223772204
+ 20
+922.6016004390089
+ 30
+0.0
+ 40
+154.9049175303799
+100
+AcDbArc
+ 50
+54.82242617801929
+ 51
+81.64746301162024
+  0
+ARC
+  5
+7C6A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-773.1705776906474
+ 20
+1080.810407569082
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+170.699799342412
+ 51
+261.6474630115165
+  0
+LINE
+  5
+7C6B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-60.15469738991669
+ 20
+1062.741989407349
+ 30
+0.0
+ 11
+-60.15469738991669
+ 21
+1042.741989407353
+ 31
+0.0
+  0
+LINE
+  5
+7C6C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-60.15469738991669
+ 20
+1062.741989407349
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+1062.741989407349
+ 31
+0.0
+  0
+LINE
+  5
+7C6D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-60.15469738991669
+ 20
+1042.741989407353
+ 30
+0.0
+ 11
+-0.0000000000272848
+ 21
+1042.741989407353
+ 31
+0.0
+  0
+ELLIPSE
+  5
+7C6E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbEllipse
+ 10
+-0.0000000000545697
+ 20
+1052.741989407351
+ 30
+0.0
+ 11
+35.59411714849147
+ 21
+0.0
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.8141430044323081
+ 41
+1.570796326794896
+ 42
+2.789267542296729
+  0
+ARC
+  5
+7C6F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1.664054096865584
+ 20
+1034.288878255068
+ 30
+0.0
+ 40
+59.40427819345972
+100
+AcDbArc
+ 50
+91.60520004835277
+ 51
+151.3815792117305
+  0
+ELLIPSE
+  5
+7C70
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbEllipse
+ 10
+-0.0000000000545697
+ 20
+1052.741989407351
+ 30
+0.0
+ 11
+35.59411714849147
+ 21
+0.0
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.8141430044323081
+ 41
+3.493917764882856
+ 42
+4.712388980384689
+  0
+ARC
+  5
+7C71
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1.664054096865584
+ 20
+1071.195100559634
+ 30
+0.0
+ 40
+59.40427819345972
+100
+AcDbArc
+ 50
+208.6184207882694
+ 51
+268.3947999516472
+  0
+CIRCLE
+  5
+7C72
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+492.8029537473157
+ 20
+264.5264301587459
+ 30
+0.0
+ 40
+51.32455453124998
+  0
+CIRCLE
+  5
+7C73
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+492.8029537473157
+ 20
+264.5264301587459
+ 30
+0.0
+ 40
+62.73001109374998
+  0
+ARC
+  5
+7C74
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+492.8029537473157
+ 20
+264.5264301587459
+ 30
+0.0
+ 40
+96.94638078124997
+100
+AcDbArc
+ 50
+2.303772904279028
+ 51
+170.8501171822575
+  0
+LINE
+  5
+7C75
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+397.0901442056365
+ 20
+279.9426176322228
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+279.9426176322228
+ 31
+0.0
+  0
+LINE
+  5
+7C76
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+250.4920514334407
+ 20
+861.1188972825587
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+861.1188972825516
+ 31
+0.0
+  0
+ARC
+  5
+7C77
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-421.3196686247884
+ 20
+798.3348010322686
+ 30
+0.0
+ 40
+695.8107961702908
+100
+AcDbArc
+ 50
+344.0598077410879
+ 51
+3.405117169721652
+  0
+ARC
+  5
+7C78
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-639.5551249324271
+ 20
+813.1402157330214
+ 30
+0.0
+ 40
+867.4024845835869
+100
+AcDbArc
+ 50
+347.867987376171
+ 51
+0.2792780185605407
+  0
+LINE
+  5
+7C79
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+186.1733087009742
+ 20
+612.8258477885353
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+612.8258477885282
+ 31
+0.0
+  0
+LINE
+  5
+7C7A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+225.8026246026383
+ 20
+590.6953722911367
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+590.6953722911367
+ 31
+0.0
+  0
+LINE
+  5
+7C7B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+205.0264132212487
+ 20
+840.0679229490819
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+840.0679229490748
+ 31
+0.0
+  0
+ARC
+  5
+7C7C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+205.0264132212487
+ 20
+817.2570098240754
+ 30
+0.0
+ 40
+22.81091312499999
+100
+AcDbArc
+ 50
+0.2792780185637976
+ 51
+90.0
+  0
+ARC
+  5
+7C7D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+186.1733087010015
+ 20
+635.6367609135347
+ 30
+0.0
+ 40
+22.81091312499999
+100
+AcDbArc
+ 50
+269.9999999998957
+ 51
+347.8679873761742
+  0
+ARC
+  5
+7C7E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+225.8026246026092
+ 20
+613.5062854161432
+ 30
+0.0
+ 40
+22.81091312499999
+100
+AcDbArc
+ 50
+270.0000000001042
+ 51
+344.0598077410927
+  0
+ARC
+  5
+7C7F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+250.4920514334407
+ 20
+838.3079841575522
+ 30
+0.0
+ 40
+22.81091312499999
+100
+AcDbArc
+ 50
+3.405117169730186
+ 51
+90.0
+  0
+LINE
+  5
+7C80
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+84.69278325267806
+ 20
+827.6164727775139
+ 30
+0.0
+ 11
+84.69278325265078
+ 21
+804.8055596525287
+ 31
+0.0
+  0
+LINE
+  5
+7C81
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+84.69278325267806
+ 20
+827.6164727775139
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+827.616472777521
+ 31
+0.0
+  0
+LINE
+  5
+7C82
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+84.69278325267806
+ 20
+804.8055596525145
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+804.8055596525287
+ 31
+0.0
+  0
+LINE
+  5
+7C83
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+0.0000000000291038
+ 20
+629.84317200371
+ 30
+0.0
+ 11
+168.4181293155706
+ 21
+629.84317200371
+ 31
+0.0
+  0
+LINE
+  5
+7C84
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+113.4773681758652
+ 20
+816.2110162150213
+ 30
+0.0
+ 11
+168.4181293155979
+ 21
+816.2110162150213
+ 31
+0.0
+  0
+LINE
+  5
+7C85
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+185.5263141593477
+ 20
+799.1028313712718
+ 30
+0.0
+ 11
+185.5263141593204
+ 21
+646.9513568474596
+ 31
+0.0
+  0
+ARC
+  5
+7C86
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+168.4181293155979
+ 20
+799.1028313712718
+ 30
+0.0
+ 40
+17.10818484375
+100
+AcDbArc
+ 50
+0.0
+ 51
+90.0
+  0
+ARC
+  5
+7C87
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+168.4181293155706
+ 20
+646.9513568474596
+ 30
+0.0
+ 40
+17.10818484375
+100
+AcDbArc
+ 50
+270.0
+ 51
+0.0000000000126204
+  0
+LWPOLYLINE
+  5
+7C88
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+84.69278325267806
+ 20
+819.583425207206
+ 10
+108.2724933588124
+ 20
+819.583425207206
+ 42
+-0.4142135623729785
+ 10
+113.9752216400902
+ 20
+813.8806969259562
+ 10
+113.9752216400902
+ 20
+797.7727688327149
+  0
+LWPOLYLINE
+  5
+7C89
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+84.69278325262166
+ 20
+804.8055596525216
+ 10
+93.19299381781092
+ 20
+804.8055596525216
+ 10
+93.19299381781092
+ 20
+797.7727688326653
+  0
+ARC
+  5
+7C8A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+103.5841077289496
+ 20
+797.7727688326937
+ 30
+0.0
+ 40
+10.39111391111952
+100
+AcDbArc
+ 50
+180.0000000001339
+ 51
+0.0000000001339395
+  0
+ARC
+  5
+7C8B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+714.8074066779209
+ 20
+-323.0497193335111
+ 30
+0.0
+ 40
+705.1050014605415
+100
+AcDbArc
+ 50
+66.31229177228132
+ 51
+90.60668360543656
+  0
+LINE
+  5
+7C8C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+707.3414527362747
+ 20
+382.0157546590863
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+382.0157546590863
+ 31
+0.0
+  0
+ARC
+  5
+7C8D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+723.8912998995219
+ 20
+8.734632940011977
+ 30
+0.0
+ 40
+658.5241146754797
+100
+AcDbArc
+ 50
+78.60373830166247
+ 51
+91.42722441808393
+  0
+LINE
+  5
+7C8E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+707.4893151367141
+ 20
+667.0544522565506
+ 30
+0.0
+ 11
+505.768759222492
+ 21
+667.0544522565506
+ 31
+0.0
+  0
+LINE
+  5
+7C8F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+494.7181485403016
+ 20
+658.47183875551
+ 30
+0.0
+ 11
+488.891173932985
+ 21
+635.6609256305106
+ 31
+0.0
+  0
+LINE
+  5
+7C90
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+707.4893151367141
+ 20
+621.4326260065519
+ 30
+0.0
+ 11
+499.9417846152046
+ 21
+621.4326260065519
+ 31
+0.0
+  0
+ARC
+  5
+7C91
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+723.7270625403216
+ 20
+7.645448588526448
+ 30
+0.0
+ 40
+614.0019247555613
+100
+AcDbArc
+ 50
+78.12866973115882
+ 51
+91.5154070965908
+  0
+LINE
+  5
+7C92
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+863.1590633107771
+ 20
+643.3989289109973
+ 30
+0.0
+ 11
+863.7838488789112
+ 21
+619.9808287044277
+ 31
+0.0
+  0
+LINE
+  5
+7C93
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+874.3198962395144
+ 20
+652.7199873692169
+ 30
+0.0
+ 11
+875.4180102394293
+ 21
+611.5606760811616
+ 31
+0.0
+  0
+ARC
+  5
+7C94
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+723.8912998995219
+ 20
+8.734632940011977
+ 30
+0.0
+ 40
+669.9295712379795
+100
+AcDbArc
+ 50
+77.81204170037814
+ 51
+91.42722441808393
+  0
+LINE
+  5
+7C95
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+707.4893151367141
+ 20
+678.4599088190503
+ 30
+0.0
+ 11
+485.1388527463041
+ 21
+678.4599088190503
+ 31
+0.0
+  0
+LINE
+  5
+7C96
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+474.0882420641137
+ 20
+669.8772953180025
+ 30
+0.0
+ 11
+463.890975629256
+ 21
+629.957959052831
+ 31
+0.0
+  0
+ARC
+  5
+7C97
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+851.7576637908641
+ 20
+643.0947441217256
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+1.528265994260301
+ 51
+78.60373830166247
+  0
+ARC
+  5
+7C98
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+852.3824493589437
+ 20
+619.6766439151559
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+258.1286697311563
+ 51
+1.528265994256232
+  0
+ARC
+  5
+7C99
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+505.768759222492
+ 20
+655.6489956940581
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+90.0
+ 51
+165.6704143289835
+  0
+ARC
+  5
+7C9A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+499.9417846152046
+ 20
+632.8380825690516
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+165.6704143289488
+ 51
+270.0
+  0
+ARC
+  5
+7C9B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+485.1388527463041
+ 20
+667.0544522565506
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+90.0
+ 51
+165.6704143289835
+  0
+ARC
+  5
+7C9C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+862.9184967196016
+ 20
+652.4158025799238
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+1.528265994305475
+ 51
+77.81204170027293
+  0
+ARC
+  5
+7C9D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+724.1932660141137
+ 20
+10.87698771082301
+ 30
+0.0
+ 40
+605.0409044809632
+100
+AcDbArc
+ 50
+76.88998254708351
+ 51
+91.42073403810528
+  0
+LINE
+  5
+7C9E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+709.1919146502059
+ 20
+615.7318922560364
+ 30
+0.0
+ 11
+474.9416950259619
+ 21
+615.7296594294124
+ 31
+0.0
+  0
+ARC
+  5
+7C9F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+864.0166107195183
+ 20
+611.2564912918757
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+256.8899825470854
+ 51
+1.528265994300998
+  0
+ARC
+  5
+7CA0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+474.9415863114172
+ 20
+627.1351159913862
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+165.6704143290265
+ 51
+270.0005461319667
+  0
+ARC
+  5
+7CA1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+744.0325226109798
+ 20
+-284.0479854441184
+ 30
+0.0
+ 40
+1045.112063434618
+100
+AcDbArc
+ 50
+73.92330997809418
+ 51
+79.02142757814058
+  0
+ARC
+  5
+7CA2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1047.354094321919
+ 20
+1057.937451377327
+ 30
+0.0
+ 40
+332.7648132833386
+100
+AcDbArc
+ 50
+245.7716169842435
+ 51
+251.7357383315134
+  0
+ARC
+  5
+7CA3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+834.2138264906971
+ 20
+625.2549353761764
+ 30
+0.0
+ 40
+150.2159625441517
+100
+AcDbArc
+ 50
+59.34872407549228
+ 51
+80.86091659926267
+  0
+LINE
+  5
+7CA4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+848.9477613763101
+ 20
+781.5883079618828
+ 30
+0.0
+ 11
+827.8702977508219
+ 21
+852.8151863586899
+ 31
+0.0
+  0
+ARC
+  5
+7CA5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+859.8844116797591
+ 20
+784.8246824056915
+ 30
+0.0
+ 40
+11.40545656249999
+100
+AcDbArc
+ 50
+196.4845434697295
+ 51
+260.8609165993659
+  0
+LINE
+  5
+7CA6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+752.2461652233142
+ 20
+857.37431797817
+ 30
+0.0
+ 11
+580.4846208340859
+ 21
+857.37431797817
+ 31
+0.0
+  0
+ARC
+  5
+7CA7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+765.4285992306904
+ 20
+499.6079725240959
+ 30
+0.0
+ 40
+358.0091262885943
+100
+AcDbArc
+ 50
+80.54413105487947
+ 51
+92.1101937244378
+  0
+ARC
+  5
+7CA8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+535.0129613162571
+ 20
+909.8305071474186
+ 30
+0.0
+ 40
+304.681948907152
+100
+AcDbArc
+ 50
+350.7803704476974
+ 51
+29.831698809922
+  0
+ARC
+  5
+7CA9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+907.9866218754105
+ 20
+775.5135645942061
+ 30
+0.0
+ 40
+323.34602955814
+100
+AcDbArc
+ 50
+114.5455202510389
+ 51
+145.1312112927895
+  0
+LINE
+  5
+7CAA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+634.7738017448155
+ 20
+950.8889659817612
+ 30
+0.0
+ 11
+572.6899150637909
+ 21
+873.6387063724748
+ 31
+0.0
+  0
+ARC
+  5
+7CAB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+781.9718106282798
+ 20
+1051.446674233183
+ 30
+0.0
+ 40
+20.0
+100
+AcDbArc
+ 50
+29.83169880991847
+ 51
+114.5455202510433
+  0
+ARC
+  5
+7CAC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+825.8880413678761
+ 20
+862.6167505008197
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+260.544131054775
+ 51
+350.7803704477115
+  0
+ARC
+  5
+7CAD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+580.4846208340859
+ 20
+867.3743179781681
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+141.2121274617754
+ 51
+270.0
+  0
+ARC
+  5
+7CAE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+122.8270281984587
+ 20
+-6579.481246994106
+ 30
+0.0
+ 40
+7557.752317307266
+100
+AcDbArc
+ 50
+86.0557497056914
+ 51
+90.93120015816806
+  0
+ARC
+  5
+7CAF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+122.8270281984587
+ 20
+-6579.481246994106
+ 30
+0.0
+ 40
+7547.752317307267
+100
+AcDbArc
+ 50
+86.11077231903207
+ 51
+90.93243401195886
+  0
+ARC
+  5
+7CB0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+5417.698066331839
+ 20
+4175.289794645514
+ 30
+0.0
+ 40
+5552.076904590242
+100
+AcDbArc
+ 50
+213.9557093594426
+ 51
+214.7238469120668
+  0
+ARC
+  5
+7CB1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1002.098548160349
+ 20
+665.4904475432701
+ 30
+0.0
+ 40
+450.5497891646681
+100
+AcDbArc
+ 50
+114.8974932053341
+ 51
+117.2640885648726
+  0
+LINE
+  5
+7CB2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+800.9397173563302
+ 20
+1074.166824425482
+ 30
+0.0
+ 11
+779.3158319570939
+ 21
+1071.269534200858
+ 31
+0.0
+  0
+LINE
+  5
+7CB3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+812.419108651
+ 20
+1074.166824425489
+ 30
+0.0
+ 11
+800.939717356443
+ 21
+1074.166824425482
+ 31
+0.0
+  0
+ARC
+  5
+7CB4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+198.3592974410457
+ 20
+865.6484385398428
+ 30
+0.0
+ 40
+647.1381494955802
+100
+AcDbArc
+ 50
+20.01367246845568
+ 51
+22.75039085322558
+  0
+ARC
+  5
+7CB5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+733.8377993201284
+ 20
+1067.300185081961
+ 30
+0.0
+ 40
+75.23919610202149
+100
+AcDbArc
+ 50
+5.236335398955147
+ 51
+15.27940599571359
+  0
+ARC
+  5
+7CB6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-949.0106017342714
+ 20
+1252.602442811074
+ 30
+0.0
+ 40
+1524.768008964577
+100
+AcDbArc
+ 50
+357.2795198730047
+ 51
+4.581709678670232
+  0
+ARC
+  5
+7CB7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-3.953647576394359
+ 20
+-9215.738550217981
+ 30
+0.0
+ 40
+10381.82676267808
+100
+AcDbArc
+ 50
+86.98284290510356
+ 51
+87.35814631206457
+  0
+ARC
+  5
+7CB8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+544.0727635553357
+ 20
+1181.655526603463
+ 30
+0.0
+ 40
+30.0
+100
+AcDbArc
+ 50
+266.9828429051035
+ 51
+357.2795198729994
+  0
+ARC
+  5
+7CB9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+907.9866218754105
+ 20
+775.5135645942061
+ 30
+0.0
+ 40
+313.34602955814
+100
+AcDbArc
+ 50
+112.7674823272819
+ 51
+145.1312112927895
+  0
+LINE
+  5
+7CBA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+650.8976653124427
+ 20
+954.6531823598414
+ 30
+0.0
+ 11
+583.0174322603361
+ 21
+870.5138059326742
+ 31
+0.0
+  0
+ARC
+  5
+7CBB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+765.4285992306904
+ 20
+499.6079725240959
+ 30
+0.0
+ 40
+363.0091262885942
+100
+AcDbArc
+ 50
+80.5441310548794
+ 51
+92.1101937244378
+  0
+LINE
+  5
+7CBC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+751.6839492956823
+ 20
+862.3743179781726
+ 30
+0.0
+ 11
+586.9089121052875
+ 21
+862.3743179781726
+ 31
+0.0
+  0
+ARC
+  5
+7CBD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+535.0129613162571
+ 20
+909.8305071474186
+ 30
+0.0
+ 40
+299.681948907152
+100
+AcDbArc
+ 50
+350.7803704476974
+ 51
+30.59962786231799
+  0
+ARC
+  5
+7CBE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+788.6590736233938
+ 20
+1059.834176179847
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+30.59962786235653
+ 51
+112.7674823273971
+  0
+ARC
+  5
+7CBF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+586.9089121052875
+ 20
+867.3743179781752
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+141.1048196263663
+ 51
+270.0
+  0
+ARC
+  5
+7CC0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+825.8880413678761
+ 20
+862.6167505008197
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+260.5441310549851
+ 51
+350.7803704477256
+  0
+ARC
+  5
+7CC1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-949.0106017342714
+ 20
+1252.602442811074
+ 30
+0.0
+ 40
+1514.768008964577
+100
+AcDbArc
+ 50
+357.0878641843332
+ 51
+4.515574378541997
+  0
+ARC
+  5
+7CC2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+551.0865619216656
+ 20
+1371.072947134621
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+4.515574378532258
+ 51
+82.20044026425506
+  0
+ARC
+  5
+7CC3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+323.7208745840416
+ 20
+-99.1746737762611
+ 30
+0.0
+ 40
+1210.712411097773
+100
+AcDbArc
+ 50
+70.59516945453518
+ 51
+87.19227683267607
+  0
+ARC
+  5
+7CC4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-101.8585521365184
+ 20
+-7217.786656549304
+ 30
+0.0
+ 40
+8341.975129842838
+100
+AcDbArc
+ 50
+86.66774865212813
+ 51
+89.30038029567265
+  0
+ARC
+  5
+7CC5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-3.953647576394359
+ 20
+-9215.738550217981
+ 30
+0.0
+ 40
+10386.82676267808
+100
+AcDbArc
+ 50
+86.98274640590673
+ 51
+87.33693748986024
+  0
+ARC
+  5
+7CC6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+543.827091766163
+ 20
+1176.661534940315
+ 30
+0.0
+ 40
+20.0
+100
+AcDbArc
+ 50
+266.9827464059066
+ 51
+357.0878641843316
+  0
+ARC
+  5
+7CC7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+229.9734525783224
+ 20
+-724.8477274986981
+ 30
+0.0
+ 40
+2093.455938361187
+100
+AcDbArc
+ 50
+80.84315056489089
+ 51
+87.83221402817307
+  0
+ARC
+  5
+7CC8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+89.17786057136982
+ 20
+-6271.606974731035
+ 30
+0.0
+ 40
+7641.883900311502
+100
+AcDbArc
+ 50
+88.3504307930765
+ 51
+90.66863499624018
+  0
+ARC
+  5
+7CC9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-630.4290280150999
+ 20
+473.5634550741849
+ 30
+0.0
+ 40
+1581.992320588003
+100
+AcDbArc
+ 50
+2.339008267526231
+ 51
+12.56508429195934
+  0
+ARC
+  5
+7CCA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1146.184551464757
+ 20
+552.8200211889854
+ 30
+0.0
+ 40
+370.7141059549495
+100
+AcDbArc
+ 50
+142.7148144865626
+ 51
+160.7957783683785
+  0
+ARC
+  5
+7CCB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1074.195198209709
+ 20
+1020.733093897192
+ 30
+0.0
+ 40
+256.6399115303225
+100
+AcDbArc
+ 50
+203.9319158922784
+ 51
+230.3109223847773
+  0
+ARC
+  5
+7CCC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+903.9133155225464
+ 20
+815.5479997762782
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+12.56508429194345
+ 51
+50.31092238479366
+  0
+ARC
+  5
+7CCD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-3.953647576394359
+ 20
+-9215.738550217981
+ 30
+0.0
+ 40
+10396.82676267808
+100
+AcDbArc
+ 50
+87.4775653452065
+ 51
+89.97818039821252
+  0
+ARC
+  5
+7CCE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+229.9734525783224
+ 20
+-724.8477274986981
+ 30
+0.0
+ 40
+2053.455938361187
+100
+AcDbArc
+ 50
+82.86631621037521
+ 51
+87.83221402817307
+  0
+ARC
+  5
+7CCF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+89.17786057136982
+ 20
+-6271.606974731035
+ 30
+0.0
+ 40
+7601.883900311503
+100
+AcDbArc
+ 50
+88.3504307930765
+ 51
+90.66863499624018
+  0
+LINE
+  5
+7CD0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+511.1883774876004
+ 20
+1280.931614672169
+ 30
+0.0
+ 11
+508.4979113441095
+ 21
+1240.93020858595
+ 31
+0.0
+  0
+ARC
+  5
+7CD1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+481.2560053021589
+ 20
+1282.94484475176
+ 30
+0.0
+ 40
+30.0
+100
+AcDbArc
+ 50
+356.1521219671304
+ 51
+82.86631621037502
+  0
+ARC
+  5
+7CD2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+747.6274089480066
+ 20
+645.5562781178372
+ 30
+0.0
+ 40
+328.3628514218082
+100
+AcDbArc
+ 50
+40.20040439233792
+ 51
+63.7909047166301
+  0
+ARC
+  5
+7CD3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1008.978749305784
+ 20
+883.5300519751356
+ 30
+0.0
+ 40
+139.811683259811
+100
+AcDbArc
+ 50
+158.4613316728658
+ 51
+164.835959708225
+  0
+ARC
+  5
+7CD4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+813.3381199378399
+ 20
+899.0881366753171
+ 30
+0.0
+ 40
+55.16535731283782
+100
+AcDbArc
+ 50
+21.7782363342875
+ 51
+64.38367436261957
+  0
+ARC
+  5
+7CD5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+888.2318148191371
+ 20
+931.1876948335893
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+63.79090471663299
+ 51
+158.4613316728798
+  0
+ARC
+  5
+7CD6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+869.2092845590213
+ 20
+921.4103942774443
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+201.7782363342549
+ 51
+344.83595970817
+  0
+ARC
+  5
+7CD7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+833.9417801613272
+ 20
+897.6175507238579
+ 30
+0.0
+ 40
+210.0908080595814
+100
+AcDbArc
+ 50
+77.5282990421476
+ 51
+85.05938153747974
+  0
+ARC
+  5
+7CD8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+827.94373274399
+ 20
+885.9884566157916
+ 30
+0.0
+ 40
+222.2465402067451
+100
+AcDbArc
+ 50
+83.8321340925256
+ 51
+97.46554624746805
+  0
+LINE
+  5
+7CD9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+946.7661711943001
+ 20
+1072.579576234147
+ 30
+0.0
+ 11
+951.0522431305908
+ 21
+1031.524244518266
+ 31
+0.0
+  0
+LINE
+  5
+7CDA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+949.6139337487948
+ 20
+1027.468675419328
+ 30
+0.0
+ 11
+941.3113243002735
+ 21
+1019.170148870145
+ 31
+0.0
+  0
+LINE
+  5
+7CDB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+937.7766600338491
+ 20
+1017.706552201723
+ 30
+0.0
+ 11
+850.9458263343113
+ 21
+1017.706552201723
+ 31
+0.0
+  0
+ARC
+  5
+7CDC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+941.7931975460488
+ 20
+1072.060410466796
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+5.959943710936597
+ 51
+58.27306710743349
+  0
+ARC
+  5
+7CDD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+946.0792694823686
+ 20
+1031.005078750922
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+314.9859086210835
+ 51
+5.959943710890438
+  0
+ARC
+  5
+7CDE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+937.7766600338491
+ 20
+1022.706552201725
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+314.9859086212375
+  0
+ARC
+  5
+7CDF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+833.9417801615818
+ 20
+897.6175507248242
+ 30
+0.0
+ 40
+210.0908080585833
+100
+AcDbArc
+ 50
+58.27306710732472
+ 51
+77.52829904214812
+  0
+LWPOLYLINE
+  5
+7CE0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        8
+ 70
+     0
+ 43
+0.0
+ 10
+937.4984691320969
+ 20
+1080.41295493448
+ 10
+942.332350891491
+ 20
+1037.231364598071
+ 42
+-0.1018128844537842
+ 10
+942.2955421865717
+ 20
+1036.829975469707
+ 10
+939.8983257744367
+ 20
+1028.923135208465
+ 42
+-0.1559379747100291
+ 10
+939.5526034564918
+ 20
+1028.421847493845
+ 10
+928.8573112143312
+ 20
+1020.161314906822
+ 42
+-0.1659110889510623
+ 10
+928.2460495888372
+ 20
+1019.952743504475
+ 10
+849.3935615750851
+ 20
+1019.952743504475
+  0
+ARC
+  5
+7CE1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+339.4174358431046
+ 20
+1009.779046784615
+ 30
+0.0
+ 40
+444.5307068653128
+100
+AcDbArc
+ 50
+9.300200657590403
+ 51
+57.52794287708343
+  0
+ARC
+  5
+7CE2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+796.3989223772223
+ 20
+922.6016004390089
+ 30
+0.0
+ 40
+154.9049175303799
+100
+AcDbArc
+ 50
+98.35253698837973
+ 51
+125.1775738219809
+  0
+ARC
+  5
+7CE3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+773.170577690651
+ 20
+1080.810407569082
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+278.3525369884835
+ 51
+9.300200657587989
+  0
+LINE
+  5
+7CE4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+60.15469738992033
+ 20
+1062.741989407349
+ 30
+0.0
+ 11
+60.15469738992033
+ 21
+1042.741989407353
+ 31
+0.0
+  0
+LINE
+  5
+7CE5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+60.15469738992033
+ 20
+1062.741989407349
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+1062.741989407349
+ 31
+0.0
+  0
+LINE
+  5
+7CE6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+60.15469738992033
+ 20
+1042.741989407353
+ 30
+0.0
+ 11
+0.0000000000291038
+ 21
+1042.741989407353
+ 31
+0.0
+  0
+ELLIPSE
+  5
+7CE7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbEllipse
+ 10
+0.0000000000582077
+ 20
+1052.741989407351
+ 30
+0.0
+ 11
+-35.59411714849147
+ 21
+0.0
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+-1.0
+ 40
+0.8141430044323081
+ 41
+1.570796326794896
+ 42
+2.789267542296729
+  0
+ARC
+  5
+7CE8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-1.664054096861946
+ 20
+1034.288878255068
+ 30
+0.0
+ 40
+59.40427819345972
+100
+AcDbArc
+ 50
+28.61842078826945
+ 51
+88.39479995164721
+  0
+ELLIPSE
+  5
+7CE9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbEllipse
+ 10
+0.0000000000582077
+ 20
+1052.741989407351
+ 30
+0.0
+ 11
+-35.59411714849147
+ 21
+0.0
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+-1.0
+ 40
+0.8141430044323081
+ 41
+3.493917764882856
+ 42
+4.712388980384689
+  0
+ARC
+  5
+7CEA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-1.664054096861946
+ 20
+1071.195100559634
+ 30
+0.0
+ 40
+59.40427819345972
+100
+AcDbArc
+ 50
+271.6052000483528
+ 51
+331.3815792117301
+  0
+LINE
+  5
+7CEB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-361.4815896415275
+ 20
+279.9426176322228
+ 30
+0.0
+ 11
+-361.4815896415275
+ 21
+181.8822385849188
+ 31
+0.0
+  0
+LINE
+  5
+7CEC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-711.1229549758754
+ 20
+240.0654821304613
+ 30
+0.0
+ 11
+-545.5215713549805
+ 21
+230.5293472050777
+ 31
+0.0
+  0
+ARC
+  5
+7CED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-341.4815896415166
+ 20
+181.8822385849188
+ 30
+0.0
+ 40
+20.0
+100
+AcDbArc
+ 50
+180.0
+ 51
+185.8053471135529
+  0
+LINE
+  5
+7CEE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-444.3353071162327
+ 20
+224.7025488578771
+ 30
+0.0
+ 11
+-361.4815896415548
+ 21
+219.931427918965
+ 31
+0.0
+  0
+LINE
+  5
+7CEF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+361.4815896415857
+ 20
+279.9426176322228
+ 30
+0.0
+ 11
+361.4815896415857
+ 21
+181.8822385849188
+ 31
+0.0
+  0
+LINE
+  5
+7CF0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+711.1229549759355
+ 20
+240.0654821304613
+ 30
+0.0
+ 11
+545.5215713550406
+ 21
+230.5293472050777
+ 31
+0.0
+  0
+LINE
+  5
+7CF1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+444.335307116291
+ 20
+224.7025488578771
+ 30
+0.0
+ 11
+361.4815896416148
+ 21
+219.931427918965
+ 31
+0.0
+  0
+LINE
+  5
+7CF2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-435.4044344321428
+ 20
+1013.591234071121
+ 30
+0.0
+ 11
+-440.3405339549499
+ 21
+1007.898258891948
+ 31
+0.0
+  0
+LINE
+  5
+7CF3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-440.3405339549499
+ 20
+1007.898258891948
+ 30
+0.0
+ 11
+-417.266961804442
+ 21
+1007.898258891948
+ 31
+0.0
+  0
+LINE
+  5
+7CF4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-417.266961804442
+ 20
+1007.898258891948
+ 30
+0.0
+ 11
+-443.048152155341
+ 21
+988.953316967418
+ 31
+0.0
+  0
+LINE
+  5
+7CF5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-392.236848075212
+ 20
+1012.039182633948
+ 30
+0.0
+ 11
+-419.0930344909411
+ 21
+992.3042951040983
+ 31
+0.0
+  0
+LINE
+  5
+7CF6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-435.4044344321428
+ 20
+1013.591234071121
+ 30
+0.0
+ 11
+-393.1167330156295
+ 21
+1013.591234071121
+ 31
+0.0
+  0
+LINE
+  5
+7CF7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-419.0930344909411
+ 20
+992.3042951040983
+ 30
+0.0
+ 11
+-388.3165194817465
+ 21
+992.3042951040983
+ 31
+0.0
+  0
+LINE
+  5
+7CF8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-388.3165194817465
+ 20
+992.3042951040983
+ 30
+0.0
+ 11
+-396.9328422342623
+ 21
+985.9727125849175
+ 31
+0.0
+  0
+LINE
+  5
+7CF9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-442.9304239447429
+ 20
+986.1292323731376
+ 30
+0.0
+ 11
+-396.7198425602855
+ 21
+986.1292323731305
+ 31
+0.0
+  0
+LINE
+  5
+7CFA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-443.048152155341
+ 20
+988.953316967418
+ 30
+0.0
+ 11
+-443.0481521553684
+ 21
+986.1292323731305
+ 31
+0.0
+  0
+LINE
+  5
+7CFB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-393.1167330156295
+ 20
+1013.591234071121
+ 30
+0.0
+ 11
+-392.236848075212
+ 21
+1012.039182633948
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+7CFC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        8
+ 70
+     0
+ 43
+0.0
+ 10
+-560.4870721597872
+ 20
+1005.833695693773
+ 10
+-561.5590194360883
+ 20
+1002.833695693773
+ 42
+0.5186974016962145
+ 10
+-560.6173291074282
+ 20
+1001.49721489948
+ 10
+-537.4367881308607
+ 20
+1001.497214899487
+ 42
+-0.5186974016910461
+ 10
+-536.4950978022006
+ 20
+1000.160734105214
+ 10
+-536.7394986594426
+ 20
+999.4767428420132
+ 42
+-0.3169180363141022
+ 10
+-537.6811889881009
+ 20
+998.8132236363114
+ 10
+-562.2909929995767
+ 20
+998.8132236363114
+  0
+LINE
+  5
+7CFD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-559.5453818311271
+ 20
+1006.497214899475
+ 30
+0.0
+ 11
+-530.3406082423971
+ 21
+1006.497214899475
+ 31
+0.0
+  0
+LINE
+  5
+7CFE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-563.2326833282368
+ 20
+998.1497044306095
+ 30
+0.0
+ 11
+-564.3046306045089
+ 21
+995.1497044306236
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+7CFF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+       12
+ 70
+     0
+ 43
+0.0
+ 10
+-563.3629402758506
+ 20
+993.8132236363232
+ 10
+-540.1823992993959
+ 20
+993.8132236363159
+ 42
+-0.5186974016945589
+ 10
+-539.2407089707358
+ 20
+992.4767428420297
+ 10
+-539.4851098279486
+ 20
+991.792751578842
+ 42
+-0.3169180363143331
+ 10
+-540.4268001566087
+ 20
+991.12923237314
+ 10
+-565.0366041680845
+ 20
+991.12923237314
+ 42
+0.3169180363160706
+ 10
+-565.9782944967428
+ 20
+990.4657131674383
+ 10
+-567.0502417729876
+ 20
+987.465713167424
+ 42
+0.5186974016961221
+ 10
+-566.1085514443293
+ 20
+986.1292323731376
+ 10
+-536.9037778555685
+ 20
+986.1292323731376
+ 42
+0.3169180363160738
+ 10
+-535.9620875269102
+ 20
+986.7927515788394
+ 10
+-529.398917913737
+ 20
+1005.160734105182
+  0
+LINE
+  5
+7D00
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-524.1905546318994
+ 20
+1006.497214899475
+ 30
+0.0
+ 11
+-494.9857810431403
+ 21
+1006.497214899475
+ 31
+0.0
+  0
+LINE
+  5
+7D01
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-494.0440907144802
+ 20
+1005.160734105182
+ 30
+0.0
+ 11
+-495.1160379907815
+ 21
+1002.160734105181
+ 31
+0.0
+  0
+LINE
+  5
+7D02
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-501.5489506563135
+ 20
+986.1292323731376
+ 30
+0.0
+ 11
+-530.753724245158
+ 21
+986.1292323731305
+ 31
+0.0
+  0
+LINE
+  5
+7D03
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-497.7348437140554
+ 20
+998.7785849003786
+ 30
+0.0
+ 11
+-518.2132264561387
+ 21
+998.9610806701776
+ 31
+0.0
+  0
+LINE
+  5
+7D04
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-525.1322449605577
+ 20
+1005.833695693773
+ 30
+0.0
+ 11
+-526.6817378858941
+ 21
+1001.49721489948
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+7D05
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+       10
+ 70
+     0
+ 43
+0.0
+ 10
+-526.6817378858941
+ 20
+1001.49721489948
+ 10
+-528.9498034053103
+ 20
+995.1497044306094
+ 42
+0.5186974016980656
+ 10
+-528.0081130766502
+ 20
+993.8132236363159
+ 10
+-504.8275721001955
+ 20
+993.8132236363232
+ 42
+-0.5186974016981442
+ 10
+-503.8858817715372
+ 20
+992.4767428420297
+ 10
+-504.1302826287501
+ 20
+991.7927515788349
+ 42
+-0.3169180363111258
+ 10
+-505.0719729573793
+ 20
+991.1292323731473
+ 10
+-529.6817769688841
+ 20
+991.12923237314
+ 42
+0.3169180363135549
+ 10
+-530.6234672975442
+ 20
+990.4657131674454
+ 10
+-531.6954145738163
+ 20
+987.465713167424
+  0
+LINE
+  5
+7D06
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-518.9544221120723
+ 20
+1000.833695693771
+ 30
+0.0
+ 11
+-519.1460055086444
+ 21
+1000.297521758263
+ 31
+0.0
+  0
+LINE
+  5
+7D07
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-518.012731783414
+ 20
+1001.497214899473
+ 30
+0.0
+ 11
+-496.0577283194416
+ 21
+1001.49721489948
+ 31
+0.0
+  0
+LINE
+  5
+7D08
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-496.8020646615496
+ 20
+997.4421438122933
+ 30
+0.0
+ 11
+-500.6072603276534
+ 21
+986.7927515788466
+ 31
+0.0
+  0
+LINE
+  5
+7D09
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-488.8357274327554
+ 20
+1006.497214899475
+ 30
+0.0
+ 11
+-459.6309538438254
+ 21
+1006.497214899475
+ 31
+0.0
+  0
+LINE
+  5
+7D0A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-458.6892635151671
+ 20
+1005.160734105182
+ 30
+0.0
+ 11
+-465.2524331288804
+ 21
+986.792751578811
+ 31
+0.0
+  0
+LINE
+  5
+7D0B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-466.1941234575115
+ 20
+986.1292323731305
+ 30
+0.0
+ 11
+-495.3988970459577
+ 21
+986.1292323731305
+ 31
+0.0
+  0
+LINE
+  5
+7D0C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-489.7774177614155
+ 20
+1005.833695693773
+ 30
+0.0
+ 11
+-496.340587374616
+ 21
+987.4657131674169
+ 31
+0.0
+  0
+LINE
+  5
+7D0D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-484.7515650680797
+ 20
+1000.833695693778
+ 30
+0.0
+ 11
+-487.7415770937423
+ 21
+992.4657131674335
+ 31
+0.0
+  0
+LINE
+  5
+7D0E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-466.9374135592351
+ 20
+1000.160734105207
+ 30
+0.0
+ 11
+-469.9274255846994
+ 21
+991.792751578842
+ 31
+0.0
+  0
+ARC
+  5
+7D0F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-488.8357274327554
+ 20
+1005.497214899477
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+160.3373905390497
+  0
+ARC
+  5
+7D10
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-495.3988970459577
+ 20
+987.1292323731282
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+160.3373905391783
+ 51
+270.0
+  0
+ARC
+  5
+7D11
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-459.6309538438254
+ 20
+1005.497214899477
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+340.3373905387578
+ 51
+90.0
+  0
+ARC
+  5
+7D12
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-466.1941234575115
+ 20
+987.1292323731282
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+340.3373905376976
+  0
+LINE
+  5
+7D13
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-483.8098747394196
+ 20
+1001.49721489948
+ 30
+0.0
+ 11
+-467.8791038878935
+ 21
+1001.49721489948
+ 31
+0.0
+  0
+LINE
+  5
+7D14
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-470.8691159133577
+ 20
+991.12923237314
+ 30
+0.0
+ 11
+-486.7998867650822
+ 21
+991.12923237314
+ 31
+0.0
+  0
+ARC
+  5
+7D15
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-483.8098747394196
+ 20
+1000.497214899482
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+160.3373905388975
+  0
+ARC
+  5
+7D16
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-486.7998867650822
+ 20
+992.1292323731378
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+160.337390538876
+ 51
+270.0
+  0
+ARC
+  5
+7D17
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-470.8691159133577
+ 20
+992.1292323731378
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+340.3373905386938
+  0
+ARC
+  5
+7D18
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-467.8791038878935
+ 20
+1000.497214899482
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+340.3373905400271
+ 51
+90.0
+  0
+ARC
+  5
+7D19
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-494.9857810431403
+ 20
+1005.497214899477
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+340.3373905387578
+ 51
+90.0
+  0
+ARC
+  5
+7D1A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-496.0577283194416
+ 20
+1002.497214899477
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+340.3373905388864
+  0
+ARC
+  5
+7D1B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-518.012731783414
+ 20
+1000.497214899475
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+160.3373905388975
+  0
+ARC
+  5
+7D1C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-518.2043151799843
+ 20
+999.9610409639673
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+160.3373905387796
+ 51
+269.4894147290872
+  0
+ARC
+  5
+7D1D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-497.7437549902097
+ 20
+997.7786246065889
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+340.3373905390325
+ 51
+89.4894147290873
+  0
+ARC
+  5
+7D1E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-501.5489506563135
+ 20
+987.1292323731353
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+340.3373905391998
+  0
+ARC
+  5
+7D1F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-530.753724245158
+ 20
+987.1292323731282
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+160.3373905390497
+ 51
+270.0
+  0
+ARC
+  5
+7D20
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-524.1905546318994
+ 20
+1005.497214899477
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+160.3373905390497
+  0
+ARC
+  5
+7D21
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-559.5453818311271
+ 20
+1005.497214899477
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+160.3373905390497
+  0
+ARC
+  5
+7D22
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-562.2909929995767
+ 20
+997.8132236363135
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+160.3373905387578
+  0
+ARC
+  5
+7D23
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-563.3629402758506
+ 20
+994.8132236363207
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+160.3373905384034
+ 51
+270.0
+  0
+ARC
+  5
+7D24
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-530.3406082423971
+ 20
+1005.497214899477
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+340.3373905389539
+ 51
+90.0
+  0
+LINE
+  5
+7D25
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+455.2014872175805
+ 20
+1179.093281664307
+ 30
+0.0
+ 11
+451.7656548352424
+ 21
+1161.578969990841
+ 31
+0.0
+  0
+LINE
+  5
+7D26
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+451.7656548352424
+ 20
+1161.578969990841
+ 30
+0.0
+ 11
+478.5541044115598
+ 21
+1159.732402515203
+ 31
+0.0
+  0
+LINE
+  5
+7D27
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+478.5541044115598
+ 20
+1159.732402515203
+ 30
+0.0
+ 11
+478.5541044115307
+ 21
+1178.239281749526
+ 31
+0.0
+  0
+LINE
+  5
+7D28
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+532.4321184400287
+ 20
+1305.622269178108
+ 30
+0.0
+ 11
+533.7226910222634
+ 21
+1255.959262812893
+ 31
+0.0
+  0
+LINE
+  5
+7D29
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+533.7213622477756
+ 20
+1256.010395881219
+ 30
+0.0
+ 11
+479.5049985214082
+ 21
+1181.172665715308
+ 31
+0.0
+  0
+LINE
+  5
+7D2A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+529.8951399296929
+ 20
+1238.746547225062
+ 30
+0.0
+ 11
+478.5541044115598
+ 21
+1159.732402515203
+ 31
+0.0
+  0
+ARC
+  5
+7D2B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+466.6331945257134
+ 20
+1164.539802693439
+ 30
+0.0
+ 40
+19.41183864726359
+100
+AcDbArc
+ 50
+52.1130731065439
+ 51
+123.9949202718602
+  0
+LINE
+  5
+7D2C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+456.3477252064858
+ 20
+1181.426301244478
+ 30
+0.0
+ 11
+521.7144312261443
+ 21
+1256.010395881219
+ 31
+0.0
+  0
+LINE
+  5
+7D2D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+521.7144312261443
+ 20
+1256.010395881219
+ 30
+0.0
+ 11
+526.0516189252666
+ 21
+1306.596291350075
+ 31
+0.0
+  0
+LINE
+  5
+7D2E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+526.051618925323
+ 20
+1306.596291350075
+ 30
+0.0
+ 11
+531.432455920738
+ 21
+1306.596291350075
+ 31
+0.0
+  0
+LINE
+  5
+7D2F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+457.1199677192817
+ 20
+1161.209889279475
+ 30
+0.0
+ 11
+457.1199677192817
+ 21
+1150.247818112702
+ 31
+0.0
+  0
+LINE
+  5
+7D30
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+474.5728685132362
+ 20
+1150.247818112702
+ 30
+0.0
+ 11
+474.5728685132653
+ 21
+1160.006834997822
+ 31
+0.0
+  0
+ARC
+  5
+7D31
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-3.953647576394359
+ 20
+-9215.738550217981
+ 30
+0.0
+ 40
+10386.82676267808
+100
+AcDbArc
+ 50
+87.45579122045528
+ 51
+89.97818039821252
+  0
+ARC
+  5
+7D32
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+-3.953647576394359
+ 20
+-9215.738550217981
+ 30
+0.0
+ 40
+10381.82676267808
+100
+AcDbArc
+ 50
+87.45456509545913
+ 51
+89.97818039821252
+  0
+ARC
+  5
+7D33
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+465.8464181162871
+ 20
+1169.745923619927
+ 30
+0.0
+ 40
+21.3618130059758
+100
+AcDbArc
+ 50
+245.8889179357952
+ 51
+294.1110820640865
+  0
+LINE
+  5
+7D34
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+533.7226910222634
+ 20
+1255.959262812893
+ 30
+0.0
+ 11
+533.7226910222634
+ 21
+1246.118930975455
+ 31
+0.0
+  0
+LINE
+  5
+7D35
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+532.9153493267731
+ 20
+1243.394666608388
+ 30
+0.0
+ 11
+529.8951399296929
+ 21
+1238.746547225062
+ 31
+0.0
+  0
+LINE
+  5
+7D36
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+518.9331706334614
+ 20
+1252.83694848138
+ 30
+0.0
+ 11
+522.7105030004131
+ 21
+1296.893086586933
+ 31
+0.0
+  0
+ARC
+  5
+7D37
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+546.136279763632
+ 20
+1294.253688854773
+ 30
+0.0
+ 40
+23.57399918022303
+100
+AcDbArc
+ 50
+148.4280772741868
+ 51
+176.6274380292029
+  0
+LINE
+  5
+7D38
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+532.4068069173518
+ 20
+1305.821324981721
+ 30
+0.0
+ 11
+532.4068069173809
+ 21
+1329.11240305188
+ 31
+0.0
+  0
+LINE
+  5
+7D39
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+531.4068069173754
+ 20
+1330.112403051877
+ 30
+0.0
+ 11
+530.2292129213147
+ 21
+1330.112403051877
+ 31
+0.0
+  0
+LINE
+  5
+7D3A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+529.2292129213383
+ 20
+1306.596291350075
+ 30
+0.0
+ 11
+529.2292129213092
+ 21
+1329.11240305188
+ 31
+0.0
+  0
+ARC
+  5
+7D3B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+530.2292129213147
+ 20
+1329.11240305188
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+180.0
+  0
+ARC
+  5
+7D3C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+531.4068069173754
+ 20
+1329.11240305188
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+0.0
+ 51
+90.0
+  0
+ARC
+  5
+7D3D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+531.432455920738
+ 20
+1305.596291350078
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+1.488587367405046
+ 51
+90.0
+  0
+ARC
+  5
+7D3E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+528.7226910222689
+ 20
+1246.118930975455
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+326.9853899101657
+ 51
+0.0
+  0
+ARC
+  5
+7D3F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+483.5541044115252
+ 20
+1178.239281749526
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+144.0784637049223
+ 51
+180.0
+  0
+ARC
+  5
+7D40
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+460.1079684756841
+ 20
+1178.130763267688
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+138.7681515931036
+ 51
+168.9010677524229
+  0
+ARC
+  5
+7D41
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1240.56327554976
+ 20
+1043.197951166007
+ 30
+0.0
+ 40
+376.253532466747
+100
+AcDbArc
+ 50
+200.219708616204
+ 51
+225.2404760452897
+  0
+ARC
+  5
+7D42
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+996.7433134528691
+ 20
+796.3135655548825
+ 30
+0.0
+ 40
+29.2757463246712
+100
+AcDbArc
+ 50
+223.8497188797938
+ 51
+293.6530765501105
+  0
+ARC
+  5
+7D43
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+998.4712207422052
+ 20
+780.1934684821603
+ 30
+0.0
+ 40
+14.65465481342144
+100
+AcDbArc
+ 50
+313.1231082227504
+ 51
+21.84915259997958
+  0
+ARC
+  5
+7D44
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+754.8406473515588
+ 20
+683.9577769093026
+ 30
+0.0
+ 40
+276.6032535491816
+100
+AcDbArc
+ 50
+21.56996736467649
+ 51
+59.12280099835079
+  0
+ARC
+  5
+7D45
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+893.2569407545271
+ 20
+915.9968493829211
+ 30
+0.0
+ 40
+6.422337901694826
+100
+AcDbArc
+ 50
+56.58876035218238
+ 51
+206.2449624094171
+  0
+ARC
+  5
+7D46
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1141.520303101488
+ 20
+989.433774659261
+ 30
+0.0
+ 40
+263.9978112726304
+100
+AcDbArc
+ 50
+214.536721413439
+ 51
+233.5101406100247
+  0
+ARC
+  5
+7D47
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+999.3916664900844
+ 20
+796.9683566205746
+ 30
+0.0
+ 40
+24.7425006118855
+100
+AcDbArc
+ 50
+233.0715126707223
+ 51
+291.5826775074743
+  0
+ARC
+  5
+7D48
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+1001.967949706227
+ 20
+782.3512877444685
+ 30
+0.0
+ 40
+10.62921472725598
+100
+AcDbArc
+ 50
+307.8707261099613
+ 51
+18.06525409209146
+  0
+LWPOLYLINE
+  5
+7D49
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+711.1229549758499
+ 20
+251.9496074782452
+ 10
+711.1229549758227
+ 20
+199.999216663464
+  0
+LWPOLYLINE
+  5
+7D4A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+-711.1229549758754
+ 20
+199.9992166634712
+ 10
+-711.1229549758482
+ 20
+251.9496074782452
+  0
+ARC
+  5
+7D4B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbCircle
+ 10
+341.4815896415766
+ 20
+181.8822385849188
+ 30
+0.0
+ 40
+20.0
+100
+AcDbArc
+ 50
+354.1946528864471
+ 51
+0.0
+  0
+LWPOLYLINE
+  5
+7D4C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+       60
+ 70
+     1
+ 43
+0.0
+ 10
+-795.149020535744
+ 20
+1115.907925754839
+ 42
+0.0624132403127895
+ 10
+-852.8967128990515
+ 20
+1116.890609527764
+ 42
+0.0124691644231892
+ 10
+-863.8046506596293
+ 20
+1115.672985780904
+ 10
+-863.8046506596584
+ 20
+1120.397920664828
+ 10
+-868.1876837127893
+ 20
+1124.665329325914
+ 10
+-871.5698773784188
+ 20
+1124.647378630051
+ 10
+-874.9521186795718
+ 20
+1124.647378630051
+ 10
+-879.3124414242738
+ 20
+1120.356767835808
+ 10
+-879.3124414242738
+ 20
+1112.981119808516
+ 42
+0.0925493297797731
+ 10
+-953.9633272065366
+ 20
+1082.102758897072
+ 42
+0.2262448683361207
+ 10
+-956.2096638791208
+ 20
+1078.430808965314
+ 10
+-960.8248735686101
+ 20
+1034.222739769838
+ 42
+0.2261578072591273
+ 10
+-959.386564186785
+ 20
+1030.167170670879
+ 10
+-943.3816718044436
+ 20
+1014.170148870128
+ 42
+0.1988484501885053
+ 10
+-939.8470075380192
+ 20
+1012.70655220172
+ 10
+-879.3124414242447
+ 20
+1012.70655220172
+ 10
+-879.3124414242447
+ 20
+994.5522623582688
+ 10
+-885.6917123816565
+ 20
+984.1006195871031
+ 10
+-883.8401398644164
+ 20
+973.1534173009137
+ 10
+-963.3411233999686
+ 20
+913.0522382431536
+ 42
+0.2074441648531221
+ 10
+-1020.38442148668
+ 20
+827.6480464643682
+ 42
+0.0477144050764751
+ 10
+-1037.639364854554
+ 20
+556.7213198254847
+ 42
+0.0196381237990656
+ 10
+-1035.336001123339
+ 20
+500.7728386201718
+ 42
+0.0189163793619748
+ 10
+-1040.767309195302
+ 20
+437.7790954485547
+ 10
+-1040.767309195358
+ 20
+57.02728281249846
+ 42
+0.4142135623730951
+ 10
+-983.7400263828603
+ 20
+-0.0000000000071054
+ 10
+-768.1502377882607
+ 20
+0.0000000000071054
+ 42
+0.4142135623730951
+ 10
+-711.1229549757918
+ 20
+57.02728281250557
+ 10
+-711.1229549758754
+ 20
+199.9992166634712
+ 10
+-361.3790151104003
+ 20
+179.8592557104541
+ 42
+0.3848388371651992
+ 10
+-341.4815896415166
+ 20
+161.8822385849156
+ 10
+0.0000000000873115
+ 20
+161.8822385849156
+ 10
+341.4815896415766
+ 20
+161.8822385849156
+ 42
+0.3848388371635529
+ 10
+361.3790151104585
+ 20
+179.8592557104541
+ 10
+711.1229549759355
+ 20
+199.9992166634712
+ 10
+711.1229549757645
+ 20
+57.02728281250557
+ 42
+0.4142135623730951
+ 10
+768.1502377882643
+ 20
+0.0
+ 10
+983.7400263828621
+ 20
+0.0
+ 42
+0.4142135623730951
+ 10
+1040.767309195332
+ 20
+57.02728281249846
+ 10
+1040.767309195332
+ 20
+437.7790954485689
+ 42
+0.0189163793619748
+ 10
+1035.33600112462
+ 20
+500.7728386364362
+ 42
+0.019638123793566
+ 10
+1037.639364854556
+ 20
+556.7213198254705
+ 42
+0.0477144050764751
+ 10
+1020.384421486711
+ 20
+827.6480464643896
+ 42
+0.2074441648531221
+ 10
+963.3411233999431
+ 20
+913.0522382431607
+ 10
+883.8401398644201
+ 20
+973.1534173008995
+ 42
+-0.0587227662379995
+ 10
+854.407018294467
+ 20
+1012.706552201713
+ 10
+939.847007538021
+ 20
+1012.70655220172
+ 42
+0.1988484501885066
+ 10
+943.3816718044472
+ 20
+1014.170148870128
+ 10
+959.3865641867887
+ 20
+1030.167170670879
+ 42
+0.2261578072591272
+ 10
+960.8248735686139
+ 20
+1034.222739769838
+ 10
+956.2096638791517
+ 20
+1078.430808965322
+ 42
+0.2262448683361207
+ 10
+953.9633272095798
+ 20
+1082.102758901754
+ 42
+0.0925493297797731
+ 10
+879.3124414242775
+ 20
+1112.981119808516
+ 42
+0.0303602805459008
+ 10
+852.8967128990553
+ 20
+1116.890609527764
+ 42
+0.0624132403127895
+ 10
+795.1490205357477
+ 20
+1115.907925754846
+ 42
+0.133233161858626
+ 10
+586.8562554345553
+ 20
+1383.198337744431
+ 42
+0.5127823778411637
+ 10
+571.3587906280118
+ 20
+1378.341040299822
+ 42
+0.0377625874490005
+ 10
+-0.0000000000272848
+ 20
+1415.916027030618
+ 42
+0.0377625874490005
+ 10
+-571.3587906299417
+ 20
+1378.34104030555
+ 42
+0.5127823760296195
+ 10
+-586.8562554345535
+ 20
+1383.198337744439
+ 42
+0.1332331618547927
+  0
+LWPOLYLINE
+  5
+7D4D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+1035.33600112462
+ 20
+500.7728386364362
+ 42
+-0.0728549241907425
+ 10
+989.0400282256178
+ 20
+299.3032196929377
+ 42
+-0.2430789033697128
+ 10
+881.6579283610517
+ 20
+228.8181211848439
+ 10
+589.6709776440347
+ 20
+268.4234409283092
+  0
+LWPOLYLINE
+  5
+7D4E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+-1035.336001122685
+ 20
+500.7728386124199
+ 42
+0.0728549241822512
+ 10
+-989.0400282256159
+ 20
+299.3032196929377
+ 42
+0.2430789033697128
+ 10
+-881.6579283610499
+ 20
+228.8181211848439
+ 10
+-589.6709776440311
+ 20
+268.4234409283092
+  0
+LWPOLYLINE
+  5
+7D4F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+-570.8849032190228
+ 20
+1374.402012533579
+ 42
+0.0622479983783257
+ 10
+-571.3587906280372
+ 20
+1378.341040299808
+ 42
+0.0622479983783257
+  0
+LWPOLYLINE
+  5
+7D50
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+-806.4174554322944
+ 20
+1087.127694979017
+ 42
+0.0438492336353408
+ 10
+-808.7630013165471
+ 20
+1074.166824425489
+  0
+LWPOLYLINE
+  5
+7D51
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+-863.8046506595438
+ 20
+999.1895580061083
+ 42
+0.0040929467928695
+ 10
+-812.4191086509981
+ 20
+1074.166824425489
+ 10
+-808.7630013165471
+ 20
+1074.166824425489
+  0
+LWPOLYLINE
+  5
+7D52
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+-808.7630013165471
+ 20
+1074.166824425489
+ 10
+-800.9397173564412
+ 20
+1074.166824425482
+  0
+LWPOLYLINE
+  5
+7D53
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+571.3587906119828
+ 20
+1378.341040251122
+ 42
+0.0399772690139932
+ 10
+570.8849032190264
+ 20
+1374.402012533579
+  0
+LWPOLYLINE
+  5
+7D54
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+-795.1490205320497
+ 20
+1115.907925763707
+ 42
+0.0119417542365193
+ 10
+-806.4174069280053
+ 20
+1087.127828144623
+  0
+LINE
+  5
+7D55
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-883.8401398644164
+ 20
+973.1534173009137
+ 30
+0.0
+ 11
+-881.5602628047527
+ 21
+959.6739153488442
+ 31
+0.0
+  0
+LINE
+  5
+7D56
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 218 Nissan Z350 - rear
+100
+AcDbLine
+ 10
+-879.3124414242738
+ 20
+1012.706552201713
+ 30
+0.0
+ 11
+-879.3124414242738
+ 21
+1112.981119808516
+ 31
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_IMAGE_DICT
+350
+7BDD
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+AcDbVariableDictionary
+350
+115
+  3
+DWGPROPS
+350
+8E3
+  0
+DICTIONARY
+  5
+90B
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_LAYERFILTERS
+360
+7A67
+  3
+ACAD_LAYERSTATES
+360
+90C
+  0
+DICTIONARY
+  5
+7A72
+330
+7A71
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+7A73
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+7BDD
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+3350z_gal_med15
+350
+7BDE
+  3
+350z3
+350
+7BDF
+  3
+frontal 3
+350
+7BE0
+  3
+frontal 4
+350
+7BE1
+  3
+latera3
+350
+7BE2
+  3
+lateral2
+350
+7BE3
+  3
+lateral3
+350
+7BE4
+  3
+nissan_350_z_11
+350
+7BE5
+  3
+nissan_z350_02
+350
+7BE6
+  3
+nissan_z350_05
+350
+7BE7
+  3
+pho_gallery_MZ3_ext18_popup
+350
+7BE8
+  3
+pho_gallery_MZ3_ext19_popup
+350
+7BE9
+  3
+rear1
+350
+7BEA
+  3
+sideview
+350
+7BEB
+  3
+sideview_1
+350
+7BEC
+  3
+sideview_2
+350
+7BED
+  3
+skidazzle2
+350
+7BEE
+  3
+skidazzle3
+350
+7BEF
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+1E
+  3
+Layout2
+350
+26
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+115
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+117
+  3
+HIDETEXT
+350
+116
+  0
+XRECORD
+  5
+8E3
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbXrecord
+280
+     1
+  1
+DWGPROPS COOKIE
+  2
+Ceco.NET-Trees-and-Plants - T - xx . 67 . dwg
+  3
+
+  4
+ceco.net
+  6
+
+  7
+
+  8
+peacosta
+  9
+
+300
+=
+301
+=
+302
+=
+303
+=
+304
+=
+305
+=
+306
+=
+307
+=
+308
+=
+309
+=
+ 40
+0.0450312037037037
+ 41
+2455079.811409143
+ 42
+2455838.656599502
+  1
+
+ 90
+        0
+  0
+DICTIONARY
+  5
+7A67
+102
+{ACAD_REACTORS
+330
+90B
+102
+}
+330
+90B
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+90C
+102
+{ACAD_REACTORS
+330
+90B
+102
+}
+330
+90B
+100
+AcDbDictionary
+281
+     1
+  0
+XRECORD
+  5
+7A73
+102
+{ACAD_REACTORS
+330
+7A72
+102
+}
+330
+7A72
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+IMAGEDEF
+  5
+7BDE
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\3350z_gal_med15.jpg
+ 10
+329.0
+ 20
+227.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BDF
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\350z3.jpg
+ 10
+800.0
+ 20
+600.0
+ 11
+0.00125
+ 21
+0.00125
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7BE0
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\frontal 3.jpg
+ 10
+444.0
+ 20
+333.0
+ 11
+0.254
+ 21
+0.254
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BE1
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\frontal 4.jpg
+ 10
+2272.0
+ 20
+1712.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BE2
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\latera3.4.jpg
+ 10
+1024.0
+ 20
+768.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BE3
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\lateral2.jpg
+ 10
+640.0
+ 20
+480.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BE4
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\lateral3.jpg
+ 10
+3600.0
+ 20
+2400.0
+ 11
+0.0846666666666667
+ 21
+0.0846666666666667
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BE5
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Fernando\Mis documentos\Mis imágenes\nissan_350_z_11.jpg
+ 10
+639.0
+ 20
+480.0
+ 11
+0.0015649452269171
+ 21
+0.0015649452269171
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7BE6
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\nissan_z350_02.jpg
+ 10
+800.0
+ 20
+600.0
+ 11
+0.0846666666666667
+ 21
+0.0846666666666667
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BE7
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\nissan_z350_05.jpg
+ 10
+1024.0
+ 20
+768.0
+ 11
+0.0846666666666667
+ 21
+0.0846666666666667
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BE8
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\pho_gallery_MZ3_ext18_popup.jpg
+ 10
+675.0
+ 20
+455.0
+ 11
+0.01
+ 21
+0.01
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7BE9
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\pho_gallery_MZ3_ext19_popup.jpg
+ 10
+675.0
+ 20
+455.0
+ 11
+0.01
+ 21
+0.01
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7BEA
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\rear1.jpg
+ 10
+640.0
+ 20
+480.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BEB
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga\Mis documentos\Mis imágenes\z nissan\sideview.jpg
+ 10
+1239.0
+ 20
+463.0
+ 11
+0.0008071025020178
+ 21
+0.0008071025020178
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7BEC
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Download\Fotos Bloques\sideview.jpg
+ 10
+1239.0
+ 20
+463.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7BED
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\sideview.jpg
+ 10
+1239.0
+ 20
+463.0
+ 11
+0.0008071025020178
+ 21
+0.0008071025020178
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7BEE
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga\Mis documentos\Mis imágenes\z nissan\skidazzle2.jpg
+ 10
+1024.0
+ 20
+768.0
+ 11
+0.0009765625
+ 21
+0.0009765625
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7BEF
+102
+{ACAD_REACTORS
+330
+7BDD
+102
+}
+330
+7BDD
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\skidazzle3.jpg
+ 10
+1024.0
+ 20
+768.0
+ 11
+0.0009765625
+ 21
+0.0009765625
+280
+     1
+281
+     0
+  0
+LAYOUT
+  5
+1E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+Microsoft Office Document Image Writer
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1.000000000000000E+20
+ 24
+1.000000000000000E+20
+ 34
+1.000000000000000E+20
+ 15
+-1.000000000000000E+20
+ 25
+-1.000000000000000E+20
+ 35
+-1.000000000000000E+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1B
+  0
+LAYOUT
+  5
+26
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+Microsoft Office Document Image Writer
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+23
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+Microsoft Office Document Image Writer
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+  1712
+ 72
+     0
+ 73
+     0
+ 74
+     0
+  7
+
+ 75
+     0
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARYVAR
+  5
+117
+102
+{ACAD_REACTORS
+330
+115
+102
+}
+330
+115
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+116
+102
+{ACAD_REACTORS
+330
+115
+102
+}
+330
+115
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF

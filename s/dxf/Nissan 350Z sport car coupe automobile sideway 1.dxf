@@ -1,0 +1,20862 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    13
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-1996.070128510648
+ 20
+-47.43974426742352
+ 30
+-0.0015258207003583
+  9
+$EXTMAX
+ 10
+1689.599004165415
+ 20
+1427.150267316785
+ 30
+0.0000000349246037
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     2
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+10.0
+  9
+$CHAMFERB
+ 40
+10.0
+  9
+$CHAMFERC
+ 40
+20.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2455079.811409143
+  9
+$TDUCREATE
+ 40
+2455079.936409144
+  9
+$TDUPDATE
+ 40
+2456936.006607800
+  9
+$TDUUPDATE
+ 40
+2456936.131607800
+  9
+$TDINDWG
+ 40
+0.0488806366
+  9
+$TDUSRTIMER
+ 40
+0.0488806366
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+7F1B
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{81085373-3A21-4932-80AA-8F6C3258C50C}
+  9
+$VERSIONGUID
+  2
+{3D3C1A2F-DD15-4FEE-9276-5EC7C119CB57}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+VPORT
+  5
+7F1A
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+-153.2355621726164
+ 22
+689.8552615246809
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+1692.415601257064
+ 41
+2.184834123222748
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+90B
+102
+}
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+7A71
+102
+{ACAD_XDICTIONARY
+360
+7A72
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net 221 Nissan Z350 - sideway 1
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    23
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+2C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+11B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+     0
+  0
+APPID
+  5
+11C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+8F8
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+RAK
+ 70
+     0
+  0
+APPID
+  5
+8F9
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+APPID
+  5
+8FA
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_PSEXT
+ 70
+     0
+  0
+APPID
+  5
+8FB
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepETag
+ 70
+     0
+  0
+APPID
+  5
+8FC
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoPO
+ 70
+     0
+  0
+APPID
+  5
+8FD
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAUTHENVIRON
+ 70
+     0
+  0
+APPID
+  5
+8FE
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockTrueName
+ 70
+     0
+  0
+APPID
+  5
+8FF
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockGUID
+ 70
+     0
+  0
+APPID
+  5
+900
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcLayerTools
+ 70
+     0
+  0
+APPID
+  5
+901
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+     0
+  0
+APPID
+  5
+902
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+     0
+  0
+APPID
+  5
+903
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG
+ 70
+     0
+  0
+APPID
+  5
+904
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTALN
+ 70
+     0
+  0
+APPID
+  5
+905
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMBREAK
+ 70
+     0
+  0
+APPID
+  5
+906
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoAV
+ 70
+     0
+  0
+APPID
+  5
+907
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcCmTransparency
+ 70
+     0
+  0
+APPID
+  5
+908
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor1ACI
+ 70
+     0
+  0
+APPID
+  5
+909
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor2ACI
+ 70
+     0
+  0
+APPID
+  5
+90A
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ADE
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+2B
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+1B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+  0
+BLOCK_RECORD
+  5
+23
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+26
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+24
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+25
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+ARC
+  5
+7CD2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+27.06861380397731
+ 20
+494.491078916667
+ 30
+0.0
+ 40
+395.5276035216345
+100
+AcDbArc
+ 50
+130.8515482232153
+ 51
+168.1494887506995
+  0
+ARC
+  5
+7CD3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-79.45315914022785
+ 20
+621.6449367315278
+ 30
+0.0
+ 40
+229.6861996221031
+100
+AcDbArc
+ 50
+43.74501557431258
+ 51
+131.4995383667859
+  0
+ARC
+  5
+7CD4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+284.6890828543005
+ 20
+417.9209264184039
+ 30
+0.0
+ 40
+628.1988056635492
+100
+AcDbArc
+ 50
+155.5422687409228
+ 51
+180.3824488381301
+  0
+ARC
+  5
+7CD5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+260.1480065259247
+ 20
+395.3252563904215
+ 30
+0.0
+ 40
+603.9241752793672
+100
+AcDbArc
+ 50
+178.2538409816381
+ 51
+200.7029481461537
+  0
+ARC
+  5
+7CD6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-84.82081548126416
+ 20
+574.8113143927043
+ 30
+0.0
+ 40
+227.1180595950569
+100
+AcDbArc
+ 50
+86.52996157802826
+ 51
+152.9750286461942
+  0
+ARC
+  5
+7CD7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-104.4190850792565
+ 20
+569.2272160137719
+ 30
+0.0
+ 40
+234.6669092298744
+100
+AcDbArc
+ 50
+47.71261115710423
+ 51
+81.83091825047725
+  0
+ARC
+  5
+7CD8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-279.4580979648622
+ 20
+397.167715311852
+ 30
+0.0
+ 40
+479.9240521419195
+100
+AcDbArc
+ 50
+11.84308760566897
+ 51
+46.07441971786614
+  0
+ARC
+  5
+7CD9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1005.094668146283
+ 20
+205.3271636916065
+ 30
+0.0
+ 40
+1230.099188668515
+100
+AcDbArc
+ 50
+3.358265975603649
+ 51
+13.65215723492508
+  0
+ARC
+  5
+7CDA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1052.666601211199
+ 20
+61105.21449080149
+ 30
+0.0
+ 40
+60884.70895446149
+100
+AcDbArc
+ 50
+271.5078941373051
+ 51
+272.5150901647135
+  0
+ARC
+  5
+7CDB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+485.4702211692947
+ 20
+-7488.334968552116
+ 30
+0.0
+ 40
+7730.189485113131
+100
+AcDbArc
+ 50
+89.52544607672999
+ 51
+90.47078831374978
+  0
+ARC
+  5
+7CDC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+254.7780142857914
+ 20
+204.8903418672907
+ 30
+0.0
+ 40
+14.80127407213548
+100
+AcDbArc
+ 50
+183.7340894126901
+ 51
+6.079453170023254
+  0
+ARC
+  5
+7CDD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+836.3955652131103
+ 20
+282.5588014979843
+ 30
+0.0
+ 40
+571.9846249302478
+100
+AcDbArc
+ 50
+182.5016875240467
+ 51
+187.645708100392
+  0
+ARC
+  5
+7CDE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+261.5704446029108
+ 20
+283.674376163681
+ 30
+0.0
+ 40
+39.1862395730509
+100
+AcDbArc
+ 50
+189.2352387480456
+ 51
+215.5404494396201
+  0
+ARC
+  5
+7CDF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+93.87141526571076
+ 20
+206.8646578935969
+ 30
+0.0
+ 40
+146.1662831371463
+100
+AcDbArc
+ 50
+358.8481510480813
+ 51
+21.69456932285734
+  0
+ARC
+  5
+7CE0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-354.8029538790438
+ 20
+367.2497611823644
+ 30
+0.0
+ 40
+604.5432615983951
+100
+AcDbArc
+ 50
+14.41733726312489
+ 51
+43.11858907959154
+  0
+ARC
+  5
+7CE1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1229.031306800975
+ 20
+193.2435473003977
+ 30
+0.0
+ 40
+1495.372553775594
+100
+AcDbArc
+ 50
+2.466310981835956
+ 51
+12.53411958551329
+  0
+LINE
+  5
+7CE2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+457.3604245139231
+ 20
+622.9826783495937
+ 30
+0.0
+ 11
+513.4454817149398
+ 21
+622.9826783495937
+ 31
+0.0
+  0
+LINE
+  5
+7CE3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+496.5885263383151
+ 20
+309.3048216785589
+ 30
+0.0
+ 11
+553.8795315495699
+ 21
+309.3048216785589
+ 31
+0.0
+  0
+ARC
+  5
+7CE4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-711.9355056234712
+ 20
+300.2950686068501
+ 30
+0.0
+ 40
+1270.892563179048
+100
+AcDbArc
+ 50
+0.6341107714318688
+ 51
+14.53429046120972
+  0
+ARC
+  5
+7CE5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1582.349139950678
+ 20
+200.1271317495536
+ 30
+0.0
+ 40
+2077.070691689271
+100
+AcDbArc
+ 50
+3.143593101208977
+ 51
+11.57744550262984
+  0
+ARC
+  5
+7CE6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+457.3604245139231
+ 20
+617.9826783495841
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+191.577445502627
+  0
+ARC
+  5
+7CE7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+513.4454817149398
+ 20
+617.9826783495841
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+14.53429046125291
+ 51
+90.0
+  0
+ARC
+  5
+7CE8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+553.8795315495699
+ 20
+314.3048216785544
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+0.6341107714172138
+  0
+ARC
+  5
+7CE9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+496.5885263383438
+ 20
+314.3048216785686
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+183.1435931011882
+ 51
+269.9999999996612
+  0
+ARC
+  5
+7CEA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-711.9355056234712
+ 20
+300.2950686068501
+ 30
+0.0
+ 40
+1250.892563179048
+100
+AcDbArc
+ 50
+0.4126855528668058
+ 51
+14.94939924573747
+  0
+ARC
+  5
+7CEB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+800.8735503462681
+ 20
+11652.46208779517
+ 30
+0.0
+ 40
+11346.58350561531
+100
+AcDbArc
+ 50
+269.6747971758277
+ 51
+274.0740044612414
+  0
+ARC
+  5
+7CEC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7949.102706441713
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.6628886447943
+ 51
+274.6075275799962
+  0
+ARC
+  5
+7CED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1041.427446742885
+ 20
+493.4704659494713
+ 30
+0.0
+ 40
+2657.5328791964
+100
+AcDbArc
+ 50
+356.6731148235475
+ 51
+1.775670072048284
+  0
+ARC
+  5
+7CEE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-6724.807588757499
+ 20
+-246.1774857333054
+ 30
+0.0
+ 40
+7477.087659647299
+100
+AcDbArc
+ 50
+4.271136564656038
+ 51
+6.169397575111183
+  0
+ARC
+  5
+7CEF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+713.9476053505413
+ 20
+557.9101393283139
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+87.66288864484655
+ 51
+186.1693975751046
+  0
+ARC
+  5
+7CF0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+736.500655611821
+ 20
+311.0612684400564
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+184.271136564682
+ 51
+269.6747971758016
+  0
+ARC
+  5
+7CF1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1606.635107278607
+ 20
+339.5374116464183
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+274.074004461137
+ 51
+356.6731148235614
+  0
+ARC
+  5
+7CF2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1609.831708533364
+ 20
+575.662720948273
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+1.775670072082058
+ 51
+94.60752757989171
+  0
+ARC
+  5
+7CF3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1041.427446742885
+ 20
+493.4704659494713
+ 30
+0.0
+ 40
+2637.532879196401
+100
+AcDbArc
+ 50
+356.9460230466312
+ 51
+1.868618234999611
+  0
+ARC
+  5
+7CF4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+800.8735503462681
+ 20
+11652.46208779517
+ 30
+0.0
+ 40
+11331.58350561531
+100
+AcDbArc
+ 50
+269.7193753494429
+ 51
+273.9816973890004
+  0
+ARC
+  5
+7CF5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-6724.807588757499
+ 20
+-246.1774857333054
+ 30
+0.0
+ 40
+7487.087659647298
+100
+AcDbArc
+ 50
+4.380105828063099
+ 51
+6.202374478329057
+  0
+ARC
+  5
+7CF6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+745.3981583165337
+ 20
+326.0144368078528
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+184.3801058280427
+ 51
+269.7193753492604
+  0
+ARC
+  5
+7CF7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1587.366675540381
+ 20
+353.2177558188394
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+273.9816973889742
+ 51
+356.946023046656
+  0
+ARC
+  5
+7CF8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1616.913015483648
+ 20
+329.1076868594942
+ 30
+0.0
+ 40
+50.0
+100
+AcDbArc
+ 50
+272.5150901646613
+ 51
+355.4460593685865
+  0
+LWPOLYLINE
+  5
+7CF9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+678.0979438057961
+ 20
+783.1383542625972
+ 42
+0.0036014517984109
+ 10
+1133.437140290852
+ 20
+773.8401702947967
+ 42
+0.0391029518894738
+ 10
+1509.852907866616
+ 20
+792.9398479629271
+ 42
+0.0391029518894738
+  0
+LWPOLYLINE
+  5
+7CFA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+685.2220815283385
+ 20
+777.9404599047552
+ 42
+0.0035437298276834
+ 10
+1133.335453567441
+ 20
+768.8410775478403
+ 42
+0.0394657301145522
+ 10
+1514.005304757888
+ 20
+788.438730305181
+  0
+ARC
+  5
+7CFB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1804.490075773059
+ 20
+-17005.21333454311
+ 30
+0.0
+ 40
+18109.15988213379
+100
+AcDbArc
+ 50
+84.27314379734257
+ 51
+85.53781362046535
+  0
+ARC
+  5
+7CFC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-320.7624279902452
+ 20
+-1520.240343778155
+ 30
+0.0
+ 40
+2554.346796980237
+100
+AcDbArc
+ 50
+75.26284750209022
+ 51
+82.72829764014026
+  0
+ARC
+  5
+7CFD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+45.28582618314749
+ 20
+-91.66326466281303
+ 30
+0.0
+ 40
+1079.68932970811
+100
+AcDbArc
+ 50
+51.63042153332417
+ 51
+53.65086736986873
+  0
+ARC
+  5
+7CFE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+612.4661464598952
+ 20
+3010.644860157164
+ 30
+0.0
+ 40
+2266.934555341104
+100
+AcDbArc
+ 50
+263.8511125696194
+ 51
+272.5316705746962
+  0
+ARC
+  5
+7CFF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+712.3794383368826
+ 20
+750.9180477410097
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+272.5316705745919
+ 51
+51.63042153318863
+  0
+ARC
+  5
+7D00
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+58.68627139722184
+ 20
+47.754946094301
+ 30
+0.0
+ 40
+940.50738368711
+100
+AcDbArc
+ 50
+49.52131834193062
+ 51
+78.04980912344288
+  0
+ARC
+  5
+7D01
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-126.1728623526882
+ 20
+254.3295928839697
+ 30
+0.0
+ 40
+702.6853291876562
+100
+AcDbArc
+ 50
+46.12387546076724
+ 51
+72.76331581247148
+  0
+ARC
+  5
+7D02
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+371.2559234013506
+ 20
+771.665880838377
+ 30
+0.0
+ 40
+15.0
+100
+AcDbArc
+ 50
+226.1238754607562
+ 51
+263.8511125696455
+  0
+ARC
+  5
+7D03
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+149.7711275619917
+ 20
+819.7650062071701
+ 30
+0.0
+ 40
+142.1924360589992
+100
+AcDbArc
+ 50
+99.49431543562766
+ 51
+119.3341445948236
+  0
+ARC
+  5
+7D04
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+310.6955943378875
+ 20
+-211.1430622051599
+ 30
+0.0
+ 40
+1185.57766640676
+100
+AcDbArc
+ 50
+93.50877635832873
+ 51
+98.94685965448939
+  0
+ARC
+  5
+7D05
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+85.00978056318444
+ 20
+935.0073946157381
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+119.3341445948826
+ 51
+252.7633158124181
+  0
+LINE
+  5
+7D06
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+685.2220815271444
+ 20
+777.9404599047907
+ 30
+0.0
+ 11
+663.6362431888196
+ 21
+767.800153889219
+ 31
+0.0
+  0
+LINE
+  5
+7D07
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+678.1610617510986
+ 20
+783.1366105405238
+ 30
+0.0
+ 11
+657.0859390890868
+ 21
+773.2362216948872
+ 31
+0.0
+  0
+ARC
+  5
+7D08
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+45.28582618314749
+ 20
+-91.66326466281303
+ 30
+0.0
+ 40
+1079.68932970811
+100
+AcDbArc
+ 50
+54.11713246285042
+ 51
+74.76389286624248
+  0
+ARC
+  5
+7D09
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-711.9355056234712
+ 20
+300.2950686068501
+ 30
+0.0
+ 40
+1245.892563179048
+100
+AcDbArc
+ 50
+0.6442904178661059
+ 51
+14.77287204340336
+  0
+LINE
+  5
+7D0A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+452.3604245139276
+ 20
+617.9826783495911
+ 30
+0.0
+ 11
+492.7731154134858
+ 21
+617.9826783495911
+ 31
+0.0
+  0
+LINE
+  5
+7D0B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+491.580972998407
+ 20
+314.3048216785686
+ 30
+0.0
+ 11
+533.8782869650353
+ 21
+314.3048216785686
+ 31
+0.0
+  0
+LWPOLYLINE
+  5
+7D0C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+491.1498613776084
+ 20
+576.4358657641537
+ 10
+470.5443875522528
+ 20
+576.4358657641537
+ 10
+470.544387552281
+ 20
+595.9982691445304
+ 10
+491.1498613776084
+ 20
+595.9982691445304
+  0
+LWPOLYLINE
+  5
+7D0D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+500.2717187141465
+ 20
+528.8884165449871
+ 10
+479.6662448887909
+ 20
+528.8884165449871
+ 10
+479.6662448888196
+ 20
+548.4508199253639
+ 10
+500.2717187141465
+ 20
+548.4508199253639
+  0
+LWPOLYLINE
+  5
+7D0E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+507.5833427724782
+ 20
+481.3409673258207
+ 10
+486.9778689471226
+ 20
+481.3409673258207
+ 10
+486.9778689471509
+ 20
+500.9033707061974
+ 10
+507.5833427724782
+ 20
+500.9033707061974
+  0
+LWPOLYLINE
+  5
+7D0F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+514.0858960044178
+ 20
+433.9144550258709
+ 10
+493.4804221790622
+ 20
+433.9144550258709
+ 10
+493.4804221790905
+ 20
+453.4768584062477
+ 10
+514.0858960044178
+ 20
+453.4768584062477
+  0
+LWPOLYLINE
+  5
+7D10
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+519.7736991256938
+ 20
+386.3670058067043
+ 10
+499.1682253003387
+ 20
+386.3670058067043
+ 10
+499.1682253003668
+ 20
+405.9294091870811
+ 10
+519.7736991256938
+ 20
+405.9294091870811
+  0
+LWPOLYLINE
+  5
+7D11
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     1
+ 43
+0.0
+ 10
+522.4807867300865
+ 20
+338.8195565875378
+ 10
+501.8753129047304
+ 20
+338.8195565875378
+ 10
+501.875312904759
+ 20
+358.3819599679145
+ 10
+522.4807867300865
+ 20
+358.3819599679145
+  0
+ARC
+  5
+7D12
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+612.4661464598952
+ 20
+3010.644860157164
+ 30
+0.0
+ 40
+2256.934555341105
+100
+AcDbArc
+ 50
+264.0573538622221
+ 51
+271.361803663278
+  0
+ARC
+  5
+7D13
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-126.1728623526882
+ 20
+254.3295928839697
+ 30
+0.0
+ 40
+717.6853291876561
+100
+AcDbArc
+ 50
+45.616275818858
+ 51
+71.9328657855319
+  0
+ARC
+  5
+7D14
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+310.6955943378875
+ 20
+-211.1430622051599
+ 30
+0.0
+ 40
+1180.57766640676
+100
+AcDbArc
+ 50
+92.84271112468148
+ 51
+98.94685965448939
+  0
+ARC
+  5
+7D15
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+252.3936241353804
+ 20
+962.9879909677256
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+78.04980912336322
+ 51
+92.84271112468143
+  0
+ARC
+  5
+7D16
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+665.9849924188856
+ 20
+759.3463515922636
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+271.3618036632258
+ 51
+49.52131834199009
+  0
+ARC
+  5
+7D17
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+379.3168741511872
+ 20
+770.8121301611825
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+225.6162758189045
+ 51
+264.057353862353
+  0
+ARC
+  5
+7D18
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+149.6918435218799
+ 20
+819.9919052439527
+ 30
+0.0
+ 40
+136.955795626787
+100
+AcDbArc
+ 50
+99.49724504717316
+ 51
+113.0841018144423
+  0
+ARC
+  5
+7D19
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+97.95436796588411
+ 20
+941.3820433219299
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+113.0841018144706
+ 51
+251.9328657854479
+  0
+ARC
+  5
+7D1A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+612.4661464598952
+ 20
+3010.644860157164
+ 30
+0.0
+ 40
+2251.934555341104
+100
+AcDbArc
+ 50
+264.3508290205018
+ 51
+271.0235538436787
+  0
+ARC
+  5
+7D1B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+58.68627139722184
+ 20
+47.754946094301
+ 30
+0.0
+ 40
+935.5073836871099
+100
+AcDbArc
+ 50
+50.33683001437058
+ 51
+71.06693882536989
+  0
+ARC
+  5
+7D1C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+391.7769167257752
+ 20
+779.5987346115964
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+225.401988210783
+ 51
+264.3508290205019
+  0
+ARC
+  5
+7D1D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+230.9583172249754
+ 20
+-381.4718271999737
+ 30
+0.0
+ 40
+1323.528929945944
+100
+AcDbArc
+ 50
+85.36740870374494
+ 51
+91.83535481177271
+  0
+ARC
+  5
+7D1E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-88.95685179862676
+ 20
+348.4196978950464
+ 30
+0.0
+ 40
+635.790183626644
+100
+AcDbArc
+ 50
+41.83430821839325
+ 51
+64.51707578540546
+  0
+ARC
+  5
+7D1F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+329.7777379279987
+ 20
+838.0599536514239
+ 30
+0.0
+ 40
+100.0
+100
+AcDbArc
+ 50
+71.06693882537029
+ 51
+85.36740870371893
+  0
+ARC
+  5
+7D20
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+188.8892609489412
+ 20
+931.3832464121034
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+91.83535481174665
+ 51
+244.5170757853205
+  0
+ARC
+  5
+7D21
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+652.6041146326528
+ 20
+764.0688344022167
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+271.0235538437568
+ 51
+50.33683001430215
+  0
+LINE
+  5
+7D22
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+14.18353745211288
+ 20
+771.7166631861687
+ 30
+0.0
+ 11
+89.84888047692265
+ 21
+776.8316227776922
+ 31
+0.0
+  0
+ARC
+  5
+7D23
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+134.6290622948922
+ 20
+3514.310293263271
+ 30
+0.0
+ 40
+2737.844907230347
+100
+AcDbArc
+ 50
+269.0628286404673
+ 51
+272.3488394796329
+  0
+ARC
+  5
+7D24
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+338.7090516318389
+ 20
+-493.9335158560922
+ 30
+0.0
+ 40
+1276.010945952956
+100
+AcDbArc
+ 50
+90.04186202877122
+ 51
+94.12890167949216
+  0
+ARC
+  5
+7D25
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7936.731941313496
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.7066582336528
+ 51
+274.4959262458946
+  0
+ARC
+  5
+7D26
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7916.731941313493
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.7231138323739
+ 51
+274.499674521262
+  0
+ARC
+  5
+7D27
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7896.73194131349
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.7391422965136
+ 51
+274.5022486305295
+  0
+ARC
+  5
+7D28
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7876.731941313487
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.7547442090027
+ 51
+274.5036469097511
+  0
+ARC
+  5
+7D29
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7856.731941313483
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.769920136948
+ 51
+274.5038674891098
+  0
+ARC
+  5
+7D2A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7836.73194131348
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.7846706318043
+ 51
+274.5029082940789
+  0
+ARC
+  5
+7D2B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7816.731941313477
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.7989962297289
+ 51
+274.5007670464494
+  0
+ARC
+  5
+7D2C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7796.731941313474
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.8128974517264
+ 51
+274.4974412651723
+  0
+ARC
+  5
+7D2D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7776.731941313471
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.8263748038199
+ 51
+274.492928267016
+  0
+ARC
+  5
+7D2E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7756.731941313468
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.839428777404
+ 51
+274.487225167037
+  0
+ARC
+  5
+7D2F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1015.603801691441
+ 20
+7736.731941313465
+ 30
+0.0
+ 40
+7392.345741882237
+100
+AcDbArc
+ 50
+267.8520598493355
+ 51
+274.4803288790486
+  0
+ARC
+  5
+7D30
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+515.1564798268577
+ 20
+-190.8904538961379
+ 30
+0.0
+ 40
+1398.999894651494
+100
+AcDbArc
+ 50
+45.56881287972533
+ 51
+52.58635829224857
+  0
+ARC
+  5
+7D31
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1284.971356673965
+ 20
+581.3149231195922
+ 30
+0.0
+ 40
+308.7989975255851
+100
+AcDbArc
+ 50
+34.6738636605646
+ 51
+42.12419596485552
+  0
+ARC
+  5
+7D32
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1496.07102166155
+ 20
+1568.327909074113
+ 30
+0.0
+ 40
+817.2646121451061
+100
+AcDbArc
+ 50
+273.6279649775938
+ 51
+276.515077126294
+  0
+ARC
+  5
+7D33
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1547.152812979164
+ 20
+762.6810853246652
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+214.6738636605226
+ 51
+273.6279649775937
+  0
+ARC
+  5
+7D34
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1284.971356673965
+ 20
+581.3149231195922
+ 30
+0.0
+ 40
+308.7989975255851
+100
+AcDbArc
+ 50
+43.26047173652559
+ 51
+47.26389561345345
+  0
+ARC
+  5
+7D35
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1484.936444239595
+ 20
+1580.075317339648
+ 30
+0.0
+ 40
+817.2646121522712
+100
+AcDbArc
+ 50
+273.4233237212133
+ 51
+276.3023273146366
+  0
+ARC
+  5
+7D36
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-217.195615909502
+ 20
+-3492.6354518471
+ 30
+0.0
+ 40
+4876.394416510078
+100
+AcDbArc
+ 50
+90.83978448019422
+ 51
+95.81003073029355
+  0
+ARC
+  5
+7D37
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-682.7461443758397
+ 20
+-438.8964947101213
+ 30
+0.0
+ 40
+1992.830179001456
+100
+AcDbArc
+ 50
+48.89292203341724
+ 51
+61.02602665119159
+  0
+ARC
+  5
+7D38
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+33.59062869094577
+ 20
+845.976980660005
+ 30
+0.0
+ 40
+521.7868297946243
+100
+AcDbArc
+ 50
+61.49506842112899
+ 51
+84.85892356104361
+  0
+ARC
+  5
+7D39
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-288.2026071725072
+ 20
+-2490.802389410788
+ 30
+0.0
+ 40
+3874.03759873858
+100
+AcDbArc
+ 50
+84.54101215847517
+ 51
+90.00685920352481
+  0
+ARC
+  5
+7D3A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1198.113191742861
+ 20
+890.7419572400456
+ 30
+0.0
+ 40
+667.5291603217752
+100
+AcDbArc
+ 50
+28.90544960817572
+ 51
+43.50635878155099
+  0
+ARC
+  5
+7D3B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1615.757917230268
+ 20
+569.071300574386
+ 30
+0.0
+ 40
+1191.298107531883
+100
+AcDbArc
+ 50
+23.25174117186588
+ 51
+32.74253525530229
+  0
+ARC
+  5
+7D3C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-710.3291557839375
+ 20
+1353.734619975362
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+95.81003073042449
+ 51
+223.5063587815106
+  0
+ARC
+  5
+7D3D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+151.4931502443923
+ 20
+-4724.27239041842
+ 30
+0.0
+ 40
+5799.189961139244
+100
+AcDbArc
+ 50
+90.33740671947331
+ 51
+96.60993917433431
+  0
+ARC
+  5
+7D3E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+236.0960312598485
+ 20
+-4653.864541729902
+ 30
+0.0
+ 40
+5729.912285546092
+100
+AcDbArc
+ 50
+86.08337322853479
+ 51
+91.18755187617686
+  0
+ARC
+  5
+7D3F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-516.6240825435002
+ 20
+1041.336030922856
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+203.2517411718374
+ 51
+276.6099391742291
+  0
+LWPOLYLINE
+  5
+7D40
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+963.0501180533324
+ 20
+859.7311344796738
+ 42
+0.0494526657127174
+ 10
+799.2841531699646
+ 20
+942.8888664947336
+ 42
+0.0412459449230445
+ 10
+530.264241471998
+ 20
+1020.731442327331
+ 42
+0.0345283915429655
+ 10
+96.41337967940536
+ 20
+1074.655995434504
+ 42
+0.0345283915429655
+  0
+LWPOLYLINE
+  5
+7D41
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        4
+ 70
+     0
+ 43
+0.0
+ 10
+797.4873904177011
+ 20
+938.2228248829065
+ 42
+0.0412432995391741
+ 10
+529.2753075941627
+ 20
+1015.830216956196
+ 42
+0.0325945998576354
+ 10
+178.277553918293
+ 20
+1063.080822622659
+ 10
+16.74632952364254
+ 20
+1073.351907488771
+  0
+ARC
+  5
+7D42
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+542.0558262415238
+ 20
+-146.389065614521
+ 30
+0.0
+ 40
+1224.815729926677
+100
+AcDbArc
+ 50
+60.7425652776018
+ 51
+73.74934496897317
+  0
+ARC
+  5
+7D43
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+922.1012459203175
+ 20
+542.0204818812167
+ 30
+0.0
+ 40
+438.5107263056148
+100
+AcDbArc
+ 50
+44.439930132492
+ 51
+60.10421934915193
+  0
+ARC
+  5
+7D44
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1536.878157414945
+ 20
+427.56613847245
+ 30
+0.0
+ 40
+595.2850059266832
+100
+AcDbArc
+ 50
+99.63142731126536
+ 51
+116.0644579304412
+  0
+ARC
+  5
+7D45
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1400.434700493433
+ 20
+-70.31188495689375
+ 30
+0.0
+ 40
+1110.155676948005
+100
+AcDbArc
+ 50
+93.15355316419491
+ 51
+102.2758837085673
+  0
+ARC
+  5
+7D46
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1073.131401120888
+ 20
+919.595300709993
+ 30
+0.0
+ 40
+406.070918458586
+100
+AcDbArc
+ 50
+151.3660504432065
+ 51
+163.0230565634072
+  0
+ARC
+  5
+7D47
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-896.2726758498993
+ 20
+482.4234050147283
+ 30
+0.0
+ 40
+832.3013968761255
+100
+AcDbArc
+ 50
+111.7158319186184
+ 51
+126.7579086422919
+  0
+ARC
+  5
+7D48
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1327.189786890868
+ 20
+1046.624088151773
+ 30
+0.0
+ 40
+122.639849156831
+100
+AcDbArc
+ 50
+123.2046148228941
+ 51
+146.5695535494143
+  0
+ARC
+  5
+7D49
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-650.4603715825387
+ 20
+70.74160761467854
+ 30
+0.0
+ 40
+1307.930159343148
+100
+AcDbArc
+ 50
+105.015315927106
+ 51
+115.0489029488083
+  0
+ARC
+  5
+7D4A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-916.6912687657591
+ 20
+1146.361719123931
+ 30
+0.0
+ 40
+212.894229128626
+100
+AcDbArc
+ 50
+32.42223448471537
+ 51
+63.7653080571181
+  0
+ARC
+  5
+7D4B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-874.8640442232433
+ 20
+914.5396247007582
+ 30
+0.0
+ 40
+434.808394821044
+100
+AcDbArc
+ 50
+93.27412649560578
+ 51
+105.2613480706694
+  0
+ARC
+  5
+7D4C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-892.0857946760625
+ 20
+1132.023014795571
+ 30
+0.0
+ 40
+216.748959139854
+100
+AcDbArc
+ 50
+71.29673871548853
+ 51
+92.01246218269991
+  0
+ARC
+  5
+7D4D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1764.356353034343
+ 20
+565.107521817069
+ 30
+0.0
+ 40
+1240.594572412531
+100
+AcDbArc
+ 50
+22.28433082934255
+ 51
+34.09289934205768
+  0
+ARC
+  5
+7D4E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1400.434700493433
+ 20
+-70.31188495689375
+ 30
+0.0
+ 40
+1105.155676948005
+100
+AcDbArc
+ 50
+93.15355316419491
+ 51
+102.2758837085673
+  0
+ARC
+  5
+7D4F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1020.527378046863
+ 20
+-5475.217884867856
+ 30
+0.0
+ 40
+6523.291825719887
+100
+AcDbArc
+ 50
+86.44832301751241
+ 51
+93.87377141673251
+  0
+ARC
+  5
+7D50
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1114.903542107525
+ 20
+1191.988815564307
+ 30
+0.0
+ 40
+133.1746751643153
+100
+AcDbArc
+ 50
+138.5341518167693
+ 51
+158.4029810442518
+  0
+ARC
+  5
+7D51
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1334.665267887429
+ 20
+754.4225060950111
+ 30
+0.0
+ 40
+771.3038506971821
+100
+AcDbArc
+ 50
+4.516622280971414
+ 51
+21.37538677563443
+  0
+ARC
+  5
+7D52
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1287.172457140086
+ 20
+753.6005299060377
+ 30
+0.0
+ 40
+724.0376125512961
+100
+AcDbArc
+ 50
+356.7397362681656
+ 51
+4.877427060662464
+  0
+ARC
+  5
+7D53
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+77101.77673785268
+ 20
+-946.7929346524499
+ 30
+0.0
+ 40
+77683.80471648582
+100
+AcDbArc
+ 50
+178.7761500743794
+ 51
+178.9312093004172
+  0
+ARC
+  5
+7D54
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1431.611263300625
+ 20
+557.3874154154623
+ 30
+0.0
+ 40
+2000.884257694395
+100
+AcDbArc
+ 50
+181.5796381838838
+ 51
+186.8961595956242
+  0
+ARC
+  5
+7D55
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-273.6943588639624
+ 20
+846.3653484126041
+ 30
+0.0
+ 40
+1037.622268010797
+100
+AcDbArc
+ 50
+157.4695452479623
+ 51
+169.1100428609867
+  0
+ARC
+  5
+7D56
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-273.6943588639624
+ 20
+846.3653484126041
+ 30
+0.0
+ 40
+1047.622268010797
+100
+AcDbArc
+ 50
+158.0494236027826
+ 51
+169.2395522832906
+  0
+ARC
+  5
+7D57
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1517.614469467502
+ 20
+440.4477534605462
+ 30
+0.0
+ 40
+540.7296241214904
+100
+AcDbArc
+ 50
+123.4798519520772
+ 51
+136.1020939861513
+  0
+ARC
+  5
+7D58
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-3674.689069814859
+ 20
+3732.660512149905
+ 30
+0.0
+ 40
+3395.217716612835
+100
+AcDbArc
+ 50
+303.1937108747582
+ 51
+304.9252458698093
+  0
+ARC
+  5
+7D59
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1284.540929881244
+ 20
+351.6672042213642
+ 30
+0.0
+ 40
+745.6222703033448
+100
+AcDbArc
+ 50
+118.0716099762827
+ 51
+126.7727503708112
+  0
+ARC
+  5
+7D5A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-762.3139978869621
+ 20
+253.2367229390146
+ 30
+0.0
+ 40
+1081.499794509991
+100
+AcDbArc
+ 50
+118.4044152449979
+ 51
+125.2266660141851
+  0
+ARC
+  5
+7D5B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-841.903258450201
+ 20
+860.9834617371703
+ 30
+0.0
+ 40
+623.6944926910724
+100
+AcDbArc
+ 50
+156.9866813329405
+ 51
+162.5987512621476
+  0
+ARC
+  5
+7D5C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1344.082207189472
+ 20
+1067.450391747982
+ 30
+0.0
+ 40
+81.00923681806888
+100
+AcDbArc
+ 50
+121.274020678342
+ 51
+152.5339076685334
+  0
+ARC
+  5
+7D5D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-273.6943588639624
+ 20
+846.3653484126041
+ 30
+0.0
+ 40
+1061.622268010796
+100
+AcDbArc
+ 50
+160.4218133645065
+ 51
+168.7786264603947
+  0
+ARC
+  5
+7D5E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1275.823407521726
+ 20
+1202.777608084922
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+340.4218133644724
+ 51
+118.4044152449083
+  0
+ARC
+  5
+7D5F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1020.527378046863
+ 20
+-5475.217884867856
+ 30
+0.0
+ 40
+6533.291825719887
+100
+AcDbArc
+ 50
+92.59995807684518
+ 51
+93.63745261783996
+  0
+ARC
+  5
+7D60
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1435.145163376033
+ 20
+1046.908404879218
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+162.598751262103
+ 51
+273.6374526179444
+  0
+ARC
+  5
+7D61
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1316.98296662742
+ 20
+1053.346530937545
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+272.5999580766887
+ 51
+348.7786264603943
+  0
+ARC
+  5
+7D62
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-578.0923727284053
+ 20
+825.0609256965049
+ 30
+0.0
+ 40
+798.7638999842646
+100
+AcDbArc
+ 50
+184.5202579292704
+ 51
+200.3851722857985
+  0
+ARC
+  5
+7D63
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-991.4890852384976
+ 20
+672.6671254648054
+ 30
+0.0
+ 40
+358.1759172473406
+100
+AcDbArc
+ 50
+200.568892891271
+ 51
+248.9798069319418
+  0
+ARC
+  5
+7D64
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-866.4667069477891
+ 20
+781.4391680495163
+ 30
+0.0
+ 40
+508.2727385795941
+100
+AcDbArc
+ 50
+149.1654577456298
+ 51
+153.4052689892965
+  0
+ARC
+  5
+7D65
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-866.4667069477891
+ 20
+781.4391680495163
+ 30
+0.0
+ 40
+508.2727385795941
+100
+AcDbArc
+ 50
+177.722971012317
+ 51
+182.1795366235585
+  0
+LINE
+  5
+7D66
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1089.023353606164
+ 20
+331.7932333424096
+ 30
+0.0
+ 11
+-565.2177707696914
+ 21
+305.9520935056738
+ 31
+0.0
+  0
+ARC
+  5
+7D67
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1084.096000402353
+ 20
+431.6717655222817
+ 30
+0.0
+ 40
+100.0
+100
+AcDbArc
+ 50
+248.9798069319411
+ 51
+267.175690937667
+  0
+ARC
+  5
+7D68
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-564.7250354492703
+ 20
+315.9399467236597
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+267.1756909374321
+ 51
+6.896159595606102
+  0
+ARC
+  5
+7D69
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-525.4527423507219
+ 20
+-249.7389865727938
+ 30
+0.0
+ 40
+458.7079573518695
+100
+AcDbArc
+ 50
+64.13675499255855
+ 51
+86.40692403807703
+  0
+ARC
+  5
+7D6A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-318.8096610176094
+ 20
+176.5213397486178
+ 30
+0.0
+ 40
+15.0
+100
+AcDbArc
+ 50
+244.1367549925292
+ 51
+20.70294814616934
+  0
+LINE
+  5
+7D6B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1190.871556236316
+ 20
+375.1160912626332
+ 30
+0.0
+ 11
+-558.1279652725747
+ 21
+346.4949903117258
+ 31
+0.0
+  0
+ARC
+  5
+7D6C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-2009.697729280702
+ 20
+665.9270433681072
+ 30
+0.0
+ 40
+148.9967459329438
+100
+AcDbArc
+ 50
+39.45585797721496
+ 51
+56.28264373947119
+  0
+ARC
+  5
+7D6D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1900.096149871955
+ 20
+690.5003008222081
+ 30
+0.0
+ 40
+60.9993086723297
+100
+AcDbArc
+ 50
+47.07083901587651
+ 51
+66.62050878979631
+  0
+ARC
+  5
+7D6E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1856.049475389851
+ 20
+792.3862026575605
+ 30
+0.0
+ 40
+50.0
+100
+AcDbArc
+ 50
+219.4558579772181
+ 51
+246.6205087897681
+  0
+ARC
+  5
+7D6F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1509.865184365707
+ 20
+482.2927561739335
+ 30
+0.0
+ 40
+444.6345979906391
+100
+AcDbArc
+ 50
+162.5248330303637
+ 51
+186.5270181596446
+  0
+ARC
+  5
+7D70
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1717.548985413883
+ 20
+562.5416704596518
+ 30
+0.0
+ 40
+222.8893239348324
+100
+AcDbArc
+ 50
+119.3310602159695
+ 51
+166.1722378197257
+  0
+ARC
+  5
+7D71
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1771.020035579595
+ 20
+639.9784849603663
+ 30
+0.0
+ 40
+129.4780485840889
+100
+AcDbArc
+ 50
+38.2772577294053
+ 51
+115.4856320022112
+  0
+ARC
+  5
+7D72
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-2050.894988232584
+ 20
+425.3162616401979
+ 30
+0.0
+ 40
+482.1868800965301
+100
+AcDbArc
+ 50
+11.67971007108997
+ 51
+37.69990218324021
+  0
+ARC
+  5
+7D73
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-3956.299577408884
+ 20
+0.4712062344794106
+ 30
+0.0
+ 40
+2434.333877880189
+100
+AcDbArc
+ 50
+6.324071440566574
+ 51
+12.39329423032216
+  0
+ARC
+  5
+7D74
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1393.365471017204
+ 20
+453.0925552634671
+ 30
+0.0
+ 40
+264.1937706978839
+100
+AcDbArc
+ 50
+248.6527816811263
+ 51
+256.7216322636588
+  0
+ARC
+  5
+7D75
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1462.235584586493
+ 20
+276.8790758476314
+ 30
+0.0
+ 40
+75.0
+100
+AcDbArc
+ 50
+186.3240714405669
+ 51
+248.6527816811263
+  0
+ARC
+  5
+7D76
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1436.81993009332
+ 20
+268.9567552209837
+ 30
+0.0
+ 40
+75.0
+100
+AcDbArc
+ 50
+256.721632263659
+ 51
+290.7772606712424
+  0
+ARC
+  5
+7D77
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1685.859450864511
+ 20
+551.0162399411412
+ 30
+0.0
+ 40
+279.7925540626274
+100
+AcDbArc
+ 50
+122.1877239840688
+ 51
+178.7455124304351
+  0
+ARC
+  5
+7D78
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1759.333079533518
+ 20
+671.6298810656624
+ 30
+0.0
+ 40
+138.592759690824
+100
+AcDbArc
+ 50
+40.56268429930572
+ 51
+123.0431070277527
+  0
+ARC
+  5
+7D79
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1988.237822103001
+ 20
+474.9224324993477
+ 30
+0.0
+ 40
+440.4057706460366
+100
+AcDbArc
+ 50
+14.49309878504463
+ 51
+40.63886721502615
+  0
+ARC
+  5
+7D7A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+183.3570362117893
+ 20
+959.2154475224674
+ 30
+0.0
+ 40
+924.0944869516436
+100
+AcDbArc
+ 50
+164.1445769263385
+ 51
+168.517562514508
+  0
+ARC
+  5
+7D7B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-812.129467354139
+ 20
+621.4606968532479
+ 30
+0.0
+ 40
+713.554773768426
+100
+AcDbArc
+ 50
+133.4898062671633
+ 51
+140.4901338023658
+  0
+ARC
+  5
+7D7C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1171.182963081945
+ 20
+-3127.554351071694
+ 30
+0.0
+ 40
+4204.004217320194
+100
+AcDbArc
+ 50
+86.9006137552691
+ 51
+90.74108471451202
+  0
+ARC
+  5
+7D7D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-273.6943588639624
+ 20
+846.3653484126041
+ 30
+0.0
+ 40
+1066.622268010796
+100
+AcDbArc
+ 50
+164.1798642507518
+ 51
+167.596034894226
+  0
+ARC
+  5
+7D7E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1171.182963081945
+ 20
+-3127.554351071694
+ 30
+0.0
+ 40
+4204.004217320194
+100
+AcDbArc
+ 50
+91.99184652555144
+ 51
+92.58806539971734
+  0
+ARC
+  5
+7D7F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1301.839614707318
+ 20
+1137.691427875687
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+344.1798642507741
+ 51
+133.4898062673449
+  0
+ARC
+  5
+7D80
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1361.104677658146
+ 20
+1074.159729925213
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+140.4901338021061
+ 51
+272.588065399613
+  0
+ARC
+  5
+7D81
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1317.372221199035
+ 20
+1075.908528141873
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+271.9918465252646
+ 51
+347.5960348942718
+  0
+ARC
+  5
+7D82
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+4597.866551235087
+ 20
+-501.7713720071199
+ 30
+0.0
+ 40
+6035.95039184146
+100
+AcDbArc
+ 50
+163.6124465171287
+ 51
+164.8213225689583
+  0
+ARC
+  5
+7D83
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1225.583453840697
+ 20
+1078.098043351843
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+164.8213225690376
+ 51
+270.7410847144078
+  0
+ARC
+  5
+7D84
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-780.9432831697611
+ 20
+-3078.52594343052
+ 30
+0.0
+ 40
+4300.729641274134
+100
+AcDbArc
+ 50
+89.077820258672
+ 51
+95.47319438422475
+  0
+ARC
+  5
+7D85
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1190.956329854059
+ 20
+1200.605490671208
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+95.47319438456495
+ 51
+163.6124465172208
+  0
+ARC
+  5
+7D86
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-874.1866669807896
+ 20
+1020.353343728942
+ 30
+0.0
+ 40
+150.1060424398896
+100
+AcDbArc
+ 50
+88.51409593423309
+ 51
+127.9005312549047
+  0
+LINE
+  5
+7D87
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-870.2942654890923
+ 20
+1170.408910728618
+ 30
+0.0
+ 11
+-772.500456014483
+ 21
+1162.396946917056
+ 31
+0.0
+  0
+ARC
+  5
+7D88
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-785.7244707496411
+ 20
+1052.518391150549
+ 30
+0.0
+ 40
+110.6714578518283
+100
+AcDbArc
+ 50
+41.06865655488867
+ 51
+83.13739145304614
+  0
+LINE
+  5
+7D89
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-699.8491393143231
+ 20
+1119.336372282603
+ 30
+0.0
+ 11
+-697.2842661548375
+ 21
+1081.736447049572
+ 31
+0.0
+  0
+LINE
+  5
+7D8A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-698.3602035197968
+ 20
+1097.50922096908
+ 30
+0.0
+ 11
+-675.742491184194
+ 21
+1097.50922096908
+ 31
+0.0
+  0
+LINE
+  5
+7D8B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-697.9111497754206
+ 20
+1077.509220969077
+ 30
+0.0
+ 11
+-675.742491184194
+ 21
+1077.509220969077
+ 31
+0.0
+  0
+ARC
+  5
+7D8C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-675.742491184194
+ 20
+1087.509220969081
+ 30
+0.0
+ 40
+9.99999999999801
+100
+AcDbArc
+ 50
+270.0
+ 51
+90.0
+  0
+LINE
+  5
+7D8D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-701.5708664457056
+ 20
+1072.832653209978
+ 30
+0.0
+ 11
+-734.7835105190929
+ 21
+1049.850548724968
+ 31
+0.0
+  0
+ARC
+  5
+7D8E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-879.059696913031
+ 20
+1210.070538751758
+ 30
+0.0
+ 40
+154.0694509377178
+100
+AcDbArc
+ 50
+233.4065544672371
+ 51
+267.5485904285339
+  0
+LINE
+  5
+7D8F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-885.6495733384965
+ 20
+1056.142083809383
+ 30
+0.0
+ 11
+-741.0296916316087
+ 21
+1048.089242600596
+ 31
+0.0
+  0
+LINE
+  5
+7D90
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-970.1712035892162
+ 20
+1132.182546589937
+ 30
+0.0
+ 11
+-974.8626985988542
+ 21
+1095.673792799637
+ 31
+0.0
+  0
+ARC
+  5
+7D91
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-960.252760380313
+ 20
+1130.907993996722
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+127.9005312549425
+ 51
+172.6774338863402
+  0
+ARC
+  5
+7D92
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-964.9442553900646
+ 20
+1094.399240206435
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+172.6774338863377
+ 51
+233.4065544672349
+  0
+ARC
+  5
+7D93
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-740.473724785942
+ 20
+1058.073775682643
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+266.812901296771
+ 51
+304.682015015735
+  0
+ARC
+  5
+7D94
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-709.8259538720689
+ 20
+1118.655805400685
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+3.902377412326384
+ 51
+41.06865655485161
+  0
+ARC
+  5
+7D95
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-707.2610807125547
+ 20
+1081.05588016766
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+304.6820150157332
+ 51
+3.902377412299983
+  0
+ARC
+  5
+7D96
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+183.3570362117893
+ 20
+959.2154475224674
+ 30
+0.0
+ 40
+924.0944869516436
+100
+AcDbArc
+ 50
+174.4271987205776
+ 51
+174.8658522983668
+  0
+LINE
+  5
+7D97
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1319.448858084995
+ 20
+1010.400967397828
+ 30
+0.0
+ 11
+-1289.609007222821
+ 21
+1010.400967397835
+ 31
+0.0
+  0
+LINE
+  5
+7D98
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1372.925218659331
+ 20
+796.9503095707182
+ 30
+0.0
+ 11
+-1339.904636137133
+ 21
+796.9503095707182
+ 31
+0.0
+  0
+ARC
+  5
+7D99
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1038.624422088246
+ 20
+833.4794106603098
+ 30
+0.0
+ 40
+307.3679027238358
+100
+AcDbArc
+ 50
+144.9518652883964
+ 51
+186.825441940648
+  0
+ARC
+  5
+7D9A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1038.624422088246
+ 20
+833.4794106603098
+ 30
+0.0
+ 40
+302.3679027238358
+100
+AcDbArc
+ 50
+144.9537146989459
+ 51
+186.7256622661283
+  0
+ARC
+  5
+7D9B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1068.624422088247
+ 20
+833.4794106603098
+ 30
+0.0
+ 40
+307.3679027238358
+100
+AcDbArc
+ 50
+144.9552064802396
+ 51
+186.6595039015514
+  0
+LINE
+  5
+7D9C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1288.861665297388
+ 20
+1010.232384975118
+ 30
+0.0
+ 11
+-1286.411278815193
+ 21
+1008.501575070901
+ 31
+0.0
+  0
+ARC
+  5
+7D9D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1286.988212346101
+ 20
+1007.684783971029
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+324.953714698407
+ 51
+54.76484869706821
+  0
+ARC
+  5
+7D9E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1339.904636137133
+ 20
+797.9503095707159
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+6.725662266237504
+  0
+ARC
+  5
+7D9F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1372.925218659331
+ 20
+797.9503095707159
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+186.659503901682
+ 51
+270.0
+  0
+ARC
+  5
+7DA0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1289.438598828325
+ 20
+1009.415593875218
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+54.76484869668271
+ 51
+144.951865288455
+  0
+ARC
+  5
+7DA1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1319.448858084967
+ 20
+1009.400967397837
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0000000016154
+ 51
+144.9552064799538
+  0
+ARC
+  5
+7DA2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1337.794768546785
+ 20
+936.4669112351437
+ 30
+0.0
+ 40
+57.97487846532505
+100
+AcDbArc
+ 50
+334.9928489239761
+ 51
+51.83890825223286
+  0
+ARC
+  5
+7DA3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1461.88196142151
+ 20
+993.5667808474592
+ 30
+0.0
+ 40
+194.5687179010524
+100
+AcDbArc
+ 50
+308.4496239313744
+ 51
+335.2014870777385
+  0
+ARC
+  5
+7DA4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+111.2390359565447
+ 20
+726.7054676790253
+ 30
+0.0
+ 40
+572.3255527045973
+100
+AcDbArc
+ 50
+102.7460693329332
+ 51
+123.6425752019272
+  0
+ARC
+  5
+7DA5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1234.75479899008
+ 20
+595.1783962510647
+ 30
+0.0
+ 40
+1190.406014505445
+100
+AcDbArc
+ 50
+24.96968266022449
+ 51
+30.33974432811344
+  0
+ARC
+  5
+7DA6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-118.45421420412
+ 20
+-1072.381566544073
+ 30
+0.0
+ 40
+2167.432063652559
+100
+AcDbArc
+ 50
+84.13987360278889
+ 51
+90.86055448239646
+  0
+ARC
+  5
+7DA7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-325.8448721975346
+ 20
+1060.561777668446
+ 30
+0.0
+ 40
+64.40995104443411
+100
+AcDbArc
+ 50
+29.80349839934671
+ 51
+63.6032524512919
+  0
+ARC
+  5
+7DA8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1138.190952167433
+ 20
+666.3895445224454
+ 30
+0.0
+ 40
+1017.159538045338
+100
+AcDbArc
+ 50
+25.21333922198806
+ 51
+29.20400606303877
+  0
+ARC
+  5
+7DA9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1234.75479899008
+ 20
+595.1783962510647
+ 30
+0.0
+ 40
+1205.406014505445
+100
+AcDbArc
+ 50
+24.49538559881318
+ 51
+30.60079634314327
+  0
+ARC
+  5
+7DAA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+111.2390359565447
+ 20
+726.7054676790253
+ 30
+0.0
+ 40
+572.3255527045973
+100
+AcDbArc
+ 50
+130.1660888254527
+ 51
+135.7281403694982
+  0
+ARC
+  5
+7DAB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-118.45421420412
+ 20
+-1072.381566544073
+ 30
+0.0
+ 40
+2167.432063652559
+100
+AcDbArc
+ 50
+92.74415246293692
+ 51
+93.88420795688771
+  0
+ARC
+  5
+7DAC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-254.6890732725151
+ 20
+1160.243126513428
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+29.20400606295436
+ 51
+130.166088825416
+  0
+ARC
+  5
+7DAD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-294.9862954429523
+ 20
+1122.734838914226
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+135.7281403693886
+ 51
+243.6032524513783
+  0
+ARC
+  5
+7DAE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-265.6154208856082
+ 20
+1095.060393563223
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+209.803498399242
+ 51
+273.8842079570182
+  0
+ARC
+  5
+7DAF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-222.461977991627
+ 20
+1097.559321189422
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+272.7441524629107
+ 51
+25.2133392219335
+  0
+ARC
+  5
+7DB0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-203.065175835291
+ 20
+1199.009548967225
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+123.6425752019627
+ 51
+210.3397443281624
+  0
+ARC
+  5
+7DB1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-151.0818506230284
+ 20
+1099.805466960966
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+204.969682660227
+ 51
+270.8605544823443
+  0
+ARC
+  5
+7DB2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+244.836624182853
+ 20
+-1200.453816957072
+ 30
+0.0
+ 40
+2289.931587363303
+100
+AcDbArc
+ 50
+85.06141934469203
+ 51
+89.88944831885296
+  0
+ARC
+  5
+7DB3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-114.3546451078227
+ 20
+925.9508249440173
+ 30
+0.0
+ 40
+584.2931154657
+100
+AcDbArc
+ 50
+16.03419539198273
+ 51
+20.59898725881287
+  0
+ARC
+  5
+7DB4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+180.4276271277853
+ 20
+999.8474538650869
+ 30
+0.0
+ 40
+111.1000156845416
+100
+AcDbArc
+ 50
+55.35354149821628
+ 51
+129.2162879823997
+  0
+ARC
+  5
+7DB5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+103.8621933751651
+ 20
+1093.67148145435
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+264.1398736027365
+ 51
+309.216287982392
+  0
+ARC
+  5
+7DB6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+249.2743183354955
+ 20
+1099.47348915982
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+235.3535414981495
+ 51
+269.8894483188008
+  0
+ARC
+  5
+7DB7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+442.4022408657333
+ 20
+1085.957960869173
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+265.0614193447967
+ 51
+16.03419539201599
+  0
+ARC
+  5
+7DB8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+71.85442769474639
+ 20
+966.9270720862217
+ 30
+0.0
+ 40
+329.6570229393774
+100
+AcDbArc
+ 50
+66.68135962112126
+ 51
+105.2820310215651
+  0
+ARC
+  5
+7DB9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-307.4907684052723
+ 20
+144.8458891736237
+ 30
+0.0
+ 40
+1234.963449317731
+100
+AcDbArc
+ 50
+53.37910673808892
+ 51
+65.61684979615432
+  0
+ARC
+  5
+7DBA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+423.221473398798
+ 20
+1128.001559371405
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+20.59898725881669
+ 51
+53.37910673807945
+  0
+ARC
+  5
+7DBB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1293.726516186665
+ 20
+-10525.44670537936
+ 30
+0.0
+ 40
+11573.51520879994
+100
+AcDbArc
+ 50
+83.62125027699846
+ 51
+86.63070097265633
+  0
+ARC
+  5
+7DBC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1086.944219502867
+ 20
+-5350.849046630781
+ 30
+0.0
+ 40
+6396.455222261777
+100
+AcDbArc
+ 50
+85.75558123807004
+ 51
+91.93473655709231
+  0
+ARC
+  5
+7DBD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-46.17535122170511
+ 20
+608.6106406077008
+ 30
+0.0
+ 40
+314.2982317584019
+100
+AcDbArc
+ 50
+82.9534216221014
+ 51
+151.723443085082
+  0
+ARC
+  5
+7DBE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1101.238526659755
+ 20
+-9007.986683089347
+ 30
+0.0
+ 40
+9764.490985676538
+100
+AcDbArc
+ 50
+86.10407345220933
+ 51
+92.01051120565608
+  0
+ARC
+  5
+7DBF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-894.1916978294264
+ 20
+601.4359729143593
+ 30
+0.0
+ 40
+583.8792925522913
+100
+AcDbArc
+ 50
+166.7987700823072
+ 51
+180.1735742115663
+  0
+ARC
+  5
+7DC0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1443.102939972589
+ 20
+730.5056690584663
+ 30
+0.0
+ 40
+20.0
+100
+AcDbArc
+ 50
+92.01051120568211
+ 51
+167.6670322251838
+  0
+ARC
+  5
+7DC1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1520.186025816058
+ 20
+593.7212780069885
+ 30
+0.0
+ 40
+42.53534126198802
+100
+AcDbArc
+ 50
+191.6391744835249
+ 51
+8.035496167069027
+  0
+ARC
+  5
+7DC2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1546.073893898294
+ 20
+734.0156773444662
+ 30
+0.0
+ 40
+1196.562246090917
+100
+AcDbArc
+ 50
+349.4008370933742
+ 51
+352.3977551327446
+  0
+ARC
+  5
+7DC3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-620.8319389186549
+ 20
+651.4096837652303
+ 30
+0.0
+ 40
+225.2842753131143
+100
+AcDbArc
+ 50
+342.9156166538006
+ 51
+13.42206217626292
+  0
+ARC
+  5
+7DC4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-191.2330583720054
+ 20
+545.3287134459047
+ 30
+0.0
+ 40
+217.9386936649226
+100
+AcDbArc
+ 50
+169.4516470971893
+ 51
+189.2440215354799
+  0
+ARC
+  5
+7DC5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-388.3830065672941
+ 20
+514.6331066771026
+ 30
+0.0
+ 40
+18.46928978649103
+100
+AcDbArc
+ 50
+193.5076661616868
+ 51
+357.7984741227517
+  0
+ARC
+  5
+7DC6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-440.5142105366898
+ 20
+694.032091814556
+ 30
+0.0
+ 40
+40.0
+100
+AcDbArc
+ 50
+13.99152141773314
+ 51
+86.10407345220924
+  0
+ARC
+  5
+7DC7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-691.5355476220943
+ 20
+1126.842536891871
+ 30
+0.0
+ 40
+147.2740786503415
+100
+AcDbArc
+ 50
+25.12300261003399
+ 51
+33.1981744134661
+  0
+ARC
+  5
+7DC8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-382.1655343499219
+ 20
+899.2458873412802
+ 30
+0.0
+ 40
+337.1415055397554
+100
+AcDbArc
+ 50
+115.3314958184217
+ 51
+120.9107004572178
+  0
+ARC
+  5
+7DC9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-567.2201163153817
+ 20
+921.9632609207765
+ 30
+0.0
+ 40
+288.6129081098674
+100
+AcDbArc
+ 50
+81.9873907042783
+ 51
+89.88117651591192
+  0
+ARC
+  5
+7DCA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-566.6257214017482
+ 20
+1208.575552684202
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+89.88117651622458
+ 51
+213.1981744136318
+  0
+ARC
+  5
+7DCB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-556.3830323441143
+ 20
+1190.218779845736
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+205.1230026098246
+ 51
+300.9107004569436
+  0
+ARC
+  5
+7DCC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-527.2688479652165
+ 20
+1205.778086559625
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+295.3314958183077
+ 51
+81.9873907039887
+  0
+ARC
+  5
+7DCD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-180.6018414224286
+ 20
+377.0233895798469
+ 30
+0.0
+ 40
+962.6716452020605
+100
+AcDbArc
+ 50
+84.23570593237672
+ 51
+94.75664608556972
+  0
+ARC
+  5
+7DCE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-180.6018414224286
+ 20
+317.0233895798517
+ 30
+0.0
+ 40
+957.6716452020605
+100
+AcDbArc
+ 50
+84.18838298467363
+ 51
+94.70200516601314
+  0
+ARC
+  5
+7DCF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-391.8358860709068
+ 20
+1298.828866794629
+ 30
+0.0
+ 40
+311.5938999910552
+100
+AcDbArc
+ 50
+354.9844937262678
+ 51
+6.306600787064791
+  0
+ARC
+  5
+7DD0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-571.8358860709136
+ 20
+1298.828866794629
+ 30
+0.0
+ 40
+311.5938999910552
+100
+AcDbArc
+ 50
+355.3608290804965
+ 51
+6.510605399008486
+  0
+ARC
+  5
+7DD1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-260.2643892545293
+ 20
+1334.386376313787
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+94.75664608549116
+ 51
+186.5106053989696
+  0
+ARC
+  5
+7DD2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-259.2693772098177
+ 20
+1273.465277735098
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+175.3608290804226
+ 51
+274.7020051661699
+  0
+ARC
+  5
+7DD3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-83.42739816069343
+ 20
+1271.762513205565
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+264.1883829847258
+ 51
+354.9844937261723
+  0
+ARC
+  5
+7DD4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-84.11555335859929
+ 20
+1332.837391418536
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+6.306600787020279
+ 51
+84.23570593266473
+  0
+ARC
+  5
+7DD5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-248.9250330685299
+ 20
+1343.780162447494
+ 30
+0.0
+ 40
+69.39880101917939
+100
+AcDbArc
+ 50
+356.6249682313398
+ 51
+10.25037689291933
+  0
+ARC
+  5
+7DD6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-248.9250330685299
+ 20
+1343.780162447494
+ 30
+0.0
+ 40
+84.39880101917937
+100
+AcDbArc
+ 50
+357.1356034546263
+ 51
+10.47460134900318
+  0
+ARC
+  5
+7DD7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-173.2576478153464
+ 20
+1357.500909951213
+ 30
+0.0
+ 40
+7.502594238980524
+100
+AcDbArc
+ 50
+12.49269083386995
+ 51
+190.5309942008005
+  0
+ARC
+  5
+7DD8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-561.8358860709227
+ 20
+1298.828866794629
+ 30
+0.0
+ 40
+306.5938999910552
+100
+AcDbArc
+ 50
+354.9211297476066
+ 51
+7.078935724815572
+  0
+LINE
+  5
+7DD9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-526.9165861874389
+ 20
+1147.306919649906
+ 30
+0.0
+ 11
+-430.7025825581254
+ 21
+1196.431165019319
+ 31
+0.0
+  0
+LINE
+  5
+7DDA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-429.4282720928768
+ 20
+1196.616346943543
+ 30
+0.0
+ 11
+-391.9419562866146
+ 21
+1189.661220284364
+ 31
+0.0
+  0
+LINE
+  5
+7DDB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-519.7279408045846
+ 20
+1133.807920786289
+ 30
+0.0
+ 11
+-391.5545066623726
+ 21
+1185.841662318225
+ 31
+0.0
+  0
+LINE
+  5
+7DDC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-527.7519331972362
+ 20
+1144.548092009202
+ 30
+0.0
+ 11
+-522.2250479038725
+ 21
+1134.683469187507
+ 31
+0.0
+  0
+ARC
+  5
+7DDD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-429.7931209006542
+ 20
+1194.649907179027
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+79.48899356864544
+ 51
+117.0476166149114
+  0
+ARC
+  5
+7DDE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-392.3068050943916
+ 20
+1187.694780519848
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+292.0953592225594
+ 51
+79.48899356864515
+  0
+ARC
+  5
+7DDF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-526.0071245299672
+ 20
+1145.525661809614
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+117.0476166149372
+ 51
+209.2607478381099
+  0
+ARC
+  5
+7DE0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-520.480239236604
+ 20
+1135.661038987912
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+209.2607478380109
+ 51
+292.0953592225597
+  0
+ELLIPSE
+  5
+7DE1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbEllipse
+ 10
+1147.897955021989
+ 20
+825.6999968394184
+ 30
+0.0
+ 11
+-53.11630638092648
+ 21
+21.70814630321729
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.3934786987054134
+ 41
+4.267445732209342
+ 42
+6.720067671402669
+  0
+LINE
+  5
+7DE2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1087.367192116063
+ 20
+835.061899379184
+ 30
+0.0
+ 11
+1095.270678962123
+ 21
+835.061899379184
+ 31
+0.0
+  0
+LINE
+  5
+7DE3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1092.296605031123
+ 20
+825.061899379186
+ 30
+0.0
+ 11
+1105.214911524229
+ 21
+825.061899379186
+ 31
+0.0
+  0
+SPLINE
+  5
+7DE4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    10
+ 73
+     6
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.3942683584537455
+ 40
+0.3942683584537455
+ 40
+0.3942683584537455
+ 40
+0.3942683584537455
+ 40
+0.4872344602052575
+ 40
+0.4872344602052575
+ 40
+0.6059538912660455
+ 40
+0.6059538912660455
+ 40
+0.6059538912660455
+ 40
+0.6059538912660455
+ 10
+1086.453137876021
+ 20
+833.6563074089227
+ 30
+0.0
+ 10
+1087.02616036976
+ 20
+832.3649267149308
+ 30
+0.0
+ 10
+1087.685136048833
+ 20
+831.1148553349383
+ 30
+0.0
+ 10
+1089.329876187833
+ 20
+828.3960400017493
+ 30
+0.0
+ 10
+1090.366566277027
+ 20
+826.9054733740617
+ 30
+0.0
+ 10
+1091.509104534396
+ 20
+825.4455853620967
+ 30
+0.0
+  0
+SPLINE
+  5
+7DE5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    13
+ 73
+     9
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+4.437886789289112
+ 40
+4.437886789289112
+ 40
+4.437886789289112
+ 40
+4.437886789289112
+ 40
+5.255255801541235
+ 40
+5.255255801541235
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.810213203085154
+ 40
+6.810213203085154
+ 40
+6.810213203085154
+ 40
+6.810213203085154
+ 10
+1168.560355547925
+ 20
+836.9414404251429
+ 30
+0.0
+ 10
+1155.574211405451
+ 20
+843.9668161949642
+ 30
+0.0
+ 10
+1140.366173008886
+ 20
+849.6864459154451
+ 30
+0.0
+ 10
+1111.283541713818
+ 20
+854.1816791241458
+ 30
+0.0
+ 10
+1099.355119937884
+ 20
+850.6687962086445
+ 30
+0.0
+ 10
+1097.558678718173
+ 20
+846.2731964697384
+ 30
+0.0
+ 10
+1096.637628557687
+ 20
+844.0195363997347
+ 30
+0.0
+ 10
+1097.61370062094
+ 20
+840.1005509385727
+ 30
+0.0
+ 10
+1100.637242043234
+ 20
+835.5117035211137
+ 30
+0.0
+  0
+SPLINE
+  5
+7DE6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    10
+ 73
+     6
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+3.768652321248489
+ 40
+3.768652321248489
+ 40
+3.768652321248489
+ 40
+3.768652321248489
+ 40
+3.821419343860016
+ 40
+3.821419343860016
+ 40
+3.982812549038313
+ 40
+3.982812549038313
+ 40
+3.982812549038313
+ 40
+3.982812549038313
+ 10
+1203.680060107672
+ 20
+826.6948852059385
+ 30
+0.0
+ 10
+1203.144829190422
+ 20
+827.3494909805165
+ 30
+0.0
+ 10
+1202.593127483767
+ 20
+827.9929776644367
+ 30
+0.0
+ 10
+1200.300474578996
+ 20
+830.555731273691
+ 30
+0.0
+ 10
+1198.383764217852
+ 20
+832.451631910928
+ 30
+0.0
+ 10
+1196.302085671989
+ 20
+834.3033905552347
+ 30
+0.0
+  0
+LINE
+  5
+7DE7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1179.012126696791
+ 20
+835.0618993792195
+ 30
+0.0
+ 11
+1194.308165590826
+ 21
+835.061899379184
+ 31
+0.0
+  0
+LINE
+  5
+7DE8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1193.985147640746
+ 20
+825.061899379186
+ 30
+0.0
+ 11
+1202.9058967249
+ 21
+825.061899379186
+ 31
+0.0
+  0
+LINE
+  5
+7DE9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1101.472277681808
+ 20
+835.061899379184
+ 30
+0.0
+ 11
+1168.084532525683
+ 21
+835.061899379184
+ 31
+0.0
+  0
+ELLIPSE
+  5
+7DEA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbEllipse
+ 10
+1147.897955021989
+ 20
+825.6999968394184
+ 30
+0.0
+ 11
+-53.11630638092648
+ 21
+21.70814630321729
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.3934786987054134
+ 41
+7.117199649741733
+ 42
+10.15168716111349
+  0
+SPLINE
+  5
+7DEB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    12
+ 73
+     8
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+7.249088690400208
+ 40
+7.249088690400208
+ 40
+7.249088690400208
+ 40
+7.249088690400208
+ 40
+8.998380867982431
+ 40
+8.998380867982431
+ 40
+10.26841098835162
+ 40
+10.26841098835162
+ 40
+10.28076740283464
+ 40
+10.28076740283464
+ 40
+10.28076740283464
+ 40
+10.28076740283464
+ 10
+1112.525057024414
+ 20
+823.2641370404822
+ 30
+0.0
+ 10
+1134.027631612753
+ 20
+807.0118652128288
+ 30
+0.0
+ 10
+1176.207740624477
+ 20
+795.3057528709309
+ 30
+0.0
+ 10
+1201.982711155978
+ 20
+803.533266491897
+ 30
+0.0
+ 10
+1201.505582954412
+ 20
+812.4708311887403
+ 30
+0.0
+ 10
+1187.180808794608
+ 20
+824.5963554242834
+ 30
+0.0
+ 10
+1187.041699303166
+ 20
+824.7131989352427
+ 30
+0.0
+ 10
+1186.90152215936
+ 20
+824.8300422966394
+ 30
+0.0
+  0
+LINE
+  5
+7DEC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1113.128028988058
+ 20
+825.061899379186
+ 30
+0.0
+ 11
+1186.261243736795
+ 21
+825.061899379186
+ 31
+0.0
+  0
+ARC
+  5
+7DED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1095.270678962152
+ 20
+836.0618993791748
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+269.9999999983585
+ 51
+27.65287906665028
+  0
+ARC
+  5
+7DEE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1087.367192116063
+ 20
+834.0618993792006
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+203.9282283618006
+  0
+ARC
+  5
+7DEF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1092.296605031095
+ 20
+826.0618993791979
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+218.0474612783223
+ 51
+270.0
+  0
+ARC
+  5
+7DF0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1105.214911524144
+ 20
+824.0618993790322
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+48.12577151033213
+ 51
+89.99999999674312
+  0
+ARC
+  5
+7DF1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1113.128029008664
+ 20
+824.0618993830466
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.00000117899347
+ 51
+232.9169511374403
+  0
+ARC
+  5
+7DF2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1105.214911524144
+ 20
+824.0618993790322
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+48.125771510056
+ 51
+89.99999999674312
+  0
+ARC
+  5
+7DF3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1101.472277681751
+ 20
+836.0618993790611
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+213.3804506845802
+ 51
+270.0000000032569
+  0
+ARC
+  5
+7DF4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1168.084532525683
+ 20
+836.0618993791817
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+61.58704954387737
+  0
+ARC
+  5
+7DF5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1179.012126696677
+ 20
+836.0618993792172
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+237.1441076930329
+ 51
+270.0000000032569
+  0
+ARC
+  5
+7DF6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1202.905896724929
+ 20
+826.0618993791839
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+269.9999999983585
+ 51
+39.27075657904378
+  0
+ARC
+  5
+7DF7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1193.985147615507
+ 20
+824.0618993797923
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+89.99999855555714
+ 51
+223.9047852134275
+  0
+ARC
+  5
+7DF8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1186.261243736908
+ 20
+824.0618993793589
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+50.18741609812443
+ 51
+90.00000000651374
+  0
+ARC
+  5
+7DF9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1186.261243736738
+ 20
+824.0618993789681
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+50.18741610445363
+ 51
+89.99999999674312
+  0
+ELLIPSE
+  5
+7DFA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbEllipse
+ 10
+1147.897955021989
+ 20
+823.3112794735859
+ 30
+0.0
+ 11
+-53.11630638092648
+ 21
+21.70814630321729
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.3934786987054134
+ 41
+7.117199649741733
+ 42
+9.584646189548335
+  0
+LINE
+  5
+7DFB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1092.296605031123
+ 20
+822.6731820133537
+ 30
+0.0
+ 11
+1105.214911524229
+ 21
+822.6731820133537
+ 31
+0.0
+  0
+SPLINE
+  5
+7DFC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    10
+ 73
+     6
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.3942683584537455
+ 40
+0.3942683584537455
+ 40
+0.3942683584537455
+ 40
+0.3942683584537455
+ 40
+0.4872344602052575
+ 40
+0.4872344602052575
+ 40
+0.6059538912660455
+ 40
+0.6059538912660455
+ 40
+0.6059538912660455
+ 40
+0.6059538912660455
+ 10
+1086.453137876021
+ 20
+831.2675900430903
+ 30
+0.0
+ 10
+1087.02616036976
+ 20
+829.9762093490983
+ 30
+0.0
+ 10
+1087.685136048833
+ 20
+828.7261379691059
+ 30
+0.0
+ 10
+1089.329876187833
+ 20
+826.0073226359168
+ 30
+0.0
+ 10
+1090.366566277027
+ 20
+824.5167560082293
+ 30
+0.0
+ 10
+1091.509104534396
+ 20
+823.0568679962644
+ 30
+0.0
+  0
+SPLINE
+  5
+7DFD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    10
+ 73
+     6
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+9.6420475343964
+ 40
+9.6420475343964
+ 40
+9.6420475343964
+ 40
+9.6420475343964
+ 40
+10.26841098835162
+ 40
+10.26841098835162
+ 40
+10.28076740283464
+ 40
+10.28076740283464
+ 40
+10.28076740283464
+ 40
+10.28076740283464
+ 10
+1198.591866583258
+ 20
+806.852775854729
+ 30
+0.0
+ 10
+1197.977649616349
+ 20
+810.9927259366642
+ 30
+0.0
+ 10
+1194.315567011472
+ 20
+816.1682630073343
+ 30
+0.0
+ 10
+1187.180808794608
+ 20
+822.207638058451
+ 30
+0.0
+ 10
+1187.041699303166
+ 20
+822.3244815694101
+ 30
+0.0
+ 10
+1186.90152215936
+ 20
+822.4413249308073
+ 30
+0.0
+  0
+LINE
+  5
+7DFE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1113.31870754168
+ 20
+822.6731820133537
+ 30
+0.0
+ 11
+1186.261243736795
+ 21
+822.6731820133537
+ 31
+0.0
+  0
+ARC
+  5
+7DFF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1092.296605031095
+ 20
+823.6731820133657
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+218.0474612783223
+ 51
+270.0
+  0
+ARC
+  5
+7E00
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1105.214911524144
+ 20
+821.6731820131997
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+48.12577151033213
+ 51
+89.99999999674312
+  0
+ARC
+  5
+7E01
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1105.214911524144
+ 20
+821.6731820131997
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+48.125771510056
+ 51
+89.99999999674312
+  0
+ARC
+  5
+7E02
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1186.261243736908
+ 20
+821.6731820135267
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+50.18741609812443
+ 51
+90.00000000651374
+  0
+ARC
+  5
+7E03
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1186.261243736738
+ 20
+821.6731820131357
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+50.18741610445363
+ 51
+89.99999999674312
+  0
+LINE
+  5
+7E04
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1201.694627472421
+ 20
+807.3760205864388
+ 30
+0.0
+ 11
+1201.696672568858
+ 21
+805.2070027822324
+ 31
+0.0
+  0
+LINE
+  5
+7E05
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1086.367192116058
+ 20
+834.0618993792006
+ 30
+0.0
+ 11
+1086.367192116058
+ 21
+831.6731820132474
+ 31
+0.0
+  0
+ARC
+  5
+7E06
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1087.367192116006
+ 20
+831.6731820132334
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+179.9999999991857
+ 51
+203.928228360891
+  0
+LINE
+  5
+7E07
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1193.985147640746
+ 20
+822.6731820133537
+ 30
+0.0
+ 11
+1202.9058967249
+ 21
+822.6731820133537
+ 31
+0.0
+  0
+ARC
+  5
+7E08
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1202.905896724929
+ 20
+823.6731820133513
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+269.9999999983585
+ 51
+0.0
+  0
+LINE
+  5
+7E09
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1203.905896724934
+ 20
+826.0618993791839
+ 30
+0.0
+ 11
+1203.905896724934
+ 21
+823.6731820133513
+ 31
+0.0
+  0
+ARC
+  5
+7E0A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1194.308165589007
+ 20
+832.0618993788642
+ 30
+0.0
+ 40
+3.0
+100
+AcDbArc
+ 50
+48.34528475221135
+ 51
+89.99999996578965
+  0
+LWPOLYLINE
+  5
+7E0B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+       10
+ 70
+     0
+ 43
+0.0
+ 10
+-1836.997208558158
+ 20
+144.395249361132
+ 42
+0.3787080130131431
+ 10
+-1718.181238804105
+ 20
+147.1833758416139
+ 42
+0.1569037931998264
+ 10
+-1632.903719802612
+ 20
+299.765576920251
+ 42
+0.149662534962431
+ 10
+-1649.370236397657
+ 20
+566.3319285927671
+ 42
+0.1417652977290827
+ 10
+-1707.687966154025
+ 20
+647.1625530001361
+ 42
+0.3218634760541736
+ 10
+-1816.795591259221
+ 20
+655.3986855993585
+ 42
+0.094226580694221
+ 10
+-1867.714122394999
+ 20
+604.8700056778032
+ 42
+0.0872957220437915
+ 10
+-1909.965725092148
+ 20
+503.3739817850104
+ 42
+0.122468850055082
+ 10
+-1905.736134980741
+ 20
+253.2501965161629
+ 42
+0.1427096869684118
+ 10
+-1836.997259483552
+ 20
+144.3952943924529
+  0
+SPLINE
+  5
+7E0C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+    11
+ 71
+     3
+ 72
+    16
+ 73
+    12
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.088762769920041
+ 40
+1.088762769920041
+ 40
+2.683233376795319
+ 40
+2.683233376795319
+ 40
+4.277703983670598
+ 40
+4.277703983670598
+ 40
+5.872174590545876
+ 40
+5.872174590545876
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 10
+-468.9458387322238
+ 20
+682.0153605710856
+ 30
+0.0
+ 10
+-477.408516257667
+ 20
+682.1321402868393
+ 30
+0.0
+ 10
+-486.0476284182473
+ 20
+674.3560278960317
+ 30
+0.0
+ 10
+-496.567411387075
+ 20
+644.4204443040746
+ 30
+0.0
+ 10
+-491.5554853300241
+ 20
+619.3499843474299
+ 30
+0.0
+ 10
+-469.1095908530646
+ 20
+601.6061210127716
+ 30
+0.0
+ 10
+-453.7954506605492
+ 20
+609.7214708717615
+ 30
+0.0
+ 10
+-442.3725271984713
+ 20
+646.186974062914
+ 30
+0.0
+ 10
+-448.1571516718636
+ 20
+670.8259851947673
+ 30
+0.0
+ 10
+-462.5633698240667
+ 20
+680.896340131298
+ 30
+0.0
+ 10
+-465.751156428154
+ 20
+681.9712759311755
+ 30
+0.0
+ 10
+-468.9458387322238
+ 20
+682.0153605710856
+ 30
+0.0
+  0
+SPLINE
+  5
+7E0D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+    11
+ 71
+     3
+ 72
+    14
+ 73
+    10
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.8681809998481021
+ 40
+0.8681809998481021
+ 40
+2.479565319373653
+ 40
+2.479565319373653
+ 40
+4.156146822462507
+ 40
+4.156146822462507
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 10
+-468.876848393022
+ 20
+687.0148845817355
+ 30
+0.0
+ 10
+-477.9470596796491
+ 20
+687.1400478876382
+ 30
+0.0
+ 10
+-486.2899440617233
+ 20
+680.9000337053917
+ 30
+0.0
+ 10
+-501.415135956136
+ 20
+654.1601489115649
+ 30
+0.0
+ 10
+-499.8734591687243
+ 20
+626.4676828103788
+ 30
+0.0
+ 10
+-476.2487135358801
+ 20
+595.9205165493769
+ 30
+0.0
+ 10
+-453.7082689953413
+ 20
+602.4620601840595
+ 30
+0.0
+ 10
+-433.9488178171668
+ 20
+646.8197968602141
+ 30
+0.0
+ 10
+-446.6548826110843
+ 20
+686.7082351980543
+ 30
+0.0
+ 10
+-468.876848393022
+ 20
+687.0148845817355
+ 30
+0.0
+  0
+LINE
+  5
+7E0E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-485.9478032531105
+ 20
+665.7538534246257
+ 30
+0.0
+ 11
+-453.3762076222833
+ 21
+665.7538534246257
+ 31
+0.0
+  0
+LINE
+  5
+7E0F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-485.3851992583022
+ 20
+621.8984784171155
+ 30
+0.0
+ 11
+-453.408762466835
+ 21
+621.8984784171155
+ 31
+0.0
+  0
+LINE
+  5
+7E10
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-487.282505128774
+ 20
+658.2538534246254
+ 30
+0.0
+ 11
+-474.0026349847417
+ 21
+658.2538534246254
+ 31
+0.0
+  0
+LINE
+  5
+7E11
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-477.8331937444868
+ 20
+629.3984784171159
+ 30
+0.0
+ 11
+-451.9559323800299
+ 21
+629.3984784171087
+ 31
+0.0
+  0
+LINE
+  5
+7E12
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-479.1644062149762
+ 20
+632.8910846473122
+ 30
+0.0
+ 11
+-450.6471310950523
+ 21
+658.3248202811589
+ 31
+0.0
+  0
+LINE
+  5
+7E13
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-490.2798773744329
+ 20
+639.0567738900543
+ 30
+0.0
+ 11
+-472.6714225142518
+ 21
+654.7612471944291
+ 31
+0.0
+  0
+SPLINE
+  5
+7E14
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.9957291969581651
+ 40
+0.9957291969581651
+ 40
+0.9957291969581651
+ 40
+0.9957291969581651
+ 40
+1.114120830019382
+ 40
+1.114120830019382
+ 40
+1.114120830019382
+ 40
+1.114120830019382
+ 10
+-487.7791845653396
+ 20
+664.5576211082655
+ 30
+0.0
+ 10
+-488.2953247062846
+ 20
+663.3815979515489
+ 30
+0.0
+ 10
+-488.765602332733
+ 20
+662.1528590464579
+ 30
+0.0
+ 10
+-489.1833902240696
+ 20
+660.8756539102601
+ 30
+0.0
+  0
+SPLINE
+  5
+7E15
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+1.774803884836616
+ 40
+1.774803884836616
+ 40
+1.774803884836616
+ 40
+1.774803884836616
+ 40
+2.195516774579185
+ 40
+2.195516774579185
+ 40
+2.195516774579185
+ 40
+2.195516774579185
+ 10
+-490.9312778037524
+ 20
+637.3010211420294
+ 30
+0.0
+ 10
+-490.259157712841
+ 20
+632.2370971602992
+ 30
+0.0
+ 10
+-488.9857143778604
+ 20
+627.3676583229033
+ 30
+0.0
+ 10
+-487.2331512381711
+ 20
+623.1335774561302
+ 30
+0.0
+  0
+SPLINE
+  5
+7E16
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+4.099930470505139
+ 40
+4.099930470505139
+ 40
+4.099930470505139
+ 40
+4.099930470505139
+ 40
+4.223934546756237
+ 40
+4.223934546756237
+ 40
+4.223934546756237
+ 40
+4.223934546756237
+ 10
+-451.6037953774789
+ 20
+623.0370297497743
+ 30
+0.0
+ 10
+-451.0460999026681
+ 20
+624.20555204951
+ 30
+0.0
+ 10
+-450.5337153594541
+ 20
+625.4358898533141
+ 30
+0.0
+ 10
+-450.0727181970196
+ 20
+626.7250511080676
+ 30
+0.0
+  0
+SPLINE
+  5
+7E17
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+5.186738519455143
+ 40
+5.186738519455143
+ 40
+5.186738519455143
+ 40
+5.186738519455143
+ 40
+5.315983103661054
+ 40
+5.315983103661054
+ 40
+5.315983103661054
+ 40
+5.315983103661054
+ 10
+-450.0680124174027
+ 20
+660.409570838219
+ 30
+0.0
+ 10
+-450.5052329553214
+ 20
+661.8200986001668
+ 30
+0.0
+ 10
+-450.9911487472768
+ 20
+663.1882513842342
+ 30
+0.0
+ 10
+-451.5215809511223
+ 20
+664.5024253386822
+ 30
+0.0
+  0
+ARC
+  5
+7E18
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-485.9478032531105
+ 20
+663.7538534246375
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+156.3040005346215
+  0
+ARC
+  5
+7E19
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-487.2825051277223
+ 20
+660.2538534236118
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+161.8865082871386
+ 51
+269.9999999698803
+  0
+ARC
+  5
+7E1A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-474.0026349847417
+ 20
+656.253853424623
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+311.7288509281588
+ 51
+90.0
+  0
+ARC
+  5
+7E1B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-488.948664904341
+ 20
+637.5641676599741
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+131.728850922189
+ 51
+187.5605143984328
+  0
+ARC
+  5
+7E1C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-477.8331937444868
+ 20
+631.3984784171182
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+131.7288509281317
+ 51
+270.0
+  0
+ARC
+  5
+7E1D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-485.3851992583022
+ 20
+623.8984784170825
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+202.4855538923427
+ 51
+270.0
+  0
+ARC
+  5
+7E1E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-451.9559323800868
+ 20
+627.3984784171063
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+340.3232218708541
+ 51
+89.9999999991923
+  0
+ARC
+  5
+7E1F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-453.4087624667495
+ 20
+623.8984784170682
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+269.9999999975508
+ 51
+334.4864630403276
+  0
+ARC
+  5
+7E20
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-451.9783435657404
+ 20
+659.8174265113457
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+311.7288509327062
+ 51
+17.22184011741429
+  0
+ARC
+  5
+7E21
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-453.3762076223402
+ 20
+663.7538534245522
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+21.98018750282443
+ 51
+89.9999999991923
+  0
+LWPOLYLINE
+  5
+7E22
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        9
+ 70
+     1
+ 43
+0.0
+ 10
+-1833.729439917163
+ 20
+148.1801235251652
+ 42
+0.3784918162383644
+ 10
+-1721.584586956765
+ 20
+150.8463334098451
+ 42
+0.1569827868202577
+ 10
+-1637.787447704311
+ 20
+300.8416374825202
+ 42
+0.1497371145671468
+ 10
+-1654.065447856765
+ 20
+564.6124766917068
+ 42
+0.1419467864012333
+ 10
+-1710.837259113929
+ 20
+643.2780351531023
+ 42
+0.3217692175749172
+ 10
+-1814.095059446713
+ 20
+651.1890496755229
+ 42
+0.0939595734314629
+ 10
+-1863.545057110655
+ 20
+602.1085329310126
+ 42
+0.0872426262053116
+ 10
+-1905.090129625477
+ 20
+502.2654529986852
+ 42
+0.1224532106327826
+ 10
+-1900.917341481231
+ 20
+254.5849423501991
+ 42
+0.1425887174329413
+  0
+LWPOLYLINE
+  5
+7E23
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        9
+ 70
+     1
+ 43
+0.0
+ 10
+-1827.196511899528
+ 20
+155.7522497706429
+ 42
+0.3779877288690409
+ 10
+-1728.390995625829
+ 20
+158.1725170544885
+ 42
+0.1775887295091913
+ 10
+-1642.608083085178
+ 20
+302.9928314750805
+ 42
+0.1594067006592293
+ 10
+-1658.465666828788
+ 20
+561.1745668383889
+ 42
+0.1412240394791502
+ 10
+-1715.50680708384
+ 20
+638.6814030040284
+ 42
+0.2816962740753606
+ 10
+-1808.698500330279
+ 20
+642.766440137052
+ 42
+0.0933743293155123
+ 10
+-1855.207609393061
+ 20
+596.5843907205226
+ 42
+0.0871298868731462
+ 10
+-1895.338901454123
+ 20
+500.0485496812316
+ 42
+0.122420614281047
+ 10
+-1891.279978824626
+ 20
+257.2553298250355
+ 42
+0.14232667016118
+  0
+ARC
+  5
+7E24
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1545.40327864285
+ 20
+422.3575300352919
+ 30
+0.0
+ 40
+406.3231241274068
+100
+AcDbArc
+ 50
+141.0431436549474
+ 51
+178.6753934682409
+  0
+ARC
+  5
+7E25
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1759.090517855894
+ 20
+595.0932572577585
+ 30
+0.0
+ 40
+131.5507367065447
+100
+AcDbArc
+ 50
+29.16614608265938
+ 51
+141.0300944571653
+  0
+ARC
+  5
+7E26
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1359.468660785466
+ 20
+392.5799394733431
+ 30
+0.0
+ 40
+593.4433065169838
+100
+AcDbArc
+ 50
+176.215410318514
+ 51
+183.1418362618155
+  0
+ARC
+  5
+7E27
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1954.743217252512
+ 20
+378.0849537907542
+ 30
+0.0
+ 40
+385.4764237658234
+100
+AcDbArc
+ 50
+309.0602806664596
+ 51
+3.336004539517258
+  0
+ARC
+  5
+7E28
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-2127.594955878947
+ 20
+380.3569394498396
+ 30
+0.0
+ 40
+558.0392047739361
+100
+AcDbArc
+ 50
+2.070286150737077
+ 51
+29.97950964921516
+  0
+LINE
+  5
+7E29
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1755.940982045756
+ 20
+726.6062860884262
+ 30
+0.0
+ 11
+-1674.790159050217
+ 21
+726.6062860884262
+ 31
+0.0
+  0
+ELLIPSE
+  5
+7E2A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbEllipse
+ 10
+-1787.05439873974
+ 20
+396.9185465635831
+ 30
+0.0
+ 11
+0.0000000000000018
+ 21
+28.62763050445238
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.5965498465890748
+ 41
+0.0
+ 42
+6.283185307179586
+  0
+ELLIPSE
+  5
+7E2B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbEllipse
+ 10
+-1787.05439873974
+ 20
+396.9185465635831
+ 30
+0.0
+ 11
+0.0000000000000027
+ 21
+44.49014232212531
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.5557287042819075
+ 41
+0.0
+ 42
+6.283185307179586
+  0
+ARC
+  5
+7E2C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1861.085236013564
+ 20
+392.5065105203415
+ 30
+0.0
+ 40
+173.4922907247837
+100
+AcDbArc
+ 50
+348.0248444215591
+ 51
+0.1809328595587021
+  0
+ARC
+  5
+7E2D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1771.886929454324
+ 20
+363.8835250767016
+ 30
+0.0
+ 40
+72.93531884751878
+100
+AcDbArc
+ 50
+292.5336886895838
+ 51
+295.6914308640422
+  0
+LINE
+  5
+7E2E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1746.356998125263
+ 20
+408.0649170564427
+ 30
+0.0
+ 11
+-1630.407282817656
+ 21
+439.8216992058082
+ 31
+0.0
+  0
+ARC
+  5
+7E2F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1327.279500630225
+ 20
+579.4413873223902
+ 30
+0.0
+ 40
+494.6792337770808
+100
+AcDbArc
+ 50
+208.255981530464
+ 51
+225.8607096183215
+  0
+ARC
+  5
+7E30
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-996.616209699197
+ 20
+251.0880230272363
+ 30
+0.0
+ 40
+803.7779993807857
+100
+AcDbArc
+ 50
+151.8548560617317
+ 51
+164.9593786764545
+  0
+ARC
+  5
+7E31
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1089.727832798899
+ 20
+635.9299114332231
+ 30
+0.0
+ 40
+737.1504406182621
+100
+AcDbArc
+ 50
+180.5645255891566
+ 51
+193.927511491904
+  0
+ARC
+  5
+7E32
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1651.411796950895
+ 20
+788.9837874811078
+ 30
+0.0
+ 40
+413.9847685536452
+100
+AcDbArc
+ 50
+232.5968325266512
+ 51
+244.5764441327314
+  0
+ARC
+  5
+7E33
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1235.992422608773
+ 20
+-125.8032377233248
+ 30
+0.0
+ 40
+759.5441825894866
+100
+AcDbArc
+ 50
+140.1356677984957
+ 51
+149.6528372019034
+  0
+ARC
+  5
+7E34
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-377.3168134085826
+ 20
+249.8551589714352
+ 30
+0.0
+ 40
+1417.387632041952
+100
+AcDbArc
+ 50
+176.708683075578
+ 51
+184.4812142729223
+  0
+ARC
+  5
+7E35
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1859.881450012039
+ 20
+446.0412985138192
+ 30
+0.0
+ 40
+45.23999563518989
+100
+AcDbArc
+ 50
+94.81295753038677
+ 51
+161.86557106056
+  0
+ARC
+  5
+7E36
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1839.792731480428
+ 20
+345.4303887684063
+ 30
+0.0
+ 40
+147.6362048240293
+100
+AcDbArc
+ 50
+93.04510405114964
+ 51
+99.31019496721496
+  0
+ARC
+  5
+7E37
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1842.255123654211
+ 20
+471.3329247395634
+ 30
+0.0
+ 40
+61.6471350662808
+100
+AcDbArc
+ 50
+190.4777790386805
+ 51
+243.7781262270778
+  0
+ARC
+  5
+7E38
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1457.424542753726
+ 20
+380.7631785981869
+ 30
+0.0
+ 40
+399.3692212633638
+100
+AcDbArc
+ 50
+155.6593090047514
+ 51
+162.6494601257119
+  0
+LINE
+  5
+7E39
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1842.761881686271
+ 20
+405.2702922647598
+ 30
+0.0
+ 11
+-1816.607803973993
+ 21
+394.743257924091
+ 31
+0.0
+  0
+ARC
+  5
+7E3A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-327.3168134085713
+ 20
+249.8551589714352
+ 30
+0.0
+ 40
+1417.387632041952
+100
+AcDbArc
+ 50
+178.0935910045169
+ 51
+182.766502113259
+  0
+ARC
+  5
+7E3B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1860.734874952355
+ 20
+272.0207846259655
+ 30
+0.0
+ 40
+33.79832900828806
+100
+AcDbArc
+ 50
+204.6069487384361
+ 51
+280.9829301188772
+  0
+LINE
+  5
+7E3C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1854.295734420332
+ 20
+238.841506258872
+ 30
+0.0
+ 11
+-1815.028705693321
+ 21
+248.6138593951565
+ 31
+0.0
+  0
+ARC
+  5
+7E3D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1761.553426213907
+ 20
+240.349578139579
+ 30
+0.0
+ 40
+131.0969047371953
+100
+AcDbArc
+ 50
+139.0325239836903
+ 51
+172.2855736874957
+  0
+LINE
+  5
+7E3E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1860.542322313533
+ 20
+326.3007089096419
+ 30
+0.0
+ 11
+-1826.164298204616
+ 21
+365.7524555883
+ 31
+0.0
+  0
+SPLINE
+  5
+7E3F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+    11
+ 71
+     3
+ 72
+    16
+ 73
+    12
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.7161446240834114
+ 40
+0.7161446240834114
+ 40
+2.20223622601685
+ 40
+2.20223622601685
+ 40
+3.325319759147629
+ 40
+3.325319759147629
+ 40
+4.448403292278408
+ 40
+4.448403292278408
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 10
+-1787.054398739712
+ 20
+446.4086888857111
+ 30
+0.0
+ 10
+-1795.104257002918
+ 20
+446.4086888857111
+ 30
+0.0
+ 10
+-1802.459020433104
+ 20
+441.0639136287671
+ 30
+0.0
+ 10
+-1817.959528291395
+ 20
+416.7901577551732
+ 30
+0.0
+ 10
+-1819.556011543652
+ 20
+388.2420769006813
+ 30
+0.0
+ 10
+-1805.663784441377
+ 20
+354.0598649212541
+ 30
+0.0
+ 10
+-1793.024190443815
+ 20
+344.3985257988302
+ 30
+0.0
+ 10
+-1768.87934899966
+ 20
+352.4719960653115
+ 30
+0.0
+ 10
+-1760.819218075396
+ 20
+367.4091313547336
+ 30
+0.0
+ 10
+-1754.031421384836
+ 20
+412.5978315265044
+ 30
+0.0
+ 10
+-1766.430442813628
+ 20
+446.4086888857111
+ 30
+0.0
+ 10
+-1787.054398739712
+ 20
+446.4086888857111
+ 30
+0.0
+  0
+LINE
+  5
+7E40
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1785.03883212815
+ 20
+332.1417525445724
+ 30
+0.0
+ 11
+-1743.919922834464
+ 21
+297.0073575460432
+ 31
+0.0
+  0
+ARC
+  5
+7E41
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-377.3168134085826
+ 20
+249.8551589714352
+ 30
+0.0
+ 40
+1421.387632041952
+100
+AcDbArc
+ 50
+178.14891035864
+ 51
+182.5166175447511
+  0
+LINE
+  5
+7E42
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1793.23723241822
+ 20
+329.0434484451765
+ 30
+0.0
+ 11
+-1797.962700844663
+ 21
+295.768806536671
+ 31
+0.0
+  0
+ARC
+  5
+7E43
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1753.670354344591
+ 20
+269.7635063094452
+ 30
+0.0
+ 40
+69.2565457866031
+100
+AcDbArc
+ 50
+206.6507402157461
+ 51
+229.8562816309516
+  0
+ARC
+  5
+7E44
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1795.041679842454
+ 20
+191.9582811437692
+ 30
+0.0
+ 40
+53.05273344990773
+100
+AcDbArc
+ 50
+275.0502298026089
+ 51
+348.520139304057
+  0
+ARC
+  5
+7E45
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1604.500607286211
+ 20
+190.5530170592015
+ 30
+0.0
+ 40
+192.8580240116309
+100
+AcDbArc
+ 50
+180.9239141277543
+ 51
+195.4699270366232
+  0
+ARC
+  5
+7E46
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1754.772679762225
+ 20
+237.0633642571391
+ 30
+0.0
+ 40
+69.2565457866031
+100
+AcDbArc
+ 50
+291.4905542654142
+ 51
+317.5330569657637
+  0
+ARC
+  5
+7E47
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1788.286902374095
+ 20
+328.3404317639338
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+49.48749084552841
+ 51
+171.9172397905423
+  0
+ARC
+  5
+7E48
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1877.911099913404
+ 20
+349.2570385852005
+ 30
+0.0
+ 40
+235.8412068659292
+100
+AcDbArc
+ 50
+317.6246817191793
+ 51
+325.837448047144
+  0
+ARC
+  5
+7E49
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1235.992422608773
+ 20
+-125.8032377233248
+ 30
+0.0
+ 40
+689.5441825894864
+100
+AcDbArc
+ 50
+144.6656138604029
+ 51
+147.1124374316257
+  0
+LINE
+  5
+7E4A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1847.635473069231
+ 20
+492.8581350688006
+ 30
+0.0
+ 11
+-1813.070413142042
+ 21
+493.9218709346705
+ 31
+0.0
+  0
+ARC
+  5
+7E4B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1457.424542753726
+ 20
+380.7631785981869
+ 30
+0.0
+ 40
+399.3692212633638
+100
+AcDbArc
+ 50
+177.7582756403494
+ 51
+186.7554762613973
+  0
+SPLINE
+  5
+7E4C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    10
+ 73
+     6
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+1.534952803266898
+ 40
+1.534952803266898
+ 40
+1.534952803266898
+ 40
+1.534952803266898
+ 40
+1.798838820863965
+ 40
+1.798838820863965
+ 40
+1.997524574758759
+ 40
+1.997524574758759
+ 40
+1.997524574758759
+ 40
+1.997524574758759
+ 10
+-1826.688326161586
+ 20
+398.8006750660062
+ 30
+0.0
+ 10
+-1826.745889508372
+ 20
+394.1767596778334
+ 30
+0.0
+ 10
+-1826.480998250814
+ 20
+389.5415359402108
+ 30
+0.0
+ 10
+-1825.504110385764
+ 20
+381.5689455557915
+ 30
+0.0
+ 10
+-1824.868274170568
+ 20
+378.1452481413438
+ 30
+0.0
+ 10
+-1824.013501494561
+ 20
+374.7926199625837
+ 30
+0.0
+  0
+ARC
+  5
+7E4D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1327.279500630225
+ 20
+579.4413873223902
+ 30
+0.0
+ 40
+499.6792337770809
+100
+AcDbArc
+ 50
+214.258461939816
+ 51
+224.4629623279327
+  0
+ARC
+  5
+7E4E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1435.995995661783
+ 20
+476.6266041830462
+ 30
+0.0
+ 40
+352.7494114724484
+100
+AcDbArc
+ 50
+202.1793422331285
+ 51
+210.3934159277756
+  0
+LINE
+  5
+7E4F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1691.368543019705
+ 20
+356.5090236613528
+ 30
+0.0
+ 11
+-1642.926792128206
+ 21
+301.3062643760164
+ 31
+0.0
+  0
+ARC
+  5
+7E50
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1715.895338760645
+ 20
+250.9836653470927
+ 30
+0.0
+ 40
+108.3381971266969
+100
+AcDbArc
+ 50
+76.91531094361426
+ 51
+114.0531341523762
+  0
+ARC
+  5
+7E51
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1758.014299256443
+ 20
+345.3487868282252
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+114.0531341524306
+ 51
+202.1793422331168
+  0
+ARC
+  5
+7E52
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1806.631328154593
+ 20
+243.18393762114
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+147.1124374315883
+ 51
+206.6507402157403
+  0
+ARC
+  5
+7E53
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1846.495778344517
+ 20
+395.9935462972623
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+68.07518072862075
+ 51
+177.7582756403624
+  0
+LINE
+  5
+7E54
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1869.493809574037
+ 20
+416.0299117001144
+ 30
+0.0
+ 11
+-1842.761881686271
+ 21
+405.2702922647598
+ 31
+0.0
+  0
+ARC
+  5
+7E55
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1848.166693822178
+ 20
+502.8440153260262
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+273.0451040511757
+ 51
+342.6494601257363
+  0
+ARC
+  5
+7E56
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1733.064172570237
+ 20
+181.9264534436513
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+182.7665021132794
+ 51
+291.4905542654148
+  0
+ARC
+  5
+7E57
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1667.760128031601
+ 20
+251.3497793127755
+ 30
+0.0
+ 40
+27.21245111592247
+100
+AcDbArc
+ 50
+233.6163411575265
+ 51
+261.5122401610609
+  0
+ARC
+  5
+7E58
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1691.039296774959
+ 20
+222.4375609390563
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+325.837448047142
+ 51
+44.46296232795797
+  0
+LINE
+  5
+7E59
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1687.593810335271
+ 20
+393.0543764254253
+ 30
+0.0
+ 11
+-1629.178256874552
+ 21
+409.0534670697253
+ 31
+0.0
+  0
+LINE
+  5
+7E5A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-1696.579321722963
+ 20
+447.6189329339207
+ 30
+0.0
+ 11
+-1633.121433178643
+ 21
+464.9990389291289
+ 31
+0.0
+  0
+ARC
+  5
+7E5B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1663.69720588409
+ 20
+352.0555522900039
+ 30
+0.0
+ 40
+101.0623236529591
+100
+AcDbArc
+ 50
+108.9876736177118
+ 51
+143.9681377255251
+  0
+ARC
+  5
+7E5C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1703.765629277767
+ 20
+459.1190332422812
+ 30
+0.0
+ 40
+68.01519395125191
+100
+AcDbArc
+ 50
+233.3490281361825
+ 51
+283.7548279254179
+  0
+ARC
+  5
+7E5D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1861.085236013564
+ 20
+392.5065105203415
+ 30
+0.0
+ 40
+173.4922907247837
+100
+AcDbArc
+ 50
+18.52177047780615
+ 51
+29.55095698426227
+  0
+ARC
+  5
+7E5E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-996.616209699197
+ 20
+251.0880230272363
+ 30
+0.0
+ 40
+748.7779993807857
+100
+AcDbArc
+ 50
+153.7265414984096
+ 51
+162.3537130965494
+  0
+ARC
+  5
+7E5F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1769.576799978721
+ 20
+537.1376123760853
+ 30
+0.0
+ 40
+83.77885670773428
+100
+AcDbArc
+ 50
+271.1252460109143
+ 51
+315.169437836498
+  0
+ARC
+  5
+7E60
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1768.029741946121
+ 20
+458.3739476846702
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+164.9593786764857
+ 51
+271.1252460108361
+  0
+ARC
+  5
+7E61
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1741.381846493197
+ 20
+408.562778722036
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+143.9681377255485
+ 51
+233.3490281361455
+  0
+ARC
+  5
+7E62
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1527.831176701396
+ 20
+533.850983882914
+ 30
+0.0
+ 40
+234.9673798718347
+100
+AcDbArc
+ 50
+161.8530734851124
+ 51
+188.0029012525728
+  0
+ARC
+  5
+7E63
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1807.128538861319
+ 20
+553.9038656653688
+ 30
+0.0
+ 40
+77.31861262874969
+100
+AcDbArc
+ 50
+43.52903840658101
+ 51
+104.7718286241893
+  0
+ARC
+  5
+7E64
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1737.602092116417
+ 20
+566.6611727016358
+ 30
+0.0
+ 40
+47.47182219152608
+100
+AcDbArc
+ 50
+63.30192114456749
+ 51
+96.13828349540497
+  0
+ARC
+  5
+7E65
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1870.695388344443
+ 20
+552.8375428837718
+ 30
+0.0
+ 40
+121.7111698613867
+100
+AcDbArc
+ 50
+307.0633743834592
+ 51
+334.8637762752521
+  0
+ARC
+  5
+7E66
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1800.353797485313
+ 20
+459.7056054733528
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+193.9275114919202
+ 51
+307.0633743833864
+  0
+ARC
+  5
+7E67
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1741.608895509016
+ 20
+603.9181584214504
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+96.13828349535259
+ 51
+161.8530734851198
+  0
+ARC
+  5
+7E68
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1905.558025512106
+ 20
+297.1305595033158
+ 30
+0.0
+ 40
+107.6039416631025
+100
+AcDbArc
+ 50
+359.2748891974378
+ 51
+36.43870515122807
+  0
+ARC
+  5
+7E69
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1824.315297930751
+ 20
+352.2998898710483
+ 30
+0.0
+ 40
+10.23670350000702
+100
+AcDbArc
+ 50
+58.66266038023578
+ 51
+140.6960641385985
+  0
+ARC
+  5
+7E6A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1928.411576861179
+ 20
+486.0494858957623
+ 30
+0.0
+ 40
+126.2468730397443
+100
+AcDbArc
+ 50
+326.7697297619722
+ 51
+347.3965359390286
+  0
+ARC
+  5
+7E6B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1833.703521497908
+ 20
+372.3220912052341
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+318.9312941762064
+ 51
+14.30318482414624
+  0
+ARC
+  5
+7E6C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1826.991609567982
+ 20
+419.6055662630301
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+244.5764441328451
+ 51
+326.7697297620195
+  0
+CIRCLE
+  5
+7E6D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1777.772121503971
+ 20
+465.157381279603
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+7E6E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1749.287532869856
+ 20
+436.7990142980318
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+7E6F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1745.253095147688
+ 20
+377.350071309543
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+7E70
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1771.203250492475
+ 20
+337.0642635020359
+ 30
+0.0
+ 40
+5.0
+  0
+ARC
+  5
+7E71
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-527.5105124730703
+ 20
+268.889185948467
+ 30
+0.0
+ 40
+106.8873551709293
+100
+AcDbArc
+ 50
+214.3932850076989
+ 51
+321.0820252139587
+  0
+ARC
+  5
+7E72
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-527.5105124730703
+ 20
+268.889185948467
+ 30
+0.0
+ 40
+91.88735517092931
+100
+AcDbArc
+ 50
+221.1538372578808
+ 51
+315.5542938914948
+  0
+ARC
+  5
+7E73
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+410.4908249853747
+ 20
+-550.4669125981181
+ 30
+0.0
+ 40
+792.1434141909345
+100
+AcDbArc
+ 50
+89.17087746839683
+ 51
+95.86692567734685
+  0
+ARC
+  5
+7E74
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1192.703810068906
+ 20
+389.4995490565378
+ 30
+0.0
+ 40
+262.6723299627673
+100
+AcDbArc
+ 50
+221.065528948924
+ 51
+323.9785209969026
+  0
+ARC
+  5
+7E75
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1192.703810068906
+ 20
+389.4995490565378
+ 30
+0.0
+ 40
+247.6723299627673
+100
+AcDbArc
+ 50
+223.9604954866992
+ 51
+321.0835544591445
+  0
+ARC
+  5
+7E76
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1207.761650999914
+ 20
+371.100229997701
+ 30
+0.0
+ 40
+205.7304122075629
+100
+AcDbArc
+ 50
+231.0863171293776
+ 51
+261.6342914361324
+  0
+ARC
+  5
+7E77
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1204.189975488732
+ 20
+402.7656265582706
+ 30
+0.0
+ 40
+237.2297205908382
+100
+AcDbArc
+ 50
+284.5351469536298
+ 51
+314.3282135165603
+  0
+ARC
+  5
+7E78
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-6243.737700124228
+ 20
+2541.541533145881
+ 30
+0.0
+ 40
+7863.956181238681
+100
+AcDbArc
+ 50
+342.5189313185649
+ 51
+342.779213835763
+  0
+ARC
+  5
+7E79
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+2066.394858247265
+ 20
+-2681.452675406035
+ 30
+0.0
+ 40
+3007.628909247363
+100
+AcDbArc
+ 50
+104.5289349709011
+ 51
+105.2635372555939
+  0
+ARC
+  5
+7E7A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1277.241598275907
+ 20
+210.4353255082643
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+105.2635372556204
+ 51
+162.8672872185063
+  0
+LINE
+  5
+7E7B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1195.972709563705
+ 20
+206.4937929186996
+ 30
+0.0
+ 11
+1190.852408072147
+ 21
+192.1203759012613
+ 31
+0.0
+  0
+ARC
+  5
+7E7C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1236.314806084949
+ 20
+339.196305679728
+ 30
+0.0
+ 40
+165.7015626496047
+100
+AcDbArc
+ 50
+225.3339480863024
+ 51
+250.9056313977128
+  0
+ARC
+  5
+7E7D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1225.879989981366
+ 20
+319.0758895595351
+ 30
+0.0
+ 40
+136.4289337528677
+100
+AcDbArc
+ 50
+225.506120600533
+ 51
+252.4011464313096
+  0
+ARC
+  5
+7E7E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1139.941271530887
+ 20
+51.6389705121654
+ 30
+0.0
+ 40
+174.9339445619126
+100
+AcDbArc
+ 50
+73.58420359112513
+ 51
+79.23617375196051
+  0
+ARC
+  5
+7E7F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1186.552582048109
+ 20
+209.8495637079552
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+340.3923663714921
+ 51
+73.5842035911796
+  0
+LINE
+  5
+7E80
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1185.18411744816
+ 20
+176.2086751843412
+ 30
+0.0
+ 11
+1183.267261517216
+ 21
+170.8277870269654
+ 31
+0.0
+  0
+ARC
+  5
+7E81
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1207.761650999914
+ 20
+371.100229997701
+ 30
+0.0
+ 40
+205.7304122075629
+100
+AcDbArc
+ 50
+285.6173629519273
+ 51
+285.7856520520197
+  0
+ARC
+  5
+7E82
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1186.142344314306
+ 20
+193.7982612959032
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+252.4011464312556
+ 51
+340.3923663715013
+  0
+ARC
+  5
+7E83
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1180.474053690432
+ 20
+177.8865605789548
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+340.392366371368
+ 51
+70.90563139784982
+  0
+ARC
+  5
+7E84
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1178.557197759404
+ 20
+172.5056724215861
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+261.6342914360535
+ 51
+340.3923663716258
+  0
+ARC
+  5
+7E85
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1261.800623641819
+ 20
+177.780578071605
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+162.5189313185521
+ 51
+285.6173629519807
+  0
+ARC
+  5
+7E86
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1081.659443049177
+ 20
+214.9092723868478
+ 30
+0.0
+ 40
+4.988340413330837
+100
+AcDbArc
+ 50
+91.98813073186576
+ 51
+231.1792222143208
+  0
+ELLIPSE
+  5
+7E87
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbEllipse
+ 10
+-18.74369952557162
+ 20
+380.5027120364528
+ 30
+0.0
+ 11
+0.0000000000000018
+ 21
+28.62763050445238
+ 31
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+ 40
+0.8820240742314886
+ 41
+0.0
+ 42
+6.283185307179586
+  0
+SPLINE
+  5
+7E88
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+    11
+ 71
+     3
+ 72
+    16
+ 73
+    12
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.7846895125724513
+ 40
+0.7846895125724513
+ 40
+2.850171970872791
+ 40
+2.850171970872791
+ 40
+4.340030049077764
+ 40
+4.340030049077764
+ 40
+5.864876978929623
+ 40
+5.864876978929623
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 10
+-18.74369952554298
+ 20
+429.1303425409012
+ 30
+0.0
+ 10
+-31.47680293679286
+ 20
+429.1303425409012
+ 30
+0.0
+ 10
+-43.30319908086631
+ 20
+423.2775635942972
+ 30
+0.0
+ 10
+-73.23113447543391
+ 20
+389.6839014743563
+ 30
+0.0
+ 10
+-64.25211076614733
+ 20
+344.5241407913926
+ 30
+0.0
+ 10
+-9.293192216147417
+ 20
+326.631952982467
+ 30
+0.0
+ 10
+16.2744723600108
+ 20
+341.5812093941994
+ 30
+0.0
+ 10
+31.28670832077887
+ 20
+386.2228999630019
+ 30
+0.0
+ 10
+22.03562881001698
+ 20
+413.7299148358479
+ 30
+0.0
+ 10
+-5.427238205213598
+ 20
+427.4849168840049
+ 30
+0.0
+ 10
+-11.95583870153814
+ 20
+429.1303425409012
+ 30
+0.0
+ 10
+-18.74369952554298
+ 20
+429.1303425409012
+ 30
+0.0
+  0
+SPLINE
+  5
+7E89
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+    11
+ 71
+     3
+ 72
+    18
+ 73
+    14
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.8070911545014247
+ 40
+0.8070911545014247
+ 40
+2.469837648533272
+ 40
+2.469837648533272
+ 40
+3.601515798629169
+ 40
+3.601515798629169
+ 40
+4.733193948725066
+ 40
+4.733193948725066
+ 40
+5.864872098820963
+ 40
+5.864872098820963
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 10
+-18.74369952554298
+ 20
+434.1303425409037
+ 30
+0.0
+ 10
+-33.41622259941277
+ 20
+434.1303425409037
+ 30
+0.0
+ 10
+-46.89232689770415
+ 20
+427.2624548919097
+ 30
+0.0
+ 10
+-74.91913790974422
+ 20
+394.2155461686525
+ 30
+0.0
+ 10
+-71.81586303744234
+ 20
+358.5249341375061
+ 30
+0.0
+ 10
+-36.76568250599984
+ 20
+326.3462096690119
+ 30
+0.0
+ 10
+-12.81180070483742
+ 20
+324.1499732465982
+ 30
+0.0
+ 10
+21.25590447391869
+ 20
+342.9909786690501
+ 30
+0.0
+ 10
+31.92420895831628
+ 20
+362.6749515492164
+ 30
+0.0
+ 10
+30.64100583418485
+ 20
+401.1000490176429
+ 30
+0.0
+ 10
+20.59508478257112
+ 20
+420.0433919567957
+ 30
+0.0
+ 10
+-3.881676733498352
+ 20
+432.3029448760849
+ 30
+0.0
+ 10
+-11.13896966631864
+ 20
+434.1303425409037
+ 30
+0.0
+ 10
+-18.74369952554298
+ 20
+434.1303425409037
+ 30
+0.0
+  0
+SPLINE
+  5
+7E8A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    23
+ 73
+    19
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+5.762944953017747
+ 40
+5.762944953017747
+ 40
+5.762944953017747
+ 40
+5.762944953017747
+ 40
+6.03094229085902
+ 40
+6.03094229085902
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.832087567893353
+ 40
+6.832087567893353
+ 40
+7.745760906250895
+ 40
+7.745760906250895
+ 40
+8.659434244608437
+ 40
+8.659434244608437
+ 40
+9.573107582965979
+ 40
+9.573107582965979
+ 40
+10.48678092132352
+ 40
+10.48678092132352
+ 40
+10.52139710483668
+ 40
+10.52139710483668
+ 40
+10.52139710483668
+ 40
+10.52139710483668
+ 10
+130.0106775770482
+ 20
+647.4923399106629
+ 30
+0.0
+ 10
+109.1775019278607
+ 20
+661.2434556956473
+ 30
+0.0
+ 10
+86.78308149023996
+ 20
+671.847308309708
+ 30
+0.0
+ 10
+41.54379226832907
+ 20
+685.115987575351
+ 30
+0.0
+ 10
+18.90635578442425
+ 20
+688.381474000721
+ 30
+0.0
+ 10
+-3.732215541332607
+ 20
+688.381474000721
+ 30
+0.0
+ 10
+-52.99567250955215
+ 20
+688.381474000721
+ 30
+0.0
+ 10
+-102.2009667282468
+ 20
+672.6330027254264
+ 30
+0.0
+ 10
+-214.4416001357563
+ 20
+594.5138930227572
+ 30
+0.0
+ 10
+-263.1669898155442
+ 20
+507.2180175216659
+ 30
+0.0
+ 10
+-281.0001734665934
+ 20
+320.424851516968
+ 30
+0.0
+ 10
+-249.8750908468696
+ 20
+223.1418332113577
+ 30
+0.0
+ 10
+-131.1552208871935
+ 20
+93.35151000080802
+ 30
+0.0
+ 10
+-45.05579650529443
+ 20
+62.19495802940148
+ 30
+0.0
+ 10
+117.1788411053007
+ 20
+89.78266733780774
+ 30
+0.0
+ 10
+191.7233852395279
+ 20
+148.3432187414379
+ 30
+0.0
+ 10
+233.411522609374
+ 20
+233.3973891025991
+ 30
+0.0
+ 10
+234.8824409094172
+ 20
+236.5330628216213
+ 30
+0.0
+ 10
+236.3024036611427
+ 20
+239.6975053305325
+ 30
+0.0
+  0
+SPLINE
+  5
+7E8B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    19
+ 73
+    15
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+5.828790201343299
+ 40
+5.828790201343299
+ 40
+5.828790201343299
+ 40
+5.828790201343299
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.82396609056125
+ 40
+6.82396609056125
+ 40
+7.905527657324578
+ 40
+7.905527657324578
+ 40
+8.793023233835114
+ 40
+8.793023233835114
+ 40
+9.680518810345651
+ 40
+9.680518810345651
+ 40
+10.47459582390124
+ 40
+10.47459582390124
+ 40
+10.47459582390124
+ 40
+10.47459582390124
+ 10
+118.7746432907497
+ 20
+665.0068081118902
+ 30
+0.0
+ 10
+80.82478689692697
+ 20
+686.3891789814431
+ 30
+0.0
+ 10
+38.81356704997187
+ 20
+698.381474000719
+ 30
+0.0
+ 10
+-3.732215541332607
+ 20
+698.381474000719
+ 30
+0.0
+ 10
+-54.36643528488957
+ 20
+698.381474000719
+ 30
+0.0
+ 10
+-104.780769175476
+ 20
+682.4490662505625
+ 30
+0.0
+ 10
+-234.7107851427086
+ 20
+593.6965185558663
+ 30
+0.0
+ 10
+-288.894230456292
+ 20
+478.2131607297728
+ 30
+0.0
+ 10
+-278.4155090365052
+ 20
+270.5721350164296
+ 30
+0.0
+ 10
+-236.2155747854322
+ 20
+179.4586545971483
+ 30
+0.0
+ 10
+-102.2263340705071
+ 20
+69.06614319451168
+ 30
+0.0
+ 10
+-12.90525477091296
+ 20
+48.78652762933203
+ 30
+0.0
+ 10
+138.9782171471274
+ 20
+94.86489934777612
+ 30
+0.0
+ 10
+202.3507269985325
+ 20
+149.9153336619372
+ 30
+0.0
+ 10
+239.1889021174342
+ 20
+222.5939408310821
+ 30
+0.0
+  0
+SPLINE
+  5
+7E8C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    19
+ 73
+    15
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+5.862348863750744
+ 40
+5.862348863750744
+ 40
+5.862348863750744
+ 40
+5.862348863750744
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.823145205955978
+ 40
+6.823145205955978
+ 40
+7.903065003508764
+ 40
+7.903065003508764
+ 40
+8.803650016230093
+ 40
+8.803650016230093
+ 40
+9.694289599664053
+ 40
+9.694289599664053
+ 40
+10.44898361005608
+ 40
+10.44898361005608
+ 40
+10.44898361005608
+ 40
+10.44898361005608
+ 10
+112.5254115114566
+ 20
+674.0720744725763
+ 30
+0.0
+ 10
+76.18336665939387
+ 20
+692.9047426408558
+ 30
+0.0
+ 10
+36.48763438940341
+ 20
+703.3814740007216
+ 30
+0.0
+ 10
+-3.732215541304412
+ 20
+703.3814740007216
+ 30
+0.0
+ 10
+-55.33683875415727
+ 20
+703.3814740007216
+ 30
+0.0
+ 10
+-106.643153746801
+ 20
+687.1748112561135
+ 30
+0.0
+ 10
+-238.8439394068191
+ 20
+597.0425258236175
+ 30
+0.0
+ 10
+-293.7294987114278
+ 20
+480.3282490471261
+ 30
+0.0
+ 10
+-283.5357592645086
+ 20
+268.2721272940469
+ 30
+0.0
+ 10
+-239.7087072631325
+ 20
+174.5648167419915
+ 30
+0.0
+ 10
+-100.942214549831
+ 20
+62.85522820878245
+ 30
+0.0
+ 10
+-9.225251045364075
+ 20
+43.29257826542945
+ 30
+0.0
+ 10
+141.7623345438423
+ 20
+91.71922489112208
+ 30
+0.0
+ 10
+202.6482020567082
+ 20
+144.4726348393388
+ 30
+0.0
+ 10
+239.8921969335965
+ 20
+213.3849069032578
+ 30
+0.0
+  0
+SPLINE
+  5
+7E8D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+1.939050045474807
+ 40
+1.939050045474807
+ 40
+1.939050045474807
+ 40
+1.939050045474807
+ 40
+2.248613263293543
+ 40
+2.248613263293543
+ 40
+2.248613263293543
+ 40
+2.248613263293543
+ 10
+-325.0574040696383
+ 20
+246.1306288195217
+ 30
+0.0
+ 10
+-312.7797390739592
+ 20
+209.9848375442193
+ 30
+0.0
+ 10
+-295.6022013266297
+ 20
+175.733746860196
+ 30
+0.0
+ 10
+-268.4576963812892
+ 20
+137.2604085563011
+ 30
+0.0
+  0
+SPLINE
+  5
+7E8E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    15
+ 73
+    11
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+6.182184818631423
+ 40
+6.182184818631423
+ 40
+6.182184818631423
+ 40
+6.182184818631423
+ 40
+6.205847832387881
+ 40
+6.205847832387881
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.283185307179586
+ 40
+6.789005724479107
+ 40
+6.789005724479107
+ 40
+7.697535416960898
+ 40
+7.697535416960898
+ 40
+7.697535416960898
+ 40
+7.697535416960898
+ 10
+32.28742056393321
+ 20
+759.9623454533671
+ 30
+0.0
+ 10
+29.50319615416765
+ 20
+760.3033847913138
+ 30
+0.0
+ 10
+26.71080283465789
+ 20
+760.6066385006188
+ 30
+0.0
+ 10
+14.75931728407522
+ 20
+761.7376915021837
+ 30
+0.0
+ 10
+5.422293727890519
+ 20
+762.1814740007196
+ 30
+0.0
+ 10
+-3.732215541304412
+ 20
+762.1814740007196
+ 30
+0.0
+ 10
+-63.60665172090239
+ 20
+762.1814740007196
+ 30
+0.0
+ 10
+-122.4204859946089
+ 20
+744.6202750361053
+ 30
+0.0
+ 10
+-265.4705760053552
+ 20
+654.6150356298455
+ 30
+0.0
+ 10
+-327.0205242307602
+ 20
+550.7929355210946
+ 30
+0.0
+ 10
+-343.1607206860849
+ 20
+438.8580616378733
+ 30
+0.0
+  0
+LINE
+  5
+7E8F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+45.27409571153476
+ 20
+369.9522850114718
+ 30
+0.0
+ 11
+217.4352329071221
+ 21
+341.5793379614839
+ 31
+0.0
+  0
+LINE
+  5
+7E90
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+14.05176155148592
+ 20
+322.2431784300212
+ 30
+0.0
+ 11
+131.0701951815653
+ 21
+114.3656507861195
+ 31
+0.0
+  0
+ARC
+  5
+7E91
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+2684.146319667463
+ 20
+-589.2773150518949
+ 30
+0.0
+ 40
+2871.600208384307
+100
+AcDbArc
+ 50
+161.5744847625635
+ 51
+166.2044209737385
+  0
+ARC
+  5
+7E92
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1393.951459129852
+ 20
+-3701.463383487991
+ 30
+0.0
+ 40
+4319.508631349118
+100
+AcDbArc
+ 50
+109.9210436555973
+ 51
+112.52542900594
+  0
+ARC
+  5
+7E93
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+841.027864786924
+ 20
+1659.041160521347
+ 30
+0.0
+ 40
+1540.736092604638
+100
+AcDbArc
+ 50
+226.0397585311772
+ 51
+233.8004332777798
+  0
+LINE
+  5
+7E94
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+27.17147087432249
+ 20
+427.8222745201176
+ 30
+0.0
+ 11
+167.3678270791192
+ 21
+572.3067701594787
+ 31
+0.0
+  0
+ARC
+  5
+7E95
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+2336.776723342184
+ 20
+623.5789066396294
+ 30
+0.0
+ 40
+2368.029243681277
+100
+AcDbArc
+ 50
+178.468943978981
+ 51
+184.2194229973006
+  0
+ARC
+  5
+7E96
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+3.807543564932984
+ 20
+427.5492479391189
+ 30
+0.0
+ 40
+222.945249110164
+100
+AcDbArc
+ 50
+71.8790596331644
+ 51
+85.96128112991275
+  0
+ARC
+  5
+7E97
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+84.89782951628013
+ 20
+384.7791780813168
+ 30
+0.0
+ 40
+313.2412885478442
+100
+AcDbArc
+ 50
+159.8373973901845
+ 51
+187.608750545486
+  0
+ARC
+  5
+7E98
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+7.520355462248517
+ 20
+353.0839554541103
+ 30
+0.0
+ 40
+239.217406526696
+100
+AcDbArc
+ 50
+234.337732335172
+ 51
+236.6198182317426
+  0
+ARC
+  5
+7E99
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+23.71241754417587
+ 20
+450.8345113960673
+ 30
+0.0
+ 40
+194.9738798318539
+100
+AcDbArc
+ 50
+50.97828337344817
+ 51
+75.31208090373424
+  0
+ARC
+  5
+7E9A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-158.2501224447687
+ 20
+468.5062440901148
+ 30
+0.0
+ 40
+438.4609704070944
+100
+AcDbArc
+ 50
+316.8880323496939
+ 51
+331.950433631961
+  0
+ARC
+  5
+7E9B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+2336.776723342184
+ 20
+623.5789066396294
+ 30
+0.0
+ 40
+2383.029243681276
+100
+AcDbArc
+ 50
+179.801885238128
+ 51
+183.2685067916196
+  0
+ARC
+  5
+7E9C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+2336.776723342184
+ 20
+623.5789066396294
+ 30
+0.0
+ 40
+2328.029243681278
+100
+AcDbArc
+ 50
+179.594957160872
+ 51
+183.1722107682514
+  0
+ARC
+  5
+7E9D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-50.63228896804549
+ 20
+629.6443056850549
+ 30
+0.0
+ 40
+60.67556435148863
+100
+AcDbArc
+ 50
+11.12837351795748
+ 51
+70.52878742434789
+  0
+ARC
+  5
+7E9E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+18.17666129224517
+ 20
+643.0807104577739
+ 30
+0.0
+ 40
+65.39200336945019
+100
+AcDbArc
+ 50
+137.9843430663299
+ 51
+189.9169894312159
+  0
+ARC
+  5
+7E9F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-17.23075483033562
+ 20
+388.4569926687646
+ 30
+0.0
+ 40
+102.3885567499415
+100
+AcDbArc
+ 50
+104.2165312868754
+ 51
+124.7195611088815
+  0
+LINE
+  5
+7EA0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-42.37606204631492
+ 20
+487.7098519643539
+ 30
+0.0
+ 11
+-27.83349617661087
+ 21
+452.1815611270696
+ 31
+0.0
+  0
+LINE
+  5
+7EA1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-19.15166762387252
+ 20
+451.1496836901472
+ 30
+0.0
+ 11
+12.31467013670453
+ 21
+494.75219107552
+ 31
+0.0
+  0
+ARC
+  5
+7EA2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-23.20613873129559
+ 20
+454.0756474696792
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+202.2604407753592
+ 51
+324.1833915007701
+  0
+ARC
+  5
+7EA3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+3.807543564932984
+ 20
+427.5492479391189
+ 30
+0.0
+ 40
+222.945249110164
+100
+AcDbArc
+ 50
+106.3782606116476
+ 51
+139.090478945088
+  0
+LINE
+  5
+7EA4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+43.17229100388522
+ 20
+480.2126185496504
+ 30
+0.0
+ 11
+156.758523363153
+ 21
+597.2730753137441
+ 31
+0.0
+  0
+LINE
+  5
+7EA5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+85.14765399883208
+ 20
+430.131576526108
+ 30
+0.0
+ 11
+181.7938117191042
+ 21
+529.7338182084913
+ 31
+0.0
+  0
+LINE
+  5
+7EA6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+43.17229100388522
+ 20
+480.2126185496576
+ 30
+0.0
+ 11
+26.70489568041148
+ 21
+432.0502392758172
+ 31
+0.0
+  0
+LINE
+  5
+7EA7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+31.87352516593591
+ 20
+425.4517909325343
+ 30
+0.0
+ 11
+85.14765399883208
+ 21
+430.1315765261151
+ 31
+0.0
+  0
+ARC
+  5
+7EA8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+31.43599255969411
+ 20
+430.4326106661165
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+161.1237197970404
+ 51
+275.0201752103852
+  0
+SPLINE
+  5
+7EA9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+5.73904926127971
+ 40
+5.73904926127971
+ 40
+5.73904926127971
+ 40
+5.73904926127971
+ 40
+6.030264192484622
+ 40
+6.030264192484622
+ 40
+6.030264192484622
+ 40
+6.030264192484622
+ 10
+43.17229100215127
+ 20
+480.212618544634
+ 30
+0.0
+ 10
+33.86166770440104
+ 20
+486.5133868380696
+ 30
+0.0
+ 10
+23.52198441497057
+ 20
+491.488493556254
+ 30
+0.0
+ 10
+12.31467012587563
+ 20
+494.7521910786676
+ 30
+0.0
+  0
+LINE
+  5
+7EAA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+95.60949161309009
+ 20
+392.0614592290618
+ 30
+0.0
+ 11
+213.5755430140602
+ 21
+372.6201115206464
+ 31
+0.0
+  0
+LINE
+  5
+7EAB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+86.2638621076435
+ 20
+332.7923041111873
+ 30
+0.0
+ 11
+220.4853920266609
+ 21
+310.671978796222
+ 31
+0.0
+  0
+LINE
+  5
+7EAC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+95.60949161309009
+ 20
+392.061459229069
+ 30
+0.0
+ 11
+48.40802180459149
+ 21
+373.8204142454009
+ 31
+0.0
+  0
+LINE
+  5
+7EAD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+47.02039657002024
+ 20
+365.3063579245028
+ 30
+0.0
+ 11
+86.2638621076435
+ 21
+332.7923041111873
+ 31
+0.0
+  0
+ARC
+  5
+7EAE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+50.2103718446856
+ 20
+369.1565602239919
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+111.1290636251872
+ 51
+230.3575222552584
+  0
+SPLINE
+  5
+7EAF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+4.810927973795617
+ 40
+4.810927973795617
+ 40
+4.810927973795617
+ 40
+4.810927973795617
+ 40
+5.161888374164931
+ 40
+5.161888374164931
+ 40
+5.161888374164931
+ 40
+5.161888374164931
+ 10
+95.60949161280632
+ 20
+392.0614592290334
+ 30
+0.0
+ 10
+94.2698834313669
+ 20
+405.1163736904968
+ 30
+0.0
+ 10
+90.68841662991735
+ 20
+418.0314816625454
+ 30
+0.0
+ 10
+85.14765399871839
+ 20
+430.1315765260724
+ 30
+0.0
+  0
+LINE
+  5
+7EB0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+20.21103683827687
+ 20
+270.5300732664213
+ 30
+0.0
+ 11
+92.63182087099222
+ 21
+141.8780902605476
+ 31
+0.0
+  0
+ARC
+  5
+7EB1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+98.53677925011153
+ 20
+153.6112920302415
+ 30
+0.0
+ 40
+50.97689191026395
+100
+AcDbArc
+ 50
+309.6576753423555
+ 51
+17.49444402766179
+  0
+ARC
+  5
+7EB2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+135.2403590102835
+ 20
+160.7997473133338
+ 30
+0.0
+ 40
+46.62098913572745
+100
+AcDbArc
+ 50
+203.9451143095631
+ 51
+264.8681261027776
+  0
+LINE
+  5
+7EB3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+12.95054127854291
+ 20
+318.2918774700951
+ 30
+0.0
+ 11
+20.21103683827687
+ 21
+270.5300732664284
+ 31
+0.0
+  0
+SPLINE
+  5
+7EB4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+4.007660924332986
+ 40
+4.007660924332986
+ 40
+4.007660924332986
+ 40
+4.007660924332986
+ 40
+4.273637063675039
+ 40
+4.273637063675039
+ 40
+4.273637063675039
+ 40
+4.273637063675039
+ 10
+70.80764652425933
+ 20
+306.5875394388229
+ 30
+0.0
+ 10
+77.08337940565115
+ 20
+314.6682030772325
+ 30
+0.0
+ 10
+82.25916385401978
+ 20
+323.5054596382056
+ 30
+0.0
+ 10
+86.26386210761529
+ 20
+332.7923041112015
+ 30
+0.0
+  0
+ARC
+  5
+7EB5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+290.7352174897832
+ 20
+105.3839818237492
+ 30
+0.0
+ 40
+344.3656691355038
+100
+AcDbArc
+ 50
+152.5424704477567
+ 51
+175.8725712403299
+  0
+ARC
+  5
+7EB6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-111.8651499870388
+ 20
+162.4589131179803
+ 30
+0.0
+ 40
+67.36983826156706
+100
+AcDbArc
+ 50
+276.1771811738415
+ 51
+331.3613993550184
+  0
+ARC
+  5
+7EB7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-41.70508014308825
+ 20
+131.7024804021187
+ 30
+0.0
+ 40
+72.59356587404562
+100
+AcDbArc
+ 50
+157.8346956532237
+ 51
+209.9320956738419
+  0
+ARC
+  5
+7EB8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+2684.146319667463
+ 20
+-589.2773150518949
+ 30
+0.0
+ 40
+2891.600208384307
+100
+AcDbArc
+ 50
+162.1039772321638
+ 51
+165.0006831999063
+  0
+LINE
+  5
+7EB9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-36.67316167223953
+ 20
+315.4209205086289
+ 30
+0.0
+ 11
+-14.83864398556898
+ 21
+264.1678892726773
+ 31
+0.0
+  0
+LINE
+  5
+7EBA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-44.35098407119994
+ 20
+317.4016785442077
+ 30
+0.0
+ 11
+-67.54594371793018
+ 21
+299.2841362575191
+ 31
+0.0
+  0
+ARC
+  5
+7EBB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+412.3757763498765
+ 20
+406.036297740755
+ 30
+0.0
+ 40
+355.7510967500043
+100
+AcDbArc
+ 50
+196.2331041074234
+ 51
+221.7771533647916
+  0
+LINE
+  5
+7EBC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+70.80764652423067
+ 20
+306.5875394388015
+ 30
+0.0
+ 11
+19.48222765551645
+ 21
+323.7842828879707
+ 31
+0.0
+  0
+ARC
+  5
+7EBD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+17.89375247122507
+ 20
+319.0433181560905
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+71.47641238477809
+ 51
+188.6436248943445
+  0
+SPLINE
+  5
+7EBE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+     8
+ 73
+     4
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+3.185212540235048
+ 40
+3.185212540235048
+ 40
+3.185212540235048
+ 40
+3.185212540235048
+ 40
+3.47520891706689
+ 40
+3.47520891706689
+ 40
+3.47520891706689
+ 40
+3.47520891706689
+ 10
+-14.83864398556898
+ 20
+264.1678892726702
+ 30
+0.0
+ 10
+-2.894839783947645
+ 20
+264.5833426262171
+ 30
+0.0
+ 10
+9.019072340493949
+ 20
+266.744289611914
+ 30
+0.0
+ 10
+20.21103683810679
+ 20
+270.5300732669186
+ 30
+0.0
+  0
+ARC
+  5
+7EBF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-41.27313520689222
+ 20
+313.4612665900534
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+23.07469186419991
+ 51
+127.9933326730871
+  0
+ARC
+  5
+7EC0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+7.520355462248517
+ 20
+353.0839554541103
+ 30
+0.0
+ 40
+239.217406526696
+100
+AcDbArc
+ 50
+257.3279191613873
+ 51
+289.4689597898846
+  0
+ARC
+  5
+7EC1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1393.951459129852
+ 20
+-3701.463383487991
+ 30
+0.0
+ 40
+4344.508631349118
+100
+AcDbArc
+ 50
+110.3685580791939
+ 51
+111.6937625063516
+  0
+ARC
+  5
+7EC2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1393.951459129852
+ 20
+-3701.463383487991
+ 30
+0.0
+ 40
+4284.508631349119
+100
+AcDbArc
+ 50
+110.278956007794
+ 51
+111.8151108048332
+  0
+ARC
+  5
+7EC3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-194.3095222099195
+ 20
+268.0162293590627
+ 30
+0.0
+ 40
+69.59947047647158
+100
+AcDbArc
+ 50
+104.7052109115204
+ 51
+162.8768107173599
+  0
+ARC
+  5
+7EC4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-222.5370019252173
+ 20
+317.9772574463513
+ 30
+0.0
+ 40
+48.31473310274211
+100
+AcDbArc
+ 50
+217.5851150736215
+ 51
+300.1952340729193
+  0
+ARC
+  5
+7EC5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+84.89782951628013
+ 20
+384.7791780813168
+ 30
+0.0
+ 40
+313.2412885478442
+100
+AcDbArc
+ 50
+202.8676425256469
+ 51
+226.1911533279637
+  0
+LINE
+  5
+7EC6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-77.36173200316807
+ 20
+355.2464674922646
+ 30
+0.0
+ 11
+-91.02133092818485
+ 21
+317.4755342976922
+ 31
+0.0
+  0
+LINE
+  5
+7EC7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-80.81873173682561
+ 20
+361.7894277436661
+ 30
+0.0
+ 11
+-118.1879936557084
+ 21
+371.3967323515348
+ 31
+0.0
+  0
+ARC
+  5
+7EC8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-17.23075483033562
+ 20
+388.4569926687646
+ 30
+0.0
+ 40
+102.3885567499415
+100
+AcDbArc
+ 50
+223.8883875570734
+ 51
+240.5664258795128
+  0
+ARC
+  5
+7EC9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-82.06370183842091
+ 20
+356.9469026331333
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+340.1178236164046
+ 51
+75.58200851540103
+  0
+ARC
+  5
+7ECA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+841.027864786924
+ 20
+1659.041160521347
+ 30
+0.0
+ 40
+1555.736092604638
+100
+AcDbArc
+ 50
+228.3385612961731
+ 51
+232.2922008757301
+  0
+ARC
+  5
+7ECB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+263.3239677111027
+ 20
+905.681683728865
+ 30
+0.0
+ 40
+549.8910994253505
+100
+AcDbArc
+ 50
+218.8522993521724
+ 51
+231.9570934608326
+  0
+ARC
+  5
+7ECC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-188.6250564639899
+ 20
+507.7450290365064
+ 30
+0.0
+ 40
+58.08055708900252
+100
+AcDbArc
+ 50
+65.95420897171138
+ 51
+133.3410243479529
+  0
+ARC
+  5
+7ECD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-109.6446643999502
+ 20
+590.6259487562835
+ 30
+0.0
+ 40
+125.5999759062433
+100
+AcDbArc
+ 50
+198.8787780490484
+ 51
+228.3516496017151
+  0
+ARC
+  5
+7ECE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-125.8368216213616
+ 20
+437.934622989978
+ 30
+0.0
+ 40
+61.08838367326608
+100
+AcDbArc
+ 50
+338.6770545299897
+ 51
+34.59082828524631
+  0
+ARC
+  5
+7ECF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-72.99652493747908
+ 20
+477.5572557114244
+ 30
+0.0
+ 40
+61.96941105318561
+100
+AcDbArc
+ 50
+231.8066493239139
+ 51
+273.7623510554239
+  0
+ARC
+  5
+7ED0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-17.23075483033562
+ 20
+388.4569926687646
+ 30
+0.0
+ 40
+102.3885567499415
+100
+AcDbArc
+ 50
+156.7625011976124
+ 51
+189.5915148411901
+  0
+ARC
+  5
+7ED1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+83.91763012565524
+ 20
+136.9726973451577
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+289.4689597898296
+ 51
+29.37603380643767
+  0
+ARC
+  5
+7ED2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-42.76325463101102
+ 20
+129.4499285020123
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+175.8725712403364
+ 51
+257.3279191614404
+  0
+ARC
+  5
+7ED3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-118.5932138409093
+ 20
+161.678660092555
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+236.6198182318024
+ 51
+345.0006831999173
+  0
+ARC
+  5
+7ED4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-194.5102142797445
+ 20
+266.9385053819937
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+111.8151108048615
+ 51
+202.8676425256435
+  0
+ARC
+  5
+7ED5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-215.6735194719763
+ 20
+344.6276744041867
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+187.6087505454619
+ 51
+291.6937625063239
+  0
+ARC
+  5
+7ED6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-199.7602875163397
+ 20
+489.3020726432055
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+48.3385612961169
+ 51
+159.8373973901761
+  0
+ARC
+  5
+7ED7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-157.1246908947605
+ 20
+566.9999382579432
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+139.0904789450525
+ 51
+218.8522993521756
+  0
+ARC
+  5
+7ED8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-56.23821474210808
+ 20
+631.8533987239832
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+359.8018852381146
+ 51
+106.3782606115667
+  0
+ARC
+  5
+7ED9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+18.80540168880952
+ 20
+639.9656864985843
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+85.9612811299651
+ 51
+179.5949571608789
+  0
+ARC
+  5
+7EDA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+154.5347589159014
+ 20
+175.6847606665559
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+221.7771533648442
+ 51
+316.8880323497307
+  0
+ARC
+  5
+7EDB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+140.1747292984232
+ 20
+594.5420830912696
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+315.8629794050265
+ 51
+50.97828337350942
+  0
+CIRCLE
+  5
+7EDC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+10.76171527421456
+ 20
+453.6951974843574
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+7EDD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-48.88945361832838
+ 20
+449.69514105928
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+7EDE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-83.69494680741127
+ 20
+392.5005452267101
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+7EDF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-70.78780567448347
+ 20
+321.1805370619913
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+7EE0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-5.506616661448333
+ 20
+302.704967430408
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+7EE1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+46.04812504160918
+ 20
+335.4501993672017
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+7EE2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+51.87681510497668
+ 20
+403.0692180922343
+ 30
+0.0
+ 40
+5.0
+  0
+ARC
+  5
+7EE3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+55.977640577084
+ 20
+249.3578369439504
+ 30
+0.0
+ 40
+125.763637442996
+100
+AcDbArc
+ 50
+234.4272794973303
+ 51
+284.3984976967325
+  0
+ARC
+  5
+7EE4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+238.778929833274
+ 20
+143.1802652152143
+ 30
+0.0
+ 40
+260.4336688151444
+100
+AcDbArc
+ 50
+158.6733288275885
+ 51
+177.2493914029255
+  0
+ARC
+  5
+7EE5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-11.36620854293733
+ 20
+155.1982610117335
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+177.2493914029414
+ 51
+234.4272794973018
+  0
+ARC
+  5
+7EE6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+61.56283212485004
+ 20
+342.7593932463537
+ 30
+0.0
+ 40
+175.1450243493353
+100
+AcDbArc
+ 50
+208.3611057365463
+ 51
+213.6339932967878
+  0
+ARC
+  5
+7EE7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+62.39371565701048
+ 20
+359.9525795856592
+ 30
+0.0
+ 40
+192.2033527728538
+100
+AcDbArc
+ 50
+292.4459667597119
+ 51
+329.6864444775265
+  0
+ARC
+  5
+7EE8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+46.33819513026174
+ 20
+359.0781982559292
+ 30
+0.0
+ 40
+229.1224892321888
+100
+AcDbArc
+ 50
+68.07795812785876
+ 51
+91.13579703457864
+  0
+ARC
+  5
+7EE9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+56.2598848478624
+ 20
+378.1867442077029
+ 30
+0.0
+ 40
+152.1105725046318
+100
+AcDbArc
+ 50
+77.78962092625194
+ 51
+96.65321260017311
+  0
+LINE
+  5
+7EEA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+36.9109396804115
+ 20
+583.547796670281
+ 30
+0.0
+ 11
+33.07242689945224
+ 21
+534.630413994691
+ 31
+0.0
+  0
+ARC
+  5
+7EEB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+41.89561682858403
+ 20
+583.1566525432733
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+91.13579703470895
+ 51
+175.5132341946127
+  0
+ARC
+  5
+7EEC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+38.05710404762476
+ 20
+534.239269867676
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+175.5132341945319
+ 51
+276.653212600147
+  0
+ARC
+  5
+7EED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+54.04454767952529
+ 20
+336.3837757965769
+ 30
+0.0
+ 40
+108.5446289446547
+100
+AcDbArc
+ 50
+242.0561450358149
+ 51
+264.6793976416258
+  0
+ARC
+  5
+7EEE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-6.920396721283395
+ 20
+373.5075412351847
+ 30
+0.0
+ 40
+179.2734668352179
+100
+AcDbArc
+ 50
+322.6521283020681
+ 51
+342.6187638828033
+  0
+LINE
+  5
+7EEF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+158.7821780074714
+ 20
+449.7736862078625
+ 30
+0.0
+ 11
+192.8254270972342
+ 21
+484.8472155210289
+ 31
+0.0
+  0
+ARC
+  5
+7EF0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+0.8368392899465106
+ 20
+236.077631766868
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+62.05614503572853
+ 51
+158.6733288275725
+  0
+ARC
+  5
+7EF1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+54.04454767952529
+ 20
+336.3837757965769
+ 30
+0.0
+ 40
+108.5446289446547
+100
+AcDbArc
+ 50
+294.4823506603924
+ 51
+318.7046702183179
+  0
+ARC
+  5
+7EF2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-6.920396721283395
+ 20
+373.5075412351847
+ 30
+0.0
+ 40
+179.2734668352179
+100
+AcDbArc
+ 50
+1.893126664883592
+ 51
+23.26451214043753
+  0
+ARC
+  5
+7EF3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+162.3700153012073
+ 20
+446.2912411538867
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+135.8540087992114
+ 51
+203.2645121405042
+  0
+ARC
+  5
+7EF4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-31.27799682505292
+ 20
+338.1343043742006
+ 30
+0.0
+ 40
+86.66013976808395
+100
+AcDbArc
+ 50
+233.5334041137671
+ 51
+237.1544404454193
+  0
+LINE
+  5
+7EF5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+-89.35065963998932
+ 20
+267.8968899709772
+ 30
+0.0
+ 11
+-91.75398541122968
+ 21
+265.4119106862822
+ 31
+0.0
+  0
+ARC
+  5
+7EF6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+61.56283212485004
+ 20
+342.7593932463537
+ 30
+0.0
+ 40
+175.1450243493353
+100
+AcDbArc
+ 50
+242.9862158002562
+ 51
+275.2943043376686
+  0
+ARC
+  5
+7EF7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-85.75657008060398
+ 20
+264.4208979917693
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+53.53340411389667
+ 51
+135.9569710982028
+  0
+ARC
+  5
+7EF8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-88.15989585190118
+ 20
+261.9359187070813
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+135.9569710978183
+ 51
+208.3611057365827
+  0
+ARC
+  5
+7EF9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+57.68869702473103
+ 20
+77.09571271245611
+ 30
+0.0
+ 40
+70.01481355065585
+100
+AcDbArc
+ 50
+103.1402896808748
+ 51
+129.5099372704744
+  0
+ARC
+  5
+7EFA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+54.64907680973965
+ 20
+95.27864541255585
+ 30
+0.0
+ 40
+43.45679275784354
+100
+AcDbArc
+ 50
+104.1586576203098
+ 51
+117.2679740108862
+  0
+ARC
+  5
+7EFB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+64.91020258360504
+ 20
+117.8818315596359
+ 30
+0.0
+ 40
+36.56572311530062
+100
+AcDbArc
+ 50
+164.4187651239639
+ 51
+166.4594749098344
+  0
+LINE
+  5
+7EFC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+41.52125890164007
+ 20
+146.1537347806256
+ 30
+0.0
+ 11
+44.26974669712627
+ 21
+136.538860114932
+ 31
+0.0
+  0
+LINE
+  5
+7EFD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+52.51037746504107
+ 20
+144.0947852434391
+ 30
+0.0
+ 11
+42.89550279935474
+ 21
+141.3462974477752
+ 31
+0.0
+  0
+LINE
+  5
+7EFE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+52.13839872698236
+ 20
+145.0285073449038
+ 30
+0.0
+ 11
+42.62065401980044
+ 21
+142.3077849143439
+ 31
+0.0
+  0
+LINE
+  5
+7EFF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+51.55933166835848
+ 20
+145.9030316157807
+ 30
+0.0
+ 11
+42.34580524024614
+ 21
+143.2692723809126
+ 31
+0.0
+  0
+LINE
+  5
+7F00
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+50.72434365976687
+ 20
+146.7043988635765
+ 30
+0.0
+ 11
+42.07095646069183
+ 21
+144.2307598474812
+ 31
+0.0
+  0
+LINE
+  5
+7F01
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+49.48800741362993
+ 20
+147.3910375505696
+ 30
+0.0
+ 11
+41.79610768113753
+ 21
+145.1922473140499
+ 31
+0.0
+  0
+LINE
+  5
+7F02
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+46.32869623438409
+ 20
+147.5279786784398
+ 30
+0.0
+ 11
+41.52125890158322
+ 21
+146.1537347806185
+ 31
+0.0
+  0
+LINE
+  5
+7F03
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+52.68809628609097
+ 20
+143.1055324117736
+ 30
+0.0
+ 11
+43.17035157890905
+ 21
+140.3848099812066
+ 31
+0.0
+  0
+LINE
+  5
+7F04
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+52.65872678660435
+ 20
+142.0570817495061
+ 30
+0.0
+ 11
+43.44520035846335
+ 21
+139.4233225146379
+ 31
+0.0
+  0
+LINE
+  5
+7F05
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+52.37343633714999
+ 20
+140.9354740641717
+ 30
+0.0
+ 11
+43.72004913801766
+ 21
+138.4618350480693
+ 31
+0.0
+  0
+LINE
+  5
+7F06
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+51.6867976501494
+ 20
+139.6991378180416
+ 30
+0.0
+ 11
+43.99489791757196
+ 21
+137.5003475815006
+ 31
+0.0
+  0
+LINE
+  5
+7F07
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+49.07718403004082
+ 20
+137.9131040127888
+ 30
+0.0
+ 11
+44.26974669712627
+ 21
+136.538860114932
+ 31
+0.0
+  0
+ARC
+  5
+7F08
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+47.702940132212
+ 20
+142.7205413456249
+ 30
+0.0
+ 40
+4.999999999964091
+100
+AcDbArc
+ 50
+285.9530026179997
+ 51
+105.9530026180549
+  0
+ARC
+  5
+7F09
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+39.32075412089443
+ 20
+125.0175005550744
+ 30
+0.0
+ 40
+10.0
+100
+AcDbArc
+ 50
+117.2679740108877
+ 51
+164.4187651239608
+  0
+LWPOLYLINE
+  5
+7F0A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+636.1858662208996
+ 20
+1061.684651230422
+ 42
+0.016230762205767
+ 10
+536.0464684712565
+ 20
+1144.095640218068
+ 42
+0.0149635255142209
+  0
+LWPOLYLINE
+  5
+7F0B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+-1907.251504007347
+ 20
+815.3764236333742
+ 42
+0.0492892624352932
+ 10
+-1925.517697116958
+ 20
+792.2094776194512
+ 42
+0.0435094468198788
+  0
+ARC
+  5
+7F0C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1771.685499690334
+ 20
+175.6543700163959
+ 30
+0.0
+ 40
+113.8783483216338
+100
+AcDbArc
+ 50
+271.7193982425262
+ 51
+301.7033448241724
+  0
+ARC
+  5
+7F0D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-1309.609903416457
+ 20
+-66.32678903878994
+ 30
+0.0
+ 40
+283.6048604502184
+100
+AcDbArc
+ 50
+110.0725393142132
+ 51
+110.7772606712434
+  0
+LWPOLYLINE
+  5
+7F0E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+-664.0812062225895
+ 20
+208.7817772856795
+ 42
+0.0009247284507545
+ 10
+-496.7055558217898
+ 20
+208.0672927687743
+  0
+ARC
+  5
+7F0F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-495.4834129646592
+ 20
+294.5145968000986
+ 30
+0.0
+ 40
+189.1436814516337
+100
+AcDbArc
+ 50
+270.0
+ 51
+320.409593350576
+  0
+LWPOLYLINE
+  5
+7F10
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     0
+ 43
+0.0
+ 10
+1365.139804430641
+ 20
+920.2931732017418
+ 42
+0.0137880166711823
+ 10
+1357.652898439
+ 20
+925.4968469559159
+ 42
+0.0137880166711823
+  0
+ARC
+  5
+7F11
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-241.8539776794819
+ 20
+-6695.326152862453
+ 30
+0.0
+ 40
+7806.546648953705
+100
+AcDbArc
+ 50
+83.5092197865115
+ 51
+83.60632823434661
+  0
+LINE
+  5
+7F12
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbLine
+ 10
+1507.403991890016
+ 20
+792.6237873406023
+ 30
+0.0
+ 11
+1511.633810684487
+ 21
+788.1290911656151
+ 31
+0.0
+  0
+ARC
+  5
+7F13
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+429.3212961970889
+ 20
+-582.9176631751948
+ 30
+0.0
+ 40
+792.1434141902145
+100
+AcDbArc
+ 50
+89.97323001428378
+ 51
+102.5629738862734
+  0
+ARC
+  5
+7F14
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1590.50364602976
+ 20
+741.4380352619077
+ 30
+0.0
+ 40
+14.99999959700302
+100
+AcDbArc
+ 50
+95.98425233031376
+ 51
+96.51507712999148
+  0
+ARC
+  5
+7F15
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+1192.703813537463
+ 20
+389.4995456234013
+ 30
+0.0
+ 40
+327.6723253084284
+100
+AcDbArc
+ 50
+270.0385329076274
+ 51
+332.7973504324457
+  0
+LWPOLYLINE
+  5
+7F16
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbPolyline
+ 90
+       53
+ 70
+     0
+ 43
+0.0
+ 10
+1284.644773414045
+ 20
+61.82729441665205
+ 42
+0.2869430105206399
+ 10
+1579.384409559225
+ 20
+245.8728737816429
+ 42
+0.0003020683175202
+ 10
+1598.812759871493
+ 20
+247.1999614540507
+ 42
+0.3475510111380947
+ 10
+1666.755166848447
+ 20
+325.1378068450919
+ 42
+0.0162302157248445
+ 10
+1671.216271099582
+ 20
+419.9371918997912
+ 42
+0.1094955279596871
+ 10
+1604.200627272036
+ 20
+747.5529924307338
+ 42
+0.3245631810280036
+ 10
+1588.939819327465
+ 20
+756.3562936708265
+ 42
+0.0109645936890742
+ 10
+1584.147490269317
+ 20
+765.678537916564
+ 42
+0.3064873912995774
+ 10
+1579.175312123852
+ 20
+768.2622341386604
+ 42
+-0.0013927056084639
+ 10
+1574.6514096017
+ 20
+767.7498460742953
+ 42
+0.1656939081756486
+ 10
+1422.490174113591
+ 20
+900.4432088367908
+ 42
+0.0111723650217815
+ 10
+1357.65289844062
+ 20
+925.4968469548927
+ 42
+0.0580320382619791
+ 10
+1336.779548502591
+ 20
+935.4731700091747
+ 42
+0.0454253009650553
+ 10
+1074.189717805837
+ 20
+999.4902565151946
+ 42
+0.01402723554117
+ 10
+640.624059599731
+ 20
+1061.180992496865
+ 42
+0.0169551362178949
+ 10
+654.6904471721299
+ 20
+1067.300717670107
+ 42
+0.3496546771020137
+ 10
+660.1537606831593
+ 20
+1078.501924810296
+ 42
+0.0418798778212899
+ 10
+650.1937296229994
+ 20
+1110.400237527045
+ 42
+0.2161613783038525
+ 10
+638.2035353081232
+ 20
+1121.765854023713
+ 42
+0.058914293264381
+ 10
+536.046468475491
+ 20
+1144.095640214807
+ 42
+0.0376282105598054
+ 10
+284.9914254897226
+ 20
+1308.904624481378
+ 42
+0.0793744639891292
+ 10
+77.55015420031077
+ 20
+1376.4429386908
+ 42
+0.0577632283500794
+ 10
+-824.2636670885863
+ 20
+1400.703610290186
+ 42
+0.0693017437095262
+ 10
+-1029.696572159422
+ 20
+1359.049921338332
+ 42
+0.0460086529235275
+ 10
+-1531.268215327144
+ 20
+1109.292217807279
+ 42
+-0.0446770325514667
+ 10
+-1725.551643453854
+ 20
+1007.650555593869
+ 42
+0.0541805817767799
+ 10
+-1799.473505990192
+ 20
+964.0103102680514
+ 42
+0.9107768760755805
+ 10
+-1798.435682978861
+ 20
+962.3108430764446
+ 42
+0.1384954476055718
+ 10
+-1925.517697116958
+ 20
+792.2094776194512
+ 42
+0.0527538401381308
+ 10
+-1939.636796499143
+ 20
+763.9788870479335
+ 42
+0.0587358901661862
+ 10
+-1972.360158629384
+ 20
+627.7752702214982
+ 42
+0.0662558738153344
+ 10
+-1968.98461927526
+ 20
+383.8434649444338
+ 42
+0.0761431067285606
+ 10
+-1955.729388910923
+ 20
+334.6495079080398
+ 42
+0.7689509511700021
+ 10
+-1951.91018333628
+ 20
+335.2479688771268
+ 10
+-1952.019972663492
+ 20
+360.0545518285969
+ 42
+0.0632880903715323
+ 10
+-1925.048412650823
+ 20
+212.8732274950948
+ 42
+0.1626207938516101
+ 10
+-1837.203493057415
+ 20
+82.51108919800035
+ 42
+0.1621543761729344
+ 10
+-1768.268618528593
+ 20
+61.82729441665205
+ 10
+-1553.574958318249
+ 20
+61.82729441664495
+ 42
+0.1156227472259748
+ 10
+-1505.94344071345
+ 20
+78.76889964862247
+ 42
+0.102603497911329
+ 10
+-1406.945804662739
+ 20
+200.0515869596384
+ 42
+-0.092921458733811
+ 10
+-1303.856045877153
+ 20
+217.2196974398943
+ 42
+0.0035349881812276
+ 10
+-664.0812062218223
+ 20
+208.7817772856795
+ 42
+0.2822479140627768
+ 10
+-495.4834129646592
+ 20
+105.3709153484732
+ 10
+-373.5598015593655
+ 20
+105.3709153484661
+ 42
+0.1483676790103296
+ 10
+-268.4576963812892
+ 20
+137.2604085563011
+ 42
+0.2405210189356146
+ 10
+-0.000000001022272
+ 20
+0.0000000000000284
+ 10
+124.3962191944101
+ 20
+-0.0052935085790011
+ 42
+0.2977384481662063
+ 10
+429.6914049083975
+ 20
+209.2256645531094
+ 42
+-0.003500937724952
+ 10
+440.7839385805809
+ 20
+209.1428120882313
+ 42
+0.0073656527952648
+ 10
+915.5721332967354
+ 20
+214.6647997854671
+ 42
+0.2572887373464912
+ 10
+1192.481633461711
+ 20
+61.82729441665205
+ 10
+1285.089126625565
+ 20
+61.82729441665205
+  0
+ARC
+  5
+7F17
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+490.7646366382046
+ 20
+16325.96895753369
+ 30
+0.0
+ 40
+16116.90364408413
+100
+AcDbArc
+ 50
+271.5103705008546
+ 51
+273.8730047482313
+  0
+ARC
+  5
+7F18
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 221 Nissan Z350 - sideway 1
+100
+AcDbCircle
+ 10
+-9.728698285186055
+ 20
+341.0477897374733
+ 30
+0.0
+ 40
+341.1865215027113
+100
+AcDbArc
+ 50
+271.6339710978692
+ 51
+335.332225485006
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_IMAGE_DICT
+350
+7CBE
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+AcDbVariableDictionary
+350
+115
+  3
+DWGPROPS
+350
+8E3
+  0
+DICTIONARY
+  5
+90B
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_LAYERFILTERS
+360
+7A67
+  3
+ACAD_LAYERSTATES
+360
+90C
+  0
+DICTIONARY
+  5
+7A72
+330
+7A71
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+7A73
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+7CBE
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+3350z_gal_med15
+350
+7CBF
+  3
+350z3
+350
+7CC0
+  3
+frontal 3
+350
+7CC1
+  3
+frontal 4
+350
+7CC2
+  3
+latera3
+350
+7CC3
+  3
+lateral2
+350
+7CC4
+  3
+lateral3
+350
+7CC5
+  3
+nissan_350_z_11
+350
+7CC6
+  3
+nissan_z350_02
+350
+7CC7
+  3
+nissan_z350_05
+350
+7CC8
+  3
+pho_gallery_MZ3_ext18_popup
+350
+7CC9
+  3
+pho_gallery_MZ3_ext19_popup
+350
+7CCA
+  3
+rear1
+350
+7CCB
+  3
+sideview
+350
+7CCC
+  3
+sideview_1
+350
+7CCD
+  3
+sideview_2
+350
+7CCE
+  3
+skidazzle2
+350
+7CCF
+  3
+skidazzle3
+350
+7CD0
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+1E
+  3
+Layout2
+350
+26
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+115
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+117
+  3
+HIDETEXT
+350
+116
+  0
+XRECORD
+  5
+8E3
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbXrecord
+280
+     1
+  1
+DWGPROPS COOKIE
+  2
+Ceco.NET-Trees-and-Plants - T - xx . 67 . dwg
+  3
+
+  4
+ceco.net
+  6
+
+  7
+
+  8
+peacosta
+  9
+
+300
+=
+301
+=
+302
+=
+303
+=
+304
+=
+305
+=
+306
+=
+307
+=
+308
+=
+309
+=
+ 40
+0.0450312037037037
+ 41
+2455079.811409143
+ 42
+2455838.656599502
+  1
+
+ 90
+        0
+  0
+DICTIONARY
+  5
+7A67
+102
+{ACAD_REACTORS
+330
+90B
+102
+}
+330
+90B
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+90C
+102
+{ACAD_REACTORS
+330
+90B
+102
+}
+330
+90B
+100
+AcDbDictionary
+281
+     1
+  0
+XRECORD
+  5
+7A73
+102
+{ACAD_REACTORS
+330
+7A72
+102
+}
+330
+7A72
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+IMAGEDEF
+  5
+7CBF
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\3350z_gal_med15.jpg
+ 10
+329.0
+ 20
+227.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CC0
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\350z3.jpg
+ 10
+800.0
+ 20
+600.0
+ 11
+0.00125
+ 21
+0.00125
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7CC1
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\frontal 3.jpg
+ 10
+444.0
+ 20
+333.0
+ 11
+0.254
+ 21
+0.254
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CC2
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\frontal 4.jpg
+ 10
+2272.0
+ 20
+1712.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CC3
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\latera3.4.jpg
+ 10
+1024.0
+ 20
+768.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CC4
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\lateral2.jpg
+ 10
+640.0
+ 20
+480.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CC5
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\lateral3.jpg
+ 10
+3600.0
+ 20
+2400.0
+ 11
+0.0846666666666667
+ 21
+0.0846666666666667
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CC6
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Fernando\Mis documentos\Mis imágenes\nissan_350_z_11.jpg
+ 10
+639.0
+ 20
+480.0
+ 11
+0.0015649452269171
+ 21
+0.0015649452269171
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7CC7
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\nissan_z350_02.jpg
+ 10
+800.0
+ 20
+600.0
+ 11
+0.0846666666666667
+ 21
+0.0846666666666667
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CC8
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\nissan_z350_05.jpg
+ 10
+1024.0
+ 20
+768.0
+ 11
+0.0846666666666667
+ 21
+0.0846666666666667
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CC9
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\pho_gallery_MZ3_ext18_popup.jpg
+ 10
+675.0
+ 20
+455.0
+ 11
+0.01
+ 21
+0.01
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7CCA
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\pho_gallery_MZ3_ext19_popup.jpg
+ 10
+675.0
+ 20
+455.0
+ 11
+0.01
+ 21
+0.01
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7CCB
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\rear1.jpg
+ 10
+640.0
+ 20
+480.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CCC
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga\Mis documentos\Mis imágenes\z nissan\sideview.jpg
+ 10
+1239.0
+ 20
+463.0
+ 11
+0.0008071025020178
+ 21
+0.0008071025020178
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7CCD
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Download\Fotos Bloques\sideview.jpg
+ 10
+1239.0
+ 20
+463.0
+ 11
+0.3527777777777778
+ 21
+0.3527777777777778
+280
+     1
+281
+     5
+  0
+IMAGEDEF
+  5
+7CCE
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\sideview.jpg
+ 10
+1239.0
+ 20
+463.0
+ 11
+0.0008071025020178
+ 21
+0.0008071025020178
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7CCF
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga\Mis documentos\Mis imágenes\z nissan\skidazzle2.jpg
+ 10
+1024.0
+ 20
+768.0
+ 11
+0.0009765625
+ 21
+0.0009765625
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+7CD0
+102
+{ACAD_REACTORS
+330
+7CBE
+102
+}
+330
+7CBE
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Documents and Settings\Edwin Quiroga Prada\Mis documentos\Fotos Bloques\skidazzle3.jpg
+ 10
+1024.0
+ 20
+768.0
+ 11
+0.0009765625
+ 21
+0.0009765625
+280
+     1
+281
+     0
+  0
+LAYOUT
+  5
+1E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+Microsoft Office Document Image Writer
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1.000000000000000E+20
+ 24
+1.000000000000000E+20
+ 34
+1.000000000000000E+20
+ 15
+-1.000000000000000E+20
+ 25
+-1.000000000000000E+20
+ 35
+-1.000000000000000E+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1B
+  0
+LAYOUT
+  5
+26
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+Microsoft Office Document Image Writer
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+23
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+Microsoft Office Document Image Writer
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+  1712
+ 72
+     0
+ 73
+     0
+ 74
+     0
+  7
+
+ 75
+     0
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARYVAR
+  5
+117
+102
+{ACAD_REACTORS
+330
+115
+102
+}
+330
+115
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+116
+102
+{ACAD_REACTORS
+330
+115
+102
+}
+330
+115
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF
