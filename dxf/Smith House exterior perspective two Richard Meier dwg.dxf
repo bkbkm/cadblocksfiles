@@ -1,0 +1,11538 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    13
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-3292.949476618371
+ 20
+-2262.159564088451
+ 30
+-0.0015258207003583
+  9
+$EXTMAX
+ 10
+16478.92252535509
+ 20
+12772.55799275857
+ 30
+0.0000000349246037
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+ceco.net 453 Smith House exterior perspective two
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+10.0
+  9
+$CHAMFERB
+ 40
+10.0
+  9
+$CHAMFERC
+ 40
+20.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2457858.695660799
+  9
+$TDUCREATE
+ 40
+2457858.820660799
+  9
+$TDUPDATE
+ 40
+2458386.973709513
+  9
+$TDUUPDATE
+ 40
+2458387.098709513
+  9
+$TDINDWG
+ 40
+0.0040594907
+  9
+$TDUSRTIMER
+ 40
+0.0040594792
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+36D
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+26.66999878883362
+ 20
+20.31999878883362
+ 30
+0.0
+  9
+$PEXTMAX
+ 10
+240.0299890995025
+ 20
+182.8799890995025
+ 30
+0.0
+  9
+$PLIMMIN
+ 10
+-6.350006103515625
+ 20
+-6.349999904632568
+  9
+$PLIMMAX
+ 10
+273.0499877929687
+ 20
+209.5499939918517
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{FDEAD578-A652-11D2-9A35-0060089B3A3F}
+  9
+$VERSIONGUID
+  2
+{E3C6F9D7-D530-4750-9F17-67B87880B5E7}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     4
+  0
+VPORT
+  5
+36C
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+6580.934133360337
+ 22
+5255.199179331771
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+15144.07233790851
+ 41
+2.25703794369645
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+B8
+102
+}
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+8E
+102
+{ACAD_XDICTIONARY
+360
+8F
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net Smith House text
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    15
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+LAYER
+  5
+91
+102
+{ACAD_XDICTIONARY
+360
+92
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net 453 Smith House exterior perspective two
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    15
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+STYLE
+  5
+94
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+ceco.net
+ 70
+     0
+ 40
+300.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+300.0
+  3
+arial.ttf
+  4
+
+1001
+ACAD
+1000
+Arial
+1071
+       34
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    35
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+96
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+APPID
+  5
+97
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+98
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+RAK
+ 70
+     0
+  0
+APPID
+  5
+99
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+     0
+  0
+APPID
+  5
+9A
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMARC_LENGTH_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+9B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMEXT_ENABLED
+ 70
+     0
+  0
+APPID
+  5
+9C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMEXT_LENGTH
+ 70
+     0
+  0
+APPID
+  5
+9D
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+9E
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_EXT1_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+9F
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_EXT2_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+A0
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockGUID
+ 70
+     0
+  0
+APPID
+  5
+A1
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepETag
+ 70
+     0
+  0
+APPID
+  5
+A2
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AME_SOL
+ 70
+     0
+  0
+APPID
+  5
+A3
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AVE_INVOKE
+ 70
+     0
+  0
+APPID
+  5
+A4
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_PSEXT
+ 70
+     0
+  0
+APPID
+  5
+A5
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAUTHENVIRON
+ 70
+     0
+  0
+APPID
+  5
+A6
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+DCO15
+ 70
+     0
+  0
+APPID
+  5
+A7
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepBTag
+ 70
+     0
+  0
+APPID
+  5
+A8
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockTrueName
+ 70
+     0
+  0
+APPID
+  5
+A9
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+     0
+  0
+APPID
+  5
+AA
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+AB
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcCmTransparency
+ 70
+     0
+  0
+APPID
+  5
+AC
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoMonitorAlertIconDisabled
+ 70
+     0
+  0
+APPID
+  5
+AD
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ODA
+ 70
+     0
+  0
+APPID
+  5
+AE
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG
+ 70
+     0
+  0
+APPID
+  5
+AF
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTALN
+ 70
+     0
+  0
+APPID
+  5
+B0
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTEXT_FILL
+ 70
+     0
+  0
+APPID
+  5
+B1
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMBREAK
+ 70
+     0
+  0
+APPID
+  5
+B2
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+REVIT
+ 70
+     0
+  0
+APPID
+  5
+B3
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoPO
+ 70
+     0
+  0
+APPID
+  5
+B4
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+     0
+  0
+APPID
+  5
+B5
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ADE
+ 70
+     0
+  0
+APPID
+  5
+B6
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor1ACI
+ 70
+     0
+  0
+APPID
+  5
+B7
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor2ACI
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+95
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 41
+0.25
+ 73
+     0
+ 74
+     0
+140
+6.0
+179
+     1
+271
+     0
+272
+     0
+275
+     1
+277
+     4
+340
+11
+342
+88
+1001
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+1070
+   384
+1040
+0.7853981633974483
+1001
+ACAD_DSTYLE_DIMEXT_LENGTH
+1070
+   378
+1040
+0.18
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+56
+  0
+BLOCK_RECORD
+  5
+88
+102
+{ACAD_XDICTIONARY
+360
+8B
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_Dot
+340
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+57
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+58
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+8C
+330
+88
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_Dot
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_Dot
+  1
+
+  0
+LWPOLYLINE
+  5
+89
+330
+88
+100
+AcDbEntity
+  8
+0
+  6
+ByBlock
+ 62
+     0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.5
+ 10
+-0.25
+ 20
+0.0
+ 42
+1.0
+ 10
+0.25
+ 20
+0.0
+ 42
+1.0
+  0
+LINE
+  5
+8A
+330
+88
+100
+AcDbEntity
+  8
+0
+  6
+ByBlock
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-0.5
+ 20
+0.0
+ 30
+0.0
+ 11
+-1.0
+ 21
+0.0
+ 31
+0.0
+  0
+ENDBLK
+  5
+8D
+330
+88
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+215
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8389.503890693188
+ 20
+-1933.658914424479
+ 30
+0.0
+ 11
+8389.503890693188
+ 21
+6824.575781796127
+ 31
+0.0
+  0
+LINE
+  5
+216
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9228.891612693667
+ 20
+-1506.804575618356
+ 30
+0.0
+ 11
+9228.891612693667
+ 21
+7242.068339377642
+ 31
+0.0
+  0
+LINE
+  5
+217
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7743.417335614562
+ 20
+-1890.000844087452
+ 30
+0.0
+ 11
+7743.417335614562
+ 21
+1700.723849415779
+ 31
+0.0
+  0
+LINE
+  5
+218
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 11
+0.0
+ 21
+9147.305059297011
+ 31
+0.0
+  0
+LINE
+  5
+219
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5524.389912083745
+ 20
+2476.260959722102
+ 30
+0.0
+ 11
+5524.389912083745
+ 21
+5399.532585054636
+ 31
+0.0
+  0
+LINE
+  5
+21A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3387.581084489822
+ 20
+6693.123378278688
+ 30
+0.0
+ 11
+3387.581084489822
+ 21
+8062.801713582128
+ 31
+0.0
+  0
+LINE
+  5
+21B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3569.511594578624
+ 20
+6600.599600750953
+ 30
+0.0
+ 11
+3569.511594578624
+ 21
+8750.18336330168
+ 31
+0.0
+  0
+LINE
+  5
+21C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9176.411657869817
+ 20
+11395.69568090513
+ 30
+0.0
+ 11
+9176.411657854915
+ 21
+12603.00703553669
+ 31
+0.0
+  0
+LINE
+  5
+21D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11153.15662324428
+ 20
+9839.770563578234
+ 30
+0.0
+ 11
+11153.15662324428
+ 21
+11085.99624454602
+ 31
+0.0
+  0
+LINE
+  5
+21E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14118.56562663614
+ 20
+8245.751242289321
+ 30
+0.0
+ 11
+14118.56562663614
+ 21
+9674.082123074681
+ 31
+0.0
+  0
+LINE
+  5
+21F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13958.79331970214
+ 20
+5882.437813095748
+ 30
+0.0
+ 11
+13958.79331970214
+ 21
+8166.284093437717
+ 31
+0.0
+  0
+LINE
+  5
+220
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13958.79331970214
+ 20
+3628.201110757887
+ 30
+0.0
+ 11
+13958.79331970214
+ 21
+4542.780712500214
+ 31
+0.0
+  0
+LINE
+  5
+221
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12954.09373992681
+ 20
+972.8259624373167
+ 30
+0.0
+ 11
+12954.09373992681
+ 21
+3128.486156446859
+ 31
+0.0
+  0
+LINE
+  5
+222
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14340.43921341002
+ 20
+1302.647138766944
+ 30
+0.0
+ 11
+14340.43921341002
+ 21
+2095.798079445958
+ 31
+0.0
+  0
+LINE
+  5
+223
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14523.53594473004
+ 20
+383.3263695202767
+ 30
+0.0
+ 11
+14523.53594473004
+ 21
+1222.876518139615
+ 31
+0.0
+  0
+LINE
+  5
+224
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11143.49340876936
+ 20
+326.9171663857996
+ 30
+0.0
+ 11
+11143.49340876936
+ 21
+2227.934309931471
+ 31
+0.0
+  0
+LINE
+  5
+225
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11128.12640878558
+ 20
+301.9785137344151
+ 30
+0.0
+ 11
+11128.12640878558
+ 21
+2220.291110051796
+ 31
+0.0
+  0
+LINE
+  5
+226
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11112.75940877199
+ 20
+283.0834319610148
+ 30
+0.0
+ 11
+11112.75940877199
+ 21
+2212.64791017957
+ 31
+0.0
+  0
+LINE
+  5
+227
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11082.02540875971
+ 20
+255.6654840111732
+ 30
+0.0
+ 11
+11082.02540877461
+ 21
+2197.361510429531
+ 31
+0.0
+  0
+LINE
+  5
+228
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11051.29140877723
+ 20
+237.2077855858951
+ 30
+0.0
+ 11
+11051.29140877723
+ 21
+2182.075110672041
+ 31
+0.0
+  0
+LINE
+  5
+229
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11012.87390877306
+ 20
+223.0187004916369
+ 30
+0.0
+ 11
+11012.87390878796
+ 21
+2162.967110995203
+ 31
+0.0
+  0
+LINE
+  5
+22A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11143.49340876936
+ 20
+2536.349532773718
+ 30
+0.0
+ 11
+11143.49340876936
+ 21
+4482.171012256294
+ 31
+0.0
+  0
+LINE
+  5
+22B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+6429.377577677368
+ 20
+-2261.700803926214
+ 30
+0.0
+ 11
+6429.377577677368
+ 21
+2926.381452510133
+ 31
+0.0
+  0
+LINE
+  5
+22C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+6111.290740311146
+ 20
+-2080.246949147432
+ 30
+0.0
+ 11
+6111.290740311146
+ 21
+2768.172220015898
+ 31
+0.0
+  0
+LINE
+  5
+22D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4090.520923942327
+ 20
+-1286.518976189196
+ 30
+0.0
+ 11
+4090.520923942327
+ 21
+817.9142383318394
+ 31
+0.0
+  0
+LINE
+  5
+22E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4090.520923942327
+ 20
+3995.649089410901
+ 30
+0.0
+ 11
+4090.520923942327
+ 21
+4626.536899976432
+ 31
+0.0
+  0
+LINE
+  5
+22F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3390.496637523174
+ 20
+3538.000975472852
+ 30
+0.0
+ 11
+3390.496637523174
+ 21
+-1767.212521316483
+ 31
+0.0
+  0
+LINE
+  5
+230
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3587.296468168497
+ 20
+-1632.073769554495
+ 30
+0.0
+ 11
+3587.296468153596
+ 21
+534.7985767461359
+ 31
+0.0
+  0
+LINE
+  5
+231
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2937.128138810396
+ 20
+3804.800294104964
+ 30
+0.0
+ 11
+2937.128138810396
+ 21
+5265.570622583851
+ 31
+0.0
+  0
+LINE
+  5
+232
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3127.990246370435
+ 20
+3897.933881171047
+ 30
+0.0
+ 11
+3127.990246370435
+ 21
+5159.824059335515
+ 31
+0.0
+  0
+LINE
+  5
+233
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+311.964175954461
+ 20
+619.1254752818495
+ 30
+0.0
+ 11
+311.9641759246587
+ 21
+2931.860127884894
+ 31
+0.0
+  0
+LINE
+  5
+234
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+311.964175954461
+ 20
+3066.812704000622
+ 30
+0.0
+ 11
+311.964175954461
+ 21
+5397.455030467361
+ 31
+0.0
+  0
+LINE
+  5
+235
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+743.7575821429491
+ 20
+358.8372480459511
+ 30
+0.0
+ 11
+743.7575821429491
+ 21
+2689.151411116123
+ 31
+0.0
+  0
+LINE
+  5
+236
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+743.7575821578502
+ 20
+2827.159777699038
+ 30
+0.0
+ 11
+743.7575821578502
+ 21
+5154.746313709765
+ 31
+0.0
+  0
+LINE
+  5
+237
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+332.9561579078435
+ 20
+6510.236339407042
+ 30
+0.0
+ 11
+332.9561579227447
+ 21
+7294.0882034041
+ 31
+0.0
+  0
+LINE
+  5
+238
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+456.5756070762872
+ 20
+6568.901871388778
+ 30
+0.0
+ 11
+456.5756070911884
+ 21
+7224.602385772392
+ 31
+0.0
+  0
+LINE
+  5
+239
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+974.9609386920928
+ 20
+6149.368956374004
+ 30
+0.0
+ 11
+974.960938706994
+ 21
+6933.220820361748
+ 31
+0.0
+  0
+LINE
+  5
+23A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2951.414348766208
+ 20
+6708.061970559881
+ 30
+0.0
+ 11
+2951.414348766208
+ 21
+7601.081735376268
+ 31
+0.0
+  0
+LINE
+  5
+23B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3135.094190686941
+ 20
+6821.529774626717
+ 30
+0.0
+ 11
+3135.094190686941
+ 21
+7744.031597562134
+ 31
+0.0
+  0
+LINE
+  5
+23C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5524.389912083745
+ 20
+5399.532585054636
+ 30
+0.0
+ 11
+8059.754841193557
+ 21
+6660.566027509048
+ 31
+0.0
+  0
+LINE
+  5
+23D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8389.503890693188
+ 20
+6824.575781799852
+ 30
+0.0
+ 11
+14118.56562663614
+ 21
+9674.082123074681
+ 31
+0.0
+  0
+LINE
+  5
+23E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8390.199213981629
+ 20
+6893.572993520648
+ 30
+0.0
+ 11
+8710.326742649078
+ 21
+7052.797219928354
+ 31
+0.0
+  0
+LINE
+  5
+23F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8763.966443002223
+ 20
+7079.476399419829
+ 30
+0.0
+ 11
+9093.605986565352
+ 21
+7243.431687913835
+ 31
+0.0
+  0
+LINE
+  5
+240
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5542.472616970539
+ 20
+5597.21755893901
+ 30
+0.0
+ 11
+8059.754841193557
+ 21
+6849.257071055472
+ 31
+0.0
+  0
+LINE
+  5
+241
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9043.928199976683
+ 20
+7338.76274511963
+ 30
+0.0
+ 11
+13798.00485613942
+ 21
+9703.3334554974
+ 31
+0.0
+  0
+LINE
+  5
+242
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7504.633541122079
+ 20
+4956.13030834496
+ 30
+0.0
+ 11
+8059.754841193557
+ 21
+5232.235146729276
+ 31
+0.0
+  0
+LINE
+  5
+243
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9228.891612678767
+ 20
+5813.737458581105
+ 30
+0.0
+ 11
+14118.56562663614
+ 21
+8245.751242293044
+ 31
+0.0
+  0
+LINE
+  5
+244
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11012.91852174699
+ 20
+4417.226002799347
+ 30
+0.0
+ 11
+13958.79331970214
+ 21
+5882.437813095748
+ 31
+0.0
+  0
+LINE
+  5
+245
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12875.71305024624
+ 20
+4004.080967551097
+ 30
+0.0
+ 11
+13958.79331970214
+ 21
+4542.780712500214
+ 31
+0.0
+  0
+LINE
+  5
+246
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9228.891612678767
+ 20
+1275.654475912451
+ 30
+0.0
+ 11
+13958.79331970214
+ 21
+3628.201110757887
+ 31
+0.0
+  0
+LINE
+  5
+247
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9228.891612693667
+ 20
+-700.5929551851004
+ 30
+0.0
+ 11
+10763.93029156327
+ 21
+44.68990156799555
+ 31
+0.0
+  0
+LINE
+  5
+248
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10763.93029156327
+ 20
+44.68990156427025
+ 30
+0.0
+ 11
+12954.09373992681
+ 21
+1108.045043077319
+ 31
+0.0
+  0
+LINE
+  5
+249
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8389.503890693188
+ 20
+-1933.658914424479
+ 30
+0.0
+ 11
+14412.45337365567
+ 21
+1129.195177663117
+ 31
+0.0
+  0
+LINE
+  5
+24A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7743.417335614562
+ 20
+-1890.000844078138
+ 30
+0.0
+ 11
+8058.021904081106
+ 21
+-1733.523613741621
+ 31
+0.0
+  0
+LINE
+  5
+24B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+6429.377577677368
+ 20
+-2261.700803922489
+ 30
+0.0
+ 11
+7393.550970062614
+ 21
+-1680.879319574684
+ 31
+0.0
+  0
+LINE
+  5
+24C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3390.496637523174
+ 20
+-1767.212521316483
+ 30
+0.0
+ 11
+3587.296468168497
+ 21
+-1632.07376955077
+ 31
+0.0
+  0
+LINE
+  5
+24D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3127.990246370435
+ 20
+4093.430398758501
+ 30
+0.0
+ 11
+3494.290325954557
+ 21
+4275.619812624529
+ 31
+0.0
+  0
+LINE
+  5
+24E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3390.496637523174
+ 20
+3538.000975472852
+ 30
+0.0
+ 11
+4793.43671913445
+ 21
+4235.791790658608
+ 31
+0.0
+  0
+LINE
+  5
+24F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2937.128138810396
+ 20
+3804.800294110551
+ 30
+0.0
+ 11
+3127.990246370435
+ 21
+3897.933881167322
+ 31
+0.0
+  0
+LINE
+  5
+250
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4206.559935197234
+ 20
+3384.180478122085
+ 30
+0.0
+ 11
+5327.006970867515
+ 21
+3941.465611424297
+ 31
+0.0
+  0
+LINE
+  5
+251
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5524.389912083745
+ 20
+2476.260959720239
+ 30
+0.0
+ 11
+7533.789071589708
+ 21
+3475.690868318081
+ 31
+0.0
+  0
+LINE
+  5
+252
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7393.550970062614
+ 20
+2842.764908442274
+ 30
+0.0
+ 11
+8059.754841193557
+ 21
+3174.119717108085
+ 31
+0.0
+  0
+LINE
+  5
+253
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7393.550970062614
+ 20
+1916.875786568969
+ 30
+0.0
+ 11
+8059.754841193557
+ 21
+2248.230595234781
+ 31
+0.0
+  0
+LINE
+  5
+254
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7743.417335614562
+ 20
+1700.723849419504
+ 30
+0.0
+ 11
+8069.960286438465
+ 21
+1863.138962388038
+ 31
+0.0
+  0
+LINE
+  5
+255
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11012.91852176189
+ 20
+4604.331874493509
+ 30
+0.0
+ 11
+13776.57125431299
+ 21
+5978.910531438887
+ 31
+0.0
+  0
+LINE
+  5
+256
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12780.75251722335
+ 20
+4096.889267973602
+ 30
+0.0
+ 11
+13982.87651957571
+ 21
+4694.79868588224
+ 31
+0.0
+  0
+LINE
+  5
+257
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14523.53594473004
+ 20
+383.3263695165515
+ 30
+0.0
+ 11
+16030.29375906288
+ 21
+1132.753787931054
+ 31
+0.0
+  0
+LINE
+  5
+258
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2360.620103240013
+ 20
+8148.9079487063
+ 30
+0.0
+ 11
+3569.511594593524
+ 21
+8750.183363314718
+ 31
+0.0
+  0
+LINE
+  5
+259
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+0.0
+ 20
+9147.305059295147
+ 30
+0.0
+ 11
+1549.996207296848
+ 21
+9918.238281026482
+ 31
+0.0
+  0
+LINE
+  5
+25A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+385.4427936226129
+ 20
+9181.482950096949
+ 30
+0.0
+ 11
+1705.221423864364
+ 21
+9837.911131422968
+ 31
+0.0
+  0
+LINE
+  5
+25B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+496.3299324959516
+ 20
+9123.513831568882
+ 30
+0.0
+ 11
+1705.221423864364
+ 21
+9724.789246194065
+ 31
+0.0
+  0
+LINE
+  5
+25C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2945.721857234835
+ 20
+7843.030880579725
+ 30
+0.0
+ 11
+3453.764138638973
+ 21
+8095.719674887135
+ 31
+0.0
+  0
+LINE
+  5
+25D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3569.511594578624
+ 20
+8582.003555702046
+ 30
+0.0
+ 11
+9176.411657869817
+ 21
+11395.69568090513
+ 31
+0.0
+  0
+LINE
+  5
+25E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2347.011063978075
+ 20
+9389.277120120823
+ 30
+0.0
+ 11
+9148.328205198049
+ 21
+12772.09916258603
+ 31
+0.0
+  0
+LINE
+  5
+25F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2526.454875811934
+ 20
+9295.468228468671
+ 30
+0.0
+ 11
+9176.411657854915
+ 21
+12603.00703553483
+ 31
+0.0
+  0
+LINE
+  5
+260
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11153.15662325918
+ 20
+11085.99624455347
+ 30
+0.0
+ 11
+11716.11104315519
+ 21
+11365.99710041657
+ 31
+0.0
+  0
+LINE
+  5
+261
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11483.27951985597
+ 20
+11051.74606354162
+ 30
+0.0
+ 11
+12056.48916563391
+ 21
+11336.84763791039
+ 31
+0.0
+  0
+LINE
+  5
+262
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9228.891612693667
+ 20
+1451.846104994416
+ 30
+0.0
+ 11
+12501.44787332415
+ 21
+3078.775067595765
+ 31
+0.0
+  0
+LINE
+  5
+263
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12621.729093194
+ 20
+3138.572053402662
+ 30
+0.0
+ 11
+12875.71305026113
+ 21
+3264.838440563529
+ 31
+0.0
+  0
+LINE
+  5
+264
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3484.786145061255
+ 20
+3694.370246011764
+ 30
+0.0
+ 11
+4689.319113656878
+ 21
+4293.477829515934
+ 31
+0.0
+  0
+LINE
+  5
+265
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4206.559935197234
+ 20
+1445.17091008462
+ 30
+0.0
+ 11
+4801.332756608725
+ 21
+1740.997522613033
+ 31
+0.0
+  0
+LINE
+  5
+266
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4206.559935182332
+ 20
+-1209.359400507062
+ 30
+0.0
+ 11
+4206.559935197234
+ 21
+3943.892489435151
+ 31
+0.0
+  0
+LINE
+  5
+267
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4206.559935167432
+ 20
+4053.364281462505
+ 30
+0.0
+ 11
+4206.559935197234
+ 21
+4562.245842941105
+ 31
+0.0
+  0
+LINE
+  5
+268
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5327.006970867515
+ 20
+2587.073631262406
+ 30
+0.0
+ 11
+5327.006970867515
+ 21
+3941.465611420571
+ 31
+0.0
+  0
+LINE
+  5
+269
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8059.754841193557
+ 20
+-1734.56989046745
+ 30
+0.0
+ 11
+8059.754841193557
+ 21
+6996.960622210055
+ 31
+0.0
+  0
+LINE
+  5
+26A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12621.729093194
+ 20
+3138.572053398937
+ 30
+0.0
+ 11
+12621.7290931642
+ 21
+5217.412165297195
+ 31
+0.0
+  0
+LINE
+  5
+26B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12390.51733610033
+ 20
+3148.911327039823
+ 30
+0.0
+ 11
+12390.51733610033
+ 21
+5102.412642110139
+ 31
+0.0
+  0
+LINE
+  5
+26C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13776.57125431299
+ 20
+5978.910531427711
+ 30
+0.0
+ 11
+13776.57125431299
+ 21
+8075.65094008483
+ 31
+0.0
+  0
+LINE
+  5
+26D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13589.39274872839
+ 20
+6094.049630139023
+ 30
+0.0
+ 11
+13589.39274872839
+ 21
+7982.552564961835
+ 31
+0.0
+  0
+LINE
+  5
+26E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12056.48916563391
+ 20
+10752.08590242266
+ 30
+0.0
+ 11
+12056.48916563391
+ 21
+11336.8476379048
+ 31
+0.0
+  0
+LINE
+  5
+26F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7393.550970062614
+ 20
+-1680.879319578409
+ 30
+0.0
+ 11
+7393.550970062614
+ 21
+3405.939593508839
+ 31
+0.0
+  0
+LINE
+  5
+270
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7533.789071574807
+ 20
+3475.690868308768
+ 30
+0.0
+ 11
+7533.789071545005
+ 21
+4970.631612872705
+ 31
+0.0
+  0
+LINE
+  5
+271
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4801.332756608725
+ 20
+1740.997522611171
+ 30
+0.0
+ 11
+4801.332756608725
+ 21
+2713.803307624534
+ 31
+0.0
+  0
+LINE
+  5
+272
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+451.6191668957471
+ 20
+680.9744082130491
+ 30
+0.0
+ 11
+451.6191668957471
+ 21
+2853.360819743946
+ 31
+0.0
+  0
+LINE
+  5
+273
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+451.6191668957471
+ 20
+3116.074244106188
+ 30
+0.0
+ 11
+451.6191668957471
+ 21
+5318.955722348764
+ 31
+0.0
+  0
+LINE
+  5
+274
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2685.224355608225
+ 20
+9557.49679790251
+ 30
+0.0
+ 11
+2685.224355578422
+ 21
+10500.18848542124
+ 31
+0.0
+  0
+LINE
+  5
+275
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2930.422366812825
+ 20
+9679.452769063415
+ 30
+0.0
+ 11
+2930.422366827726
+ 21
+10372.00488613918
+ 31
+0.0
+  0
+LINE
+  5
+276
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3071.303745836019
+ 20
+9749.52399561368
+ 30
+0.0
+ 11
+3071.303745821118
+ 21
+10442.07611271925
+ 31
+0.0
+  0
+LINE
+  5
+277
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13227.37035712599
+ 20
+1797.114504193887
+ 30
+0.0
+ 11
+13227.37035712599
+ 21
+3264.407794149592
+ 31
+0.0
+  0
+LINE
+  5
+278
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13226.78724651038
+ 20
+4318.736901691184
+ 30
+0.0
+ 11
+13226.78724655508
+ 21
+5518.354470405728
+ 31
+0.0
+  0
+LINE
+  5
+279
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13226.78724655508
+ 20
+5772.312837662175
+ 30
+0.0
+ 11
+13226.78724654019
+ 21
+7802.200750749559
+ 31
+0.0
+  0
+LINE
+  5
+27A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12946.80485729873
+ 20
+7662.943812984973
+ 30
+0.0
+ 11
+12946.80485729873
+ 21
+5724.233774723485
+ 31
+0.0
+  0
+LINE
+  5
+27B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12946.80485731363
+ 20
+5379.09753263928
+ 30
+0.0
+ 11
+12946.80485731363
+ 21
+4179.479963952675
+ 31
+0.0
+  0
+LINE
+  5
+27C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+16030.29375906288
+ 20
+1132.753787931054
+ 30
+0.0
+ 11
+16030.29375906288
+ 21
+1274.022095778957
+ 31
+0.0
+  0
+LINE
+  5
+27D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15374.31539624929
+ 20
+2032.958318319171
+ 30
+0.0
+ 11
+15374.31539624929
+ 21
+2734.463096575811
+ 31
+0.0
+  0
+LINE
+  5
+27E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15087.98701450228
+ 20
+2035.000098874792
+ 30
+0.0
+ 11
+15087.98701450228
+ 21
+2523.405612049624
+ 31
+0.0
+  0
+LINE
+  5
+27F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12056.48916563391
+ 20
+11336.84763791225
+ 30
+0.0
+ 11
+9148.328205198049
+ 21
+12772.09916258975
+ 31
+0.0
+  0
+LINE
+  5
+280
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11716.11104315519
+ 20
+11365.99710041657
+ 30
+0.0
+ 11
+9176.411657854915
+ 21
+12603.0070355311
+ 31
+0.0
+  0
+LINE
+  5
+281
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11153.15662325918
+ 20
+11085.99624456092
+ 30
+0.0
+ 11
+13798.00485613942
+ 21
+9703.333455501125
+ 31
+0.0
+  0
+LINE
+  5
+282
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14118.56562663614
+ 20
+9674.082123085858
+ 30
+0.0
+ 11
+11483.27951984107
+ 21
+11051.74606354162
+ 31
+0.0
+  0
+LINE
+  5
+283
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3569.511594563723
+ 20
+8750.183363335208
+ 30
+0.0
+ 11
+1705.221423879265
+ 21
+9724.789246199653
+ 31
+0.0
+  0
+LINE
+  5
+284
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3135.09419067204
+ 20
+7744.03159757331
+ 30
+0.0
+ 11
+385.4427936226129
+ 21
+9181.482950093224
+ 31
+0.0
+  0
+LINE
+  5
+285
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2951.414348766208
+ 20
+7601.081735385581
+ 30
+0.0
+ 11
+0.0000000149011612
+ 21
+9144.00988694094
+ 31
+0.0
+  0
+LINE
+  5
+286
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+1705.221423864364
+ 20
+9724.789246194065
+ 30
+0.0
+ 11
+1705.221423864364
+ 21
+9837.911131419241
+ 31
+0.0
+  0
+LINE
+  5
+287
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+1705.221423864364
+ 20
+9837.911131430416
+ 30
+0.0
+ 11
+1549.996207296848
+ 21
+9918.238281026482
+ 31
+0.0
+  0
+LINE
+  5
+288
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3453.764138638973
+ 20
+8095.719674879685
+ 30
+0.0
+ 11
+3453.764138638973
+ 21
+6662.130042396485
+ 31
+0.0
+  0
+LINE
+  5
+289
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2951.414348766208
+ 20
+6708.061970559881
+ 30
+0.0
+ 11
+5524.389912083745
+ 21
+5399.532585054636
+ 31
+0.0
+  0
+LINE
+  5
+28A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3135.094190701842
+ 20
+6821.529774626717
+ 30
+0.0
+ 11
+5542.472616970539
+ 21
+5597.217558944598
+ 31
+0.0
+  0
+LINE
+  5
+28B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2951.414348766208
+ 20
+6708.061970559881
+ 30
+0.0
+ 11
+3135.094190686941
+ 21
+6821.529774630443
+ 31
+0.0
+  0
+LINE
+  5
+28C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2951.414348766208
+ 20
+7601.081735385581
+ 30
+0.0
+ 11
+3135.09419067204
+ 21
+7744.03159757331
+ 31
+0.0
+  0
+LINE
+  5
+28D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9176.411657869817
+ 20
+11395.69568090513
+ 30
+0.0
+ 11
+11153.15662324428
+ 21
+10451.13329742662
+ 31
+0.0
+  0
+LINE
+  5
+28E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11153.15662324428
+ 20
+9839.770563578234
+ 30
+0.0
+ 11
+12620.11265614628
+ 21
+9117.476390594616
+ 31
+0.0
+  0
+LINE
+  5
+28F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13273.7460771352
+ 20
+5541.710735654458
+ 30
+0.0
+ 11
+14660.85849320888
+ 21
+4893.745062580332
+ 31
+0.0
+  0
+LINE
+  5
+290
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13386.18655991554
+ 20
+5597.636100649833
+ 30
+0.0
+ 11
+14742.61867460608
+ 21
+4964.002201918512
+ 31
+0.0
+  0
+LINE
+  5
+291
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14660.85849320888
+ 20
+4893.745062580332
+ 30
+0.0
+ 11
+16059.73547832667
+ 21
+2872.073609022423
+ 31
+0.0
+  0
+LINE
+  5
+292
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14742.61867460608
+ 20
+4964.002201918512
+ 30
+0.0
+ 11
+16106.22265899181
+ 21
+2993.307652948424
+ 31
+0.0
+  0
+LINE
+  5
+293
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14340.43921341002
+ 20
+2095.798079445958
+ 30
+0.0
+ 11
+12954.09373992681
+ 21
+1675.892333637922
+ 31
+0.0
+  0
+LINE
+  5
+294
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14340.43921341002
+ 20
+1302.647138766944
+ 30
+0.0
+ 11
+12954.09373992681
+ 21
+972.8259624373167
+ 31
+0.0
+  0
+LINE
+  5
+295
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14523.53594473004
+ 20
+383.3263695072382
+ 30
+0.0
+ 11
+14412.45337368548
+ 21
+453.4370347820222
+ 31
+0.0
+  0
+LINE
+  5
+296
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14412.45337368548
+ 20
+453.4370347820222
+ 30
+0.0
+ 11
+14412.45337368548
+ 21
+1270.329707559198
+ 31
+0.0
+  0
+LINE
+  5
+297
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8058.021904081106
+ 20
+-1733.523613741621
+ 30
+0.0
+ 11
+8389.503890693188
+ 21
+-1933.658914424479
+ 31
+0.0
+  0
+LINE
+  5
+298
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7743.417335614562
+ 20
+-1890.000844087452
+ 30
+0.0
+ 11
+7393.550970077514
+ 21
+-1680.879319574684
+ 31
+0.0
+  0
+LINE
+  5
+299
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+6429.377577677368
+ 20
+-2261.700803926214
+ 30
+0.0
+ 11
+6111.290740311146
+ 21
+-2080.246949147432
+ 31
+0.0
+  0
+LINE
+  5
+29A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+6111.290740311146
+ 20
+-2080.246949147432
+ 30
+0.0
+ 11
+5926.44467715919
+ 21
+-2228.502479605376
+ 31
+0.0
+  0
+LINE
+  5
+29B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5926.44467715919
+ 20
+-2228.502479605376
+ 30
+0.0
+ 11
+4090.520923942327
+ 21
+-1286.518976189196
+ 31
+0.0
+  0
+LINE
+  5
+29C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3494.290325954557
+ 20
+4275.619812622666
+ 30
+0.0
+ 11
+3127.990246370435
+ 21
+4521.575725698844
+ 31
+0.0
+  0
+LINE
+  5
+29D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3390.496637523174
+ 20
+3538.000975472852
+ 30
+0.0
+ 11
+2937.128138810396
+ 21
+3804.800294104964
+ 31
+0.0
+  0
+LINE
+  5
+29E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3484.786145061255
+ 20
+3694.37024600245
+ 30
+0.0
+ 11
+3127.990246355533
+ 21
+3897.933881176635
+ 31
+0.0
+  0
+LINE
+  5
+29F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5327.006970867515
+ 20
+3941.465611424297
+ 30
+0.0
+ 11
+2937.128138810396
+ 21
+5265.570622580126
+ 31
+0.0
+  0
+LINE
+  5
+2A0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3587.296468153596
+ 20
+534.7985767461359
+ 30
+0.0
+ 11
+4090.520923942327
+ 21
+817.9142383318394
+ 31
+0.0
+  0
+LINE
+  5
+2A1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+311.964175954461
+ 20
+3066.812704009935
+ 30
+0.0
+ 11
+743.7575821578502
+ 21
+2827.159777687862
+ 31
+0.0
+  0
+LINE
+  5
+2A2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+311.964175954461
+ 20
+2931.860127883032
+ 30
+0.0
+ 11
+743.7575821429491
+ 21
+2689.15141110681
+ 31
+0.0
+  0
+LINE
+  5
+2A3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+311.964175954461
+ 20
+3066.812703991308
+ 30
+0.0
+ 11
+451.6191668957471
+ 21
+3116.074244106188
+ 31
+0.0
+  0
+LINE
+  5
+2A4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+451.6191668957471
+ 20
+3116.074244104325
+ 30
+0.0
+ 11
+743.7575821131467
+ 21
+2956.601578975096
+ 31
+0.0
+  0
+LINE
+  5
+2A5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+311.964175954461
+ 20
+619.1254752818495
+ 30
+0.0
+ 11
+743.7575821429491
+ 21
+358.8372480459511
+ 31
+0.0
+  0
+LINE
+  5
+2A6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+451.6191668957471
+ 20
+680.9744082130491
+ 30
+0.0
+ 11
+743.7575821429491
+ 21
+511.4930133074522
+ 31
+0.0
+  0
+LINE
+  5
+2A7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+311.964175954461
+ 20
+619.1254752818495
+ 30
+0.0
+ 11
+451.6191668957471
+ 21
+680.9744082130491
+ 31
+0.0
+  0
+LINE
+  5
+2A8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11012.91852174699
+ 20
+4604.331874487921
+ 30
+0.0
+ 11
+9228.891612678767
+ 21
+5636.287835545838
+ 31
+0.0
+  0
+LINE
+  5
+2A9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11012.91852174699
+ 20
+4417.226002799347
+ 30
+0.0
+ 11
+9228.891612693667
+ 21
+5481.602286392823
+ 31
+0.0
+  0
+LINE
+  5
+2AA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10763.93029153347
+ 20
+364.0060497596859
+ 30
+0.0
+ 11
+10763.93029156327
+ 21
+2039.148159727454
+ 31
+0.0
+  0
+LINE
+  5
+2AB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10779.29729154706
+ 20
+326.153506539762
+ 30
+0.0
+ 11
+10779.29729154706
+ 21
+2046.791359597817
+ 31
+0.0
+  0
+LINE
+  5
+2AC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10794.66429153084
+ 20
+301.4235899019986
+ 30
+0.0
+ 11
+10794.66429154575
+ 21
+2054.434559479355
+ 31
+0.0
+  0
+LINE
+  5
+2AD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10825.39829152822
+ 20
+267.6386508345604
+ 30
+0.0
+ 11
+10825.39829152822
+ 21
+2069.720959229394
+ 31
+0.0
+  0
+LINE
+  5
+2AE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10856.1322915405
+ 20
+245.2854489032179
+ 30
+0.0
+ 11
+10856.1322915405
+ 21
+2085.007358977571
+ 31
+0.0
+  0
+LINE
+  5
+2AF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10894.54979152977
+ 20
+227.5184829086065
+ 30
+0.0
+ 11
+10894.54979152977
+ 21
+2104.115358663722
+ 31
+0.0
+  0
+LINE
+  5
+2B0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10932.96729154884
+ 20
+218.3654260039329
+ 30
+0.0
+ 11
+10932.96729154884
+ 21
+2123.223358355462
+ 31
+0.0
+  0
+LINE
+  5
+2B1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10763.93029156327
+ 20
+2476.059962116182
+ 30
+0.0
+ 11
+10763.93029156327
+ 21
+4565.775985846296
+ 31
+0.0
+  0
+LINE
+  5
+2B2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10741.05261309445
+ 20
+4761.590514251962
+ 30
+0.0
+ 11
+10741.05261309445
+ 21
+6565.852300122379
+ 31
+0.0
+  0
+LINE
+  5
+2B3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10763.93029153347
+ 20
+639.649014705792
+ 30
+0.0
+ 11
+9411.711005553604
+ 21
+1366.584726501256
+ 31
+0.0
+  0
+LINE
+  5
+2B4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13589.39274872839
+ 20
+6385.022568266839
+ 30
+0.0
+ 11
+13226.78724654019
+ 21
+6578.538791470229
+ 31
+0.0
+  0
+LINE
+  5
+2B5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12946.80485729873
+ 20
+6727.960502402857
+ 30
+0.0
+ 11
+12039.98732030391
+ 21
+7211.913183327765
+ 31
+0.0
+  0
+LINE
+  5
+2B6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13958.79331970214
+ 20
+4542.780712490901
+ 30
+0.0
+ 11
+15257.50102750957
+ 21
+2704.289235714822
+ 31
+0.0
+  0
+LINE
+  5
+2B7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13982.87651957571
+ 20
+4694.79868588224
+ 30
+0.0
+ 11
+15374.31539624929
+ 21
+2734.463096575811
+ 31
+0.0
+  0
+LINE
+  5
+2B8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15087.98701450228
+ 20
+2523.405612049624
+ 30
+0.0
+ 11
+13620.29761101305
+ 21
+2140.639544097707
+ 31
+0.0
+  0
+LINE
+  5
+2B9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13620.29761101305
+ 20
+2140.639544097707
+ 30
+0.0
+ 11
+13620.29761101305
+ 21
+1920.820293849334
+ 31
+0.0
+  0
+LINE
+  5
+2BA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15087.98701450228
+ 20
+2523.405612049624
+ 30
+0.0
+ 11
+15374.31539626419
+ 21
+2734.463096575811
+ 31
+0.0
+  0
+LINE
+  5
+2BB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15079.53191065788
+ 20
+2571.332556292414
+ 30
+0.0
+ 11
+13669.17998866737
+ 21
+2218.611976699903
+ 31
+0.0
+  0
+LINE
+  5
+2BC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15079.53191065788
+ 20
+2571.332556292414
+ 30
+0.0
+ 11
+15257.50102747976
+ 21
+2704.289235722273
+ 31
+0.0
+  0
+ARC
+  5
+2BD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+15269.45817239582
+ 20
+4788.467967793345
+ 30
+0.0
+ 40
+2848.428927280206
+100
+AcDbArc
+ 50
+250.964655870279
+ 51
+282.818626751166
+  0
+ARC
+  5
+2BE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+15251.92166298627
+ 20
+4946.717068934812
+ 30
+0.0
+ 40
+2916.328219310869
+100
+AcDbArc
+ 50
+252.7279281823565
+ 51
+282.4485811519251
+  0
+ARC
+  5
+2BF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+15777.26852230727
+ 20
+2732.444577699527
+ 30
+0.0
+ 40
+732.0209412084929
+100
+AcDbArc
+ 50
+279.7651223917286
+ 51
+328.0695797193114
+  0
+ARC
+  5
+2C0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+15595.65522794425
+ 20
+2907.866530982778
+ 30
+0.0
+ 40
+857.6257094874263
+100
+AcDbArc
+ 50
+289.403543583738
+ 51
+324.5381905169397
+  0
+ARC
+  5
+2C1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+15884.80879902839
+ 20
+2599.94072658196
+ 30
+0.0
+ 40
+573.3726342527986
+100
+AcDbArc
+ 50
+333.6320880886507
+ 51
+6.743113570652499
+  0
+ARC
+  5
+2C2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+15884.80879902839
+ 20
+2599.94072658196
+ 30
+0.0
+ 40
+450.4366342527985
+100
+AcDbArc
+ 50
+333.6320880886507
+ 51
+6.743113570652499
+  0
+ARC
+  5
+2C3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+16025.85914702713
+ 20
+2595.195706386119
+ 30
+0.0
+ 40
+434.3764147495761
+100
+AcDbArc
+ 50
+9.550359033246202
+ 51
+44.3039293387592
+  0
+ARC
+  5
+2C4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+16025.85914702713
+ 20
+2595.195706386119
+ 30
+0.0
+ 40
+311.4404147495761
+100
+AcDbArc
+ 50
+9.550359033246202
+ 51
+44.3039293387592
+  0
+ARC
+  5
+2C5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+16067.22448246181
+ 20
+2570.583115484565
+ 30
+0.0
+ 40
+424.5196018457106
+100
+AcDbArc
+ 50
+50.59330034981308
+ 51
+84.72913441929398
+  0
+ARC
+  5
+2C6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+16067.22448246181
+ 20
+2570.583115484565
+ 30
+0.0
+ 40
+301.5836018457107
+100
+AcDbArc
+ 50
+50.59330034981308
+ 51
+91.42293101827373
+  0
+LINE
+  5
+2C7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14386.03624998033
+ 20
+2161.898768465966
+ 30
+0.0
+ 11
+13001.77370609343
+ 21
+1726.089622147381
+ 31
+0.0
+  0
+LINE
+  5
+2C8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12875.71305026113
+ 20
+3264.838440565392
+ 30
+0.0
+ 11
+12875.71305026113
+ 21
+4004.080967556685
+ 31
+0.0
+  0
+LINE
+  5
+2C9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12780.75251722335
+ 20
+3322.953976051882
+ 30
+0.0
+ 11
+12780.75251722335
+ 21
+4096.889267973602
+ 31
+0.0
+  0
+LINE
+  5
+2CA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12780.75251723826
+ 20
+4096.889267975464
+ 30
+0.0
+ 11
+12875.71305026113
+ 21
+4004.080967558548
+ 31
+0.0
+  0
+LINE
+  5
+2CB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5327.006970867515
+ 20
+2587.073631262406
+ 30
+0.0
+ 11
+5524.389912083745
+ 21
+2476.260959720239
+ 31
+0.0
+  0
+LINE
+  5
+2CC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3390.496637523174
+ 20
+-1767.212521316483
+ 30
+0.0
+ 11
+0.0
+ 21
+0.0000000018626451
+ 31
+0.0
+  0
+LINE
+  5
+2CD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+0.0
+ 20
+4523.794139742851
+ 30
+0.0
+ 11
+-2887.5637370646
+ 21
+5130.959852905944
+ 31
+0.0
+  0
+LINE
+  5
+2CE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+0.0
+ 20
+4619.378925085068
+ 30
+0.0
+ 11
+-2780.654279276729
+ 21
+5210.846543705091
+ 31
+0.0
+  0
+LINE
+  5
+2CF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+-2887.5637370646
+ 20
+5130.959852915257
+ 30
+0.0
+ 11
+-2887.5637370646
+ 21
+4192.060722399502
+ 31
+0.0
+  0
+LINE
+  5
+2D0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+-2887.5637370646
+ 20
+4192.060722399502
+ 30
+0.0
+ 11
+0.0000000149011612
+ 21
+3608.420489571988
+ 31
+0.0
+  0
+LINE
+  5
+2D1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+0.0
+ 20
+5020.096725393087
+ 30
+0.0
+ 11
+-2346.663582757115
+ 21
+5535.140402240679
+ 31
+0.0
+  0
+LINE
+  5
+2D2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+0.0
+ 20
+5133.555078040808
+ 30
+0.0
+ 11
+-2224.163807928562
+ 21
+5626.676753072068
+ 31
+0.0
+  0
+LINE
+  5
+2D3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+-2887.5637370646
+ 20
+5130.959852905944
+ 30
+0.0
+ 11
+-2780.654279276729
+ 21
+5210.846543701365
+ 31
+0.0
+  0
+LINE
+  5
+2D4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+-2346.663582757115
+ 20
+5535.140402240679
+ 30
+0.0
+ 11
+-2224.163807913661
+ 21
+5626.676753075793
+ 31
+0.0
+  0
+LINE
+  5
+2D5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+-2346.663582757115
+ 20
+5535.140402240679
+ 30
+0.0
+ 11
+-2346.663582727313
+ 21
+5118.533218147233
+ 31
+0.0
+  0
+LINE
+  5
+2D6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3494.290325954557
+ 20
+4206.211996253579
+ 30
+0.0
+ 11
+3127.990246370435
+ 21
+4016.950688350945
+ 31
+0.0
+  0
+LINE
+  5
+2D7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3494.290325954557
+ 20
+4206.211996253579
+ 30
+0.0
+ 11
+3494.290325969457
+ 21
+4275.619812633842
+ 31
+0.0
+  0
+LINE
+  5
+2D8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2930.422366812825
+ 20
+10372.00488613918
+ 30
+0.0
+ 11
+2685.224355578422
+ 21
+10500.18848543986
+ 31
+0.0
+  0
+LINE
+  5
+2D9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+3071.303745821118
+ 20
+10442.07611270062
+ 30
+0.0
+ 11
+2826.105734586715
+ 21
+10570.25971199013
+ 31
+0.0
+  0
+LINE
+  5
+2DA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2930.422366827726
+ 20
+10372.00488615594
+ 30
+0.0
+ 11
+3071.303745821118
+ 21
+10442.07611269876
+ 31
+0.0
+  0
+LINE
+  5
+2DB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+2685.224355608225
+ 20
+10500.18848544545
+ 30
+0.0
+ 11
+2826.105734601616
+ 21
+10570.2597119864
+ 31
+0.0
+  0
+LINE
+  5
+2DC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8389.503890678287
+ 20
+6824.575781805441
+ 30
+0.0
+ 11
+8059.754841193557
+ 21
+6996.960622204468
+ 31
+0.0
+  0
+LINE
+  5
+2DD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8390.199213981629
+ 20
+6893.572993520648
+ 30
+0.0
+ 11
+8195.04046727717
+ 21
+6995.597273673863
+ 31
+0.0
+  0
+LINE
+  5
+2DE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9228.891612708569
+ 20
+7242.068339383229
+ 30
+0.0
+ 11
+8899.142563149332
+ 21
+7414.453179784119
+ 31
+0.0
+  0
+LINE
+  5
+2DF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+9093.605986565352
+ 20
+7243.431687915698
+ 30
+0.0
+ 11
+8898.447239845991
+ 21
+7345.455968057738
+ 31
+0.0
+  0
+LINE
+  5
+2E0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8059.754841133951
+ 20
+6996.960622204468
+ 30
+0.0
+ 11
+8899.142563179136
+ 21
+7414.453179787845
+ 31
+0.0
+  0
+LINE
+  5
+2E1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8195.04046727717
+ 20
+6995.597273670137
+ 30
+0.0
+ 11
+8515.167995914817
+ 21
+7154.821500066667
+ 31
+0.0
+  0
+LINE
+  5
+2E2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8568.807696282863
+ 20
+7181.500679561868
+ 30
+0.0
+ 11
+8898.447239860892
+ 21
+7345.455968057738
+ 31
+0.0
+  0
+LINE
+  5
+2E3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8763.966443002223
+ 20
+7079.476399419829
+ 30
+0.0
+ 11
+8568.807696312665
+ 21
+7181.500679563732
+ 31
+0.0
+  0
+LINE
+  5
+2E4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8710.326742649078
+ 20
+7052.797219928354
+ 30
+0.0
+ 11
+8515.167995899915
+ 21
+7154.821500066667
+ 31
+0.0
+  0
+LINE
+  5
+2E5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8898.447239860892
+ 20
+7345.455968057738
+ 30
+0.0
+ 11
+8898.447239890694
+ 21
+7146.364120492711
+ 31
+0.0
+  0
+LINE
+  5
+2E6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+8515.167995899915
+ 20
+7154.821500062943
+ 30
+0.0
+ 11
+8515.167995899915
+ 21
+6955.729652483016
+ 31
+0.0
+  0
+LINE
+  5
+2E7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+332.9561579078435
+ 20
+6510.236339407042
+ 30
+0.0
+ 11
+456.5756070762872
+ 21
+6568.901871388778
+ 31
+0.0
+  0
+LINE
+  5
+2E8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11118.93743214011
+ 20
+4752.255105255172
+ 30
+0.0
+ 11
+11118.93743212521
+ 21
+6753.803702594712
+ 31
+0.0
+  0
+LINE
+  5
+2E9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13776.57125431299
+ 20
+5978.910531427711
+ 30
+0.0
+ 11
+13589.39274872839
+ 21
+6094.049630131572
+ 31
+0.0
+  0
+LINE
+  5
+2EA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7743.417335614562
+ 20
+1700.723849413916
+ 30
+0.0
+ 11
+7393.550970062614
+ 21
+1916.875786563381
+ 31
+0.0
+  0
+LINE
+  5
+2EB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12875.71305026113
+ 20
+3264.838440565392
+ 30
+0.0
+ 11
+12780.75251722335
+ 21
+3322.953976057469
+ 31
+0.0
+  0
+LINE
+  5
+2EC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13620.29761101305
+ 20
+2140.639544097707
+ 30
+0.0
+ 11
+13669.17998866737
+ 21
+2218.611976701766
+ 31
+0.0
+  0
+LINE
+  5
+2ED
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15257.50102750957
+ 20
+2704.289235714822
+ 30
+0.0
+ 11
+15374.31539624929
+ 21
+2734.463096575811
+ 31
+0.0
+  0
+LINE
+  5
+2EE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15079.53191065788
+ 20
+2571.332556292414
+ 30
+0.0
+ 11
+15087.98701450228
+ 21
+2523.405612049624
+ 31
+0.0
+  0
+LINE
+  5
+2EF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12954.09373992681
+ 20
+1675.892333637922
+ 30
+0.0
+ 11
+13001.77370609343
+ 21
+1726.089622147381
+ 31
+0.0
+  0
+SPLINE
+  5
+2F0
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     3
+ 72
+    14
+ 73
+    10
+ 74
+     0
+ 42
+0.0000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+8.921850643241779
+ 40
+18.69264816336191
+ 40
+39.928476267033
+ 40
+48.86952876778845
+ 40
+59.73553088081042
+ 40
+67.17722875152279
+ 40
+73.96698680881836
+ 40
+73.96698680881836
+ 40
+73.96698680881836
+ 40
+73.96698680881836
+ 10
+14340.43921341002
+ 20
+1302.647138766944
+ 30
+0.0
+ 10
+14423.74699027836
+ 20
+1265.058511268347
+ 30
+0.0
+ 10
+14598.28958515823
+ 20
+1186.304560225456
+ 30
+0.0
+ 10
+14996.4330496639
+ 20
+1075.628395454958
+ 30
+0.0
+ 10
+15412.58757460117
+ 20
+1123.694469189271
+ 30
+0.0
+ 10
+15826.36640726029
+ 20
+1191.255063293501
+ 30
+0.0
+ 10
+16092.47710449993
+ 20
+1289.661436688155
+ 30
+0.0
+ 10
+16300.85533456504
+ 20
+1443.291990330442
+ 30
+0.0
+ 10
+16404.98326343297
+ 20
+1545.389103777706
+ 30
+0.0
+ 10
+16454.21517200768
+ 20
+1594.576379528269
+ 30
+0.0
+  0
+LINE
+  5
+2F1
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+16454.21517200768
+ 20
+2667.26501722075
+ 30
+0.0
+ 11
+16454.21517200768
+ 21
+1594.576379522681
+ 31
+0.0
+  0
+LINE
+  5
+2F2
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13958.79331970214
+ 20
+3628.20111075975
+ 30
+0.0
+ 11
+14761.54178987443
+ 21
+2491.805129170417
+ 31
+0.0
+  0
+LINE
+  5
+2F3
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+16059.73547832667
+ 20
+2872.073609022423
+ 30
+0.0
+ 11
+16059.73547832667
+ 21
+2186.651321230456
+ 31
+0.0
+  0
+LINE
+  5
+2F4
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11012.91852174699
+ 20
+4417.226002799347
+ 30
+0.0
+ 11
+11012.91852174699
+ 21
+4604.331874487921
+ 31
+0.0
+  0
+LINE
+  5
+2F5
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4090.520923942327
+ 20
+-1286.518976189196
+ 30
+0.0
+ 11
+3587.296468153596
+ 21
+-1071.463226569816
+ 31
+0.0
+  0
+LINE
+  5
+2F6
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14444.33630836009
+ 20
+4044.668764855713
+ 30
+0.0
+ 11
+14793.07732096314
+ 21
+4218.042974079028
+ 31
+0.0
+  0
+LINE
+  5
+2F7
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14793.07732096314
+ 20
+4218.042974079028
+ 30
+0.0
+ 11
+14793.07732096314
+ 21
+4038.878475572913
+ 31
+0.0
+  0
+LINE
+  5
+2F8
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14793.07732096314
+ 20
+4038.878475572913
+ 30
+0.0
+ 11
+14922.41234448552
+ 21
+3997.336567698046
+ 31
+0.0
+  0
+LINE
+  5
+2F9
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14538.33666165173
+ 20
+3912.235899081453
+ 30
+0.0
+ 11
+14793.07732093334
+ 21
+4038.878475572913
+ 31
+0.0
+  0
+LINE
+  5
+2FA
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14922.41234448552
+ 20
+3997.336567698046
+ 30
+0.0
+ 11
+14922.41234448552
+ 21
+3812.932567697018
+ 31
+0.0
+  0
+LINE
+  5
+2FB
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14922.41234448552
+ 20
+3812.932567697018
+ 30
+0.0
+ 11
+15051.7473680228
+ 21
+3771.390659820288
+ 31
+0.0
+  0
+LINE
+  5
+2FC
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15051.7473680228
+ 20
+3771.390659820288
+ 30
+0.0
+ 11
+15051.7473680228
+ 21
+3586.986659821123
+ 31
+0.0
+  0
+LINE
+  5
+2FD
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15051.7473680228
+ 20
+3586.986659821123
+ 30
+0.0
+ 11
+15181.08239156007
+ 21
+3545.444751944393
+ 31
+0.0
+  0
+LINE
+  5
+2FE
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15181.08239156007
+ 20
+3545.444751944393
+ 30
+0.0
+ 11
+15181.08239156007
+ 21
+3361.04075194709
+ 31
+0.0
+  0
+LINE
+  5
+2FF
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15181.08239156007
+ 20
+3361.04075194709
+ 30
+0.0
+ 11
+15310.41741509735
+ 21
+3319.498844068497
+ 31
+0.0
+  0
+LINE
+  5
+300
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15310.41741509735
+ 20
+3319.498844068497
+ 30
+0.0
+ 11
+15310.41741509735
+ 21
+3135.094844071194
+ 31
+0.0
+  0
+LINE
+  5
+301
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15310.41741509735
+ 20
+3135.094844071194
+ 30
+0.0
+ 11
+15439.75243861973
+ 21
+3093.552936192601
+ 31
+0.0
+  0
+LINE
+  5
+302
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15439.75243861973
+ 20
+3093.552936192601
+ 30
+0.0
+ 11
+15439.75243861973
+ 21
+2909.148936195299
+ 31
+0.0
+  0
+LINE
+  5
+303
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15439.75243861973
+ 20
+2909.148936195299
+ 30
+0.0
+ 11
+15569.08746215701
+ 21
+2867.607028320431
+ 31
+0.0
+  0
+LINE
+  5
+304
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15569.08746215701
+ 20
+2867.607028320431
+ 30
+0.0
+ 11
+15569.08746215701
+ 21
+2683.203028319403
+ 31
+0.0
+  0
+LINE
+  5
+305
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15569.08746215701
+ 20
+2683.203028319403
+ 30
+0.0
+ 11
+15698.42248570919
+ 21
+2641.661120444536
+ 31
+0.0
+  0
+LINE
+  5
+306
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15698.42248570919
+ 20
+2641.661120444536
+ 30
+0.0
+ 11
+15698.42248570919
+ 21
+2457.257120443508
+ 31
+0.0
+  0
+LINE
+  5
+307
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15698.42248570919
+ 20
+2457.257120443508
+ 30
+0.0
+ 11
+15827.75750923156
+ 21
+2415.715212566778
+ 31
+0.0
+  0
+LINE
+  5
+308
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15827.75750923156
+ 20
+2415.715212566778
+ 30
+0.0
+ 11
+15827.75750923156
+ 21
+2231.311212567612
+ 31
+0.0
+  0
+LINE
+  5
+309
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15827.75750923156
+ 20
+2231.311212567612
+ 30
+0.0
+ 11
+15957.09253276884
+ 21
+2189.769304690882
+ 31
+0.0
+  0
+LINE
+  5
+30A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15957.09253276884
+ 20
+2189.769304690882
+ 30
+0.0
+ 11
+15957.09253278374
+ 21
+2130.123043550178
+ 31
+0.0
+  0
+LINE
+  5
+30B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14593.86658482253
+ 20
+3834.00229034014
+ 30
+0.0
+ 11
+14922.41234448552
+ 21
+3997.336567698046
+ 31
+0.0
+  0
+LINE
+  5
+30C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14690.61589227616
+ 20
+3697.696546828374
+ 30
+0.0
+ 11
+14922.41234448552
+ 21
+3812.932567697018
+ 31
+0.0
+  0
+LINE
+  5
+30D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14746.14581543207
+ 20
+3619.462938092649
+ 30
+0.0
+ 11
+15051.7473680228
+ 21
+3771.390659820288
+ 31
+0.0
+  0
+LINE
+  5
+30E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14842.8951228857
+ 20
+3483.157194588333
+ 30
+0.0
+ 11
+15051.7473680228
+ 21
+3586.986659821123
+ 31
+0.0
+  0
+LINE
+  5
+30F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14995.17435349524
+ 20
+3268.617842337116
+ 30
+0.0
+ 11
+15181.08239156007
+ 21
+3361.04075194709
+ 31
+0.0
+  0
+LINE
+  5
+310
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15055.67675580084
+ 20
+3192.856267577037
+ 30
+0.0
+ 11
+15310.41741509735
+ 21
+3319.498844068497
+ 31
+0.0
+  0
+LINE
+  5
+311
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14898.4250460565
+ 20
+3404.923585845157
+ 30
+0.0
+ 11
+15181.08239156007
+ 21
+3545.444751944393
+ 31
+0.0
+  0
+LINE
+  5
+312
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15147.45358413458
+ 20
+3054.078490087762
+ 30
+0.0
+ 11
+15310.41741509735
+ 21
+3135.094844071194
+ 31
+0.0
+  0
+LINE
+  5
+313
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15202.98350730538
+ 20
+2975.844881346449
+ 30
+0.0
+ 11
+15439.75243861973
+ 21
+3093.552936192601
+ 31
+0.0
+  0
+LINE
+  5
+314
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15299.73281475901
+ 20
+2839.539137847721
+ 30
+0.0
+ 11
+15439.75243861973
+ 21
+2909.148936195299
+ 31
+0.0
+  0
+LINE
+  5
+315
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15355.26273792982
+ 20
+2761.305529098958
+ 30
+0.0
+ 11
+15569.08746215701
+ 21
+2867.607028320431
+ 31
+0.0
+  0
+LINE
+  5
+316
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15374.31539626419
+ 20
+2586.373427871615
+ 30
+0.0
+ 11
+15569.08746215701
+ 21
+2683.203028319403
+ 31
+0.0
+  0
+LINE
+  5
+317
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15374.31539624929
+ 20
+2480.533497624099
+ 30
+0.0
+ 11
+15698.42248570919
+ 21
+2641.661120444536
+ 31
+0.0
+  0
+LINE
+  5
+318
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15374.31539624929
+ 20
+2190.289567369967
+ 30
+0.0
+ 11
+15827.75750923156
+ 21
+2415.715212566778
+ 31
+0.0
+  0
+LINE
+  5
+319
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15435.19938348233
+ 20
+2036.153625216335
+ 30
+0.0
+ 11
+15827.75750923156
+ 21
+2231.311212567612
+ 31
+0.0
+  0
+LINE
+  5
+31A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15374.31539623439
+ 20
+2296.129497621208
+ 30
+0.0
+ 11
+15698.42248570919
+ 21
+2457.257120447233
+ 31
+0.0
+  0
+LINE
+  5
+31B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+15702.35187348723
+ 20
+2063.126728199422
+ 30
+0.0
+ 11
+15957.09253276884
+ 21
+2189.769304690882
+ 31
+0.0
+  0
+LINE
+  5
+31C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12637.21750618517
+ 20
+5225.115753274411
+ 30
+0.0
+ 11
+12946.80485732853
+ 21
+5080.497354634106
+ 31
+0.0
+  0
+LINE
+  5
+31D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13226.78724654019
+ 20
+4949.708404019474
+ 30
+0.0
+ 11
+13880.97572472691
+ 21
+4644.115524405613
+ 31
+0.0
+  0
+LINE
+  5
+31E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+14087.24313879013
+ 20
+4547.761254740879
+ 30
+0.0
+ 11
+14793.07732096314
+ 21
+4218.042974079028
+ 31
+0.0
+  0
+ARC
+  5
+31F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+10940.18881426751
+ 20
+4930.141176823527
+ 30
+0.0
+ 40
+252.1795448735378
+100
+AcDbArc
+ 50
+253.0606057890872
+ 51
+315.1385733420876
+  0
+ARC
+  5
+320
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+10927.98890148103
+ 20
+2668.147890875116
+ 30
+0.0
+ 40
+252.612350967771
+100
+AcDbArc
+ 50
+229.499996418066
+ 51
+328.5508565509274
+  0
+ARC
+  5
+321
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+10961.19508384168
+ 20
+422.0441104732453
+ 30
+0.0
+ 40
+205.6254234423046
+100
+AcDbArc
+ 50
+196.3946204609783
+ 51
+332.4435383917183
+  0
+LINE
+  5
+322
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5926.44467715919
+ 20
+-2228.502479605376
+ 30
+0.0
+ 11
+5926.44467715919
+ 21
+2327.105340128764
+ 31
+0.0
+  0
+LINE
+  5
+323
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+7393.550970062614
+ 20
+2944.51221332699
+ 30
+0.0
+ 11
+8059.754841193557
+ 21
+3275.867021994665
+ 31
+0.0
+  0
+LINE
+  5
+324
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4206.559935197234
+ 20
+3384.180478116497
+ 30
+0.0
+ 11
+5327.006970867515
+ 21
+2800.175170769914
+ 31
+0.0
+  0
+LINE
+  5
+325
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5741.386413156987
+ 20
+2584.19013456814
+ 30
+0.0
+ 11
+6084.138881087303
+ 21
+2405.538887342438
+ 31
+0.0
+  0
+LINE
+  5
+326
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4205.401814267039
+ 20
+3224.156368996948
+ 30
+0.0
+ 11
+5327.006970867515
+ 21
+2639.547419734299
+ 31
+0.0
+  0
+LINE
+  5
+327
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5583.692209213972
+ 20
+2505.756587367505
+ 30
+0.0
+ 11
+5926.444677129388
+ 21
+2327.105340149253
+ 31
+0.0
+  0
+LINE
+  5
+328
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4090.520923942327
+ 20
+-1286.518976183608
+ 30
+0.0
+ 11
+4206.559935182332
+ 21
+-1209.359400503337
+ 31
+0.0
+  0
+LINE
+  5
+329
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+5926.44467715919
+ 20
+2327.105340138078
+ 30
+0.0
+ 11
+6111.290740311146
+ 21
+2419.043610896915
+ 31
+0.0
+  0
+LINE
+  5
+32A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12501.44787330925
+ 20
+3078.746882267296
+ 30
+0.0
+ 11
+12501.44787330925
+ 21
+5157.586994163692
+ 31
+0.0
+  0
+LINE
+  5
+32B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12501.44787330925
+ 20
+3078.746882272884
+ 30
+0.0
+ 11
+12390.51733610033
+ 21
+3148.911327034235
+ 31
+0.0
+  0
+LINE
+  5
+32C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4801.332756608725
+ 20
+2713.803307624534
+ 30
+0.0
+ 11
+4206.559935197234
+ 21
+2417.976695099845
+ 31
+0.0
+  0
+LINE
+  5
+32D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+4801.332756608725
+ 20
+2713.803307631984
+ 30
+0.0
+ 11
+4206.559935182332
+ 21
+3023.813931357115
+ 31
+0.0
+  0
+LINE
+  5
+32E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11128.12640878558
+ 20
+2514.01165879704
+ 30
+0.0
+ 11
+11128.12640878558
+ 21
+4474.527812371031
+ 31
+0.0
+  0
+LINE
+  5
+32F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11112.75940875709
+ 20
+2495.889772053808
+ 30
+0.0
+ 11
+11112.75940877199
+ 21
+4466.88461250253
+ 31
+0.0
+  0
+LINE
+  5
+330
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11082.02540875971
+ 20
+2467.933619944378
+ 30
+0.0
+ 11
+11082.02540875971
+ 21
+4451.598212741315
+ 31
+0.0
+  0
+LINE
+  5
+331
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11051.29140874743
+ 20
+2447.672287777066
+ 30
+0.0
+ 11
+11051.29140874743
+ 21
+4436.311812991276
+ 31
+0.0
+  0
+LINE
+  5
+332
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11012.87390877306
+ 20
+2430.224509513005
+ 30
+0.0
+ 11
+11012.87390878796
+ 21
+4417.252619536593
+ 31
+0.0
+  0
+LINE
+  5
+333
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10779.29729154706
+ 20
+2463.932795945555
+ 30
+0.0
+ 11
+10779.29729151725
+ 21
+4556.607811171562
+ 31
+0.0
+  0
+LINE
+  5
+334
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10794.66429153084
+ 20
+2453.584268035367
+ 30
+0.0
+ 11
+10794.66429154575
+ 21
+4547.439636487514
+ 31
+0.0
+  0
+LINE
+  5
+335
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10825.39829152822
+ 20
+2437.305592730641
+ 30
+0.0
+ 11
+10825.39829152822
+ 21
+4529.103287115693
+ 31
+0.0
+  0
+LINE
+  5
+336
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10856.1322915405
+ 20
+2425.971039235592
+ 30
+0.0
+ 11
+10856.1322915405
+ 21
+4510.766937738284
+ 31
+0.0
+  0
+LINE
+  5
+337
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10894.54979152977
+ 20
+2417.758542483672
+ 30
+0.0
+ 11
+10894.54979152977
+ 21
+4487.846501009538
+ 31
+0.0
+  0
+LINE
+  5
+338
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10932.96729154884
+ 20
+2415.584600798785
+ 30
+0.0
+ 11
+10932.96729154884
+ 21
+4464.926064284518
+ 31
+0.0
+  0
+LINE
+  5
+339
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11103.57043212652
+ 20
+4738.044925456867
+ 30
+0.0
+ 11
+11103.57043215632
+ 21
+6746.160502728075
+ 31
+0.0
+  0
+LINE
+  5
+33A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11088.20343215763
+ 20
+4725.969200925901
+ 30
+0.0
+ 11
+11088.20343212783
+ 21
+6738.517302852123
+ 31
+0.0
+  0
+LINE
+  5
+33B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11057.46943211555
+ 20
+4706.89293041639
+ 30
+0.0
+ 11
+11057.46943211555
+ 21
+6723.230903096497
+ 31
+0.0
+  0
+LINE
+  5
+33C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+11026.73543213307
+ 20
+4693.277912924066
+ 30
+0.0
+ 11
+11026.73543213307
+ 21
+6707.944503344595
+ 31
+0.0
+  0
+LINE
+  5
+33D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10988.3179321289
+ 20
+4682.597017401829
+ 30
+0.0
+ 11
+10988.3179321289
+ 21
+6688.836503664032
+ 31
+0.0
+  0
+LINE
+  5
+33E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10754.7413149029
+ 20
+4753.672395214438
+ 30
+0.0
+ 11
+10754.7413149029
+ 21
+6572.660752262921
+ 31
+0.0
+  0
+LINE
+  5
+33F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10770.10831491649
+ 20
+4744.783478148281
+ 30
+0.0
+ 11
+10770.10831491649
+ 21
+6580.303952138871
+ 31
+0.0
+  0
+LINE
+  5
+340
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10800.84231491387
+ 20
+4727.005643993616
+ 30
+0.0
+ 11
+10800.84231491387
+ 21
+6595.590351881459
+ 31
+0.0
+  0
+LINE
+  5
+341
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10831.57631491124
+ 20
+4709.227809837088
+ 30
+0.0
+ 11
+10831.57631489634
+ 21
+6610.876751638949
+ 31
+0.0
+  0
+LINE
+  5
+342
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10869.99381491541
+ 20
+4687.928078668192
+ 30
+0.0
+ 11
+10869.99381491541
+ 21
+6629.984751326964
+ 31
+0.0
+  0
+LINE
+  5
+343
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+10908.41131490469
+ 20
+4679.971807420254
+ 30
+0.0
+ 11
+10908.41131490469
+ 21
+6649.092751022428
+ 31
+0.0
+  0
+LINE
+  5
+344
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13211.4202465713
+ 20
+5751.206426102668
+ 30
+0.0
+ 11
+13211.4202465713
+ 21
+7794.55755088292
+ 31
+0.0
+  0
+LINE
+  5
+345
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13196.05324655771
+ 20
+5734.925051420927
+ 30
+0.0
+ 11
+13196.05324655771
+ 21
+7786.914351005107
+ 31
+0.0
+  0
+LINE
+  5
+346
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13173.00274656713
+ 20
+5716.364026203752
+ 30
+0.0
+ 11
+13173.00274656713
+ 21
+7775.449551191181
+ 31
+0.0
+  0
+LINE
+  5
+347
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13149.95224657654
+ 20
+5702.852415027097
+ 30
+0.0
+ 11
+13149.95224657654
+ 21
+7763.98475138098
+ 31
+0.0
+  0
+LINE
+  5
+348
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12962.97219899296
+ 20
+5712.744755027816
+ 30
+0.0
+ 11
+12962.97219899296
+ 21
+7670.985084813088
+ 31
+0.0
+  0
+LINE
+  5
+349
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12978.33919902146
+ 20
+5703.958328844979
+ 30
+0.0
+ 11
+12978.33919902146
+ 21
+7678.628284689039
+ 31
+0.0
+  0
+LINE
+  5
+34A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13001.38969901204
+ 20
+5694.017828432843
+ 30
+0.0
+ 11
+13001.38969902694
+ 21
+7690.093084510415
+ 31
+0.0
+  0
+LINE
+  5
+34B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13024.44019901752
+ 20
+5687.428633257747
+ 30
+0.0
+ 11
+13024.44019901752
+ 21
+7701.557884320617
+ 31
+0.0
+  0
+LINE
+  5
+34C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13047.490699023
+ 20
+5683.841641541571
+ 30
+0.0
+ 11
+13047.490699023
+ 21
+7713.022684136406
+ 31
+0.0
+  0
+LINE
+  5
+34D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13085.90819899737
+ 20
+5684.13632049039
+ 30
+0.0
+ 11
+13085.90819904208
+ 21
+7732.130683826283
+ 31
+0.0
+  0
+ARC
+  5
+34E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbCircle
+ 10
+13065.2436620444
+ 20
+5873.780943926424
+ 30
+0.0
+ 40
+190.7671520085374
+100
+AcDbArc
+ 50
+231.6213775637097
+ 51
+327.8664139992346
+  0
+LINE
+  5
+34F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13211.4202465713
+ 20
+4311.09370184131
+ 30
+0.0
+ 11
+13211.4202465564
+ 21
+5510.711270533501
+ 31
+0.0
+  0
+LINE
+  5
+350
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13196.05324657261
+ 20
+4303.450501963496
+ 30
+0.0
+ 11
+13196.05324654281
+ 21
+5503.068070655689
+ 31
+0.0
+  0
+LINE
+  5
+351
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13173.00274655222
+ 20
+4291.98570215702
+ 30
+0.0
+ 11
+13173.00274656713
+ 21
+5491.603270860389
+ 31
+0.0
+  0
+LINE
+  5
+352
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13149.95224657654
+ 20
+4280.520902339369
+ 30
+0.0
+ 11
+13149.95224657654
+ 21
+5480.138471040874
+ 31
+0.0
+  0
+LINE
+  5
+353
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12962.97219900786
+ 20
+4187.521235769614
+ 30
+0.0
+ 11
+12962.97219899296
+ 21
+5387.138804461807
+ 31
+0.0
+  0
+LINE
+  5
+354
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12978.33919902146
+ 20
+4195.164435643703
+ 30
+0.0
+ 11
+12978.33919902146
+ 21
+5394.782004345208
+ 31
+0.0
+  0
+LINE
+  5
+355
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13001.38969901204
+ 20
+4206.629235468805
+ 30
+0.0
+ 11
+13001.38969901204
+ 21
+5406.246804170311
+ 31
+0.0
+  0
+LINE
+  5
+356
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13024.44019901752
+ 20
+4218.094035273417
+ 30
+0.0
+ 11
+13024.44019901752
+ 21
+5417.711603971198
+ 31
+0.0
+  0
+LINE
+  5
+357
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13047.490699023
+ 20
+4229.558835087344
+ 30
+0.0
+ 11
+13047.4906989932
+ 21
+5429.176403785124
+ 31
+0.0
+  0
+LINE
+  5
+358
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13085.90819902718
+ 20
+4248.666834779084
+ 30
+0.0
+ 11
+13085.90819902718
+ 21
+5448.284403478727
+ 31
+0.0
+  0
+LINE
+  5
+359
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13212.0033571273
+ 20
+1792.276491945609
+ 30
+0.0
+ 11
+13212.00335715711
+ 21
+3256.764594284817
+ 31
+0.0
+  0
+LINE
+  5
+35A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13196.63635712862
+ 20
+1787.43847968243
+ 30
+0.0
+ 11
+13196.63635712862
+ 21
+3249.121394403278
+ 31
+0.0
+  0
+LINE
+  5
+35B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13173.58585715293
+ 20
+1780.181461310014
+ 30
+0.0
+ 11
+13173.58585715293
+ 21
+3237.656594593078
+ 31
+0.0
+  0
+LINE
+  5
+35C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13150.53535714745
+ 20
+1772.924442926421
+ 30
+0.0
+ 11
+13150.53535714745
+ 21
+3226.191794781014
+ 31
+0.0
+  0
+LINE
+  5
+35D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12963.55530957877
+ 20
+1685.853438459337
+ 30
+0.0
+ 11
+12963.55530959367
+ 21
+3133.192128213122
+ 31
+0.0
+  0
+LINE
+  5
+35E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+12978.92230959236
+ 20
+1702.031758105382
+ 30
+0.0
+ 11
+12978.92230959236
+ 21
+3140.835328096524
+ 31
+0.0
+  0
+LINE
+  5
+35F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13001.97280959785
+ 20
+1726.152306159958
+ 30
+0.0
+ 11
+13001.97280959785
+ 21
+3152.300127912313
+ 31
+0.0
+  0
+LINE
+  5
+360
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13025.02330961823
+ 20
+1733.409324551001
+ 30
+0.0
+ 11
+13025.02330961823
+ 21
+3163.764927722513
+ 31
+0.0
+  0
+LINE
+  5
+361
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13048.07380960881
+ 20
+1740.666342927142
+ 30
+0.0
+ 11
+13048.07380960881
+ 21
+3175.229727530852
+ 31
+0.0
+  0
+LINE
+  5
+362
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+13086.49130958318
+ 20
+1752.761373559013
+ 30
+0.0
+ 11
+13086.49130961299
+ 21
+3194.337727224454
+ 31
+0.0
+  0
+LINE
+  5
+363
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+311.9641759693622
+ 20
+5397.455030465499
+ 30
+0.0
+ 11
+743.7575821578502
+ 21
+5154.746313709765
+ 31
+0.0
+  0
+LINE
+  5
+364
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+332.9561579078435
+ 20
+6510.236339407042
+ 30
+0.0
+ 11
+974.9609386920928
+ 21
+6149.368956374004
+ 31
+0.0
+  0
+LINE
+  5
+365
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+456.5756070762872
+ 20
+6568.901871388778
+ 30
+0.0
+ 11
+974.960938706994
+ 21
+6277.520305974409
+ 31
+0.0
+  0
+LINE
+  5
+366
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 453 Smith House exterior perspective two
+100
+AcDbLine
+ 10
+332.9561579078435
+ 20
+7294.088203394785
+ 30
+0.0
+ 11
+974.960938706994
+ 21
+6933.220820361748
+ 31
+0.0
+  0
+MTEXT
+  5
+367
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net Smith House text
+ 48
+30.0
+100
+AcDbMText
+ 10
+1133.164690837264
+ 20
+12118.4443778228
+ 30
+0.0
+ 40
+600.0
+ 41
+10671.2755087018
+ 71
+     5
+ 72
+     5
+  1
+exterior perspective two
+  7
+ceco.net
+ 73
+     1
+ 44
+1.0
+1001
+ACAD
+1000
+ACAD_MTEXT_DEFINED_HEIGHT_BEGIN
+1070
+    46
+1040
+769.8259443348351
+1000
+ACAD_MTEXT_DEFINED_HEIGHT_END
+  0
+VIEWPORT
+  5
+7A
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbViewport
+ 10
+141.3004632695199
+ 20
+101.5999970436096
+ 30
+0.0
+ 40
+515.5575580077527
+ 41
+228.4221935424804
+ 68
+     2
+ 69
+     1
+ 12
+141.3004632695199
+ 22
+101.5999970436096
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+228.4221935424804
+ 50
+0.0
+ 51
+0.0
+ 72
+   100
+ 90
+    32800
+  1
+
+281
+     0
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+VIEWPORT
+  5
+7C
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbViewport
+ 10
+133.349993944168
+ 20
+101.599993944168
+ 30
+0.0
+ 40
+213.3599903106689
+ 41
+162.5599903106689
+ 68
+     1
+ 69
+     2
+ 12
+6592.986524368367
+ 22
+5255.199214335064
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+15190.55496942933
+ 50
+0.0
+ 51
+0.0
+ 72
+   100
+ 90
+    32864
+  1
+
+281
+     0
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_IMAGE_DICT
+350
+210
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+AcDbVariableDictionary
+350
+5E
+  0
+DICTIONARY
+  5
+B8
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_LAYERFILTERS
+360
+369
+  3
+ACAD_LAYERSTATES
+360
+B9
+  0
+DICTIONARY
+  5
+8F
+330
+8E
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+90
+  0
+DICTIONARY
+  5
+92
+330
+91
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+93
+  0
+DICTIONARY
+  5
+8B
+330
+88
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+210
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+smith house - north-elevation
+350
+211
+  3
+smith house - south-elevation
+350
+212
+  3
+smith house -drawings
+350
+213
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Model
+350
+22
+  3
+www.ceco.net
+350
+56
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+5E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+5F
+  3
+HIDETEXT
+350
+63
+  0
+DICTIONARY
+  5
+369
+102
+{ACAD_REACTORS
+330
+B8
+102
+}
+330
+B8
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+B9
+102
+{ACAD_REACTORS
+330
+B8
+102
+}
+330
+B8
+100
+AcDbDictionary
+281
+     1
+  0
+XRECORD
+  5
+90
+102
+{ACAD_REACTORS
+330
+8F
+102
+}
+330
+8F
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+XRECORD
+  5
+93
+102
+{ACAD_REACTORS
+330
+92
+102
+}
+330
+92
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+IMAGEDEF
+  5
+211
+102
+{ACAD_REACTORS
+330
+210
+102
+}
+330
+210
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house - north-elevation.jpg
+ 10
+1063.0
+ 20
+713.0
+ 11
+0.0009407337723424
+ 21
+0.0009407337723424
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+212
+102
+{ACAD_REACTORS
+330
+210
+102
+}
+330
+210
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house - south-elevation.jpg
+ 10
+1119.0
+ 20
+712.0
+ 11
+0.000893655049151
+ 21
+0.000893655049151
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+213
+102
+{ACAD_REACTORS
+330
+210
+102
+}
+330
+210
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house -drawings.jpg
+ 10
+1400.0
+ 20
+1138.0
+ 11
+0.01
+ 21
+0.01
+280
+     1
+281
+     0
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+19.04999923706054
+ 42
+6.350006103515625
+ 43
+19.04998779296875
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+78.436453180766
+ 70
+ 11952
+ 72
+     0
+ 73
+     1
+ 74
+     0
+  7
+
+ 75
+     0
+147
+0.0127491741332998
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+LAYOUT
+  5
+56
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+Letter_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+6.349999904632568
+ 42
+6.350006103515625
+ 43
+6.350006103515625
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     1
+ 73
+     1
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+www.ceco.net
+ 70
+     1
+ 71
+     1
+ 10
+-6.350006103515625
+ 20
+-6.349999904632568
+ 11
+273.0499877929687
+ 21
+209.5499939918517
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+26.66999878883362
+ 24
+20.31999878883362
+ 34
+0.0
+ 15
+240.0299890995025
+ 25
+182.8799890995025
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+55
+331
+7C
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARYVAR
+  5
+5F
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+63
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF

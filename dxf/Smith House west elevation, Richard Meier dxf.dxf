@@ -1,0 +1,6104 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+    13
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-1.440467978834931
+ 20
+-2497.472706294462
+ 30
+-0.0000000349181948
+  9
+$EXTMAX
+ 10
+23603.14848088033
+ 20
+10498.09408665556
+ 30
+0.0000000814935746
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+ceco.net 445 Smith House west elevation
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     0
+  9
+$DIMTOH
+ 70
+     0
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.03937007874016
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     8
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+10.0
+  9
+$CHAMFERB
+ 40
+10.0
+  9
+$CHAMFERC
+ 40
+20.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2457858.695660799
+  9
+$TDUCREATE
+ 40
+2457858.820660799
+  9
+$TDUPDATE
+ 40
+2458385.862598796
+  9
+$TDUUPDATE
+ 40
+2458385.987598796
+  9
+$TDINDWG
+ 40
+0.0040727546
+  9
+$TDUSRTIMER
+ 40
+0.0040727431
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+1A1
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+26.66999878883362
+ 20
+20.31999878883362
+ 30
+0.0
+  9
+$PEXTMAX
+ 10
+240.0299890995025
+ 20
+182.8799890995025
+ 30
+0.0
+  9
+$PLIMMIN
+ 10
+-6.350006103515625
+ 20
+-6.349999904632568
+  9
+$PLIMMAX
+ 10
+273.0499877929687
+ 20
+209.5499939918517
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{FDEAD578-A652-11D2-9A35-0060089B3A3F}
+  9
+$VERSIONGUID
+  2
+{59364038-4C35-4AE2-A212-57C023F4DCDA}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+AutoCAD 2000
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     4
+  0
+VPORT
+  5
+1A0
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+11800.85395149539
+ 22
+4000.310659924736
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+13090.08984308646
+ 41
+2.25703794369645
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+102
+{ACAD_XDICTIONARY
+360
+B8
+102
+}
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+LAYER
+  5
+8E
+102
+{ACAD_XDICTIONARY
+360
+8F
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net Smith House text
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    15
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+LAYER
+  5
+91
+102
+{ACAD_XDICTIONARY
+360
+92
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+ceco.net 445 Smith House west elevation
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    15
+390
+F
+1001
+AcAecLayerStandard
+1000
+
+1000
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+STYLE
+  5
+94
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+ceco.net
+ 70
+     0
+ 40
+300.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+300.0
+  3
+arial.ttf
+  4
+
+1001
+ACAD
+1000
+Arial
+1071
+       34
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    35
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+96
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+ 70
+     0
+  0
+APPID
+  5
+97
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+98
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+RAK
+ 70
+     0
+  0
+APPID
+  5
+99
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+     0
+  0
+APPID
+  5
+9A
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMARC_LENGTH_SYMBOL
+ 70
+     0
+  0
+APPID
+  5
+9B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMEXT_ENABLED
+ 70
+     0
+  0
+APPID
+  5
+9C
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMEXT_LENGTH
+ 70
+     0
+  0
+APPID
+  5
+9D
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+9E
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_EXT1_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+9F
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIM_EXT2_LINETYPE
+ 70
+     0
+  0
+APPID
+  5
+A0
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockGUID
+ 70
+     0
+  0
+APPID
+  5
+A1
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepETag
+ 70
+     0
+  0
+APPID
+  5
+A2
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AME_SOL
+ 70
+     0
+  0
+APPID
+  5
+A3
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AVE_INVOKE
+ 70
+     0
+  0
+APPID
+  5
+A4
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_PSEXT
+ 70
+     0
+  0
+APPID
+  5
+A5
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAUTHENVIRON
+ 70
+     0
+  0
+APPID
+  5
+A6
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+DCO15
+ 70
+     0
+  0
+APPID
+  5
+A7
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbBlockRepBTag
+ 70
+     0
+  0
+APPID
+  5
+A8
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcDbDynamicBlockTrueName
+ 70
+     0
+  0
+APPID
+  5
+A9
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_NAV_VCDISPLAY
+ 70
+     0
+  0
+APPID
+  5
+AA
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+     0
+  0
+APPID
+  5
+AB
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcCmTransparency
+ 70
+     0
+  0
+APPID
+  5
+AC
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoMonitorAlertIconDisabled
+ 70
+     0
+  0
+APPID
+  5
+AD
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ODA
+ 70
+     0
+  0
+APPID
+  5
+AE
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG
+ 70
+     0
+  0
+APPID
+  5
+AF
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTALN
+ 70
+     0
+  0
+APPID
+  5
+B0
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTEXT_FILL
+ 70
+     0
+  0
+APPID
+  5
+B1
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMBREAK
+ 70
+     0
+  0
+APPID
+  5
+B2
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+REVIT
+ 70
+     0
+  0
+APPID
+  5
+B3
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnoPO
+ 70
+     0
+  0
+APPID
+  5
+B4
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+     0
+  0
+APPID
+  5
+B5
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ADE
+ 70
+     0
+  0
+APPID
+  5
+B6
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor1ACI
+ 70
+     0
+  0
+APPID
+  5
+B7
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+GradientColor2ACI
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.03937007874016
+147
+0.625
+171
+     3
+172
+     1
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+DIMSTYLE
+105
+95
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 41
+0.25
+ 73
+     0
+ 74
+     0
+140
+6.0
+179
+     1
+271
+     0
+272
+     0
+275
+     1
+277
+     4
+340
+11
+342
+88
+1001
+ACAD_DSTYLE_DIMJOGGED_JOGANGLE_SYMBOL
+1070
+   384
+1040
+0.7853981633974483
+1001
+ACAD_DSTYLE_DIMEXT_LENGTH
+1070
+   378
+1040
+0.18
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+55
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+56
+  0
+BLOCK_RECORD
+  5
+88
+102
+{ACAD_XDICTIONARY
+360
+8B
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_Dot
+340
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+57
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+58
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+8C
+330
+88
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_Dot
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_Dot
+  1
+
+  0
+LWPOLYLINE
+  5
+89
+330
+88
+100
+AcDbEntity
+  8
+0
+  6
+ByBlock
+ 62
+     0
+100
+AcDbPolyline
+ 90
+        2
+ 70
+     1
+ 43
+0.5
+ 10
+-0.25
+ 20
+0.0
+ 42
+1.0
+ 10
+0.25
+ 20
+0.0
+ 42
+1.0
+  0
+LINE
+  5
+8A
+330
+88
+100
+AcDbEntity
+  8
+0
+  6
+ByBlock
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-0.5
+ 20
+0.0
+ 30
+0.0
+ 11
+-1.0
+ 21
+0.0
+ 31
+0.0
+  0
+ENDBLK
+  5
+8D
+330
+88
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+12F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+370
+    13
+100
+AcDbLine
+ 10
+10092.23958952724
+ 20
+-273.4088383559137
+ 30
+0.0
+ 11
+10092.23958952724
+ 21
+10497.30091230757
+ 31
+0.0
+  0
+LINE
+  5
+130
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+370
+    13
+100
+AcDbLine
+ 10
+14581.34842507541
+ 20
+10497.30091230757
+ 30
+0.0
+ 11
+14581.34842506051
+ 21
+9043.087426003069
+ 31
+0.0
+  0
+LINE
+  5
+131
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+370
+    13
+100
+AcDbLine
+ 10
+21269.30780835449
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+21269.30780833959
+ 21
+-905.4907999895513
+ 31
+0.0
+  0
+LINE
+  5
+132
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+370
+    13
+100
+AcDbLine
+ 10
+21480.33023296296
+ 20
+-905.041345320642
+ 30
+0.0
+ 11
+21480.33023294806
+ 21
+409.531303634867
+ 31
+0.0
+  0
+LINE
+  5
+133
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+370
+    13
+100
+AcDbLine
+ 10
+10092.23958951234
+ 20
+10497.30091230385
+ 30
+0.0
+ 11
+14581.34842507541
+ 21
+10497.30091230012
+ 31
+0.0
+  0
+LINE
+  5
+134
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19204.82284998893
+ 20
+9043.087426004932
+ 30
+0.0
+ 11
+14581.34842506051
+ 21
+9043.087426004932
+ 31
+0.0
+  0
+LINE
+  5
+135
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19712.82284997403
+ 20
+10106.28604991175
+ 30
+0.0
+ 11
+19712.82284997403
+ 21
+-908.8059425968676
+ 31
+0.0
+  0
+LINE
+  5
+136
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20271.62284986674
+ 20
+10106.28604990988
+ 30
+0.0
+ 11
+20271.62284986674
+ 21
+-907.6157597545535
+ 31
+0.0
+  0
+LINE
+  5
+137
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19712.82284997403
+ 20
+3474.68689019978
+ 30
+0.0
+ 11
+19204.82284997403
+ 21
+3474.686890197917
+ 31
+0.0
+  0
+LINE
+  5
+138
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19712.82284997403
+ 20
+10106.28604990802
+ 30
+0.0
+ 11
+20271.62284988165
+ 21
+10106.28604990988
+ 31
+0.0
+  0
+LINE
+  5
+139
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19312.82284997403
+ 20
+3524.68689019978
+ 30
+0.0
+ 11
+19262.82284997403
+ 21
+3524.68689019978
+ 31
+0.0
+  0
+LINE
+  5
+13A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19362.82284997403
+ 20
+3574.68689019978
+ 30
+0.0
+ 11
+19312.82284997403
+ 21
+3574.686890197917
+ 31
+0.0
+  0
+LINE
+  5
+13B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19412.82284997403
+ 20
+3624.686890199781
+ 30
+0.0
+ 11
+19362.82284997403
+ 21
+3624.686890197917
+ 31
+0.0
+  0
+LINE
+  5
+13C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19362.82284997403
+ 20
+3574.68689019978
+ 30
+0.0
+ 11
+19362.82284997403
+ 21
+3624.686890199781
+ 31
+0.0
+  0
+LINE
+  5
+13D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19312.82284997403
+ 20
+3524.686890197918
+ 30
+0.0
+ 11
+19312.82284997403
+ 21
+3574.686890197917
+ 31
+0.0
+  0
+LINE
+  5
+13E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19262.82284997403
+ 20
+3474.68689019978
+ 30
+0.0
+ 11
+19262.82284997403
+ 21
+3524.686890197918
+ 31
+0.0
+  0
+LINE
+  5
+13F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19462.82284997403
+ 20
+3674.686890201643
+ 30
+0.0
+ 11
+19412.82284997403
+ 21
+3674.686890201643
+ 31
+0.0
+  0
+LINE
+  5
+140
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19512.82284997403
+ 20
+3724.686890201643
+ 30
+0.0
+ 11
+19462.82284997403
+ 21
+3724.68689019978
+ 31
+0.0
+  0
+LINE
+  5
+141
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19562.82284997403
+ 20
+3774.686890201643
+ 30
+0.0
+ 11
+19512.82284997403
+ 21
+3774.68689019978
+ 31
+0.0
+  0
+LINE
+  5
+142
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19512.82284997403
+ 20
+3724.686890201643
+ 30
+0.0
+ 11
+19512.82284997403
+ 21
+3774.686890201643
+ 31
+0.0
+  0
+LINE
+  5
+143
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19462.82284997403
+ 20
+3674.68689019978
+ 30
+0.0
+ 11
+19462.82284997403
+ 21
+3724.68689019978
+ 31
+0.0
+  0
+LINE
+  5
+144
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19412.82284997403
+ 20
+3624.686890201643
+ 30
+0.0
+ 11
+19412.82284997403
+ 21
+3674.68689019978
+ 31
+0.0
+  0
+LINE
+  5
+145
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19612.82284997403
+ 20
+3824.686890203506
+ 30
+0.0
+ 11
+19562.82284997403
+ 21
+3824.686890203506
+ 31
+0.0
+  0
+LINE
+  5
+146
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19662.82284997403
+ 20
+3874.686890203506
+ 30
+0.0
+ 11
+19612.82284997403
+ 21
+3874.686890201643
+ 31
+0.0
+  0
+LINE
+  5
+147
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19712.82284997403
+ 20
+3924.686890203506
+ 30
+0.0
+ 11
+19662.82284997403
+ 21
+3924.686890201643
+ 31
+0.0
+  0
+LINE
+  5
+148
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19662.82284997403
+ 20
+3874.686890203506
+ 30
+0.0
+ 11
+19662.82284997403
+ 21
+3924.686890203506
+ 31
+0.0
+  0
+LINE
+  5
+149
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19612.82284997403
+ 20
+3824.686890201643
+ 30
+0.0
+ 11
+19612.82284997403
+ 21
+3874.686890201643
+ 31
+0.0
+  0
+LINE
+  5
+14A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19562.82284997403
+ 20
+3774.686890203506
+ 30
+0.0
+ 11
+19562.82284997403
+ 21
+3824.686890201643
+ 31
+0.0
+  0
+LINE
+  5
+14B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19204.82284998893
+ 20
+9043.087426004932
+ 30
+0.0
+ 11
+19204.82284995913
+ 21
+-909.8879269976169
+ 31
+0.0
+  0
+LINE
+  5
+14C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+21236.82284997403
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+22710.02284997701
+ 21
+409.5313036367297
+ 31
+0.0
+  0
+LINE
+  5
+14D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+22710.02284997701
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+22710.02284997701
+ 21
+1562.395655339583
+ 31
+0.0
+  0
+LINE
+  5
+14E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+22710.02284997701
+ 20
+1562.395655339583
+ 30
+0.0
+ 11
+21236.7679490447
+ 21
+1562.395655339583
+ 31
+0.0
+  0
+LINE
+  5
+14F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+21236.7679490447
+ 20
+1562.395655339583
+ 30
+0.0
+ 11
+20271.56794893741
+ 21
+2277.924895264208
+ 31
+0.0
+  0
+LINE
+  5
+150
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+22700.02284997701
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+22700.02284997701
+ 21
+1562.395655339583
+ 31
+0.0
+  0
+LINE
+  5
+151
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+22680.02284997701
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+22680.02284997701
+ 21
+1562.395655339583
+ 31
+0.0
+  0
+LINE
+  5
+152
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+22640.02284997701
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+22640.02284997701
+ 21
+1562.395655339583
+ 31
+0.0
+  0
+LINE
+  5
+153
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+22560.02284997701
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+22560.02284997701
+ 21
+1562.395655339583
+ 31
+0.0
+  0
+LINE
+  5
+154
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+22400.02284997701
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+22400.02284997701
+ 21
+1562.395655339583
+ 31
+0.0
+  0
+LINE
+  5
+155
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+22080.02284997701
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+22080.02284997701
+ 21
+1562.395655339583
+ 31
+0.0
+  0
+LINE
+  5
+156
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+21236.7679490447
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+21236.7679490447
+ 21
+1562.395655339583
+ 31
+0.0
+  0
+LINE
+  5
+157
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10092.23958951234
+ 20
+1661.769124092534
+ 30
+0.0
+ 11
+1523.698306962847
+ 21
+1.203904569149017
+ 31
+0.0
+  0
+LINE
+  5
+158
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10092.23958952724
+ 20
+1860.119072245434
+ 30
+0.0
+ 11
+1523.698306977748
+ 21
+199.5538527220487
+ 31
+0.0
+  0
+LINE
+  5
+159
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10092.23958951234
+ 20
+2777.484651528299
+ 30
+0.0
+ 11
+1523.698306962847
+ 21
+1116.919432004913
+ 31
+0.0
+  0
+LINE
+  5
+15A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+1523.698306962847
+ 20
+1116.919432004913
+ 30
+0.0
+ 11
+1523.698306962847
+ 21
+1.203904569149017
+ 31
+0.0
+  0
+LINE
+  5
+15B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10289.42284996807
+ 20
+2740.297826243564
+ 30
+0.0
+ 11
+11051.42284996807
+ 21
+2740.297826243564
+ 31
+0.0
+  0
+LINE
+  5
+15C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11051.42284996807
+ 20
+2740.297826243564
+ 30
+0.0
+ 11
+11051.42284996807
+ 21
+23.90829960443079
+ 31
+0.0
+  0
+LINE
+  5
+15D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11051.42284996807
+ 20
+23.90829960443079
+ 30
+0.0
+ 11
+10289.42284996807
+ 21
+23.90829960443079
+ 31
+0.0
+  0
+LINE
+  5
+15E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10289.42284996807
+ 20
+23.90829960443079
+ 30
+0.0
+ 11
+10289.42284996807
+ 21
+2740.297826243564
+ 31
+0.0
+  0
+LINE
+  5
+15F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10340.22284989059
+ 20
+2689.497826244682
+ 30
+0.0
+ 11
+10340.22284987568
+ 21
+74.70829960331321
+ 31
+0.0
+  0
+LINE
+  5
+160
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11000.62284997105
+ 20
+2689.497826244682
+ 30
+0.0
+ 11
+11000.62284997105
+ 21
+74.70829960331321
+ 31
+0.0
+  0
+LINE
+  5
+161
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10289.42284996807
+ 20
+5642.891529085114
+ 30
+0.0
+ 11
+11051.42284996807
+ 21
+5642.891529085114
+ 31
+0.0
+  0
+LINE
+  5
+162
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11051.42284996807
+ 20
+5642.891529085114
+ 30
+0.0
+ 11
+11051.42284996807
+ 21
+2926.920013636351
+ 31
+0.0
+  0
+LINE
+  5
+163
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11051.42284996807
+ 20
+2926.920013636351
+ 30
+0.0
+ 11
+10289.42284996807
+ 21
+2926.920013636351
+ 31
+0.0
+  0
+LINE
+  5
+164
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10289.42284996807
+ 20
+2926.920013636351
+ 30
+0.0
+ 11
+10289.42284996807
+ 21
+5642.891529085114
+ 31
+0.0
+  0
+LINE
+  5
+165
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11000.62284997105
+ 20
+5592.09152908437
+ 30
+0.0
+ 11
+11000.62284997105
+ 21
+2977.720013635233
+ 31
+0.0
+  0
+LINE
+  5
+166
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10340.22284989059
+ 20
+5592.09152908437
+ 30
+0.0
+ 11
+10340.22284987568
+ 21
+2977.720013635233
+ 31
+0.0
+  0
+LINE
+  5
+167
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10289.42284996807
+ 20
+6917.076958358288
+ 30
+0.0
+ 11
+10289.42284996807
+ 21
+8356.926609719172
+ 31
+0.0
+  0
+LINE
+  5
+168
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10340.22284987568
+ 20
+8306.126609718427
+ 30
+0.0
+ 11
+10340.22284987568
+ 21
+6967.876958359032
+ 31
+0.0
+  0
+LINE
+  5
+169
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11729.27250133454
+ 20
+8356.926609719172
+ 30
+0.0
+ 11
+10289.42284996807
+ 21
+8356.926609719172
+ 31
+0.0
+  0
+LINE
+  5
+16A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11729.27250133454
+ 20
+6917.076958358288
+ 30
+0.0
+ 11
+10289.42284996807
+ 21
+6917.076958358288
+ 31
+0.0
+  0
+LINE
+  5
+16B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11729.27250133454
+ 20
+6917.076958358288
+ 30
+0.0
+ 11
+11729.27250133454
+ 21
+8356.926609719172
+ 31
+0.0
+  0
+LINE
+  5
+16C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11678.47250142693
+ 20
+8306.126609718427
+ 30
+0.0
+ 11
+11678.47250141203
+ 21
+6967.876958360895
+ 31
+0.0
+  0
+LINE
+  5
+16D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11678.47250141203
+ 20
+8306.126609718427
+ 30
+0.0
+ 11
+10340.22284987568
+ 21
+8306.126609718427
+ 31
+0.0
+  0
+LINE
+  5
+16E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11678.47250141203
+ 20
+6967.876958360895
+ 30
+0.0
+ 11
+10340.22284987568
+ 21
+6967.876958360895
+ 31
+0.0
+  0
+LINE
+  5
+16F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10340.22284987568
+ 20
+5592.091529082507
+ 30
+0.0
+ 11
+11000.62284997105
+ 21
+5592.091529082507
+ 31
+0.0
+  0
+LINE
+  5
+170
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11000.62284997105
+ 20
+2977.720013635233
+ 30
+0.0
+ 11
+10340.22284987568
+ 21
+2977.720013635233
+ 31
+0.0
+  0
+LINE
+  5
+171
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+10340.22284987568
+ 20
+2689.497826242819
+ 30
+0.0
+ 11
+11000.62284997105
+ 21
+2689.497826244682
+ 31
+0.0
+  0
+LINE
+  5
+172
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11000.62284997105
+ 20
+74.70829960517585
+ 30
+0.0
+ 11
+10340.22284987568
+ 21
+74.70829960331321
+ 31
+0.0
+  0
+LINE
+  5
+173
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15648.82284997403
+ 20
+-917.461817799136
+ 30
+0.0
+ 11
+15648.82284998893
+ 21
+7161.385498533025
+ 31
+0.0
+  0
+LINE
+  5
+174
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15648.82284997403
+ 20
+5478.052818458527
+ 30
+0.0
+ 11
+14709.02284996211
+ 21
+5478.052818458527
+ 31
+0.0
+  0
+LINE
+  5
+175
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+14709.02284996211
+ 20
+5478.052818458527
+ 30
+0.0
+ 11
+14709.02284996211
+ 21
+7161.385498533025
+ 31
+0.0
+  0
+LINE
+  5
+176
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+14709.02284996211
+ 20
+7161.385498533025
+ 30
+0.0
+ 11
+18900.02284997701
+ 21
+7161.385498534888
+ 31
+0.0
+  0
+LINE
+  5
+177
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+18900.02284996211
+ 20
+5478.052818458527
+ 30
+0.0
+ 11
+19204.82284998893
+ 21
+5478.052818458527
+ 31
+0.0
+  0
+LINE
+  5
+178
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+18900.02284997701
+ 20
+7161.385498536751
+ 30
+0.0
+ 11
+18900.02284996211
+ 21
+-910.5371176358312
+ 31
+0.0
+  0
+LINE
+  5
+179
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+19001.62284986674
+ 20
+5478.052818458527
+ 30
+0.0
+ 11
+19001.62284988164
+ 21
+-910.3207207564265
+ 31
+0.0
+  0
+LINE
+  5
+17A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15648.82284997403
+ 20
+4498.680089874193
+ 30
+0.0
+ 11
+18900.02284996211
+ 21
+4498.680089874193
+ 31
+0.0
+  0
+LINE
+  5
+17B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15648.82284997403
+ 20
+4681.799715416506
+ 30
+0.0
+ 11
+18900.02284996211
+ 21
+4681.799715416506
+ 31
+0.0
+  0
+LINE
+  5
+17C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+14807.54485754668
+ 20
+5478.05281846039
+ 30
+0.0
+ 11
+14807.54485754668
+ 21
+6681.799715418368
+ 31
+0.0
+  0
+LINE
+  5
+17D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15698.92284998297
+ 20
+7111.285498529672
+ 30
+0.0
+ 11
+18849.92284998297
+ 21
+7111.285498535261
+ 31
+0.0
+  0
+LINE
+  5
+17E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15698.92284996807
+ 20
+-846.3913907557726
+ 30
+0.0
+ 11
+15698.92284999787
+ 21
+4448.580089872702
+ 31
+0.0
+  0
+LINE
+  5
+17F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+18849.92284998297
+ 20
+7111.285498535261
+ 30
+0.0
+ 11
+18849.92284999787
+ 21
+4731.899715416133
+ 31
+0.0
+  0
+LINE
+  5
+180
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15698.92284998297
+ 20
+4731.899715414271
+ 30
+0.0
+ 11
+18849.92284998297
+ 21
+4731.899715414271
+ 31
+0.0
+  0
+LINE
+  5
+181
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15698.92284998297
+ 20
+4731.899715416133
+ 30
+0.0
+ 11
+15698.92284998297
+ 21
+7111.285498529672
+ 31
+0.0
+  0
+LINE
+  5
+182
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15698.92284999787
+ 20
+4448.580089872702
+ 30
+0.0
+ 11
+18849.92284999787
+ 21
+4448.580089878291
+ 31
+0.0
+  0
+LINE
+  5
+183
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+18849.92284999787
+ 20
+4448.580089872702
+ 30
+0.0
+ 11
+18849.92284996807
+ 21
+-846.3913907557726
+ 31
+0.0
+  0
+LINE
+  5
+184
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15698.92284996807
+ 20
+-846.3913907557726
+ 30
+0.0
+ 11
+18849.92284996807
+ 21
+-846.3913907557726
+ 31
+0.0
+  0
+LINE
+  5
+185
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+4672.75624614954
+ 20
+0.0
+ 30
+0.0
+ 11
+9497.848227247596
+ 21
+-273.4088383559137
+ 31
+0.0
+  0
+LINE
+  5
+186
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+9497.848227247596
+ 20
+-273.4088383559137
+ 30
+0.0
+ 11
+11404.405803442
+ 21
+-273.4088383559137
+ 31
+0.0
+  0
+LINE
+  5
+187
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+11404.405803442
+ 20
+-273.4088383559137
+ 30
+0.0
+ 11
+13573.49423195421
+ 21
+-921.8820406123995
+ 31
+0.0
+  0
+LINE
+  5
+188
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+13573.49423195421
+ 20
+-921.8820406123995
+ 30
+0.0
+ 11
+23601.70779308676
+ 21
+-900.5230432972311
+ 31
+0.0
+  0
+LINE
+  5
+189
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 11
+4672.75624614954
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+18A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+21236.82284997403
+ 20
+409.5313036367297
+ 30
+0.0
+ 11
+20271.62284986674
+ 21
+-217.1928309779614
+ 31
+0.0
+  0
+LINE
+  5
+18B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+21236.7679490447
+ 20
+1562.395655339583
+ 30
+0.0
+ 11
+20271.62284985184
+ 21
+935.7071690205485
+ 31
+0.0
+  0
+LINE
+  5
+18C
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20407.72992892563
+ 20
+1024.084283955395
+ 30
+0.0
+ 11
+20271.56794893741
+ 21
+1125.024895269423
+ 31
+0.0
+  0
+LINE
+  5
+18D
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+21118.43125455081
+ 20
+1485.557215191423
+ 30
+0.0
+ 11
+20271.56794893741
+ 21
+2113.360216978937
+ 31
+0.0
+  0
+LINE
+  5
+18E
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+21087.0547453016
+ 20
+1465.183804895728
+ 30
+0.0
+ 11
+20271.62284986674
+ 21
+2069.68584000878
+ 31
+0.0
+  0
+LINE
+  5
+18F
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20338.3538287729
+ 20
+2020.216334609314
+ 30
+0.0
+ 11
+20338.3538287729
+ 21
+1214.026333414018
+ 31
+0.0
+  0
+LINE
+  5
+190
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20357.19181534648
+ 20
+2006.251218350604
+ 30
+0.0
+ 11
+20357.19181534648
+ 21
+1214.026333414018
+ 31
+0.0
+  0
+ARC
+  5
+191
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbCircle
+ 10
+20347.77282205224
+ 20
+1214.026333414018
+ 30
+0.0
+ 40
+9.418993294239044
+100
+AcDbArc
+ 50
+180.0
+ 51
+0.0
+  0
+LINE
+  5
+192
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20398.62284986674
+ 20
+1089.142374329268
+ 30
+0.0
+ 11
+20507.92404204607
+ 21
+1089.142374332994
+ 31
+0.0
+  0
+LINE
+  5
+193
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20271.62284986674
+ 20
+1271.576742097735
+ 30
+0.0
+ 11
+20338.3538287729
+ 21
+1271.57674210146
+ 31
+0.0
+  0
+LINE
+  5
+194
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20398.62284988164
+ 20
+1271.576742099598
+ 30
+0.0
+ 11
+20398.62284986674
+ 21
+1089.142374329268
+ 31
+0.0
+  0
+LINE
+  5
+195
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20357.19181534648
+ 20
+1271.576742097735
+ 30
+0.0
+ 11
+20398.62284988164
+ 21
+1271.576742099598
+ 31
+0.0
+  0
+ARC
+  5
+196
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbCircle
+ 10
+20347.77282205224
+ 20
+1214.026333414018
+ 30
+0.0
+ 40
+17.0166518241167
+100
+AcDbArc
+ 50
+123.6085786211371
+ 51
+56.39142137886288
+  0
+LINE
+  5
+197
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20835.45099015533
+ 20
+1651.704571226611
+ 30
+0.0
+ 11
+20835.45099015533
+ 21
+1301.812331952154
+ 31
+0.0
+  0
+LINE
+  5
+198
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+20854.28897672891
+ 20
+1637.739454967901
+ 30
+0.0
+ 11
+20854.28897671401
+ 21
+1314.044222582131
+ 31
+0.0
+  0
+LINE
+  5
+199
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+14807.54485753178
+ 20
+6681.799715420232
+ 30
+0.0
+ 11
+15448.00084239244
+ 21
+6681.799715416506
+ 31
+0.0
+  0
+LINE
+  5
+19A
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net 445 Smith House west elevation
+ 48
+30.0
+100
+AcDbLine
+ 10
+15448.00084240734
+ 20
+5478.05281846039
+ 30
+0.0
+ 11
+15448.00084240734
+ 21
+6681.799715418368
+ 31
+0.0
+  0
+MTEXT
+  5
+19B
+330
+1F
+100
+AcDbEntity
+  8
+ceco.net Smith House text
+ 48
+30.0
+100
+AcDbMText
+ 10
+14917.18673026561
+ 20
+-2102.750594303012
+ 30
+0.0
+ 40
+500.0
+ 41
+7376.113407328725
+ 71
+     5
+ 72
+     5
+  1
+west elevation
+  7
+ceco.net
+ 73
+     1
+ 44
+1.0
+  0
+VIEWPORT
+  5
+7A
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbViewport
+ 10
+141.3004632695199
+ 20
+101.5999970436096
+ 30
+0.0
+ 40
+515.5575580077527
+ 41
+228.4221935424804
+ 68
+     2
+ 69
+     1
+ 12
+141.3004632695199
+ 22
+101.5999970436096
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+228.4221935424804
+ 50
+0.0
+ 51
+0.0
+ 72
+   100
+ 90
+    32800
+  1
+
+281
+     0
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+VIEWPORT
+  5
+7C
+330
+55
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbViewport
+ 10
+133.349993944168
+ 20
+101.599993944168
+ 30
+0.0
+ 40
+213.3599903106689
+ 41
+162.5599903106689
+ 68
+     1
+ 69
+     2
+ 12
+11800.85400645074
+ 22
+4000.310690180554
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 45
+18126.19781322964
+ 50
+0.0
+ 51
+0.0
+ 72
+   100
+ 90
+    32864
+  1
+
+281
+     0
+ 71
+     1
+ 74
+     0
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_IMAGE_DICT
+350
+12A
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+AcDbVariableDictionary
+350
+5E
+  0
+DICTIONARY
+  5
+B8
+330
+2
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_LAYERFILTERS
+360
+19D
+  3
+ACAD_LAYERSTATES
+360
+B9
+  0
+DICTIONARY
+  5
+8F
+330
+8E
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+90
+  0
+DICTIONARY
+  5
+92
+330
+91
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+93
+  0
+DICTIONARY
+  5
+8B
+330
+88
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+12A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+smith house - north-elevation
+350
+12B
+  3
+smith house - south-elevation
+350
+12C
+  3
+smith house -drawings
+350
+12D
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Model
+350
+22
+  3
+www.ceco.net
+350
+56
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+5E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMASSOC
+350
+5F
+  3
+HIDETEXT
+350
+63
+  0
+DICTIONARY
+  5
+19D
+102
+{ACAD_REACTORS
+330
+B8
+102
+}
+330
+B8
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  0
+DICTIONARY
+  5
+B9
+102
+{ACAD_REACTORS
+330
+B8
+102
+}
+330
+B8
+100
+AcDbDictionary
+281
+     1
+  0
+XRECORD
+  5
+90
+102
+{ACAD_REACTORS
+330
+8F
+102
+}
+330
+8F
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+XRECORD
+  5
+93
+102
+{ACAD_REACTORS
+330
+92
+102
+}
+330
+92
+100
+AcDbXrecord
+280
+     1
+102
+MATERIAL
+340
+0
+  0
+IMAGEDEF
+  5
+12B
+102
+{ACAD_REACTORS
+330
+12A
+102
+}
+330
+12A
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house - north-elevation.jpg
+ 10
+1063.0
+ 20
+713.0
+ 11
+0.0009407337723424
+ 21
+0.0009407337723424
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+12C
+102
+{ACAD_REACTORS
+330
+12A
+102
+}
+330
+12A
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house - south-elevation.jpg
+ 10
+1119.0
+ 20
+712.0
+ 11
+0.000893655049151
+ 21
+0.000893655049151
+280
+     1
+281
+     0
+  0
+IMAGEDEF
+  5
+12D
+102
+{ACAD_REACTORS
+330
+12A
+102
+}
+330
+12A
+100
+AcDbRasterImageDef
+ 90
+        0
+  1
+C:\Users\peter\Desktop\Workbench Ceco.NET 2018\smith house -drawings.jpg
+ 10
+1400.0
+ 20
+1138.0
+ 11
+0.01
+ 21
+0.01
+280
+     1
+281
+     0
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+19.04999923706054
+ 42
+6.350006103515625
+ 43
+19.04998779296875
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+78.436453180766
+ 70
+ 11952
+ 72
+     0
+ 73
+     1
+ 74
+     0
+  7
+
+ 75
+     0
+147
+0.0127491741332998
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+  0
+LAYOUT
+  5
+56
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+Letter_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.349999904632568
+ 41
+6.349999904632568
+ 42
+6.350006103515625
+ 43
+6.350006103515625
+ 44
+215.8999938964843
+ 45
+279.3999938964843
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     1
+ 73
+     1
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+www.ceco.net
+ 70
+     1
+ 71
+     1
+ 10
+-6.350006103515625
+ 20
+-6.349999904632568
+ 11
+273.0499877929687
+ 21
+209.5499939918517
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+26.66999878883362
+ 24
+20.31999878883362
+ 34
+0.0
+ 15
+240.0299890995025
+ 25
+182.8799890995025
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+55
+331
+7C
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARYVAR
+  5
+5F
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+63
+102
+{ACAD_REACTORS
+330
+5E
+102
+}
+330
+5E
+100
+DictionaryVariables
+280
+     0
+  1
+1
+  0
+ENDSEC
+  0
+EOF
